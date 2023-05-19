@@ -1,12 +1,10 @@
 # Awesome-Visual-Instruction-Tuning
 
-<font size=6><center><big><b> Awesome Visual-Instruction-Tuning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) </b></big></center></font>
+<font size=6><center><big><b> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) </b></big></center></font>
 
-<p align="center">
 🔥🔥🔥 A curated list of <b>Visual Instruction Tuning</b>. 
-</p>
 
-[Contributions](https://github.com/BradyFU/Awesome-Visual-Instruction-Tuning/pulls) are welcome!
+Please feel free to [pull requests](https://github.com/BradyFU/Awesome-Visual-Instruction-Tuning/pulls) or [open an issue](https://github.com/BradyFU/Awesome-Visual-Instruction-Tuning/issues) to add papers.
 
 ---
 
