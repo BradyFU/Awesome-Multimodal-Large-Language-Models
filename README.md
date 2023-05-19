@@ -31,7 +31,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [Evaluating Object Hallucination in Large Vision-Language Models](https://arxiv.org/pdf/2305.10355.pdf) | arXiv | 2023-05-17 | [Github](https://github.com/RUCAIBox/POPE) | - |
 | [MultiModal-GPT: A Vision and Language Model for Dialogue with Humans](https://arxiv.org/pdf/2305.04790.pdf) | arXiv | 2023-05-08 | [Github](https://github.com/open-mmlab/Multimodal-GPT) | [Demo](https://mmgpt.openmmlab.org.cn/) |
-| [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/pdf/2204.14198.pdf) | NIPS | 2023-04-29 | (Open-source version)[Github](https://github.com/mlfoundations/open_flamingo) | [Demo](https://huggingface.co/spaces/dhansmair/flamingo-mini-cap) | 
+| [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/pdf/2204.14198.pdf) | NeurIPS | 2023-04-29 | (Open-source version)[Github](https://github.com/mlfoundations/open_flamingo) | [Demo](https://huggingface.co/spaces/dhansmair/flamingo-mini-cap) | 
 | [MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/pdf/2304.10592.pdf) | arXiv | 2023-04-20 | [Github](https://github.com/Vision-CAIR/MiniGPT-4) | [Demo](https://minigpt-4.github.io/) |
 | [GPT-4 Technical Report](https://arxiv.org/pdf/2303.08774.pdf) | arXiv | 2023-03-15 | - | - |
 | [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/pdf/2303.03378.pdf) | arXiv | 2023-03-06 | - | [Demo](https://palm-e.github.io/#demo) | 
