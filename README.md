@@ -33,8 +33,8 @@
 | [MultiModal-GPT: A Vision and Language Model for Dialogue with Humans](https://arxiv.org/pdf/2305.04790.pdf) | arXiv | 2023-05-08 | [Github](https://github.com/open-mmlab/Multimodal-GPT) | [Demo](https://mmgpt.openmmlab.org.cn/) |
 | [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/pdf/2204.14198.pdf) | NIPS | 2023-04-29 | (Open-source version)[Github](https://github.com/mlfoundations/open_flamingo) | [Demo](https://huggingface.co/spaces/dhansmair/flamingo-mini-cap) | 
 | [MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/pdf/2304.10592.pdf) | arXiv | 2023-04-20 | [Github](https://github.com/Vision-CAIR/MiniGPT-4) | [Demo](https://minigpt-4.github.io/) |
-| [GPT-4 Technical Report](https://arxiv.org/pdf/2303.08774.pdf) | arXiv | 2023-03-15 | Closed source | None |
-| [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/pdf/2303.03378.pdf) | arXiv | 2023-03-06 | None | [Demo](https://palm-e.github.io/#demo) | 
+| [GPT-4 Technical Report](https://arxiv.org/pdf/2303.08774.pdf) | arXiv | 2023-03-15 | - | - |
+| [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/pdf/2303.03378.pdf) | arXiv | 2023-03-06 | - | [Demo](https://palm-e.github.io/#demo) | 
 | [Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/pdf/2302.14045.pdf) | arXiv | 2023-02-27 | [Github](https://github.com/microsoft/unilm) | None |
 | [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597.pdf) | arXiv | 2023-01-30 | [Github](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salesforce/LAVIS/blob/main/examples/blip2_instructed_generation.ipynb) | 
 
