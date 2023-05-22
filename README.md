@@ -8,6 +8,15 @@ Please feel free to [pull requests](https://github.com/BradyFU/Awesome-Visual-In
 
 ---
 
+<font size=5><center><b> Table of Contents </b> </center></font>
+
+- [Awesome Datasets](#awesome-datasets)
+- [Awesome Papers](#awesome-papers)
+  - [Instruction Tuning](#instruction-tuning)
+  - [References](#references)
+
+---
+
 # Awesome Datasets
 
 | Name | Paper | Link | Notes |
