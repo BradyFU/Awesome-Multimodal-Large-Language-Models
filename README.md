@@ -13,6 +13,7 @@ Please feel free to [pull requests](https://github.com/BradyFU/Awesome-Visual-In
 - [Awesome Datasets](#awesome-datasets)
 - [Awesome Papers](#awesome-papers)
   - [Instruction Tuning](#instruction-tuning)
+  - [Program-based Models](#program-based-models)
   - [References](#references)
 
 ---
@@ -48,6 +49,7 @@ Please feel free to [pull requests](https://github.com/BradyFU/Awesome-Visual-In
 | ![Star](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4.svg?style=social&label=Star) <br> [**MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models**](https://arxiv.org/pdf/2304.10592.pdf) <br> | arXiv | 2023-04-20 | [Github](https://github.com/Vision-CAIR/MiniGPT-4) | [Demo](https://minigpt-4.github.io/) |
 | ![Star](https://img.shields.io/github/stars/haotian-liu/LLaVA.svg?style=social&label=Star) <br> [**Visual Instruction Tuning**](https://arxiv.org/pdf/2304.08485.pdf) <br> | arXiv | 2023-04-17 | [GitHub](https://github.com/haotian-liu/LLaVA) | [Demo](https://llava.hliu.cc/) |
 
+## Program-based Models
 
 ## References
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
