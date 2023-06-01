@@ -2,7 +2,7 @@
 
 <font size=6><center><big><b> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) </b></big></center></font>
 
-🔥🔥🔥 A curated list of <b>Multimodal Large Language Models</b>, including <b>datasets</b>, <b>multimodal instruction tuning</b>, <b>multimodal in-context learning</b>, <b>multimodal chain-of-thought</b>, and <b>LLM-Controlled models</b>. 
+🔥🔥🔥 A curated list of <b>Multimodal Large Language Models</b>, including <b>datasets</b>, <b>multimodal instruction tuning</b>, <b>multimodal in-context learning</b>, <b>multimodal chain-of-thought</b>, <b>LLM-Aided Visual Reasoning</b>, <b>Fundation Models</b>, and <b>Others</b>. 
 
 🔥🔥🔥 This list will be updated in real time.
 
@@ -19,7 +19,7 @@ Please feel free to [pull requests](https://github.com/BradyFU/Awesome-Visual-In
   - [Multimodal Instruction Tuning](#multimodal-instruction-tuning)
   - [Multimodal In-Context Learning](#multimodal-in-context-learning)
   - [Multimodal Chain-of-Thought](#multimodal-chain-of-thought)
-  - [GPT-Aided Visual Reasoning](#gpt-aided-visual-reasoning)
+  - [LLM-Aided Visual Reasoning](#llm-aided-visual-reasoning)
   - [Fundation Models](#fundation-models)
   - [Others](#others)
 
@@ -91,7 +91,7 @@ Please feel free to [pull requests](https://github.com/BradyFU/Awesome-Visual-In
 | ![Star](https://img.shields.io/github/stars/lupantech/ScienceQA.svg?style=social&label=Star) <br> [**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**](https://proceedings.neurips.cc/paper_files/paper/2022/file/11332b6b6cf4485b84afadb1352d3a9a-Paper-Conference.pdf) <br> | NeurIPS | 2022-09-20 | [Github](https://github.com/lupantech/ScienceQA) | - |
 
 
-## GPT-Aided Visual Reasoning
+## LLM-Aided Visual Reasoning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/StevenGrove/GPT4Tools.svg?style=social&label=Star) <br> [**GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction**](https://arxiv.org/pdf/2305.18752.pdf) <br> | arXiv | 2023-05-30 | [Github](https://github.com/StevenGrove/GPT4Tools) | [Demo](https://c60eb7e9400930f31b.gradio.live/) | 
