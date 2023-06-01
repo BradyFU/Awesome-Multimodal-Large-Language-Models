@@ -19,7 +19,7 @@ Please feel free to [pull requests](https://github.com/BradyFU/Awesome-Visual-In
   - [Multimodal Instruction Tuning](#multimodal-instruction-tuning)
   - [Multimodal In-Context Learning](#multimodal-in-context-learning)
   - [Multimodal Chain-of-Thought](#multimodal-chain-of-thought)
-  - [GPT-Aided Visual Reasoning](#gpt-aided visual reasoning)
+  - [GPT-Aided Visual Reasoning](#gpt-aided-visual-reasoning)
   - [Others](#others)
 
 ---
