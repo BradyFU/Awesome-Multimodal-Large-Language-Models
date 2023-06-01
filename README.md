@@ -14,6 +14,7 @@ Please feel free to [pull requests](https://github.com/BradyFU/Awesome-Visual-In
 
 - [Awesome Datasets](#awesome-datasets)
   - [Datasets of Multimodal Instruction Tuning](#datasets-of-multimodal-instruction-tuning)
+  - [Datasets of Multimodal Chain-of-Thought](#datasets-of-multimodal-chain-of-thought)
 - [Awesome Papers](#awesome-papers)
   - [Multimodal Instruction Tuning](#multimodal-instruction-tuning)
   - [Multimodal In-Context Learning](#multimodal-in-context-learning)
