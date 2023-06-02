@@ -20,7 +20,7 @@ Please feel free to [pull requests](https://github.com/BradyFU/Awesome-Visual-In
   - [Multimodal In-Context Learning](#multimodal-in-context-learning)
   - [Multimodal Chain-of-Thought](#multimodal-chain-of-thought)
   - [LLM-Aided Visual Reasoning](#llm-aided-visual-reasoning)
-  - [Fundation Models](#fundation-models)
+  - [Foundation Models](#foundation-models)
   - [Others](#others)
 
 ---
@@ -109,7 +109,7 @@ Please feel free to [pull requests](https://github.com/BradyFU/Awesome-Visual-In
 | ![Star](https://img.shields.io/github/stars/google-research/google-research.svg?style=social&label=Star) <br> [**Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**](https://arxiv.org/pdf/2204.00598.pdf) <br> | arXiv | 2022-04-01 | [Github](https://github.com/google-research/google-research/tree/master/socraticmodels) | - |
 
 
-## Fundation Models
+## Foundation Models
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/VPGTrans/VPGTrans.svg?style=social&label=Star) <br> [**Transfer Visual Prompt Generator across LLMs**](https://arxiv.org/pdf/2305.01278.pdf) <br> | arXiv | 2023-05-02 | [Github](https://github.com/VPGTrans/VPGTrans) | [Demo](https://3fc7715dbc44234a7f.gradio.live/) | 
