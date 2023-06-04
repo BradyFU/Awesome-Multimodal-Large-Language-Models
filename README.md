@@ -2,7 +2,7 @@
 
 <font size=6><center><big><b> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) </b></big></center></font>
 
-🔥🔥🔥 A curated list of <b>Multimodal Large Language Models</b>, including <b>datasets</b>, <b>multimodal instruction tuning</b>, <b>multimodal in-context learning</b>, <b>multimodal chain-of-thought</b>, <b>llm-aided visual reasoning</b>, <b>fundation models</b>, and <b>others</b>. 
+🔥🔥🔥 A curated list of <b>Multimodal Large Language Models (MLLM)</b>, including <b>datasets</b>, <b>multimodal instruction tuning</b>, <b>multimodal in-context learning</b>, <b>multimodal chain-of-thought</b>, <b>llm-aided visual reasoning</b>, <b>fundation models</b>, and <b>others</b>. 
 
 🔥🔥🔥 This list will be updated in real time.
 
