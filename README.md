@@ -6,6 +6,8 @@
 
 🔥🔥🔥 This list will be updated in real time.
 
+🔥🔥🔥 A survey paper on MLLM is preparing and will be release soon.
+
 Please feel free to [pull requests](https://github.com/BradyFU/Awesome-Visual-Instruction-Tuning/pulls) or [open an issue](https://github.com/BradyFU/Awesome-Visual-Instruction-Tuning/issues) to add papers.
 
 ---
