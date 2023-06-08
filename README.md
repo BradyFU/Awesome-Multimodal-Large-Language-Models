@@ -8,8 +8,6 @@
 
 🔥🔥🔥 A survey paper on MLLM is preparing and will be released soon.
 
-Please feel free to [pull requests](https://github.com/BradyFU/Awesome-Visual-Instruction-Tuning/pulls) or [open an issue](https://github.com/BradyFU/Awesome-Visual-Instruction-Tuning/issues) to add papers.
-
 Welcome to join our WeChat group of MLLM communication!
 
 <p align="center">
