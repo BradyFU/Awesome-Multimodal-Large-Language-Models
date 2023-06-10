@@ -6,7 +6,7 @@
 
 🔥🔥🔥 This list will be updated in real time.
 
-🔥🔥🔥 A survey paper on MLLM is preparing and will be released soon.
+🔥🔥🔥 A survey paper on MLLM is preparing and will be released soon!
 
 Welcome to join our WeChat group of MLLM communication!
 
