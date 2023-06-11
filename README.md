@@ -11,7 +11,7 @@
 Welcome to join our WeChat group of MLLM communication!
 
 <p align="center">
-  <img src="https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/blob/main/assets/QRcode.jpg" width="30%" alt="Expected to expire in 6.12" />
+  <img src="https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/blob/main/assets/QRcode.png" width="30%" alt="Expected to expire in 6.12" />
 </p>
 
 ---
