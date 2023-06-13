@@ -32,7 +32,7 @@ If the code is not available, please add my wechat to join the group: xjtupanda
   - [Datasets of Multimodal Instruction Tuning](#datasets-of-multimodal-instruction-tuning)
   - [Datasets of In-Context Learning](#datasets-of-in-context-learning)
   - [Datasets of Multimodal Chain-of-Thought](#datasets-of-multimodal-chain-of-thought)
-  - [Others](#others)
+  - [Others](#others-1)
 ---
 
 # Awesome Papers
