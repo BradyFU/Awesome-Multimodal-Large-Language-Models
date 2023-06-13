@@ -14,7 +14,7 @@ Welcome to join our WeChat group of MLLM communication!
   <img src="https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/blob/main/assets/QRcode.png" width="30%" alt="Expected to expire in 6.12" />
 </p>
 
-If the code is not available, please add my wechat to join the group: xjtupanda
+If the above code is not available, please add wechat ID (xjtupanda) to join the group.
 
 ---
 
