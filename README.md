@@ -1,6 +1,5 @@
 # Awesome-Multimodal-Large-Language-Models
 
-<font size=6><center><big><b> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) </b></big></center></font>
 
 # Our MLLM Works
 
