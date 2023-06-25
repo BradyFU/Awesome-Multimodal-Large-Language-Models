@@ -8,13 +8,13 @@
 
 A curated list of Multimodal Large Language Models (MLLMs), including datasets, multimodal instruction tuning, multimodal in-context learning, multimodal chain-of-thought, llm-aided visual reasoning, foundation models, and others. This list will be updated in real time.
 
-🔥🔥🔥 **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
-**[Project Page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper (arXiv)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)**
-
-
 Welcome to join our WeChat group of MLLM communication!
 
 Please add WeChat ID (xjtupanda) to join the group.
+
+🔥🔥🔥 **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
+**[Project Page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper (arXiv)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)**
+
 
 ---
 
