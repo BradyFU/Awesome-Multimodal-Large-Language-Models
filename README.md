@@ -2,6 +2,8 @@
 
 <font size=6><center><big><b> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) </b></big></center></font>
 
+# Our MLLM Works
+
 🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
 **[Project Page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper (arXiv)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)**
 
