@@ -5,7 +5,7 @@
 🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
 **[Project Page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper (arXiv)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)**
 
-A curated list of <b>Multimodal Large Language Models (MLLMs)</b>, including <b>datasets</b>, <b>multimodal instruction tuning</b>, <b>multimodal in-context learning</b>, <b>multimodal chain-of-thought</b>, <b>llm-aided visual reasoning</b>, <b>foundation models</b>, and <b>others</b>. <b>This list will be updated in real time</b>.
+A curated list of <b>Multimodal Large Language Models (MLLMs)</b>, including datasets, multimodal instruction tuning, multimodal in-context learning, multimodal chain-of-thought, llm-aided visual reasoning, foundation models, and others. This list will be updated in real time.
 
 🔥🔥🔥 **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
 **[Project Page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper (arXiv)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)**
