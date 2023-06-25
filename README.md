@@ -1,8 +1,6 @@
 # Awesome-Multimodal-Large-Language-Models
 
 
-## Our MLLM Works
-
 🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
 **[Project Page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper (coming soon)]**
 
