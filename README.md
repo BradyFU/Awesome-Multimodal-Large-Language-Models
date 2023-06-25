@@ -12,12 +12,15 @@ Welcome to join our WeChat group of MLLM communication!
 
 Please add WeChat ID (xjtupanda) to join the group.
 
+---
+
 🔥🔥🔥 **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
 **[Project Page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper (arXiv)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)**
 
 Please email guilinli@stu.xmu.edu.cn to obtain the benchmark dataset.
 
 Please feel free to open an issue to add new experimental results or if you have any questions about the evaluation. We will update the leaderboards in time.
+
 
 ---
 
