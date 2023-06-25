@@ -1,6 +1,5 @@
 # Awesome-Multimodal-Large-Language-Models
 
----
 
 ## Our MLLM works
 
