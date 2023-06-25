@@ -2,11 +2,11 @@
 
 <font size=6><center><big><b> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) </b></big></center></font>
 
-🔥🔥🔥 A curated list of <b>Multimodal Large Language Models (MLLM)</b>, including <b>datasets</b>, <b>multimodal instruction tuning</b>, <b>multimodal in-context learning</b>, <b>multimodal chain-of-thought</b>, <b>llm-aided visual reasoning</b>, <b>foundation models</b>, and <b>others</b>. 
+🔥🔥🔥 A curated list of <b>Multimodal Large Language Models (MLLMs)</b>, including <b>datasets</b>, <b>multimodal instruction tuning</b>, <b>multimodal in-context learning</b>, <b>multimodal chain-of-thought</b>, <b>llm-aided visual reasoning</b>, <b>foundation models</b>, and <b>others</b>. This list will be updated in real time.
 
-🔥🔥🔥 This list will be updated in real time.
+🔥🔥🔥 A survey paper on MLLMs is preparing and will be released soon!
 
-🔥🔥🔥 A survey paper on MLLM is preparing and will be released soon!
+🔥🔥🔥 A evaluation benchmark on MLLMs is preparing and will be released soon!
 
 Welcome to join our WeChat group of MLLM communication!
 
