@@ -240,7 +240,7 @@ Survey:
 
 @article{yin2023survey,
       title={A Survey on Multimodal Large Language Models}, 
-      author={Shukang Yin and Chaoyou Fu and Sirui Zhao and Ke Li and Xing Sun and Tong Xu and Enhong Chen},
+      author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Li, Ke and Sun, Xing and Xu, Tong and Chen, Enhong},
       journal={arXiv preprint arXiv:2306.13549},
       year={2023},
 }
