@@ -46,6 +46,11 @@ If you find our projects helpful to your research, please cite the following pap
 ```
 
 
+# Calculation of Accuracy, Accuracy+, and Score
+
+
+
+
 # Evaluation Results
 
 <img src="./images/evaluation.png" width="94%" height="94%">
