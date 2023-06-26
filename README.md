@@ -231,3 +231,26 @@ Please feel free to open an issue to add new evaluation results or if you have a
 | **Video-ChatGPT** | [Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models](https://arxiv.org/pdf/2306.05424.pdf) | [Link](https://github.com/mbzuai-oryx/Video-ChatGPT#quantitative-evaluation-bar_chart) | A quantitative evaluation framework for video-based dialogue models |
 | **CLEVR-ATVC** | [Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation](https://arxiv.org/pdf/2303.05983.pdf) | [Link](https://drive.google.com/drive/folders/1TqBzkyqxOSg1hgCXF8JjpYIAuRV-uVft) | A synthetic multimodal fine-tuning dataset for learning to reject instructions |
 | **Fruit-ATVC** | [Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation](https://arxiv.org/pdf/2303.05983.pdf) | [Link](https://drive.google.com/drive/folders/1Saaia2rRRb1nz5sKdmpzYdS4jHiMDaP0) | A manually pictured multimodal fine-tuning dataset for learning to reject instructions |
+
+
+## Citation
+If you find this project helpful to your research, please cite our work.
+```
+Survey:
+
+@article{yin2023survey,
+      title={A Survey on Multimodal Large Language Models}, 
+      author={Shukang Yin and Chaoyou Fu and Sirui Zhao and Ke Li and Xing Sun and Tong Xu and Enhong Chen},
+      journal={arXiv preprint arXiv:2306.13549},
+      year={2023},
+}
+
+Evaluation:
+
+@article{fu2023mme,
+      title={MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models}, 
+      author={Fu, Chaoyou and Chen, Peixian and Shen, Yunhang and Qin, Yulei and Zhang, Mengdan and Lin, Xu and Qiu, Zhenyu and Lin, Wei and Qiu, Zhenyu and Lin, Wei and others},
+      journal={arXiv preprint arXiv:2306.13394},
+      year={2023},
+}
+```
