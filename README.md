@@ -27,8 +27,6 @@ The benchmark dataset is collected by Xiamen University for academic research on
 
 Please feel free to open an issue to add new evaluation results or if you have any questions about the evaluation. We will update the leaderboards in time. :star2:
 
----
-
 
 # Evaluation Results
 
