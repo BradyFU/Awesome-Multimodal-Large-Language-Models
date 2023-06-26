@@ -234,7 +234,7 @@ Please feel free to open an issue to add new evaluation results or if you have a
 
 
 ## Citation
-If you find this project helpful to your research, please cite our work.
+If you find this project helpful to your research, please consider citing our work.
 ```
 Survey:
 
