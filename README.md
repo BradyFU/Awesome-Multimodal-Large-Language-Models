@@ -22,7 +22,7 @@ The benchmark dataset is collected by Xiamen University for academic research on
 
 Please feel free to open an issue to add new evaluation results or if you have any questions about the evaluation. We will update the leaderboards in time. :star2:
 
-If you find this project helpful to your research, please cite the following papers:
+If you find our projects helpful to your research, please cite the following papers:
 ```
 @article{yin2023survey,
       title={A Survey on Multimodal Large Language Models}, 
@@ -249,21 +249,3 @@ If you find this project helpful to your research, please cite the following pap
 | **CLEVR-ATVC** | [Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation](https://arxiv.org/pdf/2303.05983.pdf) | [Link](https://drive.google.com/drive/folders/1TqBzkyqxOSg1hgCXF8JjpYIAuRV-uVft) | A synthetic multimodal fine-tuning dataset for learning to reject instructions |
 | **Fruit-ATVC** | [Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation](https://arxiv.org/pdf/2303.05983.pdf) | [Link](https://drive.google.com/drive/folders/1Saaia2rRRb1nz5sKdmpzYdS4jHiMDaP0) | A manually pictured multimodal fine-tuning dataset for learning to reject instructions |
 
-
-## Citation
-If you find this project helpful to your research, please cite the following papers:
-```
-@article{yin2023survey,
-      title={A Survey on Multimodal Large Language Models}, 
-      author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Li, Ke and Sun, Xing and Xu, Tong and Chen, Enhong},
-      journal={arXiv preprint arXiv:2306.13549},
-      year={2023},
-}
-
-@article{fu2023mme,
-      title={MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models}, 
-      author={Fu, Chaoyou and Chen, Peixian and Shen, Yunhang and Qin, Yulei and Zhang, Mengdan and Lin, Xu and Qiu, Zhenyu and Lin, Wei and Yang, Jinrui and Zheng, Xiawu and Li, Ke and Sun, Xing and Ji, Rongrong},
-      journal={arXiv preprint arXiv:2306.13394},
-      year={2023},
-}
-```
