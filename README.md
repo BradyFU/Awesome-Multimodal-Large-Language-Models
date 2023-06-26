@@ -25,7 +25,7 @@ Please add WeChat ID (xjtupanda) to join the group.
 
 Please email guilinli@stu.xmu.edu.cn to obtain the benchmark dataset.
 
-Please feel free to open an issue to add new experimental results or if you have any questions about the evaluation. We will update the leaderboards in time.
+Please feel free to open an issue to add new evaluation results or if you have any questions about the evaluation. We will update the leaderboards in time.
 
 
 # Evaluation Results
