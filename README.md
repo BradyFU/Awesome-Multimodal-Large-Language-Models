@@ -1,5 +1,6 @@
 # Awesome-Multimodal-Large-Language-Models
 
+<img src="./images/xmind.png" width="96%" height="96%">
 
 ## Our MLLM works
 
