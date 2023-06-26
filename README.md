@@ -48,7 +48,7 @@ If you find our projects helpful to your research, please cite the following pap
 
 # Calculation of Accuracy, Accuracy+, and Score
 
-<img src="./images/cal_score.png" width="99%" height="99%">
+<img src="./images/cal_score.png" width="100%" height="100%">
 
 
 # Evaluation Results
