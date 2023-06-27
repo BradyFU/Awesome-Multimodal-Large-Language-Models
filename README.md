@@ -86,7 +86,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  🥈   | [**InstructBLIP**](https://arxiv.org/pdf/2305.06500.pdf) | **[blip2-instruct-flant5xx](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)** | **1212.82** |
 |  🥉   |  [**MiniGPT-4**](https://arxiv.org/pdf/2304.10592.pdf)   | **[minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4)** | **1010.66** |
 |  4   |    [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)     | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   966.33    |
-|  5   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) | [LLaMA-7B](https://huggingface.co/nyanko7/LLaMA-7B/tree/main) |   761.20    |
+|  5   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) |    [LLaMA-7B](https://github.com/OpenGVLab/LLaMA-Adapter)    |   761.20    |
 |  6   |  [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)   |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   706.49    |
 |  7   |  [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)  | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   659.15    |
 |  8   |     [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)     | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   642.59    |
@@ -100,7 +100,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  🏅️   | [**InstructBLIP**](https://arxiv.org/pdf/2305.06500.pdf) | **[blip2-instruct-flant5xx](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)** | **185.00** |
 |  🥈   |    [**BLIP-2**](https://arxiv.org/pdf/2301.12597.pdf)    | **[blip2-pretrain-flant5xx](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)** | **160.00** |
 |  🥉   |  [**MiniGPT-4**](https://arxiv.org/pdf/2304.10592.pdf)   | **[minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4)** | **135.00** |
-|  4   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) | [LLaMA-7B](https://huggingface.co/nyanko7/LLaMA-7B/tree/main) |   133.33   |
+|  4   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) |    [LLaMA-7B](https://github.com/OpenGVLab/LLaMA-Adapter)    |   133.33   |
 |  5   |    [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)     | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   120.00   |
 |  6   |  [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)   |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   85.00    |
 |  7   |     [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)     | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   70.00    |
@@ -116,7 +116,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  🥈   |    [**BLIP-2**](https://arxiv.org/pdf/2301.12597.pdf)    | **[blip2-pretrain-flant5xx](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)** | **135.00** |
 |  🥉   |  [**MiniGPT-4**](https://arxiv.org/pdf/2304.10592.pdf)   | **[minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4)** | **123.33** |
 |  4   |  [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)  | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) | 58.33      |
-|  5   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) | [LLaMA-7B](https://huggingface.co/nyanko7/LLaMA-7B/tree/main) | 55.00      |
+|  5   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) |    [LLaMA-7B](https://github.com/OpenGVLab/LLaMA-Adapter)    | 55.00      |
 |  6   |      [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)       |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      | 50.00      |
 |  7   |    [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)     | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) | 50.00      |
 |  8   |  [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)   |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     | 50.00      |
@@ -136,7 +136,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  7   |      [Otter](https://arxiv.org/pdf/2305.03726.pdf)       |  [OTTER-9B-LA-InContext](https://github.com/Luodian/Otter)   |   50.00   |
 |  8   |     [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)     | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   50.00   |
 |  9   |  [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)   |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   48.33   |
-|  10  | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) | [LLaMA-7B](https://huggingface.co/nyanko7/LLaMA-7B/tree/main) |   46.67   |
+|  10  | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) |    [LLaMA-7B](https://github.com/OpenGVLab/LLaMA-Adapter)    |   46.67   |
 
 ### Color
 
@@ -145,7 +145,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  🏅️   | [**InstructBLIP**](https://arxiv.org/pdf/2305.06500.pdf) | **[blip2-instruct-flant5xx](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)** | **153.33** |
 |  🥈   |    [**BLIP-2**](https://arxiv.org/pdf/2301.12597.pdf)    | **[blip2-pretrain-flant5xx](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)** | **148.33** |
 |  🥉   |  **[MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)**   | **[minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4)** | **125.00** |
-|  4   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) | [LLaMA-7B](https://huggingface.co/nyanko7/LLaMA-7B/tree/main) |   71.67    |
+|  4   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) |    [LLaMA-7B](https://github.com/OpenGVLab/LLaMA-Adapter)    |   71.67    |
 |  5   |  [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)  | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   68.33    |
 |  6   |      [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)       |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   55.00    |
 |  7   |    [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)     | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   55.00    |
@@ -163,7 +163,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  4   |     [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)     | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   76.53    |
 |  5   |    [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)     | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |   69.05    |
 |  6   |  [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)   |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   66.67    |
-|  7   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) | [LLaMA-7B](https://huggingface.co/nyanko7/LLaMA-7B/tree/main) |   63.61    |
+|  7   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) |    [LLaMA-7B](https://github.com/OpenGVLab/LLaMA-Adapter)    |   63.61    |
 |  8   |  [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)  | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   62.24    |
 |  9   |      [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)       |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   50.00    |
 |  10  |      [Otter](https://arxiv.org/pdf/2305.03726.pdf)       |  [OTTER-9B-LA-InContext](https://github.com/Luodian/Otter)   |   45.24    |
@@ -176,7 +176,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  🥈   | [**InstructBLIP**](https://arxiv.org/pdf/2305.06500.pdf) | **[blip2-instruct-flant5xx](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)** | **101.18** |
 |  🥉   |  **[mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)**   | **[mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b)** | **100.29** |
 |  4   |    [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)     | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |   83.53    |
-|  5   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) | [LLaMA-7B](https://huggingface.co/nyanko7/LLaMA-7B/tree/main) |   76.18    |
+|  5   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) |    [LLaMA-7B](https://github.com/OpenGVLab/LLaMA-Adapter)    |   76.18    |
 |  6   |  [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)  | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   73.24    |
 |  7   |     [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)     | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   57.06    |
 |  8   |  [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)   |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   53.24    |
@@ -193,7 +193,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  4   |     [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)     | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   135.50   |
 |  5   |     [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)      | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   118.0    |
 |  6   |     [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)     | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |   113.75   |
-|  7   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)  | [LLaMA-7B](https://huggingface.co/nyanko7/LLaMA-7B/tree/main) |   113.25   |
+|  7   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)  |    [LLaMA-7B](https://github.com/OpenGVLab/LLaMA-Adapter)    |   113.25   |
 |  8   |       [Otter](https://arxiv.org/pdf/2305.03726.pdf)       |  [OTTER-9B-LA-InContext](https://github.com/Luodian/Otter)   |   69.50    |
 |  9   |  [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)   | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   68.00    |
 |  10  |       [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)       |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   50.00    |
@@ -209,7 +209,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  5   |   [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)   | [blip2-instruct-flant5xx](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |   79.75    |
 |  6   |  [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)  | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   73.50    |
 |  7   |     [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)     | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   69.75    |
-|  8   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) | [LLaMA-7B](https://huggingface.co/nyanko7/LLaMA-7B/tree/main) |   62.00    |
+|  8   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) |    [LLaMA-7B](https://github.com/OpenGVLab/LLaMA-Adapter)    |   62.00    |
 |  9   |      [Otter](https://arxiv.org/pdf/2305.03726.pdf)       |  [OTTER-9B-LA-InContext](https://github.com/Luodian/Otter)   |   56.50    |
 |  10  |      [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)       |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   50.00    |
 
@@ -222,7 +222,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  🥉   |  **[mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)**   | **[mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b)** | **96.25**  |
 |  4   |    [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)     | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |   83.25    |
 |  5   |  [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)   |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   75.75    |
-|  6   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) | [LLaMA-7B](https://huggingface.co/nyanko7/LLaMA-7B/tree/main) |   67.00    |
+|  6   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) |    [LLaMA-7B](https://github.com/OpenGVLab/LLaMA-Adapter)    |   67.00    |
 |  7   |  [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)  | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   58.00    |
 |  8   |      [Otter](https://arxiv.org/pdf/2305.03726.pdf)       |  [OTTER-9B-LA-InContext](https://github.com/Luodian/Otter)   |   53.50    |
 |  9   |     [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)     | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   51.25    |
@@ -235,7 +235,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  🏅️   |     **[BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)**     | **[blip2-pretrain-flant5xx](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)** | **110.00** |
 |  🥈   |   **[MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)**    | **[minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4)** | **97.50**  |
 |  🥉   | **[Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)** | **[Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT)** | **82.50**  |
-|  4   |  [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)  | [LLaMA-7B](https://huggingface.co/nyanko7/LLaMA-7B/tree/main) |   72.50    |
+|  4   |  [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)  |    [LLaMA-7B](https://github.com/OpenGVLab/LLaMA-Adapter)    |   72.50    |
 |  5   |    [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)    | [blip2-instruct-flant5xx](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |   72.50    |
 |  6   |     [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)      | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   65.00    |
 |  7   |       [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)        |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   50.00    |
@@ -253,7 +253,7 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  🥈   | **[InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)** | **[blip2-instruct-flant5xx](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)** | **291.79** |
 |  🥉   |    **[BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)**    | **[blip2-pretrain-flant5xx](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)** | **290.00** |
 |  4   |    [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)     | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   281.07   |
-|  5   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) | [LLaMA-7B](https://huggingface.co/nyanko7/LLaMA-7B/tree/main) |   246.07   |
+|  5   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) |    [LLaMA-7B](https://github.com/OpenGVLab/LLaMA-Adapter)    |   246.07   |
 |  6   |  [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)  | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   231.43   |
 |  7   |      [Otter](https://arxiv.org/pdf/2305.03726.pdf)       |  [OTTER-9B-LA-InContext](https://github.com/Luodian/Otter)   |   231.07   |
 |  8   |     [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)     | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   228.57   |
@@ -269,7 +269,7 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  🥉   |  **[MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)**   | **[minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4)** | **92.86**  |
 |  4   |    [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)     | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   83.57    |
 |  5   |     [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)     | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   73.57    |
-|  6   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) | [LLaMA-7B](https://huggingface.co/nyanko7/LLaMA-7B/tree/main) |   68.57    |
+|  6   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) |    [LLaMA-7B](https://github.com/OpenGVLab/LLaMA-Adapter)    |   68.57    |
 |  7   |      [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)       |     [LLaVA-7B-v0](https://github.com/THUDM/VisualGLM-6B)     |   60.71    |
 |  8   |  [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)   |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   58.57    |
 |  9   |      [Otter](https://arxiv.org/pdf/2305.03726.pdf)       |  [OTTER-9B-LA-InContext](https://github.com/Luodian/Otter)   |   58.57    |
@@ -282,7 +282,7 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  🏅️   | **[Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)** | **[Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT)** | **70.00** |
 |  🥈   |   **[MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)**    | **[minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4)** | **67.50** |
 |  🥉   |   **[mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)**    | **[mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b)** | **60.00** |
-|  4   |  [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)  | [LLaMA-7B](https://huggingface.co/nyanko7/LLaMA-7B/tree/main) |   57.50   |
+|  4   |  [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)  |    [LLaMA-7B](https://github.com/OpenGVLab/LLaMA-Adapter)    |   57.50   |
 |  5   |       [Otter](https://arxiv.org/pdf/2305.03726.pdf)        |  [OTTER-9B-LA-InContext](https://github.com/Luodian/Otter)   |   57.50   |
 |  6   |       [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)        |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   50.00   |
 |  7   |      [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)      | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   50.00   |
@@ -300,7 +300,7 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  4   |      [Otter](https://arxiv.org/pdf/2305.03726.pdf)       |  [OTTER-9B-LA-InContext](https://github.com/Luodian/Otter)   |   65.00   |
 |  5   |      [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)       |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   57.50   |
 |  6   |    [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)     | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |   57.50   |
-|  7   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) | [LLaMA-7B](https://huggingface.co/nyanko7/LLaMA-7B/tree/main) |   57.50   |
+|  7   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf) |    [LLaMA-7B](https://github.com/OpenGVLab/LLaMA-Adapter)    |   57.50   |
 |  8   |     [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)     | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   57.50   |
 |  9   |  [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)  | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   55.00   |
 |  10  |  [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)   |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   50.00   |
@@ -311,7 +311,7 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
 |  🏅️   |    **[MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)**     | **[minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4)** | **112.50** |
 |  🥈   |      **[BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)**      | **[blip2-pretrain-flant5xx](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)** | **75.00**  |
-|  🥉   | **[LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)** | **[LLaMA-7B](https://huggingface.co/nyanko7/LLaMA-7B/tree/main)** | **62.50**  |
+|  🥉   | **[LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)** |  **[LLaMA-7B](https://github.com/OpenGVLab/LLaMA-Adapter)**  | **62.50**  |
 |  4   |      [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)       | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   57.50    |
 |  5   |     [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)     | [blip2-instruct-flant5xx](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |   57.50    |
 |  6   |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   55.00    |
