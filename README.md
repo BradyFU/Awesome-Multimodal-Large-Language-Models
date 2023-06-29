@@ -18,16 +18,16 @@ Please add WeChat ID (wmd_rz_ustc) to join the group. :star2:
 🔥🔥🔥 **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
 **[Project Page [Leaderboards]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)** | **[Paper](https://arxiv.org/pdf/2306.13394.pdf)**
 
-The benchmark dataset is collected by Xiamen University for academic research only. You can email guilinli@stu.xmu.edu.cn to obtain the dataset. :sparkles:
+The benchmark dataset is collected by Xiamen University for academic research only. You can email guilinli@stu.xmu.edu.cn to obtain the dataset, according to the following requirement. :sparkles:
 
-**Note**: For better academic communication, a real-name system is encouraged and your email suffix must match your affiliation (e.g., hello@stu.xmu.edu.cn). If not, you need to explain why.
+**Requirement**: A real-name system is encouraged for better academic communication. Your email suffix needs to match your affiliation, such as xx@stu.xmu.edu.cn and Xiamen University. Otherwise, you need to explain why. Please include the information bellow when sending your application email.
 
 ```
-Name: (Tell us who you are.)
-Affiliation: (The name/url of your institution or university, etc.)
-Job Title: (E.g., Professor, Associate Professor, PhD, etc.)
-Email: (Dataset will be sent to this email.)
-How to use: (Only for non-commercial use.)
+Name: (tell us who you are.)
+Affiliation: (the name/url of your institution or university)
+Job Title: (e.g., professor, PhD, and researcher)
+Email: (your email address)
+How to use: (only for non-commercial use)
 ```
 
 Please feel free to open an issue to add new evaluation results or if you have any questions about the evaluation. We will update the leaderboards in time. :star2:
