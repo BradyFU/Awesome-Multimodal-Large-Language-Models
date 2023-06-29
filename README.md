@@ -31,7 +31,7 @@ The benchmark dataset is collected by Xiamen University for academic research on
 
 ```
 Name: (tell us who you are.)
-Affiliation: (the name/url of your institution or university)
+Affiliation: (the name/url of your university or company)
 Job Title: (e.g., professor, PhD, and researcher)
 Email: (your email address)
 How to use: (only for non-commercial use)
