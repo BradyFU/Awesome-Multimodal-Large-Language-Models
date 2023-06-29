@@ -25,6 +25,15 @@ Please add WeChat ID (xjtupanda) to join the group. :star2:
 
 The benchmark dataset is collected by Xiamen University for academic research only. You can email guilinli@stu.xmu.edu.cn to obtain the dataset. :sparkles:
 
+**Note**: For better academic communication, a real-name system is encouraged and your email suffix must match your affiliation (e.g., hello@stu.xmu.edu.cn). If not, you need to explain why.
+
+```
+Name: (Tell us who you are.)
+Affiliation: (The name/url of your institution or university, etc.)
+Job Title: (E.g., Professor, Associate Professor, PhD, etc.)
+Email: (Dataset will be sent to this email.)
+How to use: (Only for non-commercial use.)
+```
 Please feel free to open an issue to add new evaluation results or if you have any questions about the evaluation. We will update the leaderboards in time. :star2:
 
 
