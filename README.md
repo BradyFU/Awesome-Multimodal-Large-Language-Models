@@ -60,7 +60,7 @@ If you find our projects helpful to your research, please cite the following pap
 
 # Evaluation Results
 
-<details><summary>📝 Calculation of Accuracy, Accuracy+, and Score :star2::star2:</summary>
+<details><summary>Calculation of Accuracy, Accuracy+, and Score :star2::star2:</summary>
 We will update an automated calculation script soon.
       
 <img src="./images/cal.png" width="99%" height="99%">
