@@ -69,6 +69,13 @@ If you find our projects helpful to your research, please cite the following pap
 
 ---
 
+<details><summary>Calculation of Accuracy, Accuracy+, and Score :sparkles::sparkles:</summary>
+We will update an automated calculation script soon.
+      
+<img src="./images/cal.png" width="99%" height="99%">
+
+</details>
+
 <font size=5><center><b> Table of Leaderboards </b> </center></font>
 
 - [Perception](#Perception)
@@ -76,9 +83,6 @@ If you find our projects helpful to your research, please cite the following pap
 - [Cognition](#Cognition)
   - [Commonsense Reasoning](#Commonsense-Reasoning) | [Numerical Calculation](#Numerical-Calculation) | [Text Translation](#Text-Translation) | [Code Reasoning](#Code-Reasoning)
 
-<details><summary>Calculation of Accuracy, Accuracy+, and Score</summary>
-<img src="./images/cal.png" width="99%" height="99%">
-</details>
 ---
 
 
