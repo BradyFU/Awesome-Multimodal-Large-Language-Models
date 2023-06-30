@@ -20,7 +20,7 @@ Please add WeChat ID (wmd_rz_ustc) to join the group. :star2:
 
 Please feel free to open an issue to add new evaluation results or if you have any questions about the evaluation. We will update the leaderboards in time. :sparkles:
 
-<details><summary>Download MME :star2:</summary>
+<details><summary>Download MME :star2::star2: </summary>
 
 The benchmark dataset is collected by Xiamen University for academic research only. You can email guilinli@stu.xmu.edu.cn to obtain the dataset, according to the following requirement. 
 
