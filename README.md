@@ -63,8 +63,8 @@ If you find our projects helpful to your research, please cite the following pap
 
 **[2023-06-30]** 
 
-1. Thanks to [**Renrui Zhang**](https://github.com/ZrrSkywalker), we have updated the evaluation of his two works, i.e., [**LLaMA-Adapter V2**](https://github.com/OpenGVLab/LLaMA-Adapter) and [**ImageBind_LLM**](https://github.com/OpenGVLab/LLaMA-Adapter). The former is re-evaluated after changing the model [**weights**](https://github.com/OpenGVLab/LLaMA-Adapter/releases/download/v.2.0.0/7fa55208379faf2dd862565284101b0e4a2a72114d6490a95e432cf9d9b6c813_BIAS-7B.pth), and the latter is a newly added MLLM. 🔥
-2. Thanks to [**Luo Gen**](https://github.com/luogen1996), we have added the evaluation of his work [**LaVIN**](https://github.com/luogen1996/LaVIN). Now, our leaderboards include a total of 12 advanced MLLMs! You are welcome to submit new evaluation results! 🔥
+1. Thanks to [**Renrui Zhang**](https://github.com/ZrrSkywalker), we have updated the evaluation of his two works, i.e., [**LLaMA-Adapter V2**](https://github.com/OpenGVLab/LLaMA-Adapter) and [**ImageBind_LLM**](https://github.com/OpenGVLab/LLaMA-Adapter) 🔥🔥. The former is re-evaluated after changing the model [**weights**](https://github.com/OpenGVLab/LLaMA-Adapter/releases/download/v.2.0.0/7fa55208379faf2dd862565284101b0e4a2a72114d6490a95e432cf9d9b6c813_BIAS-7B.pth), and the latter is a newly added MLLM.
+2. Thanks to [**Luo Gen**](https://github.com/luogen1996), we have added the evaluation of his work [**LaVIN**](https://github.com/luogen1996/LaVIN) 🔥🔥. Now, our leaderboards include a total of 12 advanced MLLMs! You are welcome to submit new evaluation results! 
 3. The results of other models have also been updated, retrieving the answer from the beginning of the generated responses instead of the whole responses. The calcualtion is shown as bellow. The paper will be updated in two days.
 
 <details><summary>Calculation of Accuracy, Accuracy+, and Score :star2::star2:</summary>
@@ -76,7 +76,7 @@ We will update an automated calculation script soon.
 
 # Evaluation Results
 
-<img src="./images/evaluation.png" width="90%" height="90%">
+<img src="./images/evaluation.png" width="85%" height="85%">
 
 
 # Evaluation Leaderboards
