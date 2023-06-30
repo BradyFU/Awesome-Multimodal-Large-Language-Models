@@ -58,11 +58,6 @@ If you find our projects helpful to your research, please cite the following pap
 ```
 
 
-# Calculation of Accuracy, Accuracy+, and Score
-
-<img src="./images/cal.png" width="99%" height="99%">
-
-
 # Evaluation Results
 
 <img src="./images/evaluation.png" width="94%" height="94%">
@@ -81,6 +76,9 @@ If you find our projects helpful to your research, please cite the following pap
 - [Cognition](#Cognition)
   - [Commonsense Reasoning](#Commonsense-Reasoning) | [Numerical Calculation](#Numerical-Calculation) | [Text Translation](#Text-Translation) | [Code Reasoning](#Code-Reasoning)
 
+<details><summary>Calculation of Accuracy, Accuracy+, and Score</summary>
+<img src="./images/cal.png" width="99%" height="99%">
+</details>
 ---
 
 
