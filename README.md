@@ -39,17 +39,17 @@ How to use: (only for non-commercial use)
 If you find our projects helpful to your research, please cite the following papers:
 ```
 @article{yin2023survey,
-      title={A Survey on Multimodal Large Language Models}, 
-      author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Li, Ke and Sun, Xing and Xu, Tong and Chen, Enhong},
-      journal={arXiv preprint arXiv:2306.13549},
-      year={2023}
+  title={A Survey on Multimodal Large Language Models},
+  author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Li, Ke and Sun, Xing and Xu, Tong and Chen, Enhong},
+  journal={arXiv preprint arXiv:2306.13549},
+  year={2023}
 }
 
 @article{fu2023mme,
-      title={MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models}, 
-      author={Fu, Chaoyou and Chen, Peixian and Shen, Yunhang and Qin, Yulei and Zhang, Mengdan and Lin, Xu and Qiu, Zhenyu and Lin, Wei and Yang, Jinrui and Zheng, Xiawu and Li, Ke and Sun, Xing and Ji, Rongrong},
-      journal={arXiv preprint arXiv:2306.13394},
-      year={2023}
+  title={MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models},
+  author={Fu, Chaoyou and Chen, Peixian and Shen, Yunhang and Qin, Yulei and Zhang, Mengdan and Lin, Xu and Qiu, Zhenyu and Lin, Wei and Yang, Jinrui and Zheng, Xiawu and Li, Ke and Sun, Xing and Ji, Rongrong},
+  journal={arXiv preprint arXiv:2306.13394},
+  year={2023}
 }
 ```
 
