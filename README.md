@@ -70,7 +70,6 @@ If you find our projects helpful to your research, please cite the following pap
 ---
 
 # Evaluation Results
-[**An automated evaluation script**](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/blob/Evaluation/tools/eval_tool.zip) for the calculation of scores.
 
 <img src="./images/evaluation.png" width="80%" height="80%">
 
