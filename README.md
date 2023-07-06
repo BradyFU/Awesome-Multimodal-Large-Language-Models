@@ -266,7 +266,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
-| **Lynx** | [What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?](https://arxiv.org/pdf/2307.02469.pdf) | - |  A comprehensive evaluation benchmark including both image and video tasks |
+| **Lynx** | [What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?](https://arxiv.org/pdf/2307.02469.pdf) | [Coming soon]() |  A comprehensive evaluation benchmark including both image and video tasks |
 | **MME** | [MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models](https://arxiv.org/pdf/2306.13394.pdf) | [Link](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation) | A comprehensive MLLM Evaluation benchmark |
 | **LVLM-eHub** | [LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models](https://arxiv.org/pdf/2306.09265.pdf) | [Link](https://github.com/OpenGVLab/Multi-Modality-Arena) | An evaluation platform for MLLMs |
 | **LAMM-Benchmark** | [LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark](https://arxiv.org/pdf/2306.06687.pdf) | [Link](https://github.com/OpenLAMM/LAMM#lamm-benchmark) | A benchmark for evaluating  the quantitative performance of MLLMs on various2D/3D vision tasks |
