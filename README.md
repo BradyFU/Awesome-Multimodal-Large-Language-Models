@@ -18,7 +18,7 @@ Please add WeChat ID (wmd_rz_ustc) to join the group. :star2:
 🔥🔥🔥 **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
 **[Project Page [Leaderboards]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)** | **[Paper](https://arxiv.org/pdf/2306.13394.pdf)**
 
-Please feel free to open an issue to add new evaluation results or if you have any questions about the evaluation. We will update the leaderboards in time. :sparkles:
+If you want to add your model in our leaderboards, please feel free to open an issue or email bradyfu24@gmail.com. We will update the leaderboards in time. :sparkles:
 
 <details><summary>Download MME :star2::star2: </summary>
 
