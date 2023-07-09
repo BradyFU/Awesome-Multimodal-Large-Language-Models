@@ -59,7 +59,7 @@ If you find our projects helpful to your research, please cite the following pap
 
 ---
 
-# News
+# News 🚀
 **[2023-07-09]** 
 
 1. Thanks to [**Bo Li**](https://github.com/Luodian), we have updated the evaluation of his work [**Otter**](https://github.com/Luodian/Otter). It uses the latest model [**OTTER-Image-MPT7B**](https://huggingface.co/luodian/OTTER-Image-MPT7B) that incoporates OpenFlamingv2 and enhances instruction following ability. 🔥🔥
