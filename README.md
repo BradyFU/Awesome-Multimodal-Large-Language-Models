@@ -80,6 +80,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/jshilong/GPT4RoI.svg?style=social&label=Star) <be> [**GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest**](https://arxiv.org/pdf/2307.03601.pdf) <br> | arXiv | 2023-07-07 | [Github](https://github.com/jshilong/GPT4RoI) | [Demo](http://139.196.83.164:7000/) |
 | [**What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?**](https://arxiv.org/pdf/2307.02469.pdf) | arXiv | 2023-07-05 | [Coming soon]() | - | 
 | ![Star](https://img.shields.io/github/stars/ChenDelong1999/polite_flamingo.svg?style=social&label=Star) <br> [**Visual Instruction Tuning with Polite Flamingo**](https://arxiv.org/pdf/2307.01003.pdf) <br >| arXiv | 2023-07-03 | [Github](https://github.com/ChenDelong1999/polite_flamingo) | - |
 | ![Star](https://img.shields.io/github/stars/SALT-NLP/LLaVAR.svg?style=social&label=Star) <br> [**LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding**](https://arxiv.org/pdf/2306.17107.pdf) <br> | arXiv | 2023-06-29 | [Github](https://github.com/SALT-NLP/LLaVAR) | [Demo](https://eba470c07c805702b8.gradio.live/) |
