@@ -23,7 +23,7 @@ Please add WeChat ID (xjtupanda) to join the group. :star2:
 🔥🔥🔥 **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
 **[Project Page [Leaderboards]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)** | **[Paper](https://arxiv.org/pdf/2306.13394.pdf)**
 
-Leaderboards of **13** advanced MLLMs, including **BLIP-2**, **InstructBLIP**, **LLaVA**, **MiniGPT-4**, **mPLUG-Owl**, **LLaMA-Adapter V2**, **ImageBind_LLM**, **Otter**, **VisualGLM-6B**, **Multimodal-GPT**, **PandaGPT**, **VPGTrans**, and **LaVIN**.
+Leaderboards of **13** advanced MLLMs, including BLIP-2, InstructBLIP, LLaVA, MiniGPT-4, mPLUG-Owl, LLaMA-Adapter V2, ImageBind_LLM, Otter, VisualGLM-6B, Multimodal-GPT, PandaGPT, VPGTrans, and LaVIN.
 
 If you want to add your model in our leaderboards, please feel free to email bradyfu24@gmail.com. We will update the leaderboards in time. :sparkles:
 
