@@ -90,8 +90,8 @@ The top 5 on the perception and cognition leaderboards:
 
 <font size=5><center><b> Table of Leaderboards </b> </center></font>
 
-- [Perception](#Perception)
-  - [Existence](#Existence) | [Count](#Count) | [Position](#Position) | [Color](#Color) | [Poster](#Poster) | [Celebrity](#Celebrity) | [Scene](#Scene) | [Landmark](#Landmark) | [Artwork](#Artwork) | [OCR](#OCR)
+- [Perception](#perception)
+  - [Existence](#existence) | [Count](#count) | [Position](#Position) | [Color](#Color) | [Poster](#Poster) | [Celebrity](#Celebrity) | [Scene](#Scene) | [Landmark](#Landmark) | [Artwork](#Artwork) | [OCR](#OCR)
 - [Cognition](#Cognition)
   - [Commonsense Reasoning](#Commonsense-Reasoning) | [Numerical Calculation](#Numerical-Calculation) | [Text Translation](#Text-Translation) | [Code Reasoning](#Code-Reasoning)
 
