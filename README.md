@@ -64,7 +64,7 @@ If you find our projects helpful to your research, please cite the following pap
 # News 🚀
 **[2023-07]** 
 
-1. [07-15] Thanks to **Jiani Zheng**, our leaderboards welcome a new member [**Lynx**](https://github.com/bytedance/lynx-llm). Now, our leaderboards include a total of **14** advanced MLLMs. You are welcome to submit new evaluation results! 🔥🔥
+1. [07-15] Thanks to **Jiani Zheng**, our leaderboards welcome a new member [**Lynx**](https://github.com/bytedance/lynx-llm). 🔥🔥
 2. [07-12] Thanks to [**Ao Zhang**](https://github.com/waxnkw), his work [**VPGTrans**](https://github.com/VPGTrans/VPGTrans) has been added in our leaderboards. 🔥🔥
 3. [07-09] Thanks to [**Bo Li**](https://github.com/Luodian), we have updated the evaluation of his work [**Otter**](https://github.com/Luodian/Otter). It uses the latest model [**OTTER-Image-MPT7B**](https://huggingface.co/luodian/OTTER-Image-MPT7B) that incoporates OpenFlamingv2 and enhances instruction following ability. 🔥🔥
 
