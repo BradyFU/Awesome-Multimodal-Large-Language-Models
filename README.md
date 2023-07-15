@@ -137,6 +137,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Multimodal Chain-of-Thought
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/shikras/shikra.svg?style=social&label=Star) <br> [**Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**](https://arxiv.org/pdf/2306.15195.pdf) <br> | arXiv | 2023-06-27 | [Github](https://github.com/shikras/shikra) | - |
 | ![Star](https://img.shields.io/github/stars/zeroQiaoba/Explainable-Multimodal-Emotion-Reasoning.svg?style=social&label=Star) <br> [**Explainable Multimodal Emotion Reasoning**](https://arxiv.org/pdf/2306.15401.pdf) <br> | arXiv | 2023-06-27 | [Github](https://github.com/zeroQiaoba/Explainable-Multimodal-Emotion-Reasoning) | - | 
 | ![Star](https://img.shields.io/github/stars/EmbodiedGPT/EmbodiedGPT_Pytorch.svg?style=social&label=Star) <br> [**EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought**](https://arxiv.org/pdf/2305.15021.pdf) <br> | arXiv | 2023-05-24 | [Github](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch) | - | 
 | [**Let’s Think Frame by Frame: Evaluating Video Chain of Thought with Video Infilling and Prediction**](https://arxiv.org/pdf/2305.13903.pdf) | arXiv | 2023-05-23 | - | - |
