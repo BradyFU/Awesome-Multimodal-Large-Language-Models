@@ -82,6 +82,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/magic-research/bubogpt.svg?style=social&label=Star) <br> [**BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs**](https://arxiv.org/pdf/2307.08581.pdf) <br> | arXiv | 2023-07-17 | [Github](https://github.com/magic-research/bubogpt) | [Coming soon]() |
 | ![Star](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star) <br> [**Generative Pretraining in Multimodality**](https://arxiv.org/pdf/2307.05222.pdf) <br> | arXiv | 2023-07-11 | [Github](https://github.com/baaivision/Emu) | [Demo](http://218.91.113.230:9002/) |
 | [**SVIT: Scaling up Visual Instruction Tuning**](https://arxiv.org/pdf/2307.04087.pdf) | arXiv | 2023-07-09 | - | - |
 | ![Star](https://img.shields.io/github/stars/jshilong/GPT4RoI.svg?style=social&label=Star) <br> [**GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest**](https://arxiv.org/pdf/2307.03601.pdf) <br> | arXiv | 2023-07-07 | [Github](https://github.com/jshilong/GPT4RoI) | [Demo](http://139.196.83.164:7000/) |
@@ -237,6 +238,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Datasets of Multimodal Instruction Tuning
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **BuboGPT** | [BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs](https://arxiv.org/pdf/2307.08581.pdf) | [Link](https://huggingface.co/datasets/magicr/BuboGPT) | A high-quality instruction-tuning dataset including audio-text audio caption data and audio-image-text localization data |
 | **PF-1M** | [Visual Instruction Tuning with Polite Flamingo](https://arxiv.org/pdf/2307.01003.pdf) | [Link](https://huggingface.co/datasets/chendelong/PF-1M/tree/main) | A collection of 37 vision-language datasets with responses rewritten by Polite Flamingo. | 
 | **LLaVAR** | [LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding](https://arxiv.org/pdf/2306.17107.pdf) | [Link](https://llavar.github.io/#data) | A visual instruction-tuning dataset for Text-rich Image Understanding | 
 | **LRV-Instruction** | [Aligning Large Multi-Modal Model with Robust Instruction Tuning](https://arxiv.org/pdf/2306.14565.pdf) | [Link](https://github.com/FuxiaoLiu/LRV-Instruction#visual-instruction-data-lrv-instruction) | Visual instruction tuning dataset for addressing hallucination issue | 
