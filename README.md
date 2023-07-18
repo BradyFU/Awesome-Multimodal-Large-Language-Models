@@ -60,6 +60,8 @@ If you find our projects helpful to your research, please cite the following pap
 
 <font size=5><center><b> Table of Contents </b> </center></font>
 
+- [Awesome-Multimodal-Large-Language-Models](#awesome-multimodal-large-language-models)
+  - [Our MLLM works](#our-mllm-works)
 - [Awesome Papers](#awesome-papers)
   - [Multimodal Instruction Tuning](#multimodal-instruction-tuning)
   - [Multimodal In-Context Learning](#multimodal-in-context-learning)
@@ -195,6 +197,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/InternLM/OpenCompass.svg?style=social&label=Star) <br> [**MMBench: Is Your Multi-modal Model an All-around Player?**](https://arxiv.org/pdf/2307.06281.pdf) <br> | arXiv | 2023-07-12 | [Github](https://github.com/InternLM/opencompass) |
 | ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star) <br> [**MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**](https://arxiv.org/pdf/2306.13394.pdf) <br> | arXiv | 2023-06-23 | [Github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation) |
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/Multi-Modality-Arena.svg?style=social&label=Star) <br> [**LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models**](https://arxiv.org/pdf/2306.09265.pdf) <br> | arXiv | 2023-06-15 | [Github](https://github.com/OpenGVLab/Multi-Modality-Arena) | 
 | ![Star](https://img.shields.io/github/stars/OpenLAMM/LAMM.svg?style=social&label=Star) <br> [**LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark**](https://arxiv.org/pdf/2306.06687.pdf) <br> | arXiv | 2023-06-11 | [Github](https://github.com/OpenLAMM/LAMM#lamm-benchmark) |
@@ -203,6 +206,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Others
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/AIlab-CVC/SEED.svg?style=social&label=Star) <br> [**Planting a SEED of Vision in Large Language Model**](https://arxiv.org/pdf/2307.08041.pdf) | arxiv | 2023-07-18 | [Github](https://github.com/AILab-CVC/SEED) |
 | [**Can Large Pre-trained Models Help Vision Models on Perception Tasks?**](https://arxiv.org/pdf/2306.00693.pdf) | arXiv | 2023-06-01 | [Coming soon]() | - | 
 | ![Star](https://img.shields.io/github/stars/yuhangzang/ContextDET.svg?style=social&label=Star) <br> [**Contextual Object Detection with Multimodal Large Language Models**](https://arxiv.org/pdf/2305.18279.pdf) <br> | arXiv | 2023-05-29 | [Github](https://github.com/yuhangzang/ContextDET) | [Demo](https://huggingface.co/spaces/yuhangzang/ContextDet-Demo) |
 | ![Star](https://img.shields.io/github/stars/kohjingyu/gill.svg?style=social&label=Star) <br> [**Generating Images with Multimodal Language Models**](https://arxiv.org/pdf/2305.17216.pdf) <br> | arXiv | 2023-05-26 | [Github](https://github.com/kohjingyu/gill) | - |
