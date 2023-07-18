@@ -156,6 +156,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## LLM-Aided Visual Reasoning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/ContextualAI/lens.svg?style=social&label=Star) <br> [**Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language**](https://arxiv.org/pdf/2306.16410.pdf) <br> | arXiv | 2023-06-28 | [Github](https://github.com/ContextualAI/lens) | [Demo](https://lens.contextual.ai/) |
 | [**Retrieving-to-Answer: Zero-Shot Video Question Answering with Frozen Large Language Models**](https://arxiv.org/pdf/2306.11732.pdf) | arXiv | 2023-06-15 | - | - |
 | ![Star](https://img.shields.io/github/stars/showlab/assistgpt.svg?style=social&label=Star) <br> [**AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn**](https://arxiv.org/pdf/2306.08640.pdf) <br> | arXiv | 2023-06-14 | [Github](https://github.com/showlab/assistgpt) | - |
 | ![Star](https://img.shields.io/github/stars/StevenGrove/GPT4Tools.svg?style=social&label=Star) <br> [**GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction**](https://arxiv.org/pdf/2305.18752.pdf) <br> | arXiv | 2023-05-30 | [Github](https://github.com/StevenGrove/GPT4Tools) | [Demo](https://c60eb7e9400930f31b.gradio.live/) | 
