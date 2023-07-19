@@ -84,7 +84,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning**](https://arxiv.org/pdf/2307.09474.pdf) <br> | arXiv | 2023-07-18 | [Coming soon](https://chatspot.streamlit.app/) | [Demo](https://chatspot.streamlit.app/) |
+| [**ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning**](https://arxiv.org/pdf/2307.09474.pdf) <br> | arXiv | 2023-07-18 | - | [Demo](https://chatspot.streamlit.app/) |
 | ![Star](https://img.shields.io/github/stars/magic-research/bubogpt.svg?style=social&label=Star) <br> [**BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs**](https://arxiv.org/pdf/2307.08581.pdf) <br> | arXiv | 2023-07-17 | [Github](https://github.com/magic-research/bubogpt) | [Coming soon]() |
 | ![Star](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star) <br> [**Generative Pretraining in Multimodality**](https://arxiv.org/pdf/2307.05222.pdf) <br> | arXiv | 2023-07-11 | [Github](https://github.com/baaivision/Emu) | [Demo](http://218.91.113.230:9002/) |
 | ![Star](https://img.shields.io/github/stars/BAAI-DCAI/Visual-Instruction-Tuning.svg?style=social&label=Star) <br> [**SVIT: Scaling up Visual Instruction Tuning**](https://arxiv.org/pdf/2307.04087.pdf) <br> | arXiv | 2023-07-09 | [Github](https://github.com/BAAI-DCAI/Visual-Instruction-Tuning) | - |
@@ -247,7 +247,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Datasets of Multimodal Instruction Tuning
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
-| **MGVLID** | [ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning](https://arxiv.org/pdf/2307.09474.pdf) | [Coming soon](https://chatspot.streamlit.app/) | A high-quality instruction-tuning dataset including image-text and region-text pairs |
+| **MGVLID** | [ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning](https://arxiv.org/pdf/2307.09474.pdf) | - | A high-quality instruction-tuning dataset including image-text and region-text pairs |
 | **BuboGPT** | [BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs](https://arxiv.org/pdf/2307.08581.pdf) | [Link](https://huggingface.co/datasets/magicr/BuboGPT) | A high-quality instruction-tuning dataset including audio-text audio caption data and audio-image-text localization data |
 | **SVIT** | [SVIT: Scaling up Visual Instruction Tuning](https://arxiv.org/pdf/2307.04087.pdf) | [Link](https://huggingface.co/datasets/BAAI/SVIT) | A large-scale dataset with 3.2M informative instruction tuning data |
 | **mPLUG-DocOwl** | [mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding](https://arxiv.org/pdf/2307.02499.pdf) | [Link](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocLLM) | An instruction tuning dataset featuring a wide range of visual-text understanding tasks including OCR-free document understanding | 
