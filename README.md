@@ -59,9 +59,6 @@ If you find our projects helpful to your research, please cite the following pap
 ---
 
 <font size=5><center><b> Table of Contents </b> </center></font>
-
-- [Awesome-Multimodal-Large-Language-Models](#awesome-multimodal-large-language-models)
-  - [Our MLLM works](#our-mllm-works)
 - [Awesome Papers](#awesome-papers)
   - [Multimodal Instruction Tuning](#multimodal-instruction-tuning)
   - [Multimodal In-Context Learning](#multimodal-in-context-learning)
