@@ -81,6 +81,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/rese1f/MovieChat.svg?style=social&label=Star) <br> [**MovieChat: From Dense Token to Sparse Memory for Long Video Understanding**](https://arxiv.org/pdf/2307.16449.pdf) <br> | arXiv | 2023-07-31 | [Github](https://github.com/rese1f/MovieChat) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM.svg?style=social&label=Star) <br> [**3D-LLM: Injecting the 3D World into Large Language Models**](https://arxiv.org/pdf/2307.12981.pdf) <br> | arXiv | 2023-07-24 | [Github](https://github.com/UMass-Foundation-Model/3D-LLM) | - | 
 | [**ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning**](https://arxiv.org/pdf/2307.09474.pdf) <br> | arXiv | 2023-07-18 | - | [Demo](https://chatspot.streamlit.app/) |
 | ![Star](https://img.shields.io/github/stars/magic-research/bubogpt.svg?style=social&label=Star) <br> [**BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs**](https://arxiv.org/pdf/2307.08581.pdf) <br> | arXiv | 2023-07-17 | [Github](https://github.com/magic-research/bubogpt) | [Coming soon]() |
