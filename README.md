@@ -81,6 +81,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/OpenGVLab/All-Seeing.svg?style=social&label=Star) <br> [**The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World**](https://arxiv.org/pdf/2308.01907.pdf) <br> | arXiv | 2023-08-03 | [Github](https://github.com/OpenGVLab/All-Seeing) | [Demo](https://huggingface.co/spaces/OpenGVLab/all-seeing) | 
 | ![Star](https://img.shields.io/github/stars/rese1f/MovieChat.svg?style=social&label=Star) <br> [**MovieChat: From Dense Token to Sparse Memory for Long Video Understanding**](https://arxiv.org/pdf/2307.16449.pdf) <br> | arXiv | 2023-07-31 | [Github](https://github.com/rese1f/MovieChat) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM.svg?style=social&label=Star) <br> [**3D-LLM: Injecting the 3D World into Large Language Models**](https://arxiv.org/pdf/2307.12981.pdf) <br> | arXiv | 2023-07-24 | [Github](https://github.com/UMass-Foundation-Model/3D-LLM) | - | 
 | [**ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning**](https://arxiv.org/pdf/2307.09474.pdf) <br> | arXiv | 2023-07-18 | - | [Demo](https://chatspot.streamlit.app/) |
@@ -226,6 +227,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Datasets of Pre-Training for Alignment
 | Name | Paper | Type | Modalities |
 |:-----|:-----:|:----:|:----------:|
+| **AS-1B** | [The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World](https://arxiv.org/pdf/2308.01907.pdf) | Hybrid | Image-Text |
 | **InternVid** | [InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation](https://arxiv.org/pdf/2307.06942.pdf) | Caption | Video-Text |
 | **MS-COCO** | [Microsoft COCO: Common Objects in Context](https://arxiv.org/pdf/1405.0312.pdf) | Caption | Image-Text |
 | **SBU Captions** | [Im2Text: Describing Images Using 1 Million Captioned Photographs](https://proceedings.neurips.cc/paper/2011/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf) | Caption | Image-Text |
