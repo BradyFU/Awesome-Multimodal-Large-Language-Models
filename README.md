@@ -204,6 +204,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/yuweihao/MM-Vet.svg?style=social&label=Star) <br> [**MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities**](https://arxiv.org/pdf/2308.02490.pdf) <br> | arXiv | 2023-08-04 | [Github](https://github.com/yuweihao/MM-Vet) |
 | ![Star](https://img.shields.io/github/stars/InternLM/OpenCompass.svg?style=social&label=Star) <br> [**MMBench: Is Your Multi-modal Model an All-around Player?**](https://arxiv.org/pdf/2307.06281.pdf) <br> | arXiv | 2023-07-12 | [Github](https://github.com/InternLM/opencompass) |
 | ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star) <br> [**MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**](https://arxiv.org/pdf/2306.13394.pdf) <br> | arXiv | 2023-06-23 | [Github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation) |
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/Multi-Modality-Arena.svg?style=social&label=Star) <br> [**LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models**](https://arxiv.org/pdf/2306.09265.pdf) <br> | arXiv | 2023-06-15 | [Github](https://github.com/OpenGVLab/Multi-Modality-Arena) | 
@@ -291,6 +292,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **MM-Vet**| [MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities](https://arxiv.org/pdf/2308.02490.pdf) | [Link](https://github.com/yuweihao/MM-Vet) | An evaluation benchmark that examines large multimodal models on complicated multimodal tasks |
 | **MMBench** | [MMBench: Is Your Multi-modal Model an All-around Player?](https://arxiv.org/pdf/2307.06281.pdf) | [Link](https://github.com/InternLM/opencompass) | A systematically-designed objective benchmark for robustly evaluating the various abilities of vision-language models|
 | **Lynx** | [What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?](https://arxiv.org/pdf/2307.02469.pdf) | [Coming soon]() |  A comprehensive evaluation benchmark including both image and video tasks |
 | **MME** | [MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models](https://arxiv.org/pdf/2306.13394.pdf) | [Link](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation) | A comprehensive MLLM Evaluation benchmark |
