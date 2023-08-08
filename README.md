@@ -204,6 +204,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| [**SciGraphQA: A Large-Scale Synthetic Multi-Turn Question-Answering Dataset for Scientific Graphs**](https://arxiv.org/pdf/2308.03349.pdf) | arXiv | 2023-08-07 | [Coming soon]() | 
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/Multi-Modality-Arena.svg?style=social&label=Star) <br> [**Tiny LVLM-eHub: Early Multimodal Experiments with Bard**](https://arxiv.org/pdf/2308.03729.pdf) <br> | arXiv | 2023-08-07 | [Github](https://github.com/OpenGVLab/Multi-Modality-Arena) | 
 | ![Star](https://img.shields.io/github/stars/yuweihao/MM-Vet.svg?style=social&label=Star) <br> [**MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities**](https://arxiv.org/pdf/2308.02490.pdf) <br> | arXiv | 2023-08-04 | [Github](https://github.com/yuweihao/MM-Vet) |
 | ![Star](https://img.shields.io/github/stars/InternLM/OpenCompass.svg?style=social&label=Star) <br> [**MMBench: Is Your Multi-modal Model an All-around Player?**](https://arxiv.org/pdf/2307.06281.pdf) <br> | arXiv | 2023-07-12 | [Github](https://github.com/InternLM/opencompass) |
@@ -293,6 +294,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **SciGraphQA** | [SciGraphQA: A Large-Scale Synthetic Multi-Turn Question-Answering Dataset for Scientific Graphs](https://arxiv.org/pdf/2308.03349.pdf) | [Coming soon]() | A large-scale chart-visual question-answering dataset |
 | **MM-Vet**| [MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities](https://arxiv.org/pdf/2308.02490.pdf) | [Link](https://github.com/yuweihao/MM-Vet) | An evaluation benchmark that examines large multimodal models on complicated multimodal tasks |
 | **MMBench** | [MMBench: Is Your Multi-modal Model an All-around Player?](https://arxiv.org/pdf/2307.06281.pdf) | [Link](https://github.com/InternLM/opencompass) | A systematically-designed objective benchmark for robustly evaluating the various abilities of vision-language models|
 | **Lynx** | [What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?](https://arxiv.org/pdf/2307.02469.pdf) | [Coming soon]() |  A comprehensive evaluation benchmark including both image and video tasks |
