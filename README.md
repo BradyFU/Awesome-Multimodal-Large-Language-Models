@@ -79,9 +79,10 @@ If you find our projects helpful to your research, please cite the following pap
 ---
 
 # Evaluation Results
+
 The top 5 on the perception and cognition leaderboards:
 
-<img src="./images/evaluation.png" width="80%" height="80%">
+<img src="./images/evaluation_plot.png" width="80%" height="80%">
 
 
 # Evaluation Leaderboards
