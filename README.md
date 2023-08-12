@@ -26,7 +26,7 @@ If you want to add your model in our leaderboards, please feel free to email bra
 
 The benchmark dataset is collected by Xiamen University for academic research only. You can email guilinli@stu.xmu.edu.cn to obtain the dataset, according to the following requirement. 
 
-**Requirement**: A real-name system is encouraged for better academic communication. Your email suffix needs to match your affiliation, such as xx@stu.xmu.edu.cn and Xiamen University. Otherwise, you need to explain why. Please include the information bellow when sending your application email.
+**Requirement**: A real-name system is encouraged for better academic communication. Your email suffix needs to match your affiliation, such as xx@stu.xmu.edu.cn and Xiamen University. Otherwise, you need to explain why. Please include the information below when sending your application email.
 
 ```
 Name: (tell us who you are.)
@@ -302,6 +302,7 @@ If you find our projects helpful to your research, please cite the following pap
 | **MM-Vet**| [MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities](https://arxiv.org/pdf/2308.02490.pdf) | [Link](https://github.com/yuweihao/MM-Vet) | An evaluation benchmark that examines large multimodal models on complicated multimodal tasks |
 | **MMBench** | [MMBench: Is Your Multi-modal Model an All-around Player?](https://arxiv.org/pdf/2307.06281.pdf) | [Link](https://github.com/InternLM/opencompass) | A systematically-designed objective benchmark for robustly evaluating the various abilities of vision-language models|
 | **Lynx** | [What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?](https://arxiv.org/pdf/2307.02469.pdf) | [Coming soon]() |  A comprehensive evaluation benchmark including both image and video tasks |
+| **GAVIE** | [Aligning Large Multi-Modal Model with Robust Instruction Tuning](https://arxiv.org/pdf/2306.14565.pdf) | [Link](https://github.com/FuxiaoLiu/LRV-Instruction#evaluationgavie) | A benchmark to evaluate the hallucination and instruction following ability | 
 | **MME** | [MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models](https://arxiv.org/pdf/2306.13394.pdf) | [Link](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation) | A comprehensive MLLM Evaluation benchmark |
 | **LVLM-eHub** | [LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models](https://arxiv.org/pdf/2306.09265.pdf) | [Link](https://github.com/OpenGVLab/Multi-Modality-Arena) | An evaluation platform for MLLMs |
 | **LAMM-Benchmark** | [LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark](https://arxiv.org/pdf/2306.06687.pdf) | [Link](https://github.com/OpenLAMM/LAMM#lamm-benchmark) | A benchmark for evaluating  the quantitative performance of MLLMs on various2D/3D vision tasks |
