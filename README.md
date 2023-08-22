@@ -81,6 +81,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/icoz69/StableLLAVA.svg?style=social&label=Star) <br> [**StableLLaVA: Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data**](https://arxiv.org/pdf/2308.10253v1.pdf) <br> | arXiv | 2023-08-20 | [Github](https://github.com/icoz69/StableLLAVA) | - |
 | ![Star](https://img.shields.io/github/stars/DCDmllm/Cheetah.svg?style=social&label=Star) <br> [**Empowering Vision-Language Models to Follow Interleaved Vision-Language Instructions**](https://arxiv.org/pdf/2308.04152.pdf) <br> | arXiv | 2023-08-08 | [Github](https://github.com/DCDmllm/Cheetah) | - |
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/All-Seeing.svg?style=social&label=Star) <br> [**The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World**](https://arxiv.org/pdf/2308.01907.pdf) <br> | arXiv | 2023-08-03 | [Github](https://github.com/OpenGVLab/All-Seeing) | [Demo](https://huggingface.co/spaces/OpenGVLab/all-seeing) | 
 | ![Star](https://img.shields.io/github/stars/rese1f/MovieChat.svg?style=social&label=Star) <br> [**MovieChat: From Dense Token to Sparse Memory for Long Video Understanding**](https://arxiv.org/pdf/2307.16449.pdf) <br> | arXiv | 2023-07-31 | [Github](https://github.com/rese1f/MovieChat) | Local Demo |
@@ -259,6 +260,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Datasets of Multimodal Instruction Tuning
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **StableLLaVA** | [StableLLaVA: Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data](https://arxiv.org/pdf/2308.10253v1.pdf) | [Coming soon](https://github.com/icoz69/StableLLAVA) | A cheap and effective approach to collect visual instruction tuning data |
 | **M-HalDetect** | [Detecting and Preventing Hallucinations in Large Vision Language Models](https://arxiv.org/pdf/2308.06394.pdf) | [Coming soon]() | A dataset used to train and benchmark models for hallucination detection and prevention | 
 | **MGVLID** | [ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning](https://arxiv.org/pdf/2307.09474.pdf) | - | A high-quality instruction-tuning dataset including image-text and region-text pairs |
 | **BuboGPT** | [BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs](https://arxiv.org/pdf/2307.08581.pdf) | [Link](https://huggingface.co/datasets/magicr/BuboGPT) | A high-quality instruction-tuning dataset including audio-text audio caption data and audio-image-text localization data |
