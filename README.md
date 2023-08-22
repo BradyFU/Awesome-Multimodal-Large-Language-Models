@@ -81,6 +81,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/mlpc-ucsd/BLIVA.svg?style=social&label=Star) <br> [**BLIVA: A Simple Multimodal LLM for Better Handling of Text-rich Visual Questions**](https://arxiv.org/pdf/2308.09936.pdf) <br> | arXiv | 2023-08-19 | [Github](https://github.com/mlpc-ucsd/BLIVA) | [Demo](https://huggingface.co/spaces/mlpc-lab/BLIVA) | 
 | ![Star](https://img.shields.io/github/stars/DCDmllm/Cheetah.svg?style=social&label=Star) <br> [**Empowering Vision-Language Models to Follow Interleaved Vision-Language Instructions**](https://arxiv.org/pdf/2308.04152.pdf) <br> | arXiv | 2023-08-08 | [Github](https://github.com/DCDmllm/Cheetah) | - |
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/All-Seeing.svg?style=social&label=Star) <br> [**The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World**](https://arxiv.org/pdf/2308.01907.pdf) <br> | arXiv | 2023-08-03 | [Github](https://github.com/OpenGVLab/All-Seeing) | [Demo](https://huggingface.co/spaces/OpenGVLab/all-seeing) | 
 | ![Star](https://img.shields.io/github/stars/rese1f/MovieChat.svg?style=social&label=Star) <br> [**MovieChat: From Dense Token to Sparse Memory for Long Video Understanding**](https://arxiv.org/pdf/2307.16449.pdf) <br> | arXiv | 2023-07-31 | [Github](https://github.com/rese1f/MovieChat) | Local Demo |
