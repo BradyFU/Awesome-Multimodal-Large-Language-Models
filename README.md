@@ -132,6 +132,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Multimodal In-Context Learning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://github.com/isekai-portal/Link-Context-Learning) <br> [**Link-Context Learning for Multimodal LLMs**](https://arxiv.org/pdf/2308.07891.pdf) <br> | arXiv | 2023-08-15 | [Github](https://github.com/isekai-portal/Link-Context-Learning) | [Demo](http://117.144.81.99:20488/) | 
 | ![Star](https://img.shields.io/github/stars/mlfoundations/open_flamingo.svg?style=social&label=Star) <br> [**OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models**](https://arxiv.org/pdf/2308.01390.pdf) <br> | arXiv | 2023-08-02 | [Github](https://github.com/mlfoundations/open_flamingo) | [Demo](https://huggingface.co/spaces/openflamingo/OpenFlamingo) | 
 | ![Star](https://img.shields.io/github/stars/snap-stanford/med-flamingo.svg?style=social&label=Star) <br> [**Med-Flamingo: a Multimodal Medical Few-shot Learner**](https://arxiv.org/pdf/2307.15189.pdf) <br> | arXiv | 2023-07-27 | [Github](https://github.com/snap-stanford/med-flamingo) | Local Demo | 
 | ![Star](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star) <br> [**Generative Pretraining in Multimodality**](https://arxiv.org/pdf/2307.05222.pdf) <br> | arXiv | 2023-07-11 | [Github](https://github.com/baaivision/Emu) | [Demo](http://218.91.113.230:9002/) |
@@ -305,6 +306,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **ISEKAI** | [Link-Context Learning for Multimodal LLMs](https://arxiv.org/pdf/2308.07891.pdf) | [Link](https://huggingface.co/ISEKAI-Portal) | A benchmark comprising exclusively of unseen generated image-label pairs designed for link-context learning | 
 | **M-HalDetect** | [Detecting and Preventing Hallucinations in Large Vision Language Models](https://arxiv.org/pdf/2308.06394.pdf) | [Coming soon]() | A dataset used to train and benchmark models for hallucination detection and prevention | 
 | **I4** | [Empowering Vision-Language Models to Follow Interleaved Vision-Language Instructions](https://arxiv.org/pdf/2308.04152.pdf) | [Link](https://github.com/DCDmllm/Cheetah) | A benchmark to comprehensively evaluate the instruction following ability on complicated interleaved vision-language instructions | 
 | **SciGraphQA** | [SciGraphQA: A Large-Scale Synthetic Multi-Turn Question-Answering Dataset for Scientific Graphs](https://arxiv.org/pdf/2308.03349.pdf) | [Coming soon]() | A large-scale chart-visual question-answering dataset |
