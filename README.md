@@ -81,6 +81,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**VIGC: Visual Instruction Generation and Correction**](https://arxiv.org/pdf/2308.12714.pdf) | arXiv | 2023-08-24 | [Coming soon]() | - | 
 | ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-VL.svg?style=social&label=Star) <br> [**Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities**](https://arxiv.org/pdf/2308.12966.pdf) <br> | arXiv | 2023-08-24 | [Github](https://github.com/QwenLM/Qwen-VL) | [Demo](https://modelscope.cn/studios/qwen/Qwen-VL-Chat-Demo/summary) | 
 | ![Star](https://img.shields.io/github/stars/mlpc-ucsd/BLIVA.svg?style=social&label=Star) <br> [**BLIVA: A Simple Multimodal LLM for Better Handling of Text-rich Visual Questions**](https://arxiv.org/pdf/2308.09936.pdf) <br> | arXiv | 2023-08-19 | [Github](https://github.com/mlpc-ucsd/BLIVA) | [Demo](https://huggingface.co/spaces/mlpc-lab/BLIVA) |
 | ![Star](https://img.shields.io/github/stars/DCDmllm/Cheetah.svg?style=social&label=Star) <br> [**Empowering Vision-Language Models to Follow Interleaved Vision-Language Instructions**](https://arxiv.org/pdf/2308.04152.pdf) <br> | arXiv | 2023-08-08 | [Github](https://github.com/DCDmllm/Cheetah) | - |
