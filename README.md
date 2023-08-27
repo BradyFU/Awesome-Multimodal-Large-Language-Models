@@ -131,27 +131,27 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 
 ### Existence
 
-| Rank |      Model       |             Version             |   Score    |
-| :--: | :--------------: | :-----------------------------: | :--------: |
-|  🏅️   |    **Otter**     |      **OTTER-Image-MPT7B**      | **195.00** |
-|  🏅️   |     **Lynx**     |          **vicuna-7b**          | **195.00** |
-|  🥈   |     **GIT2**     |       **VQAv2-finetuned**       | **190.00** |
-|  🥉   | **InstructBLIP** |  **blip2-instruct-flant5xxl**   | **185.00** |
-|  🥉   |    **LaVIN**     |          **LAVIN-13B**          | **185.00** |
-|  4   |     Octopus      |              MPT7B              |   180.00   |
-|  4   |     Cheetor      |            vicuna-7b            |   180.00   |
-|  5   |      MMICL       |            FlanT5xxl            |   175.00   |
-|  6   | LRV-Instruction  |             LRV-7B              |   165.00   |
-|  7   |      BLIP-2      |    blip2-pretrain-flant5xxl     |   160.00   |
-|  8   |  ImageBind_LLM   |        imagebind_LLM-7B         |   128.33   |
-|  9   |    mPLUG-Owl     |       mplug-owl-llama-7b        |   120.00   |
-|  9   | LLaMA-Adapter V2 |           LLaMAv2-7B            |   120.00   |
-|  10  |   VisualGLM-6B   |          VisualGLM-6B           |   85.00    |
-|  11  |     PandaGPT     |     pandagpt-7b-max-len-512     |   70.00    |
-|  11  |     VPGTrans     |          vl-vicuna-7b           |   70.00    |
-|  12  |    MiniGPT-4     | minigpt4-aligned-with-vicuna13b |   68.33    |
-|  13  |  Multimodal-GPT  |        Multimodal-GPT-9B        |   61.67    |
-|  14  |      LLaVA       |           LLaVA-7B-v0           |   50.00    |
+| Rank |                            Model                             |                           Version                            |   Score    |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|  🏅️   |      **[Otter](https://arxiv.org/pdf/2305.03726.pdf)**       |  **[OTTER-Image-MPT7B](https://github.com/Luodian/Otter)**   | **195.00** |
+|  🏅️   |       **[Lynx](https://arxiv.org/pdf/2307.02469.pdf)**       |    **[vicuna-7b](https://github.com/bytedance/lynx-llm)**    | **195.00** |
+|  🥈   |       **[GIT2](https://arxiv.org/pdf/2205.14100.pdf)**       | **[VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text)** | **190.00** |
+|  🥉   |   **[InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)**   | **[blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)** | **185.00** |
+|  🥉   |      **[LaVIN](https://arxiv.org/pdf/2305.15023.pdf)**       |     **[LAVIN-13B](https://github.com/luogen1996/LaVIN)**     | **185.00** |
+|  4   |      [Octopus](https://5e517712ad3e493895.gradio.live/)      |                            MPT7B                             |   180.00   |
+|  4   |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [vicuna-7b](https://github.com/DCDmllm/Cheetah)        |   180.00   |
+|  5   |          [MMICL](https://github.com/HaozheZhao/MIC)          |        [FlanT5xxl](https://github.com/HaozheZhao/MIC)        |   175.00   |
+|  6   |   [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)    |    [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)    |   165.00   |
+|  7   |        [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)        | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |   160.00   |
+|  8   | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) |   128.33   |
+|  9   |      [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)       | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   120.00   |
+|  9   |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) |   120.00   |
+|  10  |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   85.00    |
+|  11  |       [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)       | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   70.00    |
+|  11  |       [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)       |     [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)     |   70.00    |
+|  12  |      [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)       | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |   68.33    |
+|  13  |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   61.67    |
+|  14  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   50.00    |
 
 ### Count
 
