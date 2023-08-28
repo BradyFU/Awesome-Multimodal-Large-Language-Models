@@ -81,6 +81,7 @@ If you find our projects helpful to your research, please cite the following pap
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/THUNLP-MT/PVIT.svg?style=social&label=Star) <br> [**Position-Enhanced Visual Instruction Tuning for Multimodal Large Language Models**](https://arxiv.org/pdf/2308.13437.pdf) <br> | arXiv | 2023-08-25 | [Github](https://github.com/THUNLP-MT/PVIT) | - | 
 | [**VIGC: Visual Instruction Generation and Correction**](https://arxiv.org/pdf/2308.12714.pdf) | arXiv | 2023-08-24 | [Coming soon]() | - | 
 | ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-VL.svg?style=social&label=Star) <br> [**Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities**](https://arxiv.org/pdf/2308.12966.pdf) <br> | arXiv | 2023-08-24 | [Github](https://github.com/QwenLM/Qwen-VL) | [Demo](https://modelscope.cn/studios/qwen/Qwen-VL-Chat-Demo/summary) | 
 | ![Star](https://img.shields.io/github/stars/icoz69/StableLLAVA.svg?style=social&label=Star) <br> [**StableLLaVA: Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data**](https://arxiv.org/pdf/2308.10253v1.pdf) <br> | arXiv | 2023-08-20 | [Github](https://github.com/icoz69/StableLLAVA) | - |
