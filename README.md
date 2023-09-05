@@ -66,7 +66,7 @@ If you find our projects helpful to your research, please cite the following pap
 
 # News 🚀
 
-**[2023-08]** 
+**[2023-09]** 
 
 1. [09-01] Thanks to [**Will Zhang**](https://github.com/will-singularity), [**Skywork-MM**](https://github.com/will-singularity/Skywork-MM/tree/main) takes part in our leaderboards. 🔥🔥
 
