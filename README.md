@@ -81,6 +81,7 @@ How to use: (only for non-commercial use)
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning**](https://arxiv.org/pdf/2309.02591.pdf) | arXiv | 2023-09-05 | - | - | 
 | [**CIEM: Contrastive Instruction Evaluation Method for Better Instruction Tuning**](https://arxiv.org/pdf/2309.02301.pdf) | arXiv | 2023-09-05 | - | - | 
 | ![Star](https://img.shields.io/github/stars/OpenRobotLab/PointLLM.svg?style=social&label=Star) <br> [**PointLLM: Empowering Large Language Models to Understand Point Clouds**](https://arxiv.org/pdf/2308.16911.pdf) <br> | arXiv | 2023-08-31 | [Github](https://github.com/OpenRobotLab/PointLLM) | [Demo](http://101.230.144.196/) |
 | [**MLLM-DataEngine: An Iterative Refinement Approach for MLLM**](https://arxiv.org/pdf/2308.13566.pdf) | arXiv | 2023-08-25 | [Coming soon]() | - |
