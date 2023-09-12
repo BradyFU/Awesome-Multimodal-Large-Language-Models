@@ -85,6 +85,7 @@ How to use: (only for non-commercial use)
 | [**Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning**](https://arxiv.org/pdf/2309.02591.pdf) | arXiv | 2023-09-05 | - | - | 
 | [**CIEM: Contrastive Instruction Evaluation Method for Better Instruction Tuning**](https://arxiv.org/pdf/2309.02301.pdf) | arXiv | 2023-09-05 | - | - | 
 | ![Star](https://img.shields.io/github/stars/OpenRobotLab/PointLLM.svg?style=social&label=Star) <br> [**PointLLM: Empowering Large Language Models to Understand Point Clouds**](https://arxiv.org/pdf/2308.16911.pdf) <br> | arXiv | 2023-08-31 | [Github](https://github.com/OpenRobotLab/PointLLM) | [Demo](http://101.230.144.196/) |
+| ![Star](https://img.shields.io/github/stars/HYPJUDY/Sparkles.svg?style=social&label=Star) <br> [**✨Sparkles: Unlocking Chats Across Multiple Images for Multimodal Instruction-Following Models**](https://arxiv.org/pdf/2308.16463.pdf) <br> | arXiv | 2023-08-31 | [Github](https://github.com/HYPJUDY/Sparkles) | [Demo](https://www.youtube.com/watch?v=GyBUqfHbp2w) |
 | [**MLLM-DataEngine: An Iterative Refinement Approach for MLLM**](https://arxiv.org/pdf/2308.13566.pdf) | arXiv | 2023-08-25 | [Coming soon]() | - |
 | [**Position-Enhanced Visual Instruction Tuning for Multimodal Large Language Models**](https://arxiv.org/pdf/2308.13437.pdf) | arXiv | 2023-08-25 | [Coming soon](https://github.com/THUNLP-MT/PVIT) | - | 
 | [**VIGC: Visual Instruction Generation and Correction**](https://arxiv.org/pdf/2308.12714.pdf) | arXiv | 2023-08-24 | [Coming soon]() | - | 
@@ -222,7 +223,8 @@ How to use: (only for non-commercial use)
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
-| [**TouchStone: Evaluating Vision-Language Models by Language Models**](https://arxiv.org/pdf/2308.16890.pdf) | arXiv | 2023-08-31 | [Github](https://github.com/OFA-Sys/TouchStone)
+| [**TouchStone: Evaluating Vision-Language Models by Language Models**](https://arxiv.org/pdf/2308.16890.pdf) | arXiv | 2023-08-31 | [Github](https://github.com/OFA-Sys/TouchStone) |
+| [**✨Sparkles: Unlocking Chats Across Multiple Images for Multimodal Instruction-Following Models**](https://arxiv.org/pdf/2308.16463.pdf) | arXiv | 2023-08-31 | [Github](https://github.com/HYPJUDY/Sparkles#sparkleseval) |
 | [**SciGraphQA: A Large-Scale Synthetic Multi-Turn Question-Answering Dataset for Scientific Graphs**](https://arxiv.org/pdf/2308.03349.pdf) | arXiv | 2023-08-07 | [Coming soon]() | 
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/Multi-Modality-Arena.svg?style=social&label=Star) <br> [**Tiny LVLM-eHub: Early Multimodal Experiments with Bard**](https://arxiv.org/pdf/2308.03729.pdf) <br> | arXiv | 2023-08-07 | [Github](https://github.com/OpenGVLab/Multi-Modality-Arena) | 
 | ![Star](https://img.shields.io/github/stars/yuweihao/MM-Vet.svg?style=social&label=Star) <br> [**MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities**](https://arxiv.org/pdf/2308.02490.pdf) <br> | arXiv | 2023-08-04 | [Github](https://github.com/yuweihao/MM-Vet) |
@@ -274,6 +276,7 @@ How to use: (only for non-commercial use)
 ## Datasets of Multimodal Instruction Tuning
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **SparklesDialogue** | [✨Sparkles: Unlocking Chats Across Multiple Images for Multimodal Instruction-Following Models](https://arxiv.org/pdf/2308.16463.pdf) | [Link](https://github.com/HYPJUDY/Sparkles#sparklesdialogue) | A machine-generated dialogue dataset tailored for word-level interleaved multi-image and text interactions to augment the conversational competence of instruction-following LLMs across multiple images and dialogue turns. |
 | **StableLLaVA** | [StableLLaVA: Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data](https://arxiv.org/pdf/2308.10253v1.pdf) | [Link](https://github.com/icoz69/StableLLAVA) | A cheap and effective approach to collect visual instruction tuning data |
 | **M-HalDetect** | [Detecting and Preventing Hallucinations in Large Vision Language Models](https://arxiv.org/pdf/2308.06394.pdf) | [Coming soon]() | A dataset used to train and benchmark models for hallucination detection and prevention | 
 | **MGVLID** | [ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning](https://arxiv.org/pdf/2307.09474.pdf) | - | A high-quality instruction-tuning dataset including image-text and region-text pairs |
@@ -317,6 +320,7 @@ How to use: (only for non-commercial use)
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **SparklesEval** | [✨Sparkles: Unlocking Chats Across Multiple Images for Multimodal Instruction-Following Models](https://arxiv.org/pdf/2308.16463.pdf) | [Github](https://github.com/HYPJUDY/Sparkles#sparkleseval) | A GPT-assisted benchmark for quantitatively assessing a model's conversational competence across multiple images and dialogue turns based on three distinct criteria. |
 | **ISEKAI** | [Link-Context Learning for Multimodal LLMs](https://arxiv.org/pdf/2308.07891.pdf) | [Link](https://huggingface.co/ISEKAI-Portal) | A benchmark comprising exclusively of unseen generated image-label pairs designed for link-context learning |
 | **M-HalDetect** | [Detecting and Preventing Hallucinations in Large Vision Language Models](https://arxiv.org/pdf/2308.06394.pdf) | [Coming soon]() | A dataset used to train and benchmark models for hallucination detection and prevention | 
 | **I4** | [Empowering Vision-Language Models to Follow Interleaved Vision-Language Instructions](https://arxiv.org/pdf/2308.04152.pdf) | [Link](https://github.com/DCDmllm/Cheetah) | A benchmark to comprehensively evaluate the instruction following ability on complicated interleaved vision-language instructions | 
