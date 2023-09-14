@@ -81,6 +81,7 @@ How to use: (only for non-commercial use)
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/UCSC-VLAA/Sight-Beyond-Text.svg?style=social&label=Star) <br> [Sight Beyond Text: Multi-Modal Training Enhances LLMs in Truthfulness and Ethics](https://arxiv.org/pdf/2309.07120.pdf) <br> | arXiv | 2023-09-13 | [Github](https://github.com/UCSC-VLAA/Sight-Beyond-Text) | - |
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter.svg?style=social&label=Star) <br> [**ImageBind-LLM: Multi-modality Instruction Tuning**](https://arxiv.org/pdf/2309.03905.pdf) <br> | arXiv | 2023-09-07 | [Github](https://github.com/OpenGVLab/LLaMA-Adapter) | [Demo](http://imagebind-llm.opengvlab.com/) |
 | [**Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning**](https://arxiv.org/pdf/2309.02591.pdf) | arXiv | 2023-09-05 | - | - | 
 | [**CIEM: Contrastive Instruction Evaluation Method for Better Instruction Tuning**](https://arxiv.org/pdf/2309.02301.pdf) | arXiv | 2023-09-05 | - | - | 
