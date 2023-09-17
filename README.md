@@ -99,29 +99,6 @@ If you find our projects helpful to your research, please cite the following pap
 
 The top 5 on the perception and cognition leaderboards:
 
-<img src="./images/evaluation-0905.png" width="80%" height="80%">
-
-
-# Evaluation Leaderboards
-
-<img src="./images/xmind.png" width="96%" height="96%">
-
----
-
-<font size=5><center><b> Table of Leaderboards </b> </center></font>
-
-- [Perception](#perception)
-  - [Existence](#existence) | [Count](#count) | [Position](#position) | [Color](#color) | [Poster](#poster) | [Celebrity](#celebrity) | [Scene](#scene) | [Landmark](#landmark) | [Artwork](#artwork) | [OCR](#ocr)
-- [Cognition](#cognition)
-  - [Commonsense Reasoning](#commonsense-reasoning) | [Numerical Calculation](#numerical-calculation) | [Text Translation](#text-translation) | [Code Reasoning](#code-reasoning)
-
----
-
-
-# Evaluation Results
-
-The top 5 on the perception and cognition leaderboards:
-
 <img src="./images/evaluation-0916.png" width="80%" height="80%">
 
 
