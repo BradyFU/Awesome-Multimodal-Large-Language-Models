@@ -81,6 +81,8 @@ How to use: (only for non-commercial use)
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/SihengLi99/TextBind.svg?style=social&label=Star) <br> [**TextBind: Multi-turn Interleaved Multimodal Instruction-following**](https://arxiv.org/pdf/2309.08637.pdf) <br> | arXiv | 2023-09-18 | [Github](https://github.com/SihengLi99/TextBind) | [Demo](https://ailabnlp.tencent.com/research_demos/textbind/) |
+| ![Star](https://img.shields.io/github/stars/haotian-liu/LLaVA.svg?style=social&label=Star) <br> [**An Empirical Study of Scaling Instruction-Tuned Large Multimodal Models**](https://arxiv.org/pdf/2309.09958.pdf) <br> | arXiv | 2023-09-18 | [Github](https://github.com/haotian-liu/LLaVA) | - |
 | ![Star](https://img.shields.io/github/stars/NExT-GPT/NExT-GPT.svg?style=social&label=Star) <br> [**NExT-GPT: Any-to-Any Multimodal LLM**](https://arxiv.org/pdf/2309.05519.pdf) <br> | arXiv | 2023-09-11 | [Github](https://github.com/NExT-GPT/NExT-GPT) | [Demo](https://fc7a82a1c76b336b6f.gradio.live/) |
 | ![Star](https://img.shields.io/github/stars/UCSC-VLAA/Sight-Beyond-Text.svg?style=social&label=Star) <br> [**Sight Beyond Text: Multi-Modal Training Enhances LLMs in Truthfulness and Ethics**](https://arxiv.org/pdf/2309.07120.pdf) <br> | arXiv | 2023-09-13 | [Github](https://github.com/UCSC-VLAA/Sight-Beyond-Text) | - |
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter.svg?style=social&label=Star) <br> [**ImageBind-LLM: Multi-modality Instruction Tuning**](https://arxiv.org/pdf/2309.03905.pdf) <br> | arXiv | 2023-09-07 | [Github](https://github.com/OpenGVLab/LLaMA-Adapter) | [Demo](http://imagebind-llm.opengvlab.com/) |
@@ -183,6 +185,8 @@ How to use: (only for non-commercial use)
 ## LLM-Aided Visual Reasoning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**MindAgent: Emergent Gaming Interaction**](https://arxiv.org/pdf/2309.09971.pdf) <br> | arXiv | 2023-09-19 | [Coming Soon]() | [Coming Soon]() | 
+| [**S3-DST: Structured Open-Domain Dialogue Segmentation and State Tracking in the Era of LLMs**](https://arxiv.org/pdf/2309.08827.pdf) <br> | arXiv | 2023-09-19 | [Coming Soon]() | [Coming Soon]() | 
 | ![Star](https://img.shields.io/github/stars/dvlab-research/LISA.svg?style=social&label=Star) <br> [**LISA: Reasoning Segmentation via Large Language Model**](https://arxiv.org/pdf/2308.00692.pdf) <br> | arXiv | 2023-08-01 | [Github](https://github.com/dvlab-research/LISA) | [Coming Soon]() | 
 | ![Star](https://img.shields.io/github/stars/ContextualAI/lens.svg?style=social&label=Star) <br> [**Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language**](https://arxiv.org/pdf/2306.16410.pdf) <br> | arXiv | 2023-06-28 | [Github](https://github.com/ContextualAI/lens) | [Demo](https://lens.contextual.ai/) |
 | [**Retrieving-to-Answer: Zero-Shot Video Question Answering with Frozen Large Language Models**](https://arxiv.org/pdf/2306.11732.pdf) | arXiv | 2023-06-15 | - | - |
