@@ -214,7 +214,7 @@ How to use: (only for non-commercial use)
 ## Foundation Models
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Multimodal Foundation Models: From Specialists to General-Purpose Assistants**| arXiv | 2023-09-18 | - | - |
+| **Multimodal Foundation Models: From Specialists to General-Purpose Assistants** | arXiv | 2023-09-18 | - | - |
 | ![Star](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star) <br> [**Generative Pretraining in Multimodality**](https://arxiv.org/pdf/2307.05222.pdf) <br> | arXiv | 2023-07-11 | [Github](https://github.com/baaivision/Emu) | [Demo](http://218.91.113.230:9002/) |
 | ![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star) <br> [**Kosmos-2: Grounding Multimodal Large Language Models to the World**](https://arxiv.org/pdf/2306.14824.pdf) <br> | arXiv | 2023-06-26 | [Github](https://github.com/microsoft/unilm/tree/master/kosmos-2) | [Demo](https://aka.ms/kosmos-2-demo) |
 | ![Star](https://img.shields.io/github/stars/VPGTrans/VPGTrans.svg?style=social&label=Star) <br> [**Transfer Visual Prompt Generator across LLMs**](https://arxiv.org/pdf/2305.01278.pdf) <br> | arXiv | 2023-05-02 | [Github](https://github.com/VPGTrans/VPGTrans) | [Demo](https://3fc7715dbc44234a7f.gradio.live/) | 
