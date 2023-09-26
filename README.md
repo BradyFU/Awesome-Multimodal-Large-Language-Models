@@ -37,6 +37,12 @@ How to use: (only for non-commercial use)
 ```
 </details>
 
+---
+
+🚀🔥🔥 **[Hallucination Correction for MLLMs](https://github.com/BradyFU/Hallucination-Correction-for-MLLMs)**  
+**[Code](https://github.com/BradyFU/Hallucination-Correction-for-MLLMs)** | **[Online Demo](https://3f42ced93bd85313af.gradio.live)** | **[Paper [Coming Soon]](https://github.com/BradyFU/Hallucination-Correction-for-MLLMs)**
+This is the first work to correct hallucination in multimodal large language models. The code and online demo have been released, and the paper will be coming soon!
+
 
 <br> **📑 If you find our projects helpful to your research, please consider citing:** <br>
 ```
