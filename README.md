@@ -42,7 +42,7 @@ How to use: (only for non-commercial use)
 🔥🔥🔥 **Woodpecker: Hallucination Correction for MLLMs** 🚀🚀🚀  
 
 <p align="center">
-    <img src="./images/woodpecker.png" width="88%" height="88%">
+    <img src="./images/woodpecker.png" width="80%" height="80%">
 </p>
 
 **[Source Code](https://github.com/BradyFU/Woodpecker)** | **[Online Demo](https://3f42ced93bd85313af.gradio.live)** | **[Paper [Coming Soon]](https://github.com/BradyFU/Woodpecker)**
