@@ -113,7 +113,7 @@ If you find our projects helpful to your research, please cite the following pap
 
 The top 5 on the perception and cognition leaderboards:
 
-<img src="./images/evaluation-0926.png" width="80%" height="80%">
+<img src="./images/evaluation-0927.png" width="80%" height="80%">
 
 
 # Evaluation Leaderboards
@@ -135,450 +135,467 @@ The top 5 on the perception and cognition leaderboards:
 
 Sum of the scores of all perception subtasks, including existence, count, position, color, poster, celebrity, scene, landmark, artwork, and OCR. The full score of each subtask is 200, and that of all perception is 2000.
 
-| Rank | Model                                                        | Version                                                      | Score   |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- |
-| 🏅️    | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) | 1528.45 |
-| 🥈    | [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)           | [Qwen-7B](https://github.com/QwenLM/Qwen-VL)                 | 1487.58 |
-| 🥉    | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) | 1419.08 |
-| 4    | [MMICL](https://github.com/HaozheZhao/MIC)                   | [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)            | 1381.73 |
-| 5    | [Lynx](https://arxiv.org/pdf/2307.02469.pdf)                 | [vicuna-7b](https://github.com/bytedance/lynx-llm)           | 1373.23 |
-| 6    | [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)                | [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)              | 1337.73 |
-| 7    | [GIT2](https://arxiv.org/pdf/2205.14100.pdf)                 | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) | 1332.05 |
-| 8    | [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)              | [vicuna-7b](https://github.com/DCDmllm/Cheetah)              | 1299.96 |
-| 9    | [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)      | [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)       | 1299.78 |
-| 10   | [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)               | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) | 1293.84 |
-| 11   | [Otter](https://arxiv.org/pdf/2305.03726.pdf)                | [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)        | 1292.26 |
-| 12   | [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)         | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) | 1212.82 |
-| 13   | [Octopus](https://5e517712ad3e493895.gradio.live/)           | MPT7B                                                        | 1095.76 |
-| 14   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)     | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) | 972.67  |
-| 15   | [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)            | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) | 967.34  |
-| 16   | [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)                | [LAVIN-13B](https://github.com/luogen1996/LaVIN)             | 963.60  |
-| 17   | [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)             | [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)         | 790.45  |
-| 18   | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) | 775.77  |
-| 19   | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | 705.31  |
-| 20   | [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)       | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) | 654.72  |
-| 21   | [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)             | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) | 642.59  |
-| 22   | [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)            | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) | 581.67  |
-| 23   | [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)                | [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)          | 502.82  |
+| Rank |                            Model                             |                           Version                            |    Score    |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------: |
+|  🏅️   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **1545.80** |
+|  🥈   | **[InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer)** | **[InternLM-7B](https://github.com/InternLM/InternLM-XComposer)** | **1528.45** |
+|  🥉   |    **[Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)**    |       **[Qwen-7B](https://github.com/QwenLM/Qwen-VL)**       | **1487.58** |
+|  4   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   1419.08   |
+|  5   |          [MMICL](https://github.com/HaozheZhao/MIC)          |      [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)       |   1381.73   |
+|  6   |         [Lynx](https://arxiv.org/pdf/2307.02469.pdf)         |      [vicuna-7b](https://github.com/bytedance/lynx-llm)      |   1373.23   |
+|  7   |        [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)         |       [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)        |   1337.73   |
+|  8   |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) |   1332.05   |
+|  9   |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [vicuna-7b](https://github.com/DCDmllm/Cheetah)        |   1299.96   |
+|  10  |   [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)    |    [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)    |   1299.78   |
+|  11  |        [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)        | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |   1293.84   |
+|  12  |        [Otter](https://arxiv.org/pdf/2305.03726.pdf)         |    [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)     |   1292.26   |
+|  13  |     [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)     | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |   1212.82   |
+|  14  |      [Octopus](https://5e517712ad3e493895.gradio.live/)      |                            MPT7B                             |   1095.76   |
+|  15  |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) |   972.67    |
+|  16  |      [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)       | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   967.34    |
+|  17  |        [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)         |       [LAVIN-13B](https://github.com/luogen1996/LaVIN)       |   963.60    |
+|  18  |       [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)       |     [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)     |   790.45    |
+|  19  | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) |   775.77    |
+|  20  |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   705.31    |
+|  21  |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   654.72    |
+|  22  |       [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)       | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   642.59    |
+|  23  |      [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)       | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |   581.67    |
+|  24  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   502.82    |
 
 ### Existence
 
-| Rank | Model                                                        | Version                                                      | Score  |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| 🏅️    | [Otter](https://arxiv.org/pdf/2305.03726.pdf)                | [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)        | 195.00 |
-| 🥈    | [Lynx](https://arxiv.org/pdf/2307.02469.pdf)                 | [vicuna-7b](https://github.com/bytedance/lynx-llm)           | 195.00 |
-| 🥉    | [GIT2](https://arxiv.org/pdf/2205.14100.pdf)                 | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) | 190.00 |
-| 4    | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) | 190.00 |
-| 5    | [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)         | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) | 185.00 |
-| 6    | [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)                | [LAVIN-13B](https://github.com/luogen1996/LaVIN)             | 185.00 |
-| 7    | [Octopus](https://5e517712ad3e493895.gradio.live/)           | MPT7B                                                        | 180.00 |
-| 8    | [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)              | [vicuna-7b](https://github.com/DCDmllm/Cheetah)              | 180.00 |
-| 9    | [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)                | [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)              | 180.00 |
-| 10   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) | 180.00 |
-| 11   | [MMICL](https://github.com/HaozheZhao/MIC)                   | [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)            | 170.00 |
-| 12   | [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)      | [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)       | 165.00 |
-| 13   | [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)               | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) | 160.00 |
-| 14   | [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)           | [Qwen-7B](https://github.com/QwenLM/Qwen-VL)                 | 158.33 |
-| 15   | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) | 128.33 |
-| 16   | [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)            | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) | 120.00 |
-| 17   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)     | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) | 120.00 |
-| 18   | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | 85.00  |
-| 19   | [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)             | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) | 70.00  |
-| 20   | [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)             | [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)         | 70.00  |
-| 21   | [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)            | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) | 68.33  |
-| 22   | [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)       | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) | 61.67  |
-| 23   | [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)                | [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)          | 50.00  |
+| Rank |                            Model                             |                           Version                            |   Score    |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|  🏅️   |      **[Otter](https://arxiv.org/pdf/2305.03726.pdf)**       |  **[OTTER-Image-MPT7B](https://github.com/Luodian/Otter)**   | **195.00** |
+|  🏅️   |       **[Lynx](https://arxiv.org/pdf/2307.02469.pdf)**       |    **[vicuna-7b](https://github.com/bytedance/lynx-llm)**    | **195.00** |
+|  🥈   |       **[GIT2](https://arxiv.org/pdf/2205.14100.pdf)**       | **[VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text)** | **190.00** |
+|  🥈   | **[InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer)** | **[InternLM-7B](https://github.com/InternLM/InternLM-XComposer)** | **190.00** |
+|  🥈   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **190.00** |
+|  🥉   |   **[InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)**   | **[blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)** | **185.00** |
+|  🥉   |      **[LaVIN](https://arxiv.org/pdf/2305.15023.pdf)**       |     **[LAVIN-13B](https://github.com/luogen1996/LaVIN)**     | **185.00** |
+|  4   |      [Octopus](https://5e517712ad3e493895.gradio.live/)      |                            MPT7B                             |   180.00   |
+|  4   |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [vicuna-7b](https://github.com/DCDmllm/Cheetah)        |   180.00   |
+|  4   |        [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)         |       [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)        |   180.00   |
+|  4   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   180.00   |
+|  5   |          [MMICL](https://github.com/HaozheZhao/MIC)          |      [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)       |   170.00   |
+|  6   |   [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)    |    [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)    |   165.00   |
+|  7   |        [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)        | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |   160.00   |
+|  8   |      [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)      |         [Qwen-7B](https://github.com/QwenLM/Qwen-VL)         |   158.33   |
+|  9   | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) |   128.33   |
+|  10  |      [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)       | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   120.00   |
+|  10  |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) |   120.00   |
+|  11  |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   85.00    |
+|  12  |       [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)       | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   70.00    |
+|  12  |       [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)       |     [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)     |   70.00    |
+|  13  |      [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)       | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |   68.33    |
+|  14  |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   61.67    |
+|  15  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   50.00    |
 
 ### Count
 
-| Rank | Model                                                        | Version                                                      | Score  |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| 🏅️    | [MMICL](https://github.com/HaozheZhao/MIC)                   | [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)            | 160.00 |
-| 🥈    | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) | 158.33 |
-| 🥉    | [Lynx](https://arxiv.org/pdf/2307.02469.pdf)                 | [vicuna-7b](https://github.com/bytedance/lynx-llm)           | 151.67 |
-| 4    | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) | 151.67 |
-| 5    | [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)           | [Qwen-7B](https://github.com/QwenLM/Qwen-VL)                 | 150.00 |
-| 6    | [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)         | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) | 143.33 |
-| 7    | [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)                | [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)              | 138.33 |
-| 8    | [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)               | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) | 135.00 |
-| 9    | [GIT2](https://arxiv.org/pdf/2205.14100.pdf)                 | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) | 118.33 |
-| 10   | [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)      | [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)       | 111.67 |
-| 11   | [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)              | [vicuna-7b](https://github.com/DCDmllm/Cheetah)              | 96.67  |
-| 12   | [Otter](https://arxiv.org/pdf/2305.03726.pdf)                | [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)        | 88.33  |
-| 13   | [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)                | [LAVIN-13B](https://github.com/luogen1996/LaVIN)             | 88.33  |
-| 14   | [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)             | [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)         | 85.00  |
-| 15   | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) | 60.00  |
-| 16   | [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)            | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) | 55.00  |
-| 17   | [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)       | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) | 55.00  |
-| 18   | [Octopus](https://5e517712ad3e493895.gradio.live/)           | MPT7B                                                        | 53.33  |
-| 19   | [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)            | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) | 50.00  |
-| 20   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)     | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) | 50.00  |
-| 21   | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | 50.00  |
-| 22   | [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)             | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) | 50.00  |
-| 23   | [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)                | [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)          | 50.00  |
+| Rank |                            Model                             |                           Version                            |   Score    |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|  🏅️   |        **[MMICL](https://github.com/HaozheZhao/MIC)**        |    **[FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)**     | **160.00** |
+|  🥈   | **[InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer)** | **[InternLM-7B](https://github.com/InternLM/InternLM-XComposer)** | **158.33** |
+|  🥉   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **155.00** |
+|  4   |         [Lynx](https://arxiv.org/pdf/2307.02469.pdf)         |      [vicuna-7b](https://github.com/bytedance/lynx-llm)      |   151.67   |
+|  4   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   151.67   |
+|  5   |      [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)      |         [Qwen-7B](https://github.com/QwenLM/Qwen-VL)         |   150.00   |
+|  7   |     [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)     | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |   143.33   |
+|  8   |        [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)         |       [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)        |   138.33   |
+|  9   |        [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)        | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |   135.00   |
+|  10  |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) |   118.33   |
+|  11  |   [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)    |    [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)    |   111.67   |
+|  12  |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [vicuna-7b](https://github.com/DCDmllm/Cheetah)        |   96.67    |
+|  13  |        [Otter](https://arxiv.org/pdf/2305.03726.pdf)         |    [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)     |   88.33    |
+|  13  |        [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)         |       [LAVIN-13B](https://github.com/luogen1996/LaVIN)       |   88.33    |
+|  14  |       [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)       |     [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)     |   85.00    |
+|  15  | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) |   60.00    |
+|  16  |      [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)       | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |   55.00    |
+|  16  |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   55.00    |
+|  17  |      [Octopus](https://5e517712ad3e493895.gradio.live/)      |                            MPT7B                             |   53.33    |
+|  18  |      [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)       | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   50.00    |
+|  18  |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) |   50.00    |
+|  18  |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   50.00    |
+|  18  |       [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)       | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   50.00    |
+|  18  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   50.00    |
 
 ### Position
 
-| Rank | Model                                                        | Version                                                      | Score  |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| 🏅️    | [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)           | [Qwen-7B](https://github.com/QwenLM/Qwen-VL)                 | 128.33 |
-| 🥈    | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) | 126.67 |
-| 🥉    | [GIT2](https://arxiv.org/pdf/2205.14100.pdf)                 | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) | 96.67  |
-| 4    | [Lynx](https://arxiv.org/pdf/2307.02469.pdf)                 | [vicuna-7b](https://github.com/bytedance/lynx-llm)           | 90.00  |
-| 5    | [Otter](https://arxiv.org/pdf/2305.03726.pdf)                | [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)        | 86.67  |
-| 6    | [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)      | [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)       | 86.67  |
-| 7    | [MMICL](https://github.com/HaozheZhao/MIC)                   | [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)            | 81.67  |
-| 8    | [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)                | [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)              | 81.67  |
-| 9    | [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)              | [vicuna-7b](https://github.com/DCDmllm/Cheetah)              | 80.00  |
-| 10   | [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)               | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) | 73.33  |
-| 11   | [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)         | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) | 66.67  |
-| 12   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) | 63.33  |
-| 13   | [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)                | [LAVIN-13B](https://github.com/luogen1996/LaVIN)             | 63.33  |
-| 14   | [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)             | [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)         | 63.33  |
-| 15   | [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)       | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) | 58.33  |
-| 16   | [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)            | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) | 50.00  |
-| 17   | [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)             | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) | 50.00  |
-| 18   | [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)                | [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)          | 50.00  |
-| 19   | [Octopus](https://5e517712ad3e493895.gradio.live/)           | MPT7B                                                        | 48.33  |
-| 20   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)     | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) | 48.33  |
-| 21   | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | 48.33  |
-| 22   | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) | 46.67  |
-| 23   |                                                              |                                                              | 43.33  |
+| Rank |                            Model                             |                           Version                            |   Score    |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|  🏅️   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **153.33** |
+|  🥈   |    **[Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)**    |       **[Qwen-7B](https://github.com/QwenLM/Qwen-VL)**       | **128.33** |
+|  🥉   | **[InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer)** | **[InternLM-7B](https://github.com/InternLM/InternLM-XComposer)** | **126.67** |
+|  4   |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) |   96.67    |
+|  5   |         [Lynx](https://arxiv.org/pdf/2307.02469.pdf)         |      [vicuna-7b](https://github.com/bytedance/lynx-llm)      |   90.00    |
+|  6   |        [Otter](https://arxiv.org/pdf/2305.03726.pdf)         |    [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)     |   86.67    |
+|  6   |   [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)    |    [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)    |   86.67    |
+|  7   |          [MMICL](https://github.com/HaozheZhao/MIC)          |      [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)       |   81.67    |
+|  7   |        [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)         |       [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)        |   81.67    |
+|  8   |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [vicuna-7b](https://github.com/DCDmllm/Cheetah)        |   80.00    |
+|  9   |        [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)        | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |   73.33    |
+|  10  |     [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)     | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |   66.67    |
+|  11  | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   63.33    |
+|  11  |        [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)         |       [LAVIN-13B](https://github.com/luogen1996/LaVIN)       |   63.33    |
+|  11  |       [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)       |     [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)     |   63.33    |
+|  12  |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   58.33    |
+|  13  |      [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)       | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   50.00    |
+|  13  |       [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)       | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   50.00    |
+|  13  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   50.00    |
+|  14  |      [Octopus](https://5e517712ad3e493895.gradio.live/)      |                            MPT7B                             |   48.33    |
+|  14  |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) |   48.33    |
+|  14  |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   48.33    |
+|  15  | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) |   46.67    |
+|  16  |      [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)       | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |   43.33    |
 
 ### Color
 
-| Rank | Model                                                        | Version                                                      | Score  |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| 🏅️    | [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)                | [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)              | 180.00 |
-| 🥈    | [Lynx](https://arxiv.org/pdf/2307.02469.pdf)                 | [vicuna-7b](https://github.com/bytedance/lynx-llm)           | 170.00 |
-| 🥉    | [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)           | [Qwen-7B](https://github.com/QwenLM/Qwen-VL)                 | 170.00 |
-| 4    | [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)      | [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)       | 165.00 |
-| 5    | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) | 165.00 |
-| 6    | [GIT2](https://arxiv.org/pdf/2205.14100.pdf)                 | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) | 158.33 |
-| 7    | [MMICL](https://github.com/HaozheZhao/MIC)                   | [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)            | 156.67 |
-| 8    | [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)         | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) | 153.33 |
-| 9    | [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)               | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) | 148.33 |
-| 10   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) | 145.00 |
-| 11   | [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)              | [vicuna-7b](https://github.com/DCDmllm/Cheetah)              | 116.67 |
-| 12   | [Otter](https://arxiv.org/pdf/2305.03726.pdf)                | [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)        | 113.33 |
-| 13   | [Octopus](https://5e517712ad3e493895.gradio.live/)           | MPT7B                                                        | 103.33 |
-| 14   | [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)            | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) | 75.00  |
-| 15   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)     | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) | 75.00  |
-| 16   | [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)                | [LAVIN-13B](https://github.com/luogen1996/LaVIN)             | 75.00  |
-| 17   | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) | 73.33  |
-| 18   | [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)             | [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)         | 73.33  |
-| 19   | [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)       | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) | 68.33  |
-| 20   | [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)            | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) | 55.00  |
-| 21   | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | 55.00  |
-| 22   | [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)                | [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)          | 55.00  |
-| 23   | [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)             | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) | 50.00  |
+| Rank |                            Model                             |                           Version                            |   Score    |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|  🏅️   |      **[BLIVA](https://arxiv.org/pdf/2308.09936.pdf)**       |     **[FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)**      | **180.00** |
+|  🏅️   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **180.00** |
+|  🥈   |       **[Lynx](https://arxiv.org/pdf/2307.02469.pdf)**       |    **[vicuna-7b](https://github.com/bytedance/lynx-llm)**    | **170.00** |
+|  🥈   |    **[Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)**    |       **[Qwen-7B](https://github.com/QwenLM/Qwen-VL)**       | **170.00** |
+|  🥉   | **[LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)**  |  **[LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)**  | **165.00** |
+|  🥉   | **[InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer)** | **[InternLM-7B](https://github.com/InternLM/InternLM-XComposer)** | **165.00** |
+|  4   |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) |   158.33   |
+|  5   |          [MMICL](https://github.com/HaozheZhao/MIC)          |      [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)       |   156.67   |
+|  6   |     [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)     | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |   153.33   |
+|  7   |        [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)        | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |   148.33   |
+|  8   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   145.00   |
+|  9   |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [vicuna-7b](https://github.com/DCDmllm/Cheetah)        |   116.67   |
+|  10  |        [Otter](https://arxiv.org/pdf/2305.03726.pdf)         |    [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)     |   113.33   |
+|  11  |      [Octopus](https://5e517712ad3e493895.gradio.live/)      |                            MPT7B                             |   103.33   |
+|  12  |      [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)       | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |   75.00    |
+|  12  |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) |   75.00    |
+|  12  |        [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)         |       [LAVIN-13B](https://github.com/luogen1996/LaVIN)       |   75.00    |
+|  13  | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) |   73.33    |
+|  13  |       [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)       |     [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)     |   73.33    |
+|  14  |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   68.33    |
+|  15  |      [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)       | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   55.00    |
+|  15  |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   55.00    |
+|  15  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   55.00    |
+|  16  |       [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)       | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   50.00    |
 
 ### Poster
 
-| Rank | Model                                                        | Version                                                      | Score  |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| 🏅️    | [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)           | [Qwen-7B](https://github.com/QwenLM/Qwen-VL)                 | 178.57 |
-| 🥈    | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) | 175.85 |
-| 🥉    | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) | 161.90 |
-| 4    | [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)                | [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)              | 155.10 |
-| 5    | [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)              | [vicuna-7b](https://github.com/DCDmllm/Cheetah)              | 147.28 |
-| 6    | [MMICL](https://github.com/HaozheZhao/MIC)                   | [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)            | 146.26 |
-| 7    | [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)               | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) | 141.84 |
-| 8    | [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)      | [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)       | 139.04 |
-| 9    | [Otter](https://arxiv.org/pdf/2305.03726.pdf)                | [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)        | 138.78 |
-| 10   | [Octopus](https://5e517712ad3e493895.gradio.live/)           | MPT7B                                                        | 138.10 |
-| 11   | [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)            | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) | 136.05 |
-| 12   | [Lynx](https://arxiv.org/pdf/2307.02469.pdf)                 | [vicuna-7b](https://github.com/bytedance/lynx-llm)           | 124.83 |
-| 13   | [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)         | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) | 123.81 |
-| 14   | [GIT2](https://arxiv.org/pdf/2205.14100.pdf)                 | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) | 112.59 |
-| 15   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)     | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) | 99.66  |
-| 16   | [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)             | [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)         | 84.01  |
-| 17   | [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)                | [LAVIN-13B](https://github.com/luogen1996/LaVIN)             | 79.59  |
-| 18   | [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)             | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) | 76.53  |
-| 19   | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | 65.99  |
-| 20   | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) | 64.97  |
-| 21   | [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)       | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) | 57.82  |
-| 22   | [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)                | [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)          | 50.00  |
-| 23   | [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)            | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) | 41.84  |
+| Rank |                            Model                             |                           Version                            |   Score    |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|  🏅️   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **181.63** |
+|  🥈   |    **[Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)**    |       **[Qwen-7B](https://github.com/QwenLM/Qwen-VL)**       | **178.57** |
+|  🥉   | **[Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main)** | **[Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main)** | **175.85** |
+|  4   | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) |   161.90   |
+|  5   |        [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)         |       [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)        |   155.10   |
+|  6   |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [vicuna-7b](https://github.com/DCDmllm/Cheetah)        |   147.28   |
+|  7   |          [MMICL](https://github.com/HaozheZhao/MIC)          |      [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)       |   146.26   |
+|  8   |        [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)        | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |   141.84   |
+|  9   |   [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)    |    [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)    |   139.04   |
+|  10  |        [Otter](https://arxiv.org/pdf/2305.03726.pdf)         |    [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)     |   138.78   |
+|  11  |      [Octopus](https://5e517712ad3e493895.gradio.live/)      |                            MPT7B                             |   138.10   |
+|  12  |      [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)       | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   136.05   |
+|  13  |         [Lynx](https://arxiv.org/pdf/2307.02469.pdf)         |      [vicuna-7b](https://github.com/bytedance/lynx-llm)      |   124.83   |
+|  14  |     [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)     | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |   123.81   |
+|  15  |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) |   112.59   |
+|  16  |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) |   99.66    |
+|  17  |       [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)       |     [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)     |   84.01    |
+|  18  |        [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)         |       [LAVIN-13B](https://github.com/luogen1996/LaVIN)       |   79.59    |
+|  19  |       [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)       | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   76.53    |
+|  20  |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   65.99    |
+|  21  | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) |   64.97    |
+|  22  |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   57.82    |
+|  23  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   50.00    |
+|  24  |      [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)       | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |   41.84    |
 
 ### Celebrity
 
-| Rank | Model                                                        | Version                                                      | Score  |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| 🏅️    | [Otter](https://arxiv.org/pdf/2305.03726.pdf)                | [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)        | 172.65 |
-| 🥈    | [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)              | [vicuna-7b](https://github.com/DCDmllm/Cheetah)              | 164.12 |
-| 🥉    | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) | 160.29 |
-| 4    | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) | 150.29 |
-| 5    | [GIT2](https://arxiv.org/pdf/2205.14100.pdf)                 | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) | 145.88 |
-| 6    | [MMICL](https://github.com/HaozheZhao/MIC)                   | [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)            | 141.76 |
-| 7    | [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)                | [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)              | 140.88 |
-| 8    | [Octopus](https://5e517712ad3e493895.gradio.live/)           | MPT7B                                                        | 129.41 |
-| 9    | [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)           | [Qwen-7B](https://github.com/QwenLM/Qwen-VL)                 | 120.59 |
-| 10   | [Lynx](https://arxiv.org/pdf/2307.02469.pdf)                 | [vicuna-7b](https://github.com/bytedance/lynx-llm)           | 118.24 |
-| 11   | [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)      | [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)       | 112.65 |
-| 12   | [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)               | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) | 105.59 |
-| 13   | [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)         | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) | 101.18 |
-| 14   | [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)            | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) | 100.29 |
-| 15   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)     | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) | 86.18  |
-| 16   | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) | 76.47  |
-| 17   | [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)       | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) | 73.82  |
-| 18   | [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)             | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) | 57.06  |
-| 19   | [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)            | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) | 54.41  |
-| 20   | [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)             | [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)         | 53.53  |
-| 21   | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | 53.24  |
-| 22   | [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)                | [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)          | 48.82  |
-| 23   | [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)                | [LAVIN-13B](https://github.com/luogen1996/LaVIN)             | 47.35  |
+| Rank |                            Model                             |                           Version                            |   Score    |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|  🏅️   |      **[Otter](https://arxiv.org/pdf/2305.03726.pdf)**       |  **[OTTER-Image-MPT7B](https://github.com/Luodian/Otter)**   | **172.65** |
+|  🥈   |     **[Cheetor](https://arxiv.org/pdf/2308.04152.pdf)**      |     **[vicuna-7b](https://github.com/DCDmllm/Cheetah)**      | **164.12** |
+|  🥉   | **[Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main)** | **[Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main)** | **160.29** |
+|  4   |        [Lion](https://github.com/mynameischaos/Lion)         |     [InternLM-7B](https://github.com/mynameischaos/Lion)     |   150.59   |
+|  5   | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) |   150.29   |
+|  6   |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) |   145.88   |
+|  7   |          [MMICL](https://github.com/HaozheZhao/MIC)          |      [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)       |   141.76   |
+|  8   |        [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)         |       [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)        |   140.88   |
+|  9   |      [Octopus](https://5e517712ad3e493895.gradio.live/)      |                            MPT7B                             |   129.41   |
+|  10  |      [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)      |         [Qwen-7B](https://github.com/QwenLM/Qwen-VL)         |   120.59   |
+|  11  |         [Lynx](https://arxiv.org/pdf/2307.02469.pdf)         |      [vicuna-7b](https://github.com/bytedance/lynx-llm)      |   118.24   |
+|  12  |   [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)    |    [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)    |   112.65   |
+|  13  |        [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)        | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |   105.59   |
+|  14  |     [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)     | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |   101.18   |
+|  15  |      [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)       | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   100.29   |
+|  16  |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) |   86.18    |
+|  17  | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) |   76.47    |
+|  18  |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   73.82    |
+|  19  |       [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)       | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   57.06    |
+|  20  |      [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)       | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |   54.41    |
+|  21  |       [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)       |     [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)     |   53.53    |
+|  22  |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   53.24    |
+|  23  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   48.82    |
+|  24  |        [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)         |       [LAVIN-13B](https://github.com/luogen1996/LaVIN)       |   47.35    |
 
 ### Scene
 
-| Rank | Model                                                        | Version                                                      | Score  |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| 🏅️    | [Lynx](https://arxiv.org/pdf/2307.02469.pdf)                 | [vicuna-7b](https://github.com/bytedance/lynx-llm)           | 164.50 |
-| 🥈    | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) | 159.75 |
-| 🥉    | [Otter](https://arxiv.org/pdf/2305.03726.pdf)                | [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)        | 158.75 |
-| 4    | [GIT2](https://arxiv.org/pdf/2205.14100.pdf)                 | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) | 158.50 |
-| 5    | [Octopus](https://5e517712ad3e493895.gradio.live/)           | MPT7B                                                        | 157.25 |
-| 6    | [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)              | [vicuna-7b](https://github.com/DCDmllm/Cheetah)              | 156.00 |
-| 7    | [MMICL](https://github.com/HaozheZhao/MIC)                   | [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)            | 153.75 |
-| 8    | [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)         | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) | 153.00 |
-| 9    | [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)           | [Qwen-7B](https://github.com/QwenLM/Qwen-VL)                 | 152.25 |
-| 10   | [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)                | [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)              | 151.50 |
-| 11   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)     | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) | 148.50 |
-| 12   | [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)      | [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)       | 147.98 |
-| 13   | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | 146.25 |
-| 14   | [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)               | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) | 145.25 |
-| 15   | [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)             | [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)         | 141.75 |
-| 16   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) | 138.89 |
-| 17   | [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)                | [LAVIN-13B](https://github.com/luogen1996/LaVIN)             | 136.75 |
-| 18   | [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)            | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) | 135.50 |
-| 19   | [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)             | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) | 118.00 |
-| 20   | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) | 113.25 |
-| 21   | [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)            | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) | 71.75  |
-| 22   | [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)       | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) | 68.00  |
-| 23   | [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)                | [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)          | 50.00  |
+| Rank |                            Model                             |                           Version                            |   Score    |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|  🏅️   |       **[Lynx](https://arxiv.org/pdf/2307.02469.pdf)**       |    **[vicuna-7b](https://github.com/bytedance/lynx-llm)**    | **164.50** |
+|  🥈   | **[InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer)** | **[InternLM-7B](https://github.com/InternLM/InternLM-XComposer)** | **159.75** |
+|  🥉   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **159.00** |
+|  4   |        [Otter](https://arxiv.org/pdf/2305.03726.pdf)         |    [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)     |   158.75   |
+|  5   |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) |   158.50   |
+|  6   |      [Octopus](https://5e517712ad3e493895.gradio.live/)      |                            MPT7B                             |   157.25   |
+|  7   |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [vicuna-7b](https://github.com/DCDmllm/Cheetah)        |   156.00   |
+|  8   |          [MMICL](https://github.com/HaozheZhao/MIC)          |      [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)       |   153.75   |
+|  9   |     [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)     | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |   153.00   |
+|  10  |      [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)      |         [Qwen-7B](https://github.com/QwenLM/Qwen-VL)         |   152.25   |
+|  11  |        [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)         |       [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)        |   151.50   |
+|  12  |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) |   148.50   |
+|  13  |   [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)    |    [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)    |   147.98   |
+|  14  |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   146.25   |
+|  15  |        [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)        | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |   145.25   |
+|  16  |       [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)       |     [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)     |   141.75   |
+|  17  | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   138.89   |
+|  18  |        [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)         |       [LAVIN-13B](https://github.com/luogen1996/LaVIN)       |   136.75   |
+|  19  |      [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)       | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   135.50   |
+|  20  |       [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)       | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   118.00   |
+|  21  | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) |   113.25   |
+|  22  |      [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)       | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |   71.75    |
+|  23  |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   68.00    |
+|  24  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   50.00    |
 
 ### Landmark
 
-| Rank | Model                                                        | Version                                                      | Score  |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| 🏅️    | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) | 165.25 |
-| 🥈    | [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)           | [Qwen-7B](https://github.com/QwenLM/Qwen-VL)                 | 164.00 |
-| 🥉    | [Lynx](https://arxiv.org/pdf/2307.02469.pdf)                 | [vicuna-7b](https://github.com/bytedance/lynx-llm)           | 162.00 |
-| 4    | [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)      | [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)       | 160.53 |
-| 5    | [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)            | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) | 159.25 |
-| 6    | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)     | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) | 150.25 |
-| 7    | [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)              | [vicuna-7b](https://github.com/DCDmllm/Cheetah)              | 145.73 |
-| 8    | [GIT2](https://arxiv.org/pdf/2205.14100.pdf)                 | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) | 140.50 |
-| 9    | [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)               | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) | 138.00 |
-| 10   | [Otter](https://arxiv.org/pdf/2305.03726.pdf)                | [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)        | 137.25 |
-| 11   | [MMICL](https://github.com/HaozheZhao/MIC)                   | [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)            | 136.13 |
-| 12   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) | 127.04 |
-| 13   | [Octopus](https://5e517712ad3e493895.gradio.live/)           | MPT7B                                                        | 126.00 |
-| 14   | [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)                | [LAVIN-13B](https://github.com/luogen1996/LaVIN)             | 93.50  |
-| 15   | [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)                | [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)              | 89.50  |
-| 16   | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | 83.75  |
-| 17   | [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)         | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) | 79.75  |
-| 18   | [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)       | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) | 69.75  |
-| 19   | [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)             | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) | 69.75  |
-| 20   | [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)             | [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)         | 64.75  |
-| 21   | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) | 62.00  |
-| 22   | [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)            | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) | 54.00  |
-| 23   | [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)                | [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)          | 50.00  |
+| Rank |                            Model                             |                           Version                            |   Score    |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|  🏅️   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **173.00** |
+|  🥈   | **[InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer)** | **[InternLM-7B](https://github.com/InternLM/InternLM-XComposer)** | **165.25** |
+|  🥉   |    **[Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)**    |       **[Qwen-7B](https://github.com/QwenLM/Qwen-VL)**       | **164.00** |
+|  4   |         [Lynx](https://arxiv.org/pdf/2307.02469.pdf)         |      [vicuna-7b](https://github.com/bytedance/lynx-llm)      |   162.00   |
+|  5   |   [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)    |    [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)    |   160.53   |
+|  6   |      [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)       | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   159.25   |
+|  7   |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) |   150.25   |
+|  8   |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [vicuna-7b](https://github.com/DCDmllm/Cheetah)        |   145.73   |
+|  9   |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) |   140.50   |
+|  10  |        [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)        | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |   138.00   |
+|  11  |        [Otter](https://arxiv.org/pdf/2305.03726.pdf)         |    [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)     |   137.25   |
+|  12  |          [MMICL](https://github.com/HaozheZhao/MIC)          |      [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)       |   136.13   |
+|  13  | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   127.04   |
+|  14  |      [Octopus](https://5e517712ad3e493895.gradio.live/)      |                            MPT7B                             |   126.00   |
+|  15  |        [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)         |       [LAVIN-13B](https://github.com/luogen1996/LaVIN)       |   93.50    |
+|  16  |        [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)         |       [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)        |   89.50    |
+|  17  |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   83.75    |
+|  18  |     [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)     | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |   79.75    |
+|  19  |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   69.75    |
+|  20  |       [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)       | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   69.75    |
+|  21  |       [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)       |     [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)     |   64.75    |
+|  22  | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) |   62.00    |
+|  23  |      [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)       | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |   54.00    |
+|  24  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   50.00    |
 
 ### Artwork
 
-| Rank | Model                                                        | Version                                                      | Score  |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| 🏅️    | [GIT2](https://arxiv.org/pdf/2205.14100.pdf)                 | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) | 146.25 |
-| 🥈    | [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)               | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) | 136.50 |
-| 🥉    | [MMICL](https://github.com/HaozheZhao/MIC)                   | [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)            | 135.50 |
-| 4    | [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)         | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) | 134.25 |
-| 5    | [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)                | [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)              | 133.25 |
-| 6    | [Otter](https://arxiv.org/pdf/2305.03726.pdf)                | [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)        | 129.00 |
-| 7    | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) | 126.25 |
-| 8    | [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)           | [Qwen-7B](https://github.com/QwenLM/Qwen-VL)                 | 125.50 |
-| 9    | [Lynx](https://arxiv.org/pdf/2307.02469.pdf)                 | [vicuna-7b](https://github.com/bytedance/lynx-llm)           | 119.50 |
-| 10   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) | 114.51 |
-| 11   | [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)              | [vicuna-7b](https://github.com/DCDmllm/Cheetah)              | 113.50 |
-| 12   | [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)      | [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)       | 101.25 |
-| 13   | [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)            | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) | 96.25  |
-| 14   | [Octopus](https://5e517712ad3e493895.gradio.live/)           | MPT7B                                                        | 95.00  |
-| 15   | [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)                | [LAVIN-13B](https://github.com/luogen1996/LaVIN)             | 87.25  |
-| 16   | [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)             | [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)         | 77.25  |
-| 17   | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | 75.25  |
-| 18   | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) | 70.75  |
-| 19   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)     | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) | 69.75  |
-| 20   | [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)            | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) | 60.50  |
-| 21   | [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)       | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) | 59.50  |
-| 22   | [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)             | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) | 51.25  |
-| 23   | [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)                | [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)          | 49.00  |
+| Rank |                            Model                             |                           Version                            |   Score    |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|  🏅️   |       **[GIT2](https://arxiv.org/pdf/2205.14100.pdf)**       | **[VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text)** | **146.25** |
+|  🥈   |      **[BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)**      | **[blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)** | **136.50** |
+|  🥉   |        **[MMICL](https://github.com/HaozheZhao/MIC)**        |    **[FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)**     | **135.50** |
+|  4   |     [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)     | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |   134.25   |
+|  5   |        [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)         |       [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)        |   133.25   |
+|  6   |        [Lion](https://github.com/mynameischaos/Lion)         |     [InternLM-7B](https://github.com/mynameischaos/Lion)     |   130.75   |
+|  7   |        [Otter](https://arxiv.org/pdf/2305.03726.pdf)         |    [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)     |   129.00   |
+|  8   | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) |   126.25   |
+|  9   |      [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)      |         [Qwen-7B](https://github.com/QwenLM/Qwen-VL)         |   125.50   |
+|  10  |         [Lynx](https://arxiv.org/pdf/2307.02469.pdf)         |      [vicuna-7b](https://github.com/bytedance/lynx-llm)      |   119.50   |
+|  11  | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   114.51   |
+|  12  |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [vicuna-7b](https://github.com/DCDmllm/Cheetah)        |   113.50   |
+|  13  |   [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)    |    [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)    |   101.25   |
+|  14  |      [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)       | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   96.25    |
+|  15  |      [Octopus](https://5e517712ad3e493895.gradio.live/)      |                            MPT7B                             |   95.00    |
+|  16  |        [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)         |       [LAVIN-13B](https://github.com/luogen1996/LaVIN)       |   87.25    |
+|  17  |       [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)       |     [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)     |   77.25    |
+|  18  |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   75.25    |
+|  19  | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) |   70.75    |
+|  20  |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) |   69.75    |
+|  21  |      [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)       | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |   60.50    |
+|  22  |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   59.50    |
+|  23  |       [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)       | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   51.25    |
+|  24  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   49.00    |
 
 ### OCR
 
-| Rank | Model                                                        | Version                                                      | Score  |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| 🏅️    | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) | 162.50 |
-| 🥈    | [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)           | [Qwen-7B](https://github.com/QwenLM/Qwen-VL)                 | 140.00 |
-| 🥉    | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)     | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) | 125.00 |
-| 4    | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) | 125.00 |
-| 5    | [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)               | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) | 110.00 |
-| 6    | [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)      | [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)       | 110.00 |
-| 7    | [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)                | [LAVIN-13B](https://github.com/luogen1996/LaVIN)             | 107.50 |
-| 8    | [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)              | [vicuna-7b](https://github.com/DCDmllm/Cheetah)              | 100.00 |
-| 9    | [MMICL](https://github.com/HaozheZhao/MIC)                   | [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)            | 100.00 |
-| 10   | [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)                | [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)              | 87.50  |
-| 11   | [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)       | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) | 82.50  |
-| 12   | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) | 80.00  |
-| 13   | [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)             | [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)         | 77.50  |
-| 14   | [Lynx](https://arxiv.org/pdf/2307.02469.pdf)                 | [vicuna-7b](https://github.com/bytedance/lynx-llm)           | 77.50  |
-| 15   | [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)         | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) | 72.50  |
-| 16   | [Otter](https://arxiv.org/pdf/2305.03726.pdf)                | [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)        | 72.50  |
-| 17   | [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)            | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) | 65.00  |
-| 18   | [Octopus](https://5e517712ad3e493895.gradio.live/)           | MPT7B                                                        | 65.00  |
-| 19   | [GIT2](https://arxiv.org/pdf/2205.14100.pdf)                 | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) | 65.00  |
-| 20   | [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)            | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) | 57.50  |
-| 21   | [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)             | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) | 50.00  |
-| 22   | [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)                | [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)          | 50.00  |
-| 23   | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | 42.50  |
+| Rank |                            Model                             |                           Version                            |   Score    |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|  🏅️   | **[Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main)** | **[Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main)** | **162.50** |
+|  🥈   |    **[Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)**    |       **[Qwen-7B](https://github.com/QwenLM/Qwen-VL)**       | **140.00** |
+|  🥉   | **[LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)** | **[LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal)** | **125.00** |
+|  🥉   | **[InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer)** | **[InternLM-7B](https://github.com/InternLM/InternLM-XComposer)** | **125.00** |
+|  4   |        [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)        | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |   110.00   |
+|  4   |   [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)    |    [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)    |   110.00   |
+|  5   |        [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)         |       [LAVIN-13B](https://github.com/luogen1996/LaVIN)       |   107.50   |
+|  6   |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [vicuna-7b](https://github.com/DCDmllm/Cheetah)        |   100.00   |
+|  6   |          [MMICL](https://github.com/HaozheZhao/MIC)          |      [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)       |   100.00   |
+|  7   |        [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)         |       [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)        |   87.50    |
+|  8   |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   82.50    |
+|  9   | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) |   80.00    |
+|  10  |       [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)       |     [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)     |   77.50    |
+|  10  |         [Lynx](https://arxiv.org/pdf/2307.02469.pdf)         |      [vicuna-7b](https://github.com/bytedance/lynx-llm)      |   77.50    |
+|  11  |     [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)     | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |   72.50    |
+|  11  |        [Otter](https://arxiv.org/pdf/2305.03726.pdf)         |    [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)     |   72.50    |
+|  11  |        [Lion](https://github.com/mynameischaos/Lion)         |     [InternLM-7B](https://github.com/mynameischaos/Lion)     |   72.50    |
+|  12  |      [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)       | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   65.00    |
+|  12  |      [Octopus](https://5e517712ad3e493895.gradio.live/)      |                            MPT7B                             |   65.00    |
+|  12  |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) |   65.00    |
+|  13  |      [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)       | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |   57.50    |
+|  14  |       [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)       | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   50.00    |
+|  14  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   50.00    |
+|  15  |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   42.50    |
 
 ## Cognition
 
 Sum of the scores of all cognition subtasks, including commonsense reasoning, numerical calculation, text translation, and code reasoning. The full score of each subtask is 200, and that of all cognition is 800.
 
-| Rank | Model                                                        | Version                                                      | Score  |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| 🏅️    | [MMICL](https://github.com/HaozheZhao/MIC)                   | [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)            | 428.93 |
-| 🥈    | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) | 391.07 |
-| 🥉    | [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)           | [Qwen-7B](https://github.com/QwenLM/Qwen-VL)                 | 360.71 |
-| 4    | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) | 356.43 |
-| 5    | [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)                | [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)              | 331.43 |
-| 6    | [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)      | [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)       | 328.21 |
-| 7    | [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)              | [vicuna-7b](https://github.com/DCDmllm/Cheetah)              | 321.07 |
-| 8    | [Octopus](https://5e517712ad3e493895.gradio.live/)           | MPT7B                                                        | 312.50 |
-| 9    | [Otter](https://arxiv.org/pdf/2305.03726.pdf)                | [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)        | 306.43 |
-| 10   | [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)         | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) | 291.79 |
-| 11   | [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)               | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) | 290.00 |
-| 12   | [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)            | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) | 276.07 |
-| 13   | [GIT2](https://arxiv.org/pdf/2205.14100.pdf)                 | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) | 261.79 |
-| 14   | [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)                | [LAVIN-13B](https://github.com/luogen1996/LaVIN)             | 249.64 |
-| 15   | [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)             | [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)         | 249.29 |
-| 16   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)     | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) | 248.93 |
-| 17   | [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)             | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) | 228.57 |
-| 18   | [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)       | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) | 226.79 |
-| 19   | [Lynx](https://arxiv.org/pdf/2307.02469.pdf)                 | [vicuna-7b](https://github.com/bytedance/lynx-llm)           | 215.71 |
-| 20   | [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)                | [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)          | 214.64 |
-| 21   | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) | 213.57 |
-| 22   | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | 181.79 |
-| 23   | [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)            | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) | 144.29 |
+| Rank |                            Model                             |                           Version                            |   Score    |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|  🏅️   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **445.71** |
+|  🥈   |        **[MMICL](https://github.com/HaozheZhao/MIC)**        |    **[FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)**     | **428.93** |
+|  🥉   | **[InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer)** | **[InternLM-7B](https://github.com/InternLM/InternLM-XComposer)** | **391.07** |
+|  4   |      [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)      |         [Qwen-7B](https://github.com/QwenLM/Qwen-VL)         |   360.71   |
+|  5   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   356.43   |
+|  6   |        [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)         |       [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)        |   331.43   |
+|  7   |   [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)    |    [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)    |   328.21   |
+|  8   |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [vicuna-7b](https://github.com/DCDmllm/Cheetah)        |   321.07   |
+|  9   |      [Octopus](https://5e517712ad3e493895.gradio.live/)      |                            MPT7B                             |   312.50   |
+|  10  |        [Otter](https://arxiv.org/pdf/2305.03726.pdf)         |    [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)     |   306.43   |
+|  11  |     [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)     | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |   291.79   |
+|  12  |        [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)        | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |   290.00   |
+|  13  |      [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)       | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   276.07   |
+|  14  |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) |   261.79   |
+|  15  |        [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)         |       [LAVIN-13B](https://github.com/luogen1996/LaVIN)       |   249.64   |
+|  16  |       [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)       |     [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)     |   249.29   |
+|  17  |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) |   248.93   |
+|  18  |       [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)       | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   228.57   |
+|  19  |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   226.79   |
+|  20  |         [Lynx](https://arxiv.org/pdf/2307.02469.pdf)         |      [vicuna-7b](https://github.com/bytedance/lynx-llm)      |   215.71   |
+|  21  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   214.64   |
+|  22  | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) |   213.57   |
+|  23  |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   181.79   |
+|  24  |      [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)       | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |   144.29   |
 
 ### Commonsense Reasoning
 
-| Rank | Model                                                        | Version                                                      | Score  |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| 🏅️    | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) | 138.57 |
-| 🥈    | [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)                | [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)              | 136.43 |
-| 🥉    | [MMICL](https://github.com/HaozheZhao/MIC)                   | [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)            | 136.43 |
-| 4    | [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)           | [Qwen-7B](https://github.com/QwenLM/Qwen-VL)                 | 130.71 |
-| 5    | [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)         | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) | 129.29 |
-| 6    | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) | 126.43 |
-| 7    | [Lynx](https://arxiv.org/pdf/2307.02469.pdf)                 | [vicuna-7b](https://github.com/bytedance/lynx-llm)           | 110.71 |
-| 8    | [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)               | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) | 110.00 |
-| 9    | [Otter](https://arxiv.org/pdf/2305.03726.pdf)                | [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)        | 106.43 |
-| 10   | [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)      | [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)       | 100.71 |
-| 11   | [Octopus](https://5e517712ad3e493895.gradio.live/)           | MPT7B                                                        | 100.00 |
-| 12   | [GIT2](https://arxiv.org/pdf/2205.14100.pdf)                 | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) | 99.29  |
-| 13   | [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)              | [vicuna-7b](https://github.com/DCDmllm/Cheetah)              | 98.57  |
-| 14   | [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)                | [LAVIN-13B](https://github.com/luogen1996/LaVIN)             | 87.14  |
-| 15   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)     | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) | 81.43  |
-| 16   | [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)            | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) | 78.57  |
-| 17   | [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)             | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) | 73.57  |
-| 18   | [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)             | [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)         | 64.29  |
-| 19   | [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)            | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) | 59.29  |
-| 20   | [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)                | [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)          | 57.14  |
-| 21   | [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)       | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) | 49.29  |
-| 22   | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) | 48.57  |
-| 23   | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | 39.29  |
+| Rank |                            Model                             |                           Version                            |   Score    |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|  🏅️   | **[InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer)** | **[InternLM-7B](https://github.com/InternLM/InternLM-XComposer)** | **138.57** |
+|  🥈   |      **[BLIVA](https://arxiv.org/pdf/2308.09936.pdf)**       |     **[FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)**      | **136.43** |
+|  🥉   |        **[MMICL](https://github.com/HaozheZhao/MIC)**        |    **[FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)**     | **136.43** |
+|  4   |      [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)      |         [Qwen-7B](https://github.com/QwenLM/Qwen-VL)         |   130.71   |
+|  5   |     [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)     | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |   129.29   |
+|  6   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   126.43   |
+|  7   |        [Lion](https://github.com/mynameischaos/Lion)         |     [InternLM-7B](https://github.com/mynameischaos/Lion)     |   125.71   |
+|  8   |         [Lynx](https://arxiv.org/pdf/2307.02469.pdf)         |      [vicuna-7b](https://github.com/bytedance/lynx-llm)      |   110.71   |
+|  9   |        [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)        | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |   110.00   |
+|  10  |        [Otter](https://arxiv.org/pdf/2305.03726.pdf)         |    [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)     |   106.43   |
+|  11  |   [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)    |    [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)    |   100.71   |
+|  12  |      [Octopus](https://5e517712ad3e493895.gradio.live/)      |                            MPT7B                             |   100.00   |
+|  13  |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) |   99.29    |
+|  14  |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [vicuna-7b](https://github.com/DCDmllm/Cheetah)        |   98.57    |
+|  15  |        [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)         |       [LAVIN-13B](https://github.com/luogen1996/LaVIN)       |   87.14    |
+|  16  |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) |   81.43    |
+|  17  |      [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)       | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   78.57    |
+|  18  |       [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)       | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   73.57    |
+|  19  |       [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)       |     [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)     |   64.29    |
+|  20  |      [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)       | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |   59.29    |
+|  21  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   57.14    |
+|  22  |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   49.29    |
+|  23  | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) |   48.57    |
+|  24  |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   39.29    |
 
 ### Numerical Calculation
 
-| Rank | Model                                                        | Version                                                      | Score |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- |
-| 🏅️    | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) | 95.00 |
-| 🥈    | [MMICL](https://github.com/HaozheZhao/MIC)                   | [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)            | 82.50 |
-| 🥉    | [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)              | [vicuna-7b](https://github.com/DCDmllm/Cheetah)              | 77.50 |
-| 4    | [Otter](https://arxiv.org/pdf/2305.03726.pdf)                | [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)        | 72.50 |
-| 5    | [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)      | [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)       | 70.00 |
-| 6    | [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)                | [LAVIN-13B](https://github.com/luogen1996/LaVIN)             | 65.00 |
-| 7    | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)     | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) | 62.50 |
-| 8    | [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)       | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) | 62.50 |
-| 9    | [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)            | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) | 60.00 |
-| 10   | [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)                | [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)              | 57.50 |
-| 11   | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) | 55.00 |
-| 12   | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) | 55.00 |
-| 13   | [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)             | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) | 50.00 |
-| 14   | [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)                | [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)          | 50.00 |
-| 15   | [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)             | [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)         | 50.00 |
-| 16   | [GIT2](https://arxiv.org/pdf/2205.14100.pdf)                 | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) | 50.00 |
-| 17   | [Octopus](https://5e517712ad3e493895.gradio.live/)           | MPT7B                                                        | 47.50 |
-| 18   | [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)            | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) | 45.00 |
-| 19   | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | 45.00 |
-| 20   | [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)               | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) | 40.00 |
-| 21   | [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)         | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) | 40.00 |
-| 22   | [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)           | [Qwen-7B](https://github.com/QwenLM/Qwen-VL)                 | 40.00 |
-| 23   | [Lynx](https://arxiv.org/pdf/2307.02469.pdf)                 | [vicuna-7b](https://github.com/bytedance/lynx-llm)           | 17.50 |
+| Rank |                            Model                             |                           Version                            |   Score    |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|  🏅️   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **105.00** |
+|  🥈   | **[Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main)** | **[Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main)** | **95.00**  |
+|  🥉   |        **[MMICL](https://github.com/HaozheZhao/MIC)**        |    **[FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)**     | **82.50**  |
+|  4   |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [vicuna-7b](https://github.com/DCDmllm/Cheetah)        |   77.50    |
+|  5   |        [Otter](https://arxiv.org/pdf/2305.03726.pdf)         |    [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)     |   72.50    |
+|  6   |   [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)    |    [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)    |   70.00    |
+|  7   |        [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)         |       [LAVIN-13B](https://github.com/luogen1996/LaVIN)       |   65.00    |
+|  8   |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) |   62.50    |
+|  8   |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   62.50    |
+|  9   |      [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)       | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   60.00    |
+|  10  |        [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)         |       [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)        |   57.50    |
+|  11  | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) |   55.00    |
+|  11  | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) |   55.00    |
+|  11  |       [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)       | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   50.00    |
+|  11  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   50.00    |
+|  11  |       [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)       |     [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)     |   50.00    |
+|  11  |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) |   50.00    |
+|  12  |      [Octopus](https://5e517712ad3e493895.gradio.live/)      |                            MPT7B                             |   47.50    |
+|  13  |      [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)       | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |   45.00    |
+|  13  |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   45.00    |
+|  14  |        [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)        | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |   40.00    |
+|  14  |     [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)     | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |   40.00    |
+|  14  |      [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)      |         [Qwen-7B](https://github.com/QwenLM/Qwen-VL)         |   40.00    |
+|  15  |         [Lynx](https://arxiv.org/pdf/2307.02469.pdf)         |      [vicuna-7b](https://github.com/bytedance/lynx-llm)      |   17.50    |
 
 ### Text Translation
 
-| Rank | Model                                                        | Version                                                      | Score  |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| 🏅️    | [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)           | [Qwen-7B](https://github.com/QwenLM/Qwen-VL)                 | 147.50 |
-| 🥈    | [MMICL](https://github.com/HaozheZhao/MIC)                   | [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)            | 132.50 |
-| 🥉    | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) | 112.50 |
-| 4    | [Octopus](https://5e517712ad3e493895.gradio.live/)           | MPT7B                                                        | 102.50 |
-| 5    | [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)      | [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)       | 85.00  |
-| 6    | [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)            | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) | 80.00  |
-| 7    | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) | 80.00  |
-| 8    | [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)             | [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)         | 77.50  |
-| 9    | [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)                | [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)              | 77.50  |
-| 10   | [GIT2](https://arxiv.org/pdf/2205.14100.pdf)                 | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) | 67.50  |
-| 11   | [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)               | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) | 65.00  |
-| 12   | [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)         | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) | 65.00  |
-| 13   | [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)       | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) | 60.00  |
-| 14   | [Otter](https://arxiv.org/pdf/2305.03726.pdf)                | [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)        | 57.50  |
-| 15   | [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)             | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) | 57.50  |
-| 16   | [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)                | [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)          | 57.50  |
-| 17   | [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)              | [vicuna-7b](https://github.com/DCDmllm/Cheetah)              | 57.50  |
-| 18   | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) | 50.00  |
-| 19   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)     | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) | 50.00  |
-| 20   | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | 50.00  |
-| 21   | [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)                | [LAVIN-13B](https://github.com/luogen1996/LaVIN)             | 47.50  |
-| 22   | [Lynx](https://arxiv.org/pdf/2307.02469.pdf)                 | [vicuna-7b](https://github.com/bytedance/lynx-llm)           | 42.50  |
-| 23   | [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)            | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) | 0.00   |
+| Rank |                            Model                             |                           Version                            |   Score    |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|  🏅️   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **147.50** |
+|  🏅️   |    **[Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)**    |       **[Qwen-7B](https://github.com/QwenLM/Qwen-VL)**       | **147.50** |
+|  🥈   |        **[MMICL](https://github.com/HaozheZhao/MIC)**        |    **[FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)**     | **132.50** |
+|  🥉   | **[InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer)** | **[InternLM-7B](https://github.com/InternLM/InternLM-XComposer)** | **112.50** |
+|  4   |      [Octopus](https://5e517712ad3e493895.gradio.live/)      |                            MPT7B                             |   102.50   |
+|  5   |   [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)    |    [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)    |   85.00    |
+|  6   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   80.00    |
+|  6   |      [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)       | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   80.00    |
+|  7   |        [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)         |       [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)        |   77.50    |
+|  7   |       [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)       |     [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)     |   77.50    |
+|  8   |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) |   67.50    |
+|  9   |        [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)        | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |   65.00    |
+|  9   |     [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)     | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |   65.00    |
+|  10  |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   60.00    |
+|  11  |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [vicuna-7b](https://github.com/DCDmllm/Cheetah)        |   57.50    |
+|  11  |        [Otter](https://arxiv.org/pdf/2305.03726.pdf)         |    [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)     |   57.50    |
+|  11  |       [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)       | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   57.50    |
+|  11  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   57.50    |
+|  12  |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) |   50.00    |
+|  12  | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) |   50.00    |
+|  12  |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   50.00    |
+|  13  |        [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)         |       [LAVIN-13B](https://github.com/luogen1996/LaVIN)       |   47.50    |
+|  14  |         [Lynx](https://arxiv.org/pdf/2307.02469.pdf)         |      [vicuna-7b](https://github.com/bytedance/lynx-llm)      |   42.50    |
+|  15  |      [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)       | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |    0.00    |
 
 ### Code Reasoning
 
-| Rank | Model                                                        | Version                                                      | Score |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- |
-| 🏅️    | [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)              | [vicuna-7b](https://github.com/DCDmllm/Cheetah)              | 87.50 |
-| 🥈    | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) | 85.00 |
-| 🥉    | [MMICL](https://github.com/HaozheZhao/MIC)                   | [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)            | 77.50 |
-| 4    | [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)               | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) | 75.00 |
-| 5    | [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)      | [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)       | 72.50 |
-| 6    | [Otter](https://arxiv.org/pdf/2305.03726.pdf)                | [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)        | 70.00 |
-| 7    | [Octopus](https://5e517712ad3e493895.gradio.live/)           | MPT7B                                                        | 62.50 |
-| 8    | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) | 60.00 |
-| 9    | [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)                | [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)              | 60.00 |
-| 10   | [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)            | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) | 57.50 |
-| 11   | [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)         | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) | 57.50 |
-| 12   | [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)             | [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)         | 57.50 |
-| 13   | [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)     | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) | 55.00 |
-| 14   | [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)       | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) | 55.00 |
-| 15   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) | 55.00 |
-| 16   | [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)                | [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)          | 50.00 |
-| 17   | [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)                | [LAVIN-13B](https://github.com/luogen1996/LaVIN)             | 50.00 |
-| 18   | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | 47.50 |
-| 19   | [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)             | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) | 47.50 |
-| 20   | [Lynx](https://arxiv.org/pdf/2307.02469.pdf)                 | [vicuna-7b](https://github.com/bytedance/lynx-llm)           | 45.00 |
-| 21   | [GIT2](https://arxiv.org/pdf/2205.14100.pdf)                 | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) | 45.00 |
-| 22   | [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)           | [Qwen-7B](https://github.com/QwenLM/Qwen-VL)                 | 42.50 |
-| 23   | [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)            | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) | 40.00 |
+| Rank |                            Model                             |                           Version                            |   Score   |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------: |
+|  🏅️   |     **[Cheetor](https://arxiv.org/pdf/2308.04152.pdf)**      |     **[vicuna-7b](https://github.com/DCDmllm/Cheetah)**      | **87.50** |
+|  🥈   | **[InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer)** | **[InternLM-7B](https://github.com/InternLM/InternLM-XComposer)** | **85.00** |
+|  🥉   |        **[MMICL](https://github.com/HaozheZhao/MIC)**        |    **[FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)**     | **77.50** |
+|  4   |        [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)        | [blip2-pretrain-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |   75.00   |
+|  5   |   [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)    |    [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)    |   72.50   |
+|  6   |        [Otter](https://arxiv.org/pdf/2305.03726.pdf)         |    [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)     |   70.00   |
+|  7   |        [Lion](https://github.com/mynameischaos/Lion)         |     [InternLM-7B](https://github.com/mynameischaos/Lion)     |   67.50   |
+|  8   |      [Octopus](https://5e517712ad3e493895.gradio.live/)      |                            MPT7B                             |   62.50   |
+|  9   | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) |   60.00   |
+|  9   |        [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)         |       [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)        |   60.00   |
+|  10  |      [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)       | [mplug-owl-llama-7b](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   57.50   |
+|  10  |     [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)     | [blip2-instruct-flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |   57.50   |
+|  10  |       [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)       |     [vl-vicuna-7b](https://github.com/VPGTrans/VPGTrans)     |   57.50   |
+|  11  |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMAv2-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal) |   55.00   |
+|  11  |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   55.00   |
+|  11  | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   55.00   |
+|  12  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |     [LLaVA-7B-v0](https://github.com/haotian-liu/LLaVA)      |   50.00   |
+|  12  |        [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)         |       [LAVIN-13B](https://github.com/luogen1996/LaVIN)       |   50.00   |
+|  13  |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   47.50   |
+|  13  |       [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)       | [pandagpt-7b-max-len-512](https://github.com/yxuansu/PandaGPT) |   47.50   |
+|  14  |         [Lynx](https://arxiv.org/pdf/2307.02469.pdf)         |      [vicuna-7b](https://github.com/bytedance/lynx-llm)      |   45.00   |
+|  14  |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) |   45.00   |
+|  15  |      [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)      |         [Qwen-7B](https://github.com/QwenLM/Qwen-VL)         |   42.50   |
+|  16  |      [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)       | [minigpt4-aligned-with-vicuna13b](https://github.com/Vision-CAIR/MiniGPT-4) |   40.00   |
+
