@@ -47,7 +47,12 @@ How to use: (only for non-commercial use)
 ---
 
 🔥🔥🔥 **Woodpecker: Hallucination Correction for MLLMs** 🚀🚀🚀  
-**[Code](https://github.com/BradyFU/Woodpecker)** | **[Online Demo](https://3f42ced93bd85313af.gradio.live)** | **[Paper [Coming Soon]](https://github.com/BradyFU/Woodpecker)**
+
+<p align="center">
+    <img src="./images/woodpecker.png" width="80%" height="80%">
+</p>
+
+**[Source Code](https://github.com/BradyFU/Woodpecker)** | **[Online Demo](https://3f42ced93bd85313af.gradio.live)** | **[Paper [Coming Soon]](https://github.com/BradyFU/Woodpecker)**
 
 This is the first work to correct hallucination in multimodal large language models. The code and online demo have been released, and the paper will be coming soon!
 
