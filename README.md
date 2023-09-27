@@ -92,6 +92,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) <br> [**InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition**](https://arxiv.org/pdf/2309.15112.pdf) <br> | arXiv | 2023-09-26 | [Github](https://github.com/InternLM/InternLM-XComposer) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/RunpeiDong/DreamLLM.svg?style=social&label=Star) <br> [**DreamLLM: Synergistic Multimodal Comprehension and Creation**](https://arxiv.org/pdf/2309.11499.pdf) <br> | arXiv | 2023-09-20 | [Github](https://github.com/RunpeiDong/DreamLLM) | [Coming soon]() |
 | [**An Empirical Study of Scaling Instruction-Tuned Large Multimodal Models**](https://arxiv.org/pdf/2309.09958.pdf) | arXiv | 2023-09-18 | [Coming soon]() | - |
 | ![Star](https://img.shields.io/github/stars/SihengLi99/TextBind.svg?style=social&label=Star) <br> [**TextBind: Multi-turn Interleaved Multimodal Instruction-following**](https://arxiv.org/pdf/2309.08637.pdf) <br> | arXiv | 2023-09-14 | [Github](https://github.com/SihengLi99/TextBind) | [Demo](https://ailabnlp.tencent.com/research_demos/textbind/) |
