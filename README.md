@@ -246,6 +246,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| [**The Dawn of LMMs: Preliminary Explorations with GPT-4V(vision)**](https://arxiv.org/pdf/2309.17421.pdf) | arXiv | 2023-09-29 | - |
 | [**TouchStone: Evaluating Vision-Language Models by Language Models**](https://arxiv.org/pdf/2308.16890.pdf) | arXiv | 2023-08-31 | [Github](https://github.com/OFA-Sys/TouchStone) |
 | [**✨Sparkles: Unlocking Chats Across Multiple Images for Multimodal Instruction-Following Models**](https://arxiv.org/pdf/2308.16463.pdf) | arXiv | 2023-08-31 | [Github](https://github.com/HYPJUDY/Sparkles#sparkleseval) |
 | [**SciGraphQA: A Large-Scale Synthetic Multi-Turn Question-Answering Dataset for Scientific Graphs**](https://arxiv.org/pdf/2308.03349.pdf) | arXiv | 2023-08-07 | [Coming soon]() | 
