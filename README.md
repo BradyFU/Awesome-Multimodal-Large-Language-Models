@@ -230,6 +230,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Foundation Models
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/jy0205/LaVIT.svg?style=social&label=Star) <br> [**Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization**](https://arxiv.org/pdf/2309.04669.pdf) <br> | arXiv | 2023-09-09 | [Github](https://github.com/jy0205/LaVIT) | - |
 | **Multimodal Foundation Models: From Specialists to General-Purpose Assistants** | arXiv | 2023-09-18 | - | - |
 | ![Star](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star) <br> [**Generative Pretraining in Multimodality**](https://arxiv.org/pdf/2307.05222.pdf) <br> | arXiv | 2023-07-11 | [Github](https://github.com/baaivision/Emu) | [Demo](http://218.91.113.230:9002/) |
 | ![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star) <br> [**Kosmos-2: Grounding Multimodal Large Language Models to the World**](https://arxiv.org/pdf/2306.14824.pdf) <br> | arXiv | 2023-06-26 | [Github](https://github.com/microsoft/unilm/tree/master/kosmos-2) | [Demo](https://aka.ms/kosmos-2-demo) |
