@@ -231,6 +231,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Foundation Models
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**GPT-4V(ision) System Card**](https://cdn.openai.com/papers/GPTV_System_Card.pdf) | OpenAI | 2023-09-25 | - | - |
 | ![Star](https://img.shields.io/github/stars/jy0205/LaVIT.svg?style=social&label=Star) <br> [**Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization**](https://arxiv.org/pdf/2309.04669.pdf) <br> | arXiv | 2023-09-09 | [Github](https://github.com/jy0205/LaVIT) | - |
 | [**Multimodal Foundation Models: From Specialists to General-Purpose Assistants**](https://browse.arxiv.org/pdf/2309.10020.pdf) | arXiv | 2023-09-18 | - | - |
 | ![Star](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star) <br> [**Generative Pretraining in Multimodality**](https://arxiv.org/pdf/2307.05222.pdf) <br> | arXiv | 2023-07-11 | [Github](https://github.com/baaivision/Emu) | [Demo](http://218.91.113.230:9002/) |
