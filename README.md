@@ -79,7 +79,7 @@ If you find our projects helpful to your research, please cite the following pap
 ---
 
 # News 🚀
-**[2023-09]** 
+**[2023-10]** 
 
 1. [10-04] Thanks to [**Haotian Liu**](https://hliu.cc/), the results of [**LLaVA**](https://github.com/haotian-liu/LLaVA) have been updated. 🔥🔥
 
