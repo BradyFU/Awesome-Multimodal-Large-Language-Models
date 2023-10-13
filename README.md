@@ -81,7 +81,10 @@ If you find our projects helpful to your research, please cite the following pap
 # News 🚀
 **[2023-10]** 
 
-1. [10-04] Thanks to [**Haotian Liu**](https://hliu.cc/), the results of [**LLaVA**](https://github.com/haotian-liu/LLaVA) have been updated. 🔥🔥
+1. [10-13] Thanks to [**Yizhou Zhou**](https://github.com/scenarios), [**WeMM**](https://github.com/scenarios/WeMM) joins our leaderboards. 🔥🔥
+2. [10-13] Thanks to [**Cui Junbo**](https://github.com/thunlp/Muffin), we add [**Muffin**](https://github.com/thunlp/Muffin) to our leaderboards. 🔥🔥
+3. [10-13] Thanks to [**Jiaming Han**](https://scholar.google.com/citations?hl=en&user=vgcxKEcAAAAJ&view_op=list_works), the results of [**LLaMA-Adapter V2**](https://github.com/OpenGVLab/LLaMA-Adapter) have been updated. 🔥🔥
+4. [10-04] Thanks to [**Haotian Liu**](https://hliu.cc/), the results of [**LLaVA**](https://github.com/haotian-liu/LLaVA) have been updated. 🔥🔥
 
 **[2023-09]** 
 
