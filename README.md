@@ -250,6 +250,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/zjunlp/EasyEdit.svg?style=social&label=Star) <br> [**Can We Edit Multimodal Large Language Models?**](https://arxiv.org/pdf/2310.08475.pdf) <br> | arXiv | 2023-10-12 | [Github](https://github.com/zjunlp/EasyEdit) | 
 | ![Star](https://img.shields.io/github/stars/liaoning97/REVO-LION.svg?style=social&label=Star) <br> [**REVO-LION: Evaluating and Refining Vision-Language Instruction Tuning Datasets**](https://arxiv.org/pdf/2310.06594.pdf) <br> | arXiv | 2023-10-10 | [Github](https://github.com/liaoning97/REVO-LION) |
 | [**The Dawn of LMMs: Preliminary Explorations with GPT-4V(vision)**](https://arxiv.org/pdf/2309.17421.pdf) | arXiv | 2023-09-29 | - |
 | [**TouchStone: Evaluating Vision-Language Models by Language Models**](https://arxiv.org/pdf/2308.16890.pdf) | arXiv | 2023-08-31 | [Github](https://github.com/OFA-Sys/TouchStone) |
