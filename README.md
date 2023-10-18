@@ -94,6 +94,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4.svg?style=social&label=Star) <br> [**MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning**](https://arxiv.org/pdf/2310.09478.pdf) <br> | arXiv | 2023-10-14 | [Github](https://github.com/Vision-CAIR/MiniGPT-4) | Local Demo | 
 | ![Star](https://img.shields.io/github/stars/apple/ml-ferret.svg?style=social&label=Star) <br> [**Ferret: Refer and Ground Anything Anywhere at Any Granularity**](https://arxiv.org/pdf/2310.07704.pdf) <br> | arXiv | 2023-10-11 | [Github](https://github.com/apple/ml-ferret) | - |
 | [**Improved Baselines with Visual Instruction Tuning**](https://arxiv.org/pdf/2310.03744.pdf) | arXiv | 2023-10-05 | [Coming soon]() | - |
 | ![Star](https://img.shields.io/github/stars/thunlp/Muffin.svg?style=social&label=Star) <br> [**Reformulating Vision-Language Foundation Models and Datasets Towards Universal Multimodal Assistants**](https://arxiv.org/pdf/2310.00653.pdf) <br> | arXiv | 2023-10-01 | [Github](https://github.com/thunlp/Muffin) | Local Demo | 
