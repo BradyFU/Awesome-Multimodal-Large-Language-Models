@@ -234,6 +234,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Foundation Models
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/mshukor/UnIVAL.svg?style=social&label=Star) <br> [**Unified Model for Image, Video, Audio and Language Tasks**](https://arxiv.org/pdf/2307.16184.pdf) <br> | arXiv | 2023-07-30 | [Github](https://github.com/mshukor/UnIVAL) | [Demo](https://huggingface.co/spaces/mshukor/UnIVAL) |
 | [**PaLI-3 Vision Language Models: Smaller, Faster, Stronger**](https://arxiv.org/pdf/2310.09199.pdf) | arXiv | 2023-10-13 | - | - |
 | [**GPT-4V(ision) System Card**](https://cdn.openai.com/papers/GPTV_System_Card.pdf) | OpenAI | 2023-09-25 | - | - |
 | ![Star](https://img.shields.io/github/stars/jy0205/LaVIT.svg?style=social&label=Star) <br> [**Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization**](https://arxiv.org/pdf/2309.04669.pdf) <br> | arXiv | 2023-09-09 | [Github](https://github.com/jy0205/LaVIT) | - |
@@ -253,6 +254,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/mshukor/EvALign-ICL.svg?style=social&label=Star) <br> [Beyond Task Performance: Evaluating and Reducing the Flaws of Large Multimodal Models with In-Context Learning](https://arxiv.org/pdf/2310.00647.pdf) <br> | arXiv | 2023-10-01 | [Github](https://github.com/mshukor/EvALign-ICL) | 
 | ![Star](https://img.shields.io/github/stars/zjunlp/EasyEdit.svg?style=social&label=Star) <br> [**Can We Edit Multimodal Large Language Models?**](https://arxiv.org/pdf/2310.08475.pdf) <br> | arXiv | 2023-10-12 | [Github](https://github.com/zjunlp/EasyEdit) | 
 | ![Star](https://img.shields.io/github/stars/liaoning97/REVO-LION.svg?style=social&label=Star) <br> [**REVO-LION: Evaluating and Refining Vision-Language Instruction Tuning Datasets**](https://arxiv.org/pdf/2310.06594.pdf) <br> | arXiv | 2023-10-10 | [Github](https://github.com/liaoning97/REVO-LION) |
 | [**The Dawn of LMMs: Preliminary Explorations with GPT-4V(vision)**](https://arxiv.org/pdf/2309.17421.pdf) | arXiv | 2023-09-29 | - |
