@@ -234,6 +234,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Foundation Models
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Fuyu-8B: A Multimodal Architecture for AI Agents**](https://www.adept.ai/blog/fuyu-8b) | blog | 2023-10-17 | [Huggingface](https://huggingface.co/adept/fuyu-8b) | [Demo](https://huggingface.co/adept/fuyu-8b) 
 | ![Star](https://img.shields.io/github/stars/mshukor/UnIVAL.svg?style=social&label=Star) <br> [**Unified Model for Image, Video, Audio and Language Tasks**](https://arxiv.org/pdf/2307.16184.pdf) <br> | arXiv | 2023-07-30 | [Github](https://github.com/mshukor/UnIVAL) | [Demo](https://huggingface.co/spaces/mshukor/UnIVAL) |
 | [**PaLI-3 Vision Language Models: Smaller, Faster, Stronger**](https://arxiv.org/pdf/2310.09199.pdf) | arXiv | 2023-10-13 | - | - |
 | [**GPT-4V(ision) System Card**](https://cdn.openai.com/papers/GPTV_System_Card.pdf) | OpenAI | 2023-09-25 | - | - |
