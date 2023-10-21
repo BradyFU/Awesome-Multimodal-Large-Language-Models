@@ -270,6 +270,7 @@ This is the first work to correct hallucination in multimodal large language mod
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/Multi-Modality-Arena.svg?style=social&label=Star) <br> [**LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models**](https://arxiv.org/pdf/2306.09265.pdf) <br> | arXiv | 2023-06-15 | [Github](https://github.com/OpenGVLab/Multi-Modality-Arena) | 
 | ![Star](https://img.shields.io/github/stars/OpenLAMM/LAMM.svg?style=social&label=Star) <br> [**LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark**](https://arxiv.org/pdf/2306.06687.pdf) <br> | arXiv | 2023-06-11 | [Github](https://github.com/OpenLAMM/LAMM#lamm-benchmark) |
 | ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/M3Exam.svg?style=social&label=Star) <br> [**M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models**](https://arxiv.org/pdf/2306.05179.pdf) <br> | arXiv | 2023-06-08 | [Github](https://github.com/DAMO-NLP-SG/M3Exam) | 
+| ![Star](https://img.shields.io/github/stars/ys-zong/FoolyourVLLMs.svg?style=social&label=Star) <br> [**Fool Your (Vision and) Language Model With Embarrassingly Simple Permutations**](https://arxiv.org/abs/2310.01651) <br> | arXiv | 2023-10-02 | [Github](https://github.com/ys-zong/FoolyourVLLMs) | 
 
 ## Others
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
