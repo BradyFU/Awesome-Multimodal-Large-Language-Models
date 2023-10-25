@@ -39,13 +39,13 @@ How to use: (only for non-commercial use)
 
 ---
 
-🔥🔥🔥 **Woodpecker: Hallucination Correction for MLLMs** 🚀🚀🚀  
+🔥🔥🔥 **Woodpecker: Hallucination Correction for Multimodal Large Language Models** 
 
 <p align="center">
-    <img src="./images/woodpecker.png" width="50%" height="50%">
+    <img src="./images/woodpecker_icon.png" width="50%" height="50%">
 </p>
 
-**[Source Code](https://github.com/BradyFU/Woodpecker)** | **[Online Demo [Paused due to insufficient GPUs]](https://42976740ac53ddbe7d.gradio.live)** | **[Paper [Coming Soon]](https://github.com/BradyFU/Woodpecker)**
+**[Paper🔥🔥](https://arxiv.org/pdf/2310.16045.pdf)** | **[Source Code🔥🔥](https://github.com/BradyFU/Woodpecker)** | **[Online Demo [Paused due to insufficient GPUs]](https://42976740ac53ddbe7d.gradio.live)**
 
 This is the first work to correct hallucination in multimodal large language models. The code and online demo have been released, and the paper will be coming soon!
 
@@ -64,6 +64,13 @@ This is the first work to correct hallucination in multimodal large language mod
   title={MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models},
   author={Fu, Chaoyou and Chen, Peixian and Shen, Yunhang and Qin, Yulei and Zhang, Mengdan and Lin, Xu and Qiu, Zhenyu and Lin, Wei and Yang, Jinrui and Zheng, Xiawu and Li, Ke and Sun, Xing and Ji, Rongrong},
   journal={arXiv preprint arXiv:2306.13394},
+  year={2023}
+}
+
+@article{yin2023woodpecker,
+  title={Woodpecker: Hallucination Correction for Multimodal Large Language Models},
+  author={Yin Shukang, Fu Chaoyou, Zhao Sirui, Xu Tong, Wang Hao, Sui Dianbo, Shen Yunhang, Li Ke, Sun Xing and Chen Enhong},
+  journal={arXiv preprint arXiv:2310.16045},
   year={2023}
 }
 ```
