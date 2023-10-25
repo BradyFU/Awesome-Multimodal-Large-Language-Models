@@ -76,7 +76,7 @@ This is the first work to correct hallucination in multimodal large language mod
 
 @article{yin2023woodpecker,
   title={Woodpecker: Hallucination Correction for Multimodal Large Language Models},
-  author={Yin Shukang and Fu Chaoyou and Zhao Sirui and Xu Tong and Wang Hao and Sui Dianbo and Shen Yunhang and Li Ke and Sun Xing and Chen Enhong},
+  author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Xu, Tong and Wang, Hao and Sui, Dianbo and Shen, Yunhang and Li, Ke and Sun, Xing and Chen, Enhong},
   journal={arXiv preprint arXiv:2310.16045},
   year={2023}
 }
