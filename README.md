@@ -54,7 +54,7 @@ How to use: (only for non-commercial use)
 
 **[Paper🔥🔥](https://arxiv.org/pdf/2310.16045.pdf)** | **[Source Code🔥🔥](https://github.com/BradyFU/Woodpecker)** | **[Online Demo](https://21527a47f03813481c.gradio.live/)**
 
-This is the first work to correct hallucination in multimodal large language models. The code and online demo have been released, and the paper will be coming soon!
+This is the first work to correct hallucination in multimodal large language models.
 
 ---
 
