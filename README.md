@@ -45,7 +45,7 @@ How to use: (only for non-commercial use)
     <img src="./images/woodpecker_icon.png" width="50%" height="50%">
 </p>
 
-**[Paper🔥🔥](https://arxiv.org/pdf/2310.16045.pdf)** | **[Source Code🔥🔥](https://github.com/BradyFU/Woodpecker)** | **[Online Demo [Paused due to insufficient GPUs]](https://42976740ac53ddbe7d.gradio.live)**
+**[Paper🔥🔥](https://arxiv.org/pdf/2310.16045.pdf)** | **[Source Code🔥🔥](https://github.com/BradyFU/Woodpecker)** | **[Online Demo](https://21527a47f03813481c.gradio.live/)**
 
 This is the first work to correct hallucination in multimodal large language models. The code and online demo have been released, and the paper will be coming soon!
 
