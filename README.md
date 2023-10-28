@@ -52,7 +52,7 @@ How to use: (only for non-commercial use)
     <img src="./images/woodpecker_icon.png" width="50%" height="50%">
 </p>
 
-**[Paper🔥🔥](https://arxiv.org/pdf/2310.16045.pdf)** | **[Source Code🔥🔥![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)** | **[Online Demo [pause due to insufficient GPUs]](https://github.com/BradyFU/Woodpecker)**
+**[Paper🔥🔥](https://arxiv.org/pdf/2310.16045.pdf)** | **[Source Code🔥🔥![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)** | **[Online Demo](https://2a994fc813f1c52993.gradio.live/)**
 
 This is the first work to correct hallucination in multimodal large language models.
 
