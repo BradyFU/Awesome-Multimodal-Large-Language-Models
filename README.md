@@ -215,6 +215,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## LLM-Aided Visual Reasoning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/OpenGVLab/ControlLLM.svg?style=social&label=Star) <br> [**ControlLLM: Augment Language Models with Tools by Searching on Graphs**](https://arxiv.org/pdf/2310.17796.pdf) <br> | arXiv | 2023-10-26 | [Github](https://github.com/OpenGVLab/ControlLLM) | - |
 | ![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star) <br> [**Woodpecker: Hallucination Correction for Multimodal Large Language Models**](https://arxiv.org/pdf/2310.16045.pdf) <br> | arXiv | 2023-10-24 | [Github](https://github.com/BradyFU/Woodpecker) | [Demo](https://60d1b7c6f5408b81d1.gradio.live/) |
 | ![Star](https://img.shields.io/github/stars/mindagent/mindagent.svg?style=social&label=Star) <br> [**MindAgent: Emergent Gaming Interaction**](https://arxiv.org/pdf/2309.09971.pdf) <br> | arXiv | 2023-09-18 | [Github](https://github.com/mindagent/mindagent) | - | 
 | ![Star](https://img.shields.io/github/stars/dvlab-research/LISA.svg?style=social&label=Star) <br> [**LISA: Reasoning Segmentation via Large Language Model**](https://arxiv.org/pdf/2308.00692.pdf) <br> | arXiv | 2023-08-01 | [Github](https://github.com/dvlab-research/LISA) | [Demo](http://103.170.5.190:7860/) | 
