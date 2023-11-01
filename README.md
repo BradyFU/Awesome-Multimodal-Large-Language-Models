@@ -267,6 +267,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| [**A Comprehensive Study of GPT-4V's Multimodal Capabilities in Medical Imaging**](https://arxiv.org/pdf/2310.20381.pdf) | arXiv | 2023-10-31 | - |
 | ![Star](https://img.shields.io/github/stars/albertwy/GPT-4V-Evaluation.svg?style=social&label=Star) <br> [**An Early Evaluation of GPT-4V(ision)**](https://arxiv.org/pdf/2310.16534.pdf) <br> | arXiv | 2023-10-25 | [Github](https://github.com/albertwy/GPT-4V-Evaluation) |
 | ![Star](https://img.shields.io/github/stars/SCUT-DLVCLab/GPT-4V_OCR.svg?style=social&label=Star) <br> [**Exploring OCR Capabilities of GPT-4V(ision) : A Quantitative and In-depth Evaluation**](https://arxiv.org/pdf/2310.16809.pdf) <br> | arXiv | 2023-10-25 | [Github](https://github.com/SCUT-DLVCLab/GPT-4V_OCR) |
 | ![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star) <br> [**Woodpecker: Hallucination Correction for Multimodal Large Language Models**](https://arxiv.org/pdf/2310.16045.pdf) <br> | arXiv | 2023-10-24 | [Github](https://github.com/BradyFU/Woodpecker) |
