@@ -54,7 +54,7 @@ How to use: (only for non-commercial use)
 
 **[Paper🔥🔥](https://arxiv.org/pdf/2310.16045.pdf)** | **[Source Code🔥🔥![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)** | **[Online Demo🔥🔥](https://be8170187a990443db.gradio.live/)**
 
-This is the first work to correct hallucination in multimodal large language models.
+This is the first work to correct hallucinations in MLLMs.
 
 ---
 
