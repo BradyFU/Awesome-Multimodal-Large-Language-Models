@@ -101,7 +101,6 @@ This is the first work to correct hallucinations in MLLMs.
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-Interactive-Demo.svg?style=social&label=Star) <br> [**LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing**](https://arxiv.org/pdf/2311.00571.pdf) <br> | arXiv | 2023-11-01 | [Github](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo) | [Demo](https://6dd3-20-163-117-69.ngrok-free.app/) |
 | ![Star](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4.svg?style=social&label=Star) <br> [**MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning**](https://arxiv.org/pdf/2310.09478.pdf) <br> | arXiv | 2023-10-14 | [Github](https://github.com/Vision-CAIR/MiniGPT-4) | Local Demo | 
 | ![Star](https://img.shields.io/github/stars/apple/ml-ferret.svg?style=social&label=Star) <br> [**Ferret: Refer and Ground Anything Anywhere at Any Granularity**](https://arxiv.org/pdf/2310.07704.pdf) <br> | arXiv | 2023-10-11 | [Github](https://github.com/apple/ml-ferret) | - |
 | ![Star](https://img.shields.io/github/stars/THUDM/CogVLM.svg?style=social&label=Star) <br> [**CogVLM: Visual Expert For Large Language Models**](https://github.com/THUDM/CogVLM/blob/main/assets/cogvlm-paper.pdf) <br> | Github | 2023-10-09 | [Github](https://github.com/THUDM/CogVLM) | [Demo](http://36.103.203.44:7861/) | 
@@ -216,6 +215,7 @@ This is the first work to correct hallucinations in MLLMs.
 ## LLM-Aided Visual Reasoning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-Interactive-Demo.svg?style=social&label=Star) <br> [**LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing**](https://arxiv.org/pdf/2311.00571.pdf) <br> | arXiv | 2023-11-01 | [Github](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo) | [Demo](https://6dd3-20-163-117-69.ngrok-free.app/) |
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/ControlLLM.svg?style=social&label=Star) <br> [**ControlLLM: Augment Language Models with Tools by Searching on Graphs**](https://arxiv.org/pdf/2310.17796.pdf) <br> | arXiv | 2023-10-26 | [Github](https://github.com/OpenGVLab/ControlLLM) | - |
 | ![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star) <br> [**Woodpecker: Hallucination Correction for Multimodal Large Language Models**](https://arxiv.org/pdf/2310.16045.pdf) <br> | arXiv | 2023-10-24 | [Github](https://github.com/BradyFU/Woodpecker) | [Demo](https://60d1b7c6f5408b81d1.gradio.live/) |
 | ![Star](https://img.shields.io/github/stars/mindagent/mindagent.svg?style=social&label=Star) <br> [**MindAgent: Emergent Gaming Interaction**](https://arxiv.org/pdf/2309.09971.pdf) <br> | arXiv | 2023-09-18 | [Github](https://github.com/mindagent/mindagent) | - | 
