@@ -101,6 +101,7 @@ This is the first work to correct hallucinations in MLLMs.
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/RUCAIBox/ComVint.svg?style=social&label=Star) <br> [**What Makes for Good Visual Instructions? Synthesizing Complex Visual Reasoning Instructions for Visual Instruction Tuning**](https://arxiv.org/pdf/2311.01487.pdf) <br> | arXiv | 2023-11-02| [Github](https://github.com/RUCAIBox/ComVint) | - |
 | ![Star](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4.svg?style=social&label=Star) <br> [**MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning**](https://arxiv.org/pdf/2310.09478.pdf) <br> | arXiv | 2023-10-14 | [Github](https://github.com/Vision-CAIR/MiniGPT-4) | Local Demo | 
 | ![Star](https://img.shields.io/github/stars/apple/ml-ferret.svg?style=social&label=Star) <br> [**Ferret: Refer and Ground Anything Anywhere at Any Granularity**](https://arxiv.org/pdf/2310.07704.pdf) <br> | arXiv | 2023-10-11 | [Github](https://github.com/apple/ml-ferret) | - |
 | ![Star](https://img.shields.io/github/stars/THUDM/CogVLM.svg?style=social&label=Star) <br> [**CogVLM: Visual Expert For Large Language Models**](https://github.com/THUDM/CogVLM/blob/main/assets/cogvlm-paper.pdf) <br> | Github | 2023-10-09 | [Github](https://github.com/THUDM/CogVLM) | [Demo](http://36.103.203.44:7861/) | 
