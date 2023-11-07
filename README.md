@@ -52,7 +52,7 @@ How to use: (only for non-commercial use)
     <img src="./images/woodpecker_icon.png" width="40%" height="40%">
 </p>
 
-**[Paper🔥🔥](https://arxiv.org/pdf/2310.16045.pdf)** | **[Source Code🔥🔥![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)** | **[Online Demo🔥🔥](https://bbfa822492a7183528.gradio.live/)**
+**[Paper🔥🔥](https://arxiv.org/pdf/2310.16045.pdf)** | **[Source Code🔥🔥![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)** | **[Online Demo🔥🔥](https://df8375e31f4ca07831.gradio.live)**
 
 This is the first work to correct hallucinations in MLLMs.
 
