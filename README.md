@@ -42,7 +42,7 @@ How to use: (only for non-commercial use)
 🔥🔥🔥 **Woodpecker: Hallucination Correction for Multimodal Large Language Models** 
 
 <p align="center">
-    <img src="./images/woodpecker_icon.png" width="40%" height="40%">
+    <img src="./images/woodpecker_icon.png" width="45%" height="45%">
 </p>
 
 **[Paper🔥🔥](https://arxiv.org/pdf/2310.16045.pdf)** | **[Source Code🔥🔥![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)** | **[Online Demo🔥🔥](https://df8375e31f4ca07831.gradio.live)**
