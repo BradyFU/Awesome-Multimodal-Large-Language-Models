@@ -271,6 +271,7 @@ This is the first work to correct hallucinations in MLLMs.
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| [**Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead**](https://arxiv.org/pdf/2311.02782.pdf) | arXiv | 2023-11-05 | - |
 | [**A Comprehensive Study of GPT-4V's Multimodal Capabilities in Medical Imaging**](https://arxiv.org/pdf/2310.20381.pdf) | arXiv | 2023-10-31 | - |
 | ![Star](https://img.shields.io/github/stars/albertwy/GPT-4V-Evaluation.svg?style=social&label=Star) <br> [**An Early Evaluation of GPT-4V(ision)**](https://arxiv.org/pdf/2310.16534.pdf) <br> | arXiv | 2023-10-25 | [Github](https://github.com/albertwy/GPT-4V-Evaluation) |
 | ![Star](https://img.shields.io/github/stars/SCUT-DLVCLab/GPT-4V_OCR.svg?style=social&label=Star) <br> [**Exploring OCR Capabilities of GPT-4V(ision) : A Quantitative and In-depth Evaluation**](https://arxiv.org/pdf/2310.16809.pdf) <br> | arXiv | 2023-10-25 | [Github](https://github.com/SCUT-DLVCLab/GPT-4V_OCR) |
