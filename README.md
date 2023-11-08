@@ -101,6 +101,7 @@ This is the first work to correct hallucinations in MLLMs.
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/Luodian/Otter.svg?style=social&label=Star) <br> [**OtterHD: A High-Resolution Multi-modality Model**](https://arxiv.org/pdf/2311.04219.pdf) <br> | arXiv | 2023-11-07 | [Github](https://github.com/Luodian/Otter) | - |
 | [**CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding**](https://arxiv.org/pdf/2311.03354.pdf) | arXiv | 2023-11-06 | [Coming soon]() | - |
 | ![Star](https://img.shields.io/github/stars/mbzuai-oryx/groundingLMM.svg?style=social&label=Star) <br> [**GLaMM: Pixel Grounding Large Multimodal Model**](https://arxiv.org/pdf/2311.03356.pdf) <br> | arXiv | 2023-11-06 | [Github](https://github.com/mbzuai-oryx/groundingLMM) | - |
 | ![Star](https://img.shields.io/github/stars/RUCAIBox/ComVint.svg?style=social&label=Star) <br> [**What Makes for Good Visual Instructions? Synthesizing Complex Visual Reasoning Instructions for Visual Instruction Tuning**](https://arxiv.org/pdf/2311.01487.pdf) <br> | arXiv | 2023-11-02| [Github](https://github.com/RUCAIBox/ComVint) | - |
