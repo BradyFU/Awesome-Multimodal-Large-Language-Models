@@ -101,6 +101,7 @@ This is the first work to correct hallucinations in MLLMs.
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/X-PLUG/mPLUG-Owl.svg?style=social&label=Star) <br> [**mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration**](https://arxiv.org/pdf/2311.04257.pdf) <br> | arXiv | 2023-11-07 | [Github](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2) | [Demo](https://modelscope.cn/studios/damo/mPLUG-Owl2/summary) |
 | ![Star](https://img.shields.io/github/stars/Luodian/Otter.svg?style=social&label=Star) <br> [**OtterHD: A High-Resolution Multi-modality Model**](https://arxiv.org/pdf/2311.04219.pdf) <br> | arXiv | 2023-11-07 | [Github](https://github.com/Luodian/Otter) | - |
 | [**CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding**](https://arxiv.org/pdf/2311.03354.pdf) | arXiv | 2023-11-06 | [Coming soon]() | - |
 | ![Star](https://img.shields.io/github/stars/mbzuai-oryx/groundingLMM.svg?style=social&label=Star) <br> [**GLaMM: Pixel Grounding Large Multimodal Model**](https://arxiv.org/pdf/2311.03356.pdf) <br> | arXiv | 2023-11-06 | [Github](https://github.com/mbzuai-oryx/groundingLMM) | - |
