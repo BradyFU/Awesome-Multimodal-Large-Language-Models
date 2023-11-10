@@ -16,7 +16,7 @@ A curated list of Multimodal Large Language Models (MLLMs), including datasets, 
 
 Welcome to join our WeChat group of MLLM communication! 
 
-Please add WeChat ID (xjtupanda) to join the group. :star2:
+Please add WeChat ID (wmd_ustc) to join the group. :star2:
 
 ---
 
