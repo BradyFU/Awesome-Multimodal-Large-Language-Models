@@ -101,6 +101,7 @@ This is the first work to correct hallucinations in MLLMs.
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents**](https://arxiv.org/pdf/2311.05437.pdf) | arXiv | 2023-11-09 | [Coming soon]() | [Demo](https://llavaplus.ngrok.io/) |
 | ![Star](https://img.shields.io/github/stars/X-PLUG/mPLUG-Owl.svg?style=social&label=Star) <br> [**mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration**](https://arxiv.org/pdf/2311.04257.pdf) <br> | arXiv | 2023-11-07 | [Github](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2) | [Demo](https://modelscope.cn/studios/damo/mPLUG-Owl2/summary) |
 | ![Star](https://img.shields.io/github/stars/Luodian/Otter.svg?style=social&label=Star) <br> [**OtterHD: A High-Resolution Multi-modality Model**](https://arxiv.org/pdf/2311.04219.pdf) <br> | arXiv | 2023-11-07 | [Github](https://github.com/Luodian/Otter) | - |
 | [**CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding**](https://arxiv.org/pdf/2311.03354.pdf) | arXiv | 2023-11-06 | [Coming soon]() | - |
@@ -275,6 +276,7 @@ This is the first work to correct hallucinations in MLLMs.
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/PJLab-ADG/GPT4V-AD-Exploration.svg?style=social&label=Star) <br> [**On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving**](https://arxiv.org/pdf/2311.05332.pdf) <br> | arXiv | 2023-11-09 | [Github](https://github.com/PJLab-ADG/GPT4V-AD-Exploration) |
 | [**Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead**](https://arxiv.org/pdf/2311.02782.pdf) | arXiv | 2023-11-05 | - |
 | [**A Comprehensive Study of GPT-4V's Multimodal Capabilities in Medical Imaging**](https://arxiv.org/pdf/2310.20381.pdf) | arXiv | 2023-10-31 | - |
 | ![Star](https://img.shields.io/github/stars/albertwy/GPT-4V-Evaluation.svg?style=social&label=Star) <br> [**An Early Evaluation of GPT-4V(ision)**](https://arxiv.org/pdf/2310.16534.pdf) <br> | arXiv | 2023-10-25 | [Github](https://github.com/albertwy/GPT-4V-Evaluation) |
