@@ -276,6 +276,7 @@ This is the first work to correct hallucinations in MLLMs.
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/gzcch/Bingo.svg?style=social&label=Star) <br> [**Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges**](https://arxiv.org/pdf/2311.03287.pdf) <br> | arXiv | 2023-11-06 | [Github](https://github.com/gzcch/Bingo) |
 | ![Star](https://img.shields.io/github/stars/PJLab-ADG/GPT4V-AD-Exploration.svg?style=social&label=Star) <br> [**On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving**](https://arxiv.org/pdf/2311.05332.pdf) <br> | arXiv | 2023-11-09 | [Github](https://github.com/PJLab-ADG/GPT4V-AD-Exploration) |
 | [**Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead**](https://arxiv.org/pdf/2311.02782.pdf) | arXiv | 2023-11-05 | - |
 | [**A Comprehensive Study of GPT-4V's Multimodal Capabilities in Medical Imaging**](https://arxiv.org/pdf/2310.20381.pdf) | arXiv | 2023-10-31 | - |
