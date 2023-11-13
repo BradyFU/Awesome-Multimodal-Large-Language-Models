@@ -389,6 +389,7 @@ This is the first work to correct hallucinations in MLLMs.
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **Bingo** | [Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges](https://arxiv.org/pdf/2311.03287.pdf) | [Link](https://github.com/gzcch/Bingo) | A benchmark for hallucination evaluation that focuses on two common types |
 | **MagnifierBench** | [OtterHD: A High-Resolution Multi-modality Model](https://arxiv.org/pdf/2311.04219.pdf) | [Link](https://huggingface.co/datasets/Otter-AI/MagnifierBench) | A benchmark designed to probe models' ability of fine-grained perception |
 | **HallusionBench** | [HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models](https://arxiv.org/pdf/2310.14566.pdf) | [Link](https://github.com/tianyi-lab/HallusionBench) |An image-context reasoning benchmark for evaluation of hallucination |
 | **SparklesEval** | [✨Sparkles: Unlocking Chats Across Multiple Images for Multimodal Instruction-Following Models](https://arxiv.org/pdf/2308.16463.pdf) | [Link](https://github.com/HYPJUDY/Sparkles#sparkleseval) | A GPT-assisted benchmark for quantitatively assessing a model's conversational competence across multiple images and dialogue turns based on three distinct criteria. |
