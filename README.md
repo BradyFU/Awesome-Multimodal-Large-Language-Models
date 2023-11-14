@@ -100,6 +100,7 @@ This is the first work to correct hallucinations in MLLMs.
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/Alpha-VLLM/LLaMA2-Accessory.svg?style=social&label=Star) <br> [**SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models**](https://arxiv.org/pdf/2311.07575.pdf) <br> | arXiv | 2023-11-13 | [Github](https://github.com/Alpha-VLLM/LLaMA2-Accessory) | [Demo](http://imagebind-llm.opengvlab.com/) |
 | [**LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents**](https://arxiv.org/pdf/2311.05437.pdf) | arXiv | 2023-11-09 | [Coming soon]() | [Demo](https://llavaplus.ngrok.io/) |
 | ![Star](https://img.shields.io/github/stars/X-PLUG/mPLUG-Owl.svg?style=social&label=Star) <br> [**mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration**](https://arxiv.org/pdf/2311.04257.pdf) <br> | arXiv | 2023-11-07 | [Github](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2) | [Demo](https://modelscope.cn/studios/damo/mPLUG-Owl2/summary) |
 | ![Star](https://img.shields.io/github/stars/Luodian/Otter.svg?style=social&label=Star) <br> [**OtterHD: A High-Resolution Multi-modality Model**](https://arxiv.org/pdf/2311.04219.pdf) <br> | arXiv | 2023-11-07 | [Github](https://github.com/Luodian/Otter) | - |
