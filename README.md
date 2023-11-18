@@ -45,11 +45,11 @@ How to use: (only for non-commercial use)
 
 🔥🔥🔥 **Woodpecker: Hallucination Correction for Multimodal Large Language Models** 
 
-<p align="left">
-    <img src="./images/woodpecker_icon.png" width="30%" height="30%">
+<p align="center">
+    <img src="./images/woodpecker_icon.png" width="28%" height="28%">
 </p>
 
-**[Source Code![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)** | **[Paper](https://arxiv.org/pdf/2310.16045.pdf)** | **[Online Demo](https://dcc844d545da57181d.gradio.live/)**
+**[Paper](https://arxiv.org/pdf/2310.16045.pdf)** | **[Online Demo](https://dcc844d545da57181d.gradio.live/)** | **[Source Code![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)**
 
 This is the first work to correct hallucinations in MLLMs.
 
