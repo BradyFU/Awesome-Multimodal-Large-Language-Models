@@ -160,7 +160,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  🏅️   |       **[Kanva](https://github.com/llpin1992/Kanva)**        |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **1666.08** |
 |  🥈   |        **[CVLM](https://github.com/buptlihang/CVLM)**        |     **[Vicuna-13B](https://github.com/buptlihang/CVLM)**     | **1636.45** |
 |  🥉   |        **[WeMM](https://github.com/scenarios/WeMM)**         |     **[InternLM-7B](https://github.com/scenarios/WeMM)**     | **1621.66** |
-|  4   | [ShareGPT4V](模型名称：ShareGPT4V，链接：https://arxiv.org/pdf/2311.12793.pdf 版本名称：Vicuna-13B，链接：https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) | [Vicuna-13B](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) |   1618.70   |
+|  4   |      [ShareGPT4V](https://arxiv.org/pdf/2311.12793.pdf)      | [Vicuna-13B](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) |   1618.70   |
 |  5   |   [LVIS-INSTRUCT4V](https://arxiv.org/pdf/2311.07574.pdf)    |    [Vicuna-13B](https://github.com/X2FD/LVIS-INSTRUCT4V)     |   1574.89   |
 |  6   |       [InfMLLM](https://github.com/mightyzau/InfMLLM)        |      [Vicuna-13B](https://github.com/mightyzau/InfMLLM)      |   1567.99   |
 |  7   |  [DataOptim-LLaVA](https://github.com/BAAI-DCAI/DataOptim)   |     [Vicuna-13B](https://github.com/BAAI-DCAI/DataOptim)     |   1563.56   |
