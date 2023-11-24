@@ -157,7 +157,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 
 | Rank |                            Model                             |                           Version                            |    Score    |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------: |
-|  🏅️   |       **[Kanva](https://github.com/llpin1992/Kanva)**        |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **1666.08** |
+|  🏅️   |        **[Kanva](https://github.com/llp1992/Kanva)**         |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **1666.08** |
 |  🥈   |        **[CVLM](https://github.com/buptlihang/CVLM)**        |     **[Vicuna-13B](https://github.com/buptlihang/CVLM)**     | **1636.45** |
 |  🥉   |        **[WeMM](https://github.com/scenarios/WeMM)**         |     **[InternLM-7B](https://github.com/scenarios/WeMM)**     | **1621.66** |
 |  4   |      [ShareGPT4V](https://arxiv.org/pdf/2311.12793.pdf)      | [Vicuna-13B](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) |   1618.70   |
@@ -203,7 +203,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  🏅️   |        **[Muffin](https://github.com/thunlp/Muffin)**        |      **[Vicuna-13B](https://github.com/thunlp/Muffin)**      | **195.00** |
 |  🏅️   | **[SPHINX](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX)** | **[LLaMA2-13B](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX)** | **195.00** |
 |  🏅️   | **[LVIS-INSTRUCT4V](https://arxiv.org/pdf/2311.07574.pdf)**  |  **[Vicuna-13B](https://github.com/X2FD/LVIS-INSTRUCT4V)**   | **195.00** |
-|  🏅️   |       **[Kanva](https://github.com/llpin1992/Kanva)**        |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **195.00** |
+|  🏅️   |        **[Kanva](https://github.com/llp1992/Kanva)**         |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **195.00** |
 |  🥈   |       **[GIT2](https://arxiv.org/pdf/2205.14100.pdf)**       | **[VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text)** | **190.00** |
 |  🥈   | **[InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer)** | **[InternLM-7B](https://github.com/InternLM/InternLM-XComposer)** | **190.00** |
 |  🥈   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **190.00** |
@@ -245,7 +245,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  🥉   | **[SPHINX](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX)** | **[LLaMA2-13B](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX)** | **160.00** |
 |  🥉   | **[LVIS-INSTRUCT4V](https://arxiv.org/pdf/2311.07574.pdf)**  |  **[Vicuna-13B](https://github.com/X2FD/LVIS-INSTRUCT4V)**   | **160.00** |
 |  4   | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) |   158.33   |
-|  5   |         [Kanva](https://github.com/llpin1992/Kanva)          |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   156.67   |
+|  5   |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   156.67   |
 |  6   |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |      [Vicuna-13B](https://github.com/haotian-liu/LLaVA)      |   155.00   |
 |  6   |        [Lion](https://github.com/mynameischaos/Lion)         |     [InternLM-7B](https://github.com/mynameischaos/Lion)     |   155.00   |
 |  6   |      [mPLUG-Owl2](https://arxiv.org/pdf/2311.04257.pdf)      | [LLaMA2-7B](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2) |   155.00   |
@@ -277,7 +277,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 
 | Rank |                            Model                             |                           Version                            |   Score    |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
-|  🏅️   |       **[Kanva](https://github.com/llpin1992/Kanva)**        |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **185.00** |
+|  🏅️   |        **[Kanva](https://github.com/llp1992/Kanva)**         |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **185.00** |
 |  🥈   |        **[CVLM](https://github.com/buptlihang/CVLM)**        |     **[Vicuna-13B](https://github.com/buptlihang/CVLM)**     | **178.33** |
 |  🥉   |    **[ShareGPT4V](https://arxiv.org/pdf/2311.12793.pdf)**    | **[Vicuna-13B](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V)** | **153.33** |
 |  🥉   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **153.33** |
@@ -331,7 +331,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  5   | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) |   165.00   |
 |  5   |          [Muffin](https://github.com/thunlp/Muffin)          |        [Vicuna-13B](https://github.com/thunlp/Muffin)        |   165.00   |
 |  6   | [SPHINX](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX) | [LLaMA2-13B](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX) |   160.00   |
-|  6   |         [Kanva](https://github.com/llpin1992/Kanva)          |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   160.00   |
+|  6   |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   160.00   |
 |  7   |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) |   158.33   |
 |  8   |          [MMICL](https://github.com/HaozheZhao/MIC)          |      [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)       |   156.67   |
 |  9   |  [DataOptim-LLaVA](https://github.com/BAAI-DCAI/DataOptim)   |     [Vicuna-13B](https://github.com/BAAI-DCAI/DataOptim)     |   155.00   |
@@ -376,7 +376,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  16  |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [Vicuna-7B](https://github.com/DCDmllm/Cheetah)        |   147.28   |
 |  17  |          [MMICL](https://github.com/HaozheZhao/MIC)          |      [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)       |   146.26   |
 |  18  |        [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)        | [Blip2-Pretrain-Flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |   141.84   |
-|  19  |         [Kanva](https://github.com/llpin1992/Kanva)          |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   140.82   |
+|  19  |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   140.82   |
 |  20  |   [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)    |    [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)    |   139.04   |
 |  21  |        [Otter](https://arxiv.org/pdf/2305.03726.pdf)         |    [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)     |   138.78   |
 |  22  | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   138.10   |
@@ -412,7 +412,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  12  |        [Lion](https://github.com/mynameischaos/Lion)         |     [InternLM-7B](https://github.com/mynameischaos/Lion)     |   150.59   |
 |  13  | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) |   150.29   |
 |  14  |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) |   145.88   |
-|  15  |         [Kanva](https://github.com/llpin1992/Kanva)          |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   145.00   |
+|  15  |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   145.00   |
 |  16  |          [MMICL](https://github.com/HaozheZhao/MIC)          |      [FlanT5xxl](https://arxiv.org/pdf/2309.07915.pdf)       |   141.76   |
 |  17  |        [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)         |       [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)        |   140.88   |
 |  18  |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMA-Adapter-v2.1-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal7b) |   136.76   |
@@ -437,7 +437,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 
 | Rank |                            Model                             |                           Version                            |   Score    |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
-|  🏅️   |       **[Kanva](https://github.com/llpin1992/Kanva)**        |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **179.75** |
+|  🏅️   |        **[Kanva](https://github.com/llp1992/Kanva)**         |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **179.75** |
 |  🥈   |        **[WeMM](https://github.com/scenarios/WeMM)**         |     **[InternLM-7B](https://github.com/scenarios/WeMM)**     | **176.25** |
 |  🥉   |    **[ShareGPT4V](https://arxiv.org/pdf/2311.12793.pdf)**    | **[Vicuna-13B](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V)** | **168.00** |
 |  4   |  [DataOptim-LLaVA](https://github.com/BAAI-DCAI/DataOptim)   |     [Vicuna-13B](https://github.com/BAAI-DCAI/DataOptim)     |   166.50   |
@@ -477,7 +477,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 
 | Rank |                            Model                             |                           Version                            |   Score    |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
-|  🏅️   |       **[Kanva](https://github.com/llpin1992/Kanva)**        |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **184.34** |
+|  🏅️   |        **[Kanva](https://github.com/llp1992/Kanva)**         |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **184.34** |
 |  🥈   |    **[ShareGPT4V](https://arxiv.org/pdf/2311.12793.pdf)**    | **[Vicuna-13B](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V)** | **174.00** |
 |  🥉   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **173.00** |
 |  4   |          [WeMM](https://github.com/scenarios/WeMM)           |       [InternLM-7B](https://github.com/scenarios/WeMM)       |   172.25   |
@@ -517,7 +517,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 
 | Rank |                            Model                             |                           Version                            |   Score    |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
-|  🏅️   |       **[Kanva](https://github.com/llpin1992/Kanva)**        |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **167.00** |
+|  🏅️   |        **[Kanva](https://github.com/llp1992/Kanva)**         |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **167.00** |
 |  🥈   |        **[WeMM](https://github.com/scenarios/WeMM)**         |     **[InternLM-7B](https://github.com/scenarios/WeMM)**     | **156.00** |
 |  🥉   | **[GPT-4V](https://cdn.openai.com/papers/GPTV_System_Card.pdf)** | **[-](https://cdn.openai.com/papers/GPTV_System_Card.pdf)**  | **148.00** |
 |  4   |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) |   146.25   |
@@ -561,7 +561,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  🥈   | **[Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main)** | **[Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main)** | **162.50** |
 |  🥈   | **[DataOptim-LLaVA](https://github.com/BAAI-DCAI/DataOptim)** |   **[Vicuna-13B](https://github.com/BAAI-DCAI/DataOptim)**   | **162.50** |
 |  🥉   |        **[CVLM](https://github.com/buptlihang/CVLM)**        |     **[Vicuna-13B](https://github.com/buptlihang/CVLM)**     | **155.00** |
-|  4   |         [Kanva](https://github.com/llpin1992/Kanva)          |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   152.50   |
+|  4   |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   152.50   |
 |  5   |          [WeMM](https://github.com/scenarios/WeMM)           |       [InternLM-7B](https://github.com/scenarios/WeMM)       |   147.50   |
 |  6   |      [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)      |         [Qwen-7B](https://github.com/QwenLM/Qwen-VL)         |   140.00   |
 |  7   |       [InfMLLM](https://github.com/mightyzau/InfMLLM)        |      [Vicuna-13B](https://github.com/mightyzau/InfMLLM)      |   132.50   |
@@ -629,7 +629,7 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  26  |       [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)       |     [Vl-Vicuna-7B](https://github.com/VPGTrans/VPGTrans)     |   249.29   |
 |  27  |       [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)       | [Pandagpt-7B-Max-Len-512](https://github.com/yxuansu/PandaGPT) |   228.57   |
 |  28  |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   226.79   |
-|  29  |         [Kanva](https://github.com/llpin1992/Kanva)          |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   217.14   |
+|  29  |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   217.14   |
 |  30  |         [Lynx](https://arxiv.org/pdf/2307.02469.pdf)         |      [Vicuna-7B](https://github.com/bytedance/lynx-llm)      |   215.71   |
 |  31  | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) |   213.57   |
 |  32  |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   181.79   |
@@ -668,7 +668,7 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  23  |        [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)         |       [LAVIN-13B](https://github.com/luogen1996/LaVIN)       |   87.14    |
 |  24  |      [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)       | [Mplug-Owl-Llama-7B](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   78.57    |
 |  25  |       [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)       | [Pandagpt-7B-Max-Len-512](https://github.com/yxuansu/PandaGPT) |   73.57    |
-|  26  |         [Kanva](https://github.com/llpin1992/Kanva)          |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   72.14    |
+|  26  |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   72.14    |
 |  27  |       [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)       |     [Vl-Vicuna-7B](https://github.com/VPGTrans/VPGTrans)     |   64.29    |
 |  28  |      [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)       | [Minigpt4-Aligned-With-Vicuna13B](https://github.com/Vision-CAIR/MiniGPT-4) |   59.29    |
 |  29  |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   49.29    |
@@ -699,7 +699,7 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  14  |       [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)       | [Pandagpt-7B-Max-Len-512](https://github.com/yxuansu/PandaGPT) |   50.00    |
 |  14  |       [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)       |     [Vl-Vicuna-7B](https://github.com/VPGTrans/VPGTrans)     |   50.00    |
 |  14  |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) |   50.00    |
-|  14  |         [Kanva](https://github.com/llpin1992/Kanva)          |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   50.00    |
+|  14  |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   50.00    |
 |  15  |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMA-Adapter-v2.1-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal7b) |   47.50    |
 |  15  | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   47.50    |
 |  15  |  [DataOptim-LLaVA](https://github.com/BAAI-DCAI/DataOptim)   |     [Vicuna-13B](https://github.com/BAAI-DCAI/DataOptim)     |   47.50    |
@@ -750,7 +750,7 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  16  |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [Vicuna-7B](https://github.com/DCDmllm/Cheetah)        |   57.50    |
 |  17  | [ImageBind_LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main) | [imagebind_LLM-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) |   50.00    |
 |  17  |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |   50.00    |
-|  17  |         [Kanva](https://github.com/llpin1992/Kanva)          |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   50.00    |
+|  17  |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   50.00    |
 |  18  |        [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)         |       [LAVIN-13B](https://github.com/luogen1996/LaVIN)       |   47.50    |
 |  19  |         [Lynx](https://arxiv.org/pdf/2307.02469.pdf)         |      [Vicuna-7B](https://github.com/bytedance/lynx-llm)      |   42.50    |
 |  20  |      [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)       | [Minigpt4-Aligned-With-Vicuna13B](https://github.com/Vision-CAIR/MiniGPT-4) |    0.00    |
@@ -790,7 +790,7 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  18  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |      [Vicuna-13B](https://github.com/haotian-liu/LLaVA)      |   47.50    |
 |  19  |         [Lynx](https://arxiv.org/pdf/2307.02469.pdf)         |      [Vicuna-7B](https://github.com/bytedance/lynx-llm)      |   45.00    |
 |  19  |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) |   45.00    |
-|  19  |         [Kanva](https://github.com/llpin1992/Kanva)          |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   45.00    |
+|  19  |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   45.00    |
 |  20  |      [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)      |         [Qwen-7B](https://github.com/QwenLM/Qwen-VL)         |   42.50    |
 |  20  |   [LVIS-INSTRUCT4V](https://arxiv.org/pdf/2311.07574.pdf)    |    [Vicuna-13B](https://github.com/X2FD/LVIS-INSTRUCT4V)     |   42.50    |
 |  21  |      [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)       | [Minigpt4-Aligned-With-Vicuna13B](https://github.com/Vision-CAIR/MiniGPT-4) |   40.00    |
