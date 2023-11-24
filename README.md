@@ -49,7 +49,7 @@ How to use: (only for non-commercial use)
     <img src="./images/woodpecker_icon.png" width="28%" height="28%">
 </p>
 
-**[Paper](https://arxiv.org/pdf/2310.16045.pdf)** | **[Online Demo](https://03904bc2b18f865deb.gradio.live/)** | **[Source Code![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)**
+**[Paper](https://arxiv.org/pdf/2310.16045.pdf)** | **[Online Demo](https://c9c284718c3a292b94.gradio.live/)** | **[Source Code![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)**
 
 This is the first work to correct hallucinations in MLLMs.
 
