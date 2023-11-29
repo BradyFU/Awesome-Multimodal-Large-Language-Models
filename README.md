@@ -85,6 +85,7 @@ This is the first work to correct hallucinations in MLLMs.
   - [LLM-Aided Visual Reasoning](#llm-aided-visual-reasoning)
   - [Foundation Models](#foundation-models)
   - [Evaluation](#evaluation)
+  - [Multimodal Hallucination](#multimodal-hallucination)
   - [Others](#others)
 - [Awesome Datasets](#awesome-datasets)
   - [Datasets of Pre-Training for Alignment](#datasets-of-pre-training-for-alignment)
@@ -100,9 +101,7 @@ This is the first work to correct hallucinations in MLLMs.
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization**](https://arxiv.org/pdf/2311.16839.pdf) | arXiv | 2023-11-28 | [Coming soon]() | - |
 | ![Star](https://img.shields.io/github/stars/dvlab-research/LLaMA-VID.svg?style=social&label=Star) <br> [**LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models**](https://arxiv.org/pdf/2311.17043.pdf) <br> | arXiv | 2023-11-28 | [Github](https://github.com/dvlab-research/LLaMA-VID) | [Coming soon]() |
-| ![Star](https://img.shields.io/github/stars/Yuqifan1117/HalluciDoctor.svg?style=social&label=Star) <br> [**HalluciDoctor: Mitigating Hallucinatory Toxicity in Visual Instruction Data**](https://arxiv.org/pdf/2311.13614.pdf) <br> | arXiv | 2023-11-22 | [Github](https://github.com/Yuqifan1117/HalluciDoctor) | - |
 | ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) <br> [**ShareGPT4V: Improving Large Multi-Modal Models with Better Captions**](https://arxiv.org/pdf/2311.12793.pdf) <br> | arXiv | 2023-11-21 | [Github](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) | [Demo](https://huggingface.co/spaces/Lin-Chen/ShareGPT4V-7B) |
 | ![Star](https://img.shields.io/github/stars/X2FD/LVIS-INSTRUCT4V.svg?style=social&label=Star) <br> [**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**](https://arxiv.org/pdf/2311.07574.pdf) <br> | arXiv | 2023-11-13 | [Github](https://github.com/X2FD/LVIS-INSTRUCT4V) | - |
 | ![Star](https://img.shields.io/github/stars/Alpha-VLLM/LLaMA2-Accessory.svg?style=social&label=Star) <br> [**SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models**](https://arxiv.org/pdf/2311.07575.pdf) <br> | arXiv | 2023-11-13 | [Github](https://github.com/Alpha-VLLM/LLaMA2-Accessory) | [Demo](http://imagebind-llm.opengvlab.com/) |
@@ -289,7 +288,6 @@ This is the first work to correct hallucinations in MLLMs.
 | [**A Comprehensive Study of GPT-4V's Multimodal Capabilities in Medical Imaging**](https://arxiv.org/pdf/2310.20381.pdf) | arXiv | 2023-10-31 | - |
 | ![Star](https://img.shields.io/github/stars/albertwy/GPT-4V-Evaluation.svg?style=social&label=Star) <br> [**An Early Evaluation of GPT-4V(ision)**](https://arxiv.org/pdf/2310.16534.pdf) <br> | arXiv | 2023-10-25 | [Github](https://github.com/albertwy/GPT-4V-Evaluation) |
 | ![Star](https://img.shields.io/github/stars/SCUT-DLVCLab/GPT-4V_OCR.svg?style=social&label=Star) <br> [**Exploring OCR Capabilities of GPT-4V(ision) : A Quantitative and In-depth Evaluation**](https://arxiv.org/pdf/2310.16809.pdf) <br> | arXiv | 2023-10-25 | [Github](https://github.com/SCUT-DLVCLab/GPT-4V_OCR) |
-| ![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star) <br> [**Woodpecker: Hallucination Correction for Multimodal Large Language Models**](https://arxiv.org/pdf/2310.16045.pdf) <br> | arXiv | 2023-10-24 | [Github](https://github.com/BradyFU/Woodpecker) |
 | ![Star](https://img.shields.io/github/stars/tianyi-lab/HallusionBench.svg?style=social&label=Star) <br> [**HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models**](https://arxiv.org/pdf/2310.14566.pdf) <br> | arXiv | 2023-10-23 | [Github](https://github.com/tianyi-lab/HallusionBench) |
 | ![Star](https://img.shields.io/github/stars/lupantech/MathVista.svg?style=social&label=Star) <br> [**MathVista: Evaluating Math Reasoning in Visual Contexts with GPT-4V, Bard, and Other Large Multimodal Models**](https://arxiv.org/pdf/2310.02255.pdf) <br> | arXiv | 2023-10-03 | [Github](https://github.com/lupantech/MathVista) |
 | ![Star](https://img.shields.io/github/stars/ys-zong/FoolyourVLLMs.svg?style=social&label=Star) <br> [**Fool Your (Vision and) Language Model With Embarrassingly Simple Permutations**](https://arxiv.org/pdf/2310.01651.pdf) <br> | arXiv | 2023-10-02 | [Github](https://github.com/ys-zong/FoolyourVLLMs) | 
@@ -309,6 +307,14 @@ This is the first work to correct hallucinations in MLLMs.
 | ![Star](https://img.shields.io/github/stars/OpenLAMM/LAMM.svg?style=social&label=Star) <br> [**LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark**](https://arxiv.org/pdf/2306.06687.pdf) <br> | arXiv | 2023-06-11 | [Github](https://github.com/OpenLAMM/LAMM#lamm-benchmark) |
 | ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/M3Exam.svg?style=social&label=Star) <br> [**M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models**](https://arxiv.org/pdf/2306.05179.pdf) <br> | arXiv | 2023-06-08 | [Github](https://github.com/DAMO-NLP-SG/M3Exam) | 
 
+## Multimodal Hallucination
+|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization**](https://arxiv.org/pdf/2311.16839.pdf) | arXiv | 2023-11-28 | [Coming soon]() | - |
+| ![Star](https://img.shields.io/github/stars/Yuqifan1117/HalluciDoctor.svg?style=social&label=Star) <br> [**HalluciDoctor: Mitigating Hallucinatory Toxicity in Visual Instruction Data**](https://arxiv.org/pdf/2311.13614.pdf) <br> | arXiv | 2023-11-22 | [Github](https://github.com/Yuqifan1117/HalluciDoctor) | - |
+| ![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star) <br> [**Woodpecker: Hallucination Correction for Multimodal Large Language Models**](https://arxiv.org/pdf/2310.16045.pdf) <br> | arXiv | 2023-10-24 | [Github](https://github.com/BradyFU/Woodpecker) | [Demo](https://c9c284718c3a292b94.gradio.live/) |
+| ![Star](https://img.shields.io/github/stars/RUCAIBox/POPE.svg?style=social&label=Star) <br> [**Evaluating Object Hallucination in Large Vision-Language Models**](https://arxiv.org/pdf/2305.10355.pdf) <br> | EMNLP | 2023-05-17 | [Github](https://github.com/RUCAIBox/POPE) | - |
+
 ## Others
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -318,7 +324,6 @@ This is the first work to correct hallucinations in MLLMs.
 | ![Star](https://img.shields.io/github/stars/yuhangzang/ContextDET.svg?style=social&label=Star) <br> [**Contextual Object Detection with Multimodal Large Language Models**](https://arxiv.org/pdf/2305.18279.pdf) <br> | arXiv | 2023-05-29 | [Github](https://github.com/yuhangzang/ContextDET) | [Demo](https://huggingface.co/spaces/yuhangzang/ContextDet-Demo) |
 | ![Star](https://img.shields.io/github/stars/kohjingyu/gill.svg?style=social&label=Star) <br> [**Generating Images with Multimodal Language Models**](https://arxiv.org/pdf/2305.17216.pdf) <br> | arXiv | 2023-05-26 | [Github](https://github.com/kohjingyu/gill) | - |
 | ![Star](https://img.shields.io/github/stars/yunqing-me/AttackVLM.svg?style=social&label=Star) <br> [**On Evaluating Adversarial Robustness of Large Vision-Language Models**](https://arxiv.org/pdf/2305.16934.pdf) <br> | arXiv | 2023-05-26 | [Github](https://github.com/yunqing-me/AttackVLM) | - | 
-| ![Star](https://img.shields.io/github/stars/RUCAIBox/POPE.svg?style=social&label=Star) <br> [**Evaluating Object Hallucination in Large Vision-Language Models**](https://arxiv.org/pdf/2305.10355.pdf) <br> | EMNLP | 2023-05-17 | [Github](https://github.com/RUCAIBox/POPE) | - |
 | ![Star](https://img.shields.io/github/stars/kohjingyu/fromage.svg?style=social&label=Star) <br> [**Grounding Language Models to Images for Multimodal Inputs and Outputs**](https://arxiv.org/pdf/2301.13823.pdf) <br> | ICML | 2023-01-31 | [Github](https://github.com/kohjingyu/fromage) | [Demo](https://huggingface.co/spaces/jykoh/fromage) |
 
 ---
