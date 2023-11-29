@@ -44,7 +44,7 @@ How to use: (only for non-commercial use)
     <img src="./images/woodpecker_icon.png" width="28%" height="28%">
 </p>
 
-**[Paper](https://arxiv.org/pdf/2310.16045.pdf)** | **[Online Demo](https://c9c284718c3a292b94.gradio.live/)** | **[Source Code![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)**
+**[Paper](https://arxiv.org/pdf/2310.16045.pdf)** | **[Online Demo](https://f252626b321420bfb1.gradio.live/)** | **[Source Code![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)**
 
 This is the first work to correct hallucinations in MLLMs.
 
@@ -226,7 +226,7 @@ This is the first work to correct hallucinations in MLLMs.
 | ![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-Interactive-Demo.svg?style=social&label=Star) <br> [**LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing**](https://arxiv.org/pdf/2311.00571.pdf) <br> | arXiv | 2023-11-01 | [Github](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo) | [Demo](https://6dd3-20-163-117-69.ngrok-free.app/) |
 | [**MM-VID: Advancing Video Understanding with GPT-4V(vision)**](https://arxiv.org/pdf/2310.19773.pdf) | arXiv | 2023-10-30 | - | - |
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/ControlLLM.svg?style=social&label=Star) <br> [**ControlLLM: Augment Language Models with Tools by Searching on Graphs**](https://arxiv.org/pdf/2310.17796.pdf) <br> | arXiv | 2023-10-26 | [Github](https://github.com/OpenGVLab/ControlLLM) | - |
-| ![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star) <br> [**Woodpecker: Hallucination Correction for Multimodal Large Language Models**](https://arxiv.org/pdf/2310.16045.pdf) <br> | arXiv | 2023-10-24 | [Github](https://github.com/BradyFU/Woodpecker) | [Demo](https://c9c284718c3a292b94.gradio.live/) |
+| ![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star) <br> [**Woodpecker: Hallucination Correction for Multimodal Large Language Models**](https://arxiv.org/pdf/2310.16045.pdf) <br> | arXiv | 2023-10-24 | [Github](https://github.com/BradyFU/Woodpecker) | [Demo](https://f252626b321420bfb1.gradio.live/) |
 | ![Star](https://img.shields.io/github/stars/mindagent/mindagent.svg?style=social&label=Star) <br> [**MindAgent: Emergent Gaming Interaction**](https://arxiv.org/pdf/2309.09971.pdf) <br> | arXiv | 2023-09-18 | [Github](https://github.com/mindagent/mindagent) | - | 
 | ![Star](https://img.shields.io/github/stars/dvlab-research/LISA.svg?style=social&label=Star) <br> [**LISA: Reasoning Segmentation via Large Language Model**](https://arxiv.org/pdf/2308.00692.pdf) <br> | arXiv | 2023-08-01 | [Github](https://github.com/dvlab-research/LISA) | [Demo](http://103.170.5.190:7860/) | 
 | ![Star](https://img.shields.io/github/stars/ContextualAI/lens.svg?style=social&label=Star) <br> [**Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language**](https://arxiv.org/pdf/2306.16410.pdf) <br> | arXiv | 2023-06-28 | [Github](https://github.com/ContextualAI/lens) | [Demo](https://lens.contextual.ai/) |
@@ -310,7 +310,7 @@ This is the first work to correct hallucinations in MLLMs.
 | ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VCD.svg?style=social&label=Star) <br> [**Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding**](https://arxiv.org/pdf/2311.16922.pdf) <br> | arXiv | 2023-11-28 | [Github](https://github.com/DAMO-NLP-SG/VCD) | - |
 | [**Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization**](https://arxiv.org/pdf/2311.16839.pdf) | arXiv | 2023-11-28 | [Coming soon]() | - |
 | ![Star](https://img.shields.io/github/stars/Yuqifan1117/HalluciDoctor.svg?style=social&label=Star) <br> [**HalluciDoctor: Mitigating Hallucinatory Toxicity in Visual Instruction Data**](https://arxiv.org/pdf/2311.13614.pdf) <br> | arXiv | 2023-11-22 | [Github](https://github.com/Yuqifan1117/HalluciDoctor) | - |
-| ![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star) <br> [**Woodpecker: Hallucination Correction for Multimodal Large Language Models**](https://arxiv.org/pdf/2310.16045.pdf) <br> | arXiv | 2023-10-24 | [Github](https://github.com/BradyFU/Woodpecker) | [Demo](https://c9c284718c3a292b94.gradio.live/) |
+| ![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star) <br> [**Woodpecker: Hallucination Correction for Multimodal Large Language Models**](https://arxiv.org/pdf/2310.16045.pdf) <br> | arXiv | 2023-10-24 | [Github](https://github.com/BradyFU/Woodpecker) | [Demo](https://f252626b321420bfb1.gradio.live/) |
 | [**HallE-Switch: Rethinking and Controlling Object Existence Hallucinations in Large Vision Language Models for Detailed Caption**](https://arxiv.org/pdf/2310.01779.pdf) | arXiv | 2023-10-03 | - | - |
 | [**Evaluation and Mitigation of Agnosia in Multimodal Large Language Models**](https://arxiv.org/pdf/2309.04041.pdf) | arXiv | 2023-09-07 | - | - |
 | [**CIEM: Contrastive Instruction Evaluation Method for Better Instruction Tuning**](https://arxiv.org/pdf/2309.02301.pdf) | arXiv | 2023-09-05 | - | - | 
