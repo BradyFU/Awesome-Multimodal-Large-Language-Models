@@ -312,6 +312,7 @@ This is the first work to correct hallucinations in MLLMs.
 | ![Star](https://img.shields.io/github/stars/Yuqifan1117/HalluciDoctor.svg?style=social&label=Star) <br> [**HalluciDoctor: Mitigating Hallucinatory Toxicity in Visual Instruction Data**](https://arxiv.org/pdf/2311.13614.pdf) <br> | arXiv | 2023-11-22 | [Github](https://github.com/Yuqifan1117/HalluciDoctor) | - |
 | ![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star) <br> [**Woodpecker: Hallucination Correction for Multimodal Large Language Models**](https://arxiv.org/pdf/2310.16045.pdf) <br> | arXiv | 2023-10-24 | [Github](https://github.com/BradyFU/Woodpecker) | [Demo](https://c9c284718c3a292b94.gradio.live/) |
 | [**HallE-Switch: Rethinking and Controlling Object Existence Hallucinations in Large Vision Language Models for Detailed Caption**](https://arxiv.org/pdf/2310.01779.pdf) | arXiv | 2023-10-03 | - | - |
+| [**Evaluation and Mitigation of Agnosia in Multimodal Large Language Models**](https://arxiv.org/pdf/2309.04041.pdf) | arXiv | 2023-09-07 | - | - |
 | [**CIEM: Contrastive Instruction Evaluation Method for Better Instruction Tuning**](https://arxiv.org/pdf/2309.02301.pdf) | arXiv | 2023-09-05 | - | - | 
 | ![Star](https://img.shields.io/github/stars/opendatalab/VIGC.svg?style=social&label=Star) <br> [**VIGC: Visual Instruction Generation and Correction**](https://arxiv.org/pdf/2308.12714.pdf) <br> | arXiv | 2023-08-24 | [Github](https://github.com/opendatalab/VIGC) | [Demo](https://opendatalab.github.io/VIGC) | 
 | [**Detecting and Preventing Hallucinations in Large Vision Language Models**](https://arxiv.org/pdf/2308.06394.pdf) | arXiv | 2023-08-11 | - | - |
@@ -321,7 +322,6 @@ This is the first work to correct hallucinations in MLLMs.
 ## Others
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Evaluation and Mitigation of Agnosia in Multimodal Large Language Models**](https://arxiv.org/pdf/2309.04041.pdf) | arXiv | 2023-09-07 | - | - |
 | ![Star](https://img.shields.io/github/stars/AIlab-CVC/SEED.svg?style=social&label=Star) <br> [**Planting a SEED of Vision in Large Language Model**](https://arxiv.org/pdf/2307.08041.pdf) <br> | arXiv | 2023-07-16 | [Github](https://github.com/AILab-CVC/SEED) |
 | ![Star](https://img.shields.io/github/stars/huawei-noah/Efficient-Computing.svg?style=social&label=Star) <br> [**Can Large Pre-trained Models Help Vision Models on Perception Tasks?**](https://arxiv.org/pdf/2306.00693.pdf) <br> | arXiv | 2023-06-01 | [Github](https://github.com/huawei-noah/Efficient-Computing/tree/master/GPT4Image/) | - | 
 | ![Star](https://img.shields.io/github/stars/yuhangzang/ContextDET.svg?style=social&label=Star) <br> [**Contextual Object Detection with Multimodal Large Language Models**](https://arxiv.org/pdf/2305.18279.pdf) <br> | arXiv | 2023-05-29 | [Github](https://github.com/yuhangzang/ContextDET) | [Demo](https://huggingface.co/spaces/yuhangzang/ContextDet-Demo) |
