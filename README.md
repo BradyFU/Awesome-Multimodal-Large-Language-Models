@@ -314,6 +314,7 @@ This is the first work to correct hallucinations in MLLMs.
 | [**HallE-Switch: Rethinking and Controlling Object Existence Hallucinations in Large Vision Language Models for Detailed Caption**](https://arxiv.org/pdf/2310.01779.pdf) | arXiv | 2023-10-03 | - | - |
 | [**Evaluation and Mitigation of Agnosia in Multimodal Large Language Models**](https://arxiv.org/pdf/2309.04041.pdf) | arXiv | 2023-09-07 | - | - |
 | [**CIEM: Contrastive Instruction Evaluation Method for Better Instruction Tuning**](https://arxiv.org/pdf/2309.02301.pdf) | arXiv | 2023-09-05 | - | - | 
+| [**Evaluation and Analysis of Hallucination in Large Vision-Language Models**](https://arxiv.org/pdf/2308.15126.pdf) | arXiv | 2023-08-29 | - | - |
 | ![Star](https://img.shields.io/github/stars/opendatalab/VIGC.svg?style=social&label=Star) <br> [**VIGC: Visual Instruction Generation and Correction**](https://arxiv.org/pdf/2308.12714.pdf) <br> | arXiv | 2023-08-24 | [Github](https://github.com/opendatalab/VIGC) | [Demo](https://opendatalab.github.io/VIGC) | 
 | [**Detecting and Preventing Hallucinations in Large Vision Language Models**](https://arxiv.org/pdf/2308.06394.pdf) | arXiv | 2023-08-11 | - | - |
 | ![Star](https://img.shields.io/github/stars/FuxiaoLiu/LRV-Instruction.svg?style=social&label=Star) <br> [**Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning**](https://arxiv.org/pdf/2306.14565.pdf) <br> | arXiv | 2023-06-26 | [Github](https://github.com/FuxiaoLiu/LRV-Instruction) | [Demo](https://7b6590ed039a06475d.gradio.live/) |
