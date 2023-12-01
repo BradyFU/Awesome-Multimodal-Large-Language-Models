@@ -409,6 +409,7 @@ This is the first work to correct hallucinations in MLLMs.
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **MMC-Benchmark** | [MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning](https://arxiv.org/pdf/2311.10774.pdf) | [Link](https://github.com/FuxiaoLiu/MMC) | A comprehensive human-annotated benchmark with distinct tasks evaluating reasoning capabilities over charts |
 | **MVBench** | [MVBench: A Comprehensive Multi-modal Video Understanding Benchmark](https://arxiv.org/pdf/2311.17005.pdf) | [Link](https://github.com/OpenGVLab/Ask-Anything/blob/main/video_chat2/MVBENCH.md) | A comprehensive multimodal benchmark for video understanding |
 | **Bingo** | [Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges](https://arxiv.org/pdf/2311.03287.pdf) | [Link](https://github.com/gzcch/Bingo) | A benchmark for hallucination evaluation that focuses on two common types |
 | **MagnifierBench** | [OtterHD: A High-Resolution Multi-modality Model](https://arxiv.org/pdf/2311.04219.pdf) | [Link](https://huggingface.co/datasets/Otter-AI/MagnifierBench) | A benchmark designed to probe models' ability of fine-grained perception |
