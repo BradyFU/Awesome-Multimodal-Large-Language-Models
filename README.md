@@ -101,6 +101,7 @@ This is the first work to correct hallucinations in MLLMs.
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/vlm-driver/Dolphins.svg?style=social&label=Star) <br> [Dolphins: Multimodal Language Model for Driving](https://arxiv.org/pdf/2312.00438.pdf) <br> | arXiv | 2023-12-01 | [Github](https://github.com/vlm-driver/Dolphins) | - |
 | ![Star](https://img.shields.io/github/stars/dvlab-research/LLaMA-VID.svg?style=social&label=Star) <br> [**LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models**](https://arxiv.org/pdf/2311.17043.pdf) <br> | arXiv | 2023-11-28 | [Github](https://github.com/dvlab-research/LLaMA-VID) | [Coming soon]() |
 | ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) <br> [**ShareGPT4V: Improving Large Multi-Modal Models with Better Captions**](https://arxiv.org/pdf/2311.12793.pdf) <br> | arXiv | 2023-11-21 | [Github](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) | [Demo](https://huggingface.co/spaces/Lin-Chen/ShareGPT4V-7B) |
 | ![Star](https://img.shields.io/github/stars/X2FD/LVIS-INSTRUCT4V.svg?style=social&label=Star) <br> [**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**](https://arxiv.org/pdf/2311.07574.pdf) <br> | arXiv | 2023-11-13 | [Github](https://github.com/X2FD/LVIS-INSTRUCT4V) | - |
