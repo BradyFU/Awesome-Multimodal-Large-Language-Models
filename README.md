@@ -85,7 +85,7 @@ This is the first work to correct hallucinations in MLLMs.
 # News 🚀
 **[2023-12]** 
 
-1. [12-01] Thanks to [**Xiaoyi Dong**](https://scholar.google.com/citations?user=9MLB3s8AAAAJ&hl=zh-CN), [**BELLE-VL**](https://huggingface.co/BELLE-2/BELLE-VL) is added to our leaderboards. 🔥🔥
+1. [12-01] Thanks to [**Cheng Wen**](https://scholar.google.com/citations?user=9MLB3s8AAAAJ&hl=zh-CN), [**BELLE-VL**](https://huggingface.co/BELLE-2/BELLE-VL) is added to our leaderboards. 🔥🔥
 2. [12-01] Thanks to [**PCI Research**](https://www.pcitech.com/), [**TransCore-M**](https://github.com/PCIResearch/TransCore-M) joins MME. 🔥🔥
 
 
