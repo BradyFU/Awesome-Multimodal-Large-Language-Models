@@ -184,6 +184,7 @@ This is the first work to correct hallucinations in MLLMs.
 ## Multimodal In-Context Learning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Towards More Unified In-context Visual Understanding**](https://arxiv.org/pdf/2312.02520.pdf) | arXiv | 2023-12-05 | - | - | 
 | ![Star](https://img.shields.io/github/stars/HaozheZhao/MIC.svg?style=social&label=Star) <br> [**MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning**](https://arxiv.org/pdf/2309.07915.pdf) <br> | arXiv | 2023-09-14 | [Github](https://github.com/HaozheZhao/MIC) | [Demo](https://8904cdd23621858859.gradio.live/) |
 | ![Star](https://img.shields.io/github/stars/isekai-portal/Link-Context-Learning.svg?style=social&label=Star) <br> [**Link-Context Learning for Multimodal LLMs**](https://arxiv.org/pdf/2308.07891.pdf) <br> | arXiv | 2023-08-15 | [Github](https://github.com/isekai-portal/Link-Context-Learning) | [Demo](http://117.144.81.99:20488/) | 
 | ![Star](https://img.shields.io/github/stars/mlfoundations/open_flamingo.svg?style=social&label=Star) <br> [**OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models**](https://arxiv.org/pdf/2308.01390.pdf) <br> | arXiv | 2023-08-02 | [Github](https://github.com/mlfoundations/open_flamingo) | [Demo](https://huggingface.co/spaces/openflamingo/OpenFlamingo) | 
