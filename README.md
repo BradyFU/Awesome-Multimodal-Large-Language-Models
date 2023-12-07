@@ -102,6 +102,7 @@ This is the first work to correct hallucinations in MLLMs.
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Gemini: A Family of Highly Capable Multimodal Models**](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf) | Google | 2023-12-06 | - | - |
+| ![Star](https://img.shields.io/github/stars/Meituan-AutoML/Lenna.svg?style=social&label=Star) <br> [**Lenna: Language Enhanced Reasoning Detection Assistant**](https://arxiv.org/pdf/2312.02433.pdf) <br> | arXiv | 2023-12-05 | [Github](https://github.com/Meituan-AutoML/Lenna) | - | 
 | ![Star](https://img.shields.io/github/stars/vlm-driver/Dolphins.svg?style=social&label=Star) <br> [**Dolphins: Multimodal Language Model for Driving**](https://arxiv.org/pdf/2312.00438.pdf) <br> | arXiv | 2023-12-01 | [Github](https://github.com/vlm-driver/Dolphins) | - |
 | ![Star](https://img.shields.io/github/stars/huangb23/VTimeLLM.svg?style=social&label=Star) <br> [**VTimeLLM: Empower LLM to Grasp Video Moments**](https://arxiv.org/pdf/2311.18445.pdf) <br> | arXiv | 2023-11-30 | [Github](https://github.com/huangb23/VTimeLLM/) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/dvlab-research/LLaMA-VID.svg?style=social&label=Star) <br> [**LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models**](https://arxiv.org/pdf/2311.17043.pdf) <br> | arXiv | 2023-11-28 | [Github](https://github.com/dvlab-research/LLaMA-VID) | [Coming soon]() |
@@ -230,7 +231,6 @@ This is the first work to correct hallucinations in MLLMs.
 ## LLM-Aided Visual Reasoning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/Meituan-AutoML/Lenna.svg?style=social&label=Star) <br> [**Lenna: Language Enhanced Reasoning Detection Assistant**](https://arxiv.org/pdf/2312.02433.pdf) <br> | arXiv | 2023-12-05 | [Github](https://github.com/Meituan-AutoML/Lenna) | - | 
 | ![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-Interactive-Demo.svg?style=social&label=Star) <br> [**LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing**](https://arxiv.org/pdf/2311.00571.pdf) <br> | arXiv | 2023-11-01 | [Github](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo) | [Demo](https://6dd3-20-163-117-69.ngrok-free.app/) |
 | [**MM-VID: Advancing Video Understanding with GPT-4V(vision)**](https://arxiv.org/pdf/2310.19773.pdf) | arXiv | 2023-10-30 | - | - |
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/ControlLLM.svg?style=social&label=Star) <br> [**ControlLLM: Augment Language Models with Tools by Searching on Graphs**](https://arxiv.org/pdf/2310.17796.pdf) <br> | arXiv | 2023-10-26 | [Github](https://github.com/OpenGVLab/ControlLLM) | - |
