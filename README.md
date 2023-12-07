@@ -102,6 +102,7 @@ This is the first work to correct hallucinations in MLLMs.
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Gemini: A Family of Highly Capable Multimodal Models**](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf) | Google | 2023-12-06 | - | - |
+| ![Star](https://img.shields.io/github/stars/csuhan/OneLLM.svg?style=social&label=Star) <br> [**OneLLM: One Framework to Align All Modalities with Language**](https://arxiv.org/pdf/2312.03700.pdf) <br> | arXiv | 2023-12-06 | [Github](https://github.com/csuhan/OneLLM) | [Demo](https://huggingface.co/spaces/csuhan/OneLLM) |
 | ![Star](https://img.shields.io/github/stars/Meituan-AutoML/Lenna.svg?style=social&label=Star) <br> [**Lenna: Language Enhanced Reasoning Detection Assistant**](https://arxiv.org/pdf/2312.02433.pdf) <br> | arXiv | 2023-12-05 | [Github](https://github.com/Meituan-AutoML/Lenna) | - | 
 | ![Star](https://img.shields.io/github/stars/vlm-driver/Dolphins.svg?style=social&label=Star) <br> [**Dolphins: Multimodal Language Model for Driving**](https://arxiv.org/pdf/2312.00438.pdf) <br> | arXiv | 2023-12-01 | [Github](https://github.com/vlm-driver/Dolphins) | - |
 | ![Star](https://img.shields.io/github/stars/huangb23/VTimeLLM.svg?style=social&label=Star) <br> [**VTimeLLM: Empower LLM to Grasp Video Moments**](https://arxiv.org/pdf/2311.18445.pdf) <br> | arXiv | 2023-11-30 | [Github](https://github.com/huangb23/VTimeLLM/) | Local Demo |
