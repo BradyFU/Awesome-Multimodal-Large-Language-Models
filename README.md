@@ -287,6 +287,7 @@ This is the first work to correct hallucinations in MLLMs.
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| ![Stars](https://img.shields.io/github/stars/AIFEG/BenchLMM?style=social&label=Star)<br> [**BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models**](https://arxiv.org/pdf/2312.02896.pdf) <br> | arXiv | 2023-12-05 | [Github](https://github.com/AIFEG/BenchLMM) |
 | ![Star](https://img.shields.io/github/stars/UCSC-VLAA/vllm-safety-benchmark.svg?style=social&label=Star) <br> [**How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs**](https://arxiv.org/pdf/2311.16101.pdf) <br> | arXiv | 2023-11-27 | [Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark) |
 | [**VLM-Eval: A General Evaluation on Video Large Language Models**](https://arxiv.org/pdf/2311.11865.pdf) | arXiv | 2023-11-20 | [Coming soon]() |
 | ![Star](https://img.shields.io/github/stars/gzcch/Bingo.svg?style=social&label=Star) <br> [**Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges**](https://arxiv.org/pdf/2311.03287.pdf) <br> | arXiv | 2023-11-06 | [Github](https://github.com/gzcch/Bingo) |
