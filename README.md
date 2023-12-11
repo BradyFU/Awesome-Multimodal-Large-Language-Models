@@ -78,6 +78,8 @@ This is the first work to correct hallucinations in MLLMs.
 ---
 
 <font size=5><center><b> Table of Contents </b> </center></font>
+- [Awesome-Multimodal-Large-Language-Models](#awesome-multimodal-large-language-models)
+  - [Our MLLM works](#our-mllm-works)
 - [Awesome Papers](#awesome-papers)
   - [Multimodal Instruction Tuning](#multimodal-instruction-tuning)
   - [Multimodal In-Context Learning](#multimodal-in-context-learning)
@@ -320,6 +322,7 @@ This is the first work to correct hallucinations in MLLMs.
 ## Multimodal Hallucination
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/dvlab-research/Prompt-Highlighter.svg?style=social&label=Star) <br> [**Prompt Highlighter: Interactive Control for Multi-Modal LLMs**](https://arxiv.org/pdf/2312.04302.pdf) <br> | arXiv | 2023-12-09 | [Github](https://github.com/dvlab-research/Prompt-Highlighter) | - |
 | ![Star](https://img.shields.io/github/stars/assafbk/mocha_code.svg?style=social&label=Star) <br> [**MOCHa: Multi-Objective Reinforcement Mitigating Caption Hallucinations**](https://arxiv.org/pdf/2312.03631.pdf) <br> | arXiv | 2023-12-06 | [Github](https://github.com/assafbk/mocha_code) | - |
 | ![Star](https://img.shields.io/github/stars/shikiw/OPERA.svg?style=social&label=Star) <br> [**OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation**](https://arxiv.org/pdf/2311.17911.pdf) <br> | arXiv | 2023-11-29 | [Github](https://github.com/shikiw/OPERA) | - |
 | ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VCD.svg?style=social&label=Star) <br> [**Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding**](https://arxiv.org/pdf/2311.16922.pdf) <br> | arXiv | 2023-11-28 | [Github](https://github.com/DAMO-NLP-SG/VCD) | - |
