@@ -139,19 +139,19 @@ This is the first work to correct hallucinations in MLLMs.
 
 ---
 
-# Evaluation Results
+# Evaluation Results of Published Models [[Private Version](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation-PrivateModel)]
 
 The top 5 on the perception and cognition leaderboards:
 
 <img src="./images/evaluation_chart_public_1211.png" width="80%" height="80%">
 
-# Evaluation Leaderboards
+Published and private models are separated. GPT-4V is included in both as an intermediate comparison.
+
+# Evaluation Leaderboards [[Private Version](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation-PrivateModel)]
 
 <img src="./images/xmind.png" width="96%" height="96%">
 
 ---
-
-Published and private models are separated. GPT-4V is included in both as an intermediate comparison.
 
 <font size=5><center><b> Leaderboards of Published Models </b> </center></font>
 
@@ -160,8 +160,7 @@ Published and private models are separated. GPT-4V is included in both as an int
   
 - [Cognition](#cognition)
   - [Commonsense Reasoning](#commonsense-reasoning) | [Numerical Calculation](#numerical-calculation) | [Text Translation](#text-translation) | [Code Reasoning](#code-reasoning)
-  
-<font size=5><center><b> [Leaderboards of Private Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation-PrivateModel) </b> </center></font>
+
 
 ---
 
