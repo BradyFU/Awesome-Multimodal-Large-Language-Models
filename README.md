@@ -151,7 +151,9 @@ The top 5 on the perception and cognition leaderboards:
 
 ---
 
-<font size=5><center><b> Table of Leaderboards </b> </center></font>
+Published and private models are separated. GPT-4V is included in both as an intermediate comparison.
+
+<font size=5><center><b> Leaderboards of Published Models </b> </center></font>
 
 - [Perception](#perception)
   - [Existence](#existence) | [Count](#count) | [Position](#position) | [Color](#color) | [Poster](#poster) | [Celebrity](#celebrity) | [Scene](#scene) | [Landmark](#landmark) | [Artwork](#artwork) | [OCR](#ocr)
@@ -159,6 +161,7 @@ The top 5 on the perception and cognition leaderboards:
 - [Cognition](#cognition)
   - [Commonsense Reasoning](#commonsense-reasoning) | [Numerical Calculation](#numerical-calculation) | [Text Translation](#text-translation) | [Code Reasoning](#code-reasoning)
   
+<font size=5><center><b> [Leaderboards of Private Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation-PrivateModel) </b> </center></font>
 
 ---
 
