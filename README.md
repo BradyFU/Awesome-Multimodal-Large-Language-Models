@@ -102,6 +102,7 @@ This is the first work to correct hallucinations in MLLMs.
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/THUDM/CogVLM.svg?style=social&label=Star) <br> [**CogAgent: A Visual Language Model for GUI Agents**](https://arxiv.org/pdf/2312.08914.pdf) <br> | arXiv | 2023-12-14 | [Github](https://github.com/THUDM/CogVLM) | [Coming soon]() |
 | [**Pixel Aligned Language Models**](https://arxiv.org/pdf/2312.09237.pdf) | arXiv | 2023-12-14 | [Coming soon]() | - |
 | [**See, Say, and Segment: Teaching LMMs to Overcome False Premises**](https://arxiv.org/pdf/2312.08366.pdf) | arXiv | 2023-12-13 | [Coming soon]() | - | 
 | ![Star](https://img.shields.io/github/stars/kakaobrain/honeybee.svg?style=social&label=Star) <br> [**Honeybee: Locality-enhanced Projector for Multimodal LLM**](https://arxiv.org/pdf/2312.06742.pdf) <br> | arXiv | 2023-12-11 | [Github](https://github.com/kakaobrain/honeybee) | - |
