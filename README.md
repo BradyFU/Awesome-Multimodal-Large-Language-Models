@@ -196,6 +196,7 @@ This is the first work to correct hallucinations in MLLMs.
 ## Multimodal In-Context Learning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Hijacking Context in Large Multi-modal Models**](https://arxiv.org/pdf/2312.07553.pdf) | arXiv | 2023-12-07 | - | - |
 | [**Towards More Unified In-context Visual Understanding**](https://arxiv.org/pdf/2312.02520.pdf) | arXiv | 2023-12-05 | - | - | 
 | ![Star](https://img.shields.io/github/stars/HaozheZhao/MIC.svg?style=social&label=Star) <br> [**MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning**](https://arxiv.org/pdf/2309.07915.pdf) <br> | arXiv | 2023-09-14 | [Github](https://github.com/HaozheZhao/MIC) | [Demo](https://8904cdd23621858859.gradio.live/) |
 | ![Star](https://img.shields.io/github/stars/isekai-portal/Link-Context-Learning.svg?style=social&label=Star) <br> [**Link-Context Learning for Multimodal LLMs**](https://arxiv.org/pdf/2308.07891.pdf) <br> | arXiv | 2023-08-15 | [Github](https://github.com/isekai-portal/Link-Context-Learning) | [Demo](http://117.144.81.99:20488/) | 
