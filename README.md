@@ -148,7 +148,7 @@ This is the first work to correct hallucinations in MLLMs.
 
 # Results of Available Models [[Unavailable Version](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation-PrivateModel)]
 
-<img src="./images/evaluation_chart_public_1218.png" width="80%" height="80%">
+<img src="./images/evaluation_chart_public_1218.png" width="70%" height="70%">
 
 
 # Leaderboards of Available Models [[Unavailable Version](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation-PrivateModel)]
