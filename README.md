@@ -147,7 +147,7 @@ This is the first work to correct hallucinations in MLLMs.
 
 The top 5 on the perception and cognition leaderboards:
 
-<img src="./images/evaluation_chart_public_1217.png" width="80%" height="80%">
+<img src="./images/evaluation_chart_public_1218.png" width="80%" height="80%">
 
 Published and private models are separated. GPT-4V is included in both as an intermediate comparison.
 
