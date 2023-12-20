@@ -392,6 +392,7 @@ This is the first work to correct hallucinations in MLLMs.
 ## Datasets of Multimodal Instruction Tuning
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **M3DBench** | [M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts](https://arxiv.org/pdf/2312.10763.pdf) | [Link](https://github.com/OpenM3D/M3DBench) | A large-scale 3D instruction tuning dataset |
 | **LVIS-Instruct4V** | [To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning](https://arxiv.org/pdf/2311.07574.pdf) | [Link](https://huggingface.co/datasets/X2FD/LVIS-Instruct4V) | A visual instruction dataset via self-instruction from GPT-4V |
 | **ComVint** | [What Makes for Good Visual Instructions? Synthesizing Complex Visual Reasoning Instructions for Visual Instruction Tuning](https://arxiv.org/pdf/2311.01487.pdf) | [Link](https://github.com/RUCAIBox/ComVint#comvint-data) | A synthetic instruction dataset for complex visual reasoning |
 | **SparklesDialogue** | [✨Sparkles: Unlocking Chats Across Multiple Images for Multimodal Instruction-Following Models](https://arxiv.org/pdf/2308.16463.pdf) | [Link](https://github.com/HYPJUDY/Sparkles#sparklesdialogue) | A machine-generated dialogue dataset tailored for word-level interleaved multi-image and text interactions to augment the conversational competence of instruction-following LLMs across multiple images and dialogue turns. |
@@ -439,7 +440,8 @@ This is the first work to correct hallucinations in MLLMs.
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
-| **MLLM-Bench** | [MLLM-Bench, Evaluating Multi-modal LLMs using GPT-4V](https://arxiv.org/pdf/2311.13951.pdf) | [Link](https://github.com/FreedomIntelligence/MLLM-Bench) | GPT-4V evaluation with per-sample criteria|
+| **M3DBench** | [M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts](https://arxiv.org/pdf/2312.10763.pdf) | [Link](https://github.com/OpenM3D/M3DBench) | A 3D-centric benchmark |
+| **MLLM-Bench** | [MLLM-Bench, Evaluating Multi-modal LLMs using GPT-4V](https://arxiv.org/pdf/2311.13951.pdf) | [Link](https://github.com/FreedomIntelligence/MLLM-Bench) | GPT-4V evaluation with per-sample criteria |
 | **BenchLMM** | [BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models](https://arxiv.org/pdf/2312.02896.pdf) | [Link](https://huggingface.co/datasets/AIFEG/BenchLMM) | A benchmark for assessment of the robustness against different image styles |
 | **MMC-Benchmark** | [MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning](https://arxiv.org/pdf/2311.10774.pdf) | [Link](https://github.com/FuxiaoLiu/MMC) | A comprehensive human-annotated benchmark with distinct tasks evaluating reasoning capabilities over charts |
 | **MVBench** | [MVBench: A Comprehensive Multi-modal Video Understanding Benchmark](https://arxiv.org/pdf/2311.17005.pdf) | [Link](https://github.com/OpenGVLab/Ask-Anything/blob/main/video_chat2/MVBENCH.md) | A comprehensive multimodal benchmark for video understanding |
