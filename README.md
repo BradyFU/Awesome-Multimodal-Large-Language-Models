@@ -7,7 +7,9 @@
 🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
 **[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2306.13549.pdf)**
 
-The first survey for Multimodal Large Language Models (MLLMs). :sparkles: Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2:
+The first survey for Multimodal Large Language Models (MLLMs). :sparkles: 
+
+Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2:
 
 ---
 
