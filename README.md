@@ -48,7 +48,7 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 🔥🔥🔥 **A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**  
 
 <p align="center">
-    <img src="./images/gemini_gpt" width="35%" height="35%">
+    <img src="./images/gemini_gpt.jpeg" width="40%" height="40%">
 </p>
 
 **[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2312.12436.pdf)**
