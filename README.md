@@ -12,7 +12,7 @@
 🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
 **[Project Page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2306.13549.pdf)**
 
-A curated list of Multimodal Large Language Models (MLLMs), including multimodal instruction tuning, multimodal in-context learning, multimodal chain-of-thought, llm-aided visual reasoning, foundation models, datasets, and others. This list will be updated in real time. :sparkles:
+The first survey for Multimodal Large Language Models (MLLMs). :sparkles: 
 
 Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2:
 
@@ -21,9 +21,7 @@ Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2
 🔥🔥🔥 **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
 **[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)** | **[Paper](https://arxiv.org/pdf/2306.13394.pdf)**
 
-Leaderboards of **42** advanced MLLMs, including 35 available and 7 unavailable models. The former consists of [**BLIP-2**](https://arxiv.org/pdf/2301.12597.pdf), [**InstructBLIP**](https://arxiv.org/pdf/2305.06500.pdf), [**LLaVA**](https://arxiv.org/pdf/2304.08485.pdf), [**MiniGPT-4**](https://arxiv.org/pdf/2304.10592.pdf), [**mPLUG-Owl**](https://arxiv.org/pdf/2304.14178.pdf), [**LLaMA-Adapter V2**](https://arxiv.org/pdf/2304.15010.pdf), [**ImageBind_LLM**](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main), [**Otter**](https://arxiv.org/pdf/2305.03726.pdf), [**VisualGLM-6B**](https://github.com/THUDM/VisualGLM-6B), [**Multimodal-GPT**](https://arxiv.org/pdf/2305.04790.pdf), [**PandaGPT**](https://arxiv.org/pdf/2305.16355.pdf), [**VPGTrans**](https://arxiv.org/pdf/2305.01278.pdf), [**LaVIN**](https://arxiv.org/pdf/2305.15023.pdf), [**Lynx**](https://arxiv.org/pdf/2307.02469.pdf), [**LRV-Instruction**](https://arxiv.org/pdf/2306.14565.pdf), [**Cheetor**](https://arxiv.org/pdf/2308.04152.pdf), [**MMICL**](https://github.com/HaozheZhao/MIC), [**GIT2**](https://arxiv.org/pdf/2205.14100.pdf), [**BLIVA**](https://arxiv.org/pdf/2308.09936.pdf), [**Qwen-VL-Chat**](https://arxiv.org/pdf/2308.12966.pdf), [**InternLM-XComposer-VL**](https://arxiv.org/pdf/2309.15112.pdf), [**Muffin**](https://github.com/thunlp/Muffin), [**WeMM**](https://github.com/scenarios/WeMM), [**SPHINX**](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX), [**InfMLLM**](https://github.com/mightyzau/InfMLLM), [**mPLUG-Owl2**](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2), [**LVIS-INSTRUCT4V**](https://arxiv.org/pdf/2311.07574.pdf), [**DataOptim**](https://github.com/BAAI-DCAI/DataOptim), [**ShareGPT4V**](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V), [**BELLE-VL**](https://huggingface.co/BELLE-2/BELLE-VL), [**TransCore-M**](https://github.com/PCIResearch/TransCore-M), [**Monkey-Chat**](https://github.com/Yuliang-Liu/Monkey), [**GPT-4V**](https://cdn.openai.com/papers/GPTV_System_Card.pdf), [**Qwen-VL-Plus**](https://help.aliyun.com/zh/dashscope/developer-reference/vl-plus-quick-start), and [**Gemini Pro**](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf).
-The latter consists of [**Skywork-MM**](https://github.com/will-singularity/Skywork-MM/tree/main), [**Octopus**](https://github.com/gray311/UnifiedMultimodalInstructionTuning), [**Lion**](https://github.com/mynameischaos/Lion), [**CVLM**](https://github.com/buptlihang/CVLM), [**Kanva**](https://github.com/llp1992/Kanva), [**AGILMM**](https://github.com/AIResearchEnthusiast/AGILMM), and [**Honeybee**](https://arxiv.org/pdf/2312.06742.pdf).
-
+The first comprehensive evaluation benchmark for MLLMs. Now the leaderboards include **42** advanced models, such as Gemini Pro and GPT-4V. :sparkles:
 
 If you want to add your model in our leaderboards, please feel free to email bradyfu24@gmail.com. We will update the leaderboards in time. :sparkles:
 
@@ -47,18 +45,20 @@ How to use: (only for non-commercial use)
 
 🔥🔥🔥 **Woodpecker: Hallucination Correction for Multimodal Large Language Models** 
 
-<p align="center">
-    <img src="./images/woodpecker_icon.png" width="28%" height="28%">
-</p>
+**[Paper](https://arxiv.org/pdf/2310.16045.pdf)** | **[Online Demo](https://d810a2cbf06856cc91.gradio.live/)** | **[Source Code![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)**
 
-**[Paper](https://arxiv.org/pdf/2310.16045.pdf)** | **[Online Demo](https://f252626b321420bfb1.gradio.live/)** | **[Source Code![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)**
+The first work to correct hallucinations in MLLMs. :sparkles:
 
-This is the first work to correct hallucinations in MLLMs.
+---
+
+🔥🔥🔥 **A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**  
+**[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2312.12436.pdf)**
+
+The first technical report for **Gemini vs GPT-4V**. A total of **128 pages**. :sparkles:
 
 ---
 
 <br> **📑 If you find our projects helpful to your research, please consider citing:** <br>
-
 ```
 @article{yin2023survey,
   title={A Survey on Multimodal Large Language Models},
@@ -78,6 +78,13 @@ This is the first work to correct hallucinations in MLLMs.
   title={Woodpecker: Hallucination Correction for Multimodal Large Language Models},
   author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Xu, Tong and Wang, Hao and Sui, Dianbo and Shen, Yunhang and Li, Ke and Sun, Xing and Chen, Enhong},
   journal={arXiv preprint arXiv:2310.16045},
+  year={2023}
+}
+
+@article{fu2023gemini,
+  title={A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise},
+  author={Fu, Chaoyou and Zhang, Renrui and Wang, Zihan and Huang, Yubo and Zhang, Zhengye and Qiu, Longtian and Ye, Gaoxiang and Shen, Yunhang and Zhang Mengdan and Chen, Peixian and Zhao, Sirui and Lin, Shaohui and Jiang, Deqiang and Yin, Di and Gao, Peng and Li, Ke and Li, Hongsheng and Sun, Xing},
+  journal={arXiv preprint arXiv:2312.12436},
   year={2023}
 }
 ```
