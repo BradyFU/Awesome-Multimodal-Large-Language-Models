@@ -52,7 +52,7 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 
 <font size=7><div align='center'> :apple: \[[Read our arXiv Paper](https://arxiv.org/pdf/2312.12436.pdf)\] </div></font>
 
-<div align='center'> The first technical report for **Gemini vs GPT-4V**. A total of **128 pages**. :sparkles: </div>
+<div align='center'> The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages</b>. :sparkles: </div>
 
 ---
 
