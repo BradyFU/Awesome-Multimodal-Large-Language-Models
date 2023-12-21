@@ -43,8 +43,7 @@ How to use: (only for non-commercial use)
 
 ---
 
-🔥🔥🔥 **Woodpecker: Hallucination Correction for Multimodal Large Language Models** 
-
+🔥🔥🔥 **Woodpecker: Hallucination Correction for Multimodal Large Language Models**  
 **[Paper](https://arxiv.org/pdf/2310.16045.pdf)** | **[Online Demo](https://d810a2cbf06856cc91.gradio.live/)** | **[Source Code![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)**
 
 The first work to correct hallucinations in MLLMs. :sparkles:
@@ -52,9 +51,13 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 ---
 
 🔥🔥🔥 **A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**  
-**[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2312.12436.pdf)**
+<p align="center">
+    <img src="./images/gemini_vs_gpt.png" width="50%" height="50%">
+</p>  
 
-The first technical report for **Gemini vs GPT-4V**. A total of **128 pages**. :sparkles:
+<font size=7><div align='center'> :apple: \[[Read our arXiv Paper](https://arxiv.org/pdf/2312.12436.pdf)\] </div></font>
+
+<div align='center'> The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages</b>. :sparkles: </div>
 
 ---
 
