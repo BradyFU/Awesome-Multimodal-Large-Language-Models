@@ -104,6 +104,7 @@ The first technical report for **Gemini vs GPT-4V**. A total of **128 pages**. :
   - [Datasets of Multimodal Instruction Tuning](#datasets-of-multimodal-instruction-tuning)
   - [Datasets of In-Context Learning](#datasets-of-in-context-learning)
   - [Datasets of Multimodal Chain-of-Thought](#datasets-of-multimodal-chain-of-thought)
+  - [Datasets of Multimodal RLHF](#datasets-of-multimodal-rlhf)
   - [Benchmarks for Evaluation](#benchmarks-for-evaluation)
   - [Others](#others-1)
 ---
@@ -456,6 +457,11 @@ The first technical report for **Gemini vs GPT-4V**. A total of **128 pages**. :
 | **EgoCOT** | [EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought](https://arxiv.org/pdf/2305.15021.pdf) | [Coming soon](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch) | Large-scale embodied planning dataset |
 | **VIP** | [Let’s Think Frame by Frame: Evaluating Video Chain of Thought with Video Infilling and Prediction](https://arxiv.org/pdf/2305.13903.pdf) | [Coming soon]() | An inference-time dataset that can be used to evaluate VideoCOT |
 | **ScienceQA** | [Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering](https://proceedings.neurips.cc/paper_files/paper/2022/file/11332b6b6cf4485b84afadb1352d3a9a-Paper-Conference.pdf) | [Link](https://github.com/lupantech/ScienceQA#ghost-download-the-dataset) | Large-scale multi-choice dataset, featuring multimodal science questions and diverse domains | 
+
+## Datasets of Multimodal RLHF
+| Name | Paper | Link | Notes |
+|:-----|:-----:|:----:|:-----:|
+| **VLFeedback** | [Silkie: Preference Distillation for Large Visual Language Models](https://arxiv.org/pdf/2312.10665.pdf) | [Link](https://huggingface.co/datasets/MMInstruction/VLFeedback) | A vision-language feedback dataset annotated by AI |
 
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
