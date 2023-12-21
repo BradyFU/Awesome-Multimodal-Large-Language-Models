@@ -97,6 +97,7 @@ The first technical report for **Gemini vs GPT-4V**. A total of **128 pages**. :
   - [Foundation Models](#foundation-models)
   - [Evaluation](#evaluation)
   - [Multimodal Hallucination](#multimodal-hallucination)
+  - [Multimodal RLHF](#multimodal-rlhf)
   - [Others](#others)
 - [Awesome Datasets](#awesome-datasets)
   - [Datasets of Pre-Training for Alignment](#datasets-of-pre-training-for-alignment)
