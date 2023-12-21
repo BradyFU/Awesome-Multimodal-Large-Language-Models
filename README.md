@@ -50,7 +50,7 @@ The first work to correct hallucinations in MLLMs. :sparkles:
     <img src="./images/gemini_vs_gpt.png" width="50%" height="50%">
 </p>  
 
-<font size=7><div align='center'> :apple: \[[Read our arXiv Paper](https://arxiv.org/pdf/2312.12436.pdf)\] </div></font>
+<font size=7><div align='center'> :apple: [ReadourarXivPaper](https://arxiv.org/pdf/2312.12436.pdf)[Read our arXiv Paper](https://arxiv.org/pdf/2312.12436.pdf) </div></font>
 
 <div align='center'> The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages</b>. :sparkles: </div>
 
@@ -312,6 +312,7 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| ![Stars](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models?style=social&label=Star) <br> [**A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**](https://arxiv.org/pdf/2312.12436.pdf) <br> | arXiv | 2023-12-19 | [Github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) | 
 | ![Stars](https://img.shields.io/github/stars/AIFEG/BenchLMM?style=social&label=Star) <br> [**BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models**](https://arxiv.org/pdf/2312.02896.pdf) <br> | arXiv | 2023-12-05 | [Github](https://github.com/AIFEG/BenchLMM) |
 | ![Star](https://img.shields.io/github/stars/UCSC-VLAA/vllm-safety-benchmark.svg?style=social&label=Star) <br> [**How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs**](https://arxiv.org/pdf/2311.16101.pdf) <br> | arXiv | 2023-11-27 | [Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark) |
 | ![Star](https://img.shields.io/github/stars/FreedomIntelligence/MLLM-Bench?style=social&label=Star) <br> [**MLLM-Bench, Evaluating Multi-modal LLMs using GPT-4V**](https://arxiv.org/pdf/2311.13951) <br> | arXiv | 2023-11-23 | [Github](https://github.com/FreedomIntelligence/MLLM-Bench) |
