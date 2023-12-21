@@ -51,6 +51,13 @@ This is the first work to correct hallucinations in MLLMs.
 
 ---
 
+🔥🔥🔥 **A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**  
+**[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2312.12436.pdf)**
+
+This is the first report for **Gemini vs GPT-4V**. A total of **128 pages**. :sparkles:
+
+---
+
 <br> **📑 If you find our projects helpful to your research, please consider citing:** <br>
 ```
 @article{yin2023survey,
@@ -73,8 +80,16 @@ This is the first work to correct hallucinations in MLLMs.
   journal={arXiv preprint arXiv:2310.16045},
   year={2023}
 }
+
+@article{fu2023gemini,
+  title={A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise},
+  author={Fu, Chaoyou and Zhang, Renrui and Wang, Zihan and Huang, Yubo and Zhang, Zhengye and Qiu, Longtian and Ye, Gaoxiang and Shen, Yunhang and Zhang Mengdan and Chen, Peixian and Zhao, Sirui and Lin, Shaohui and Jiang, Deqiang and Yin, Di and Gao, Peng and Li, Ke and Li, Hongsheng and Sun, Xing},
+  journal={arXiv preprint arXiv:2312.12436},
+  year={2023}
+}
 ```
 
+ 
 
 ---
 
