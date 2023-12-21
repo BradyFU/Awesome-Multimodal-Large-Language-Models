@@ -50,9 +50,9 @@ The first work to correct hallucinations in MLLMs. :sparkles:
     <img src="./images/gemini_vs_gpt.png" width="50%" height="50%">
 </p>  
 
-<font size=7><div align='center' > :apple: \[[Read our arXiv Paper](https://arxiv.org/pdf/2312.12436.pdf)\] </div></font>
+<font size=7><div align='center'> :apple: \[[Read our arXiv Paper](https://arxiv.org/pdf/2312.12436.pdf)\] </div></font>
 
-<center>The first technical report for **Gemini vs GPT-4V**. A total of **128 pages**. :sparkles:</center>
+<div align='center'> The first technical report for **Gemini vs GPT-4V**. A total of **128 pages**. :sparkles: </div>
 
 ---
 
