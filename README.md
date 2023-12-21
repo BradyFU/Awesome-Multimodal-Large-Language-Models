@@ -39,7 +39,6 @@ How to use: (only for non-commercial use)
 ---
 
 🔥🔥🔥 **Woodpecker: Hallucination Correction for Multimodal Large Language Models** 
-
 **[Paper](https://arxiv.org/pdf/2310.16045.pdf)** | **[Online Demo](https://d810a2cbf06856cc91.gradio.live/)** | **[Source Code![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)**
 
 The first work to correct hallucinations in MLLMs. :sparkles:
@@ -47,6 +46,11 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 ---
 
 🔥🔥🔥 **A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**  
+
+<p align="center">
+    <img src="./images/gemini_gpt" width="35%" height="35%">
+</p>
+
 **[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2312.12436.pdf)**
 
 The first technical report for **Gemini vs GPT-4V**. A total of **128 pages**. :sparkles:
