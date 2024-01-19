@@ -375,7 +375,7 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 | [**Evaluation and Analysis of Hallucination in Large Vision-Language Models**](https://arxiv.org/pdf/2308.15126.pdf) | arXiv | 2023-08-29 | - | - |
 | ![Star](https://img.shields.io/github/stars/opendatalab/VIGC.svg?style=social&label=Star) <br> [**VIGC: Visual Instruction Generation and Correction**](https://arxiv.org/pdf/2308.12714.pdf) <br> | arXiv | 2023-08-24 | [Github](https://github.com/opendatalab/VIGC) | [Demo](https://opendatalab.github.io/VIGC) | 
 | [**Detecting and Preventing Hallucinations in Large Vision Language Models**](https://arxiv.org/pdf/2308.06394.pdf) | arXiv | 2023-08-11 | - | - |
-| ![Star](https://img.shields.io/github/stars/FuxiaoLiu/LRV-Instruction.svg?style=social&label=Star) <br> [**Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning**](https://arxiv.org/pdf/2306.14565.pdf) <br> | arXiv | 2023-06-26 | [Github](https://github.com/FuxiaoLiu/LRV-Instruction) | [Demo](https://7b6590ed039a06475d.gradio.live/) |
+| ![Star](https://img.shields.io/github/stars/FuxiaoLiu/LRV-Instruction.svg?style=social&label=Star) <br> [**Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning**](https://arxiv.org/pdf/2306.14565.pdf) <br> | ICLR | 2023-06-26 | [Github](https://github.com/FuxiaoLiu/LRV-Instruction) | [Demo](https://7b6590ed039a06475d.gradio.live/) |
 | ![Star](https://img.shields.io/github/stars/RUCAIBox/POPE.svg?style=social&label=Star) <br> [**Evaluating Object Hallucination in Large Vision-Language Models**](https://arxiv.org/pdf/2305.10355.pdf) <br> | EMNLP | 2023-05-17 | [Github](https://github.com/RUCAIBox/POPE) | - |
 
 ## Multimodal RLHF
