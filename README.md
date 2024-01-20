@@ -356,6 +356,7 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 ## Multimodal Hallucination
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/junyangwang0410/AMBER.svg?style=social&label=Star) <br> [**An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation**](https://arxiv.org/pdf/2311.07397.pdf) <br> | arXiv | 2023-11-13 | [Github](https://github.com/junyangwang0410/AMBER) | - |
 | [**Temporal Insight Enhancement: Mitigating Temporal Hallucination in Multimodal Large Language Models**](https://arxiv.org/pdf/2401.09861.pdf) | arXiv | 2024-01-18 | - | - |
 | ![Star](https://img.shields.io/github/stars/assafbk/mocha_code.svg?style=social&label=Star) <br> [**MOCHa: Multi-Objective Reinforcement Mitigating Caption Hallucinations**](https://arxiv.org/pdf/2312.03631.pdf) <br> | arXiv | 2023-12-06 | [Github](https://github.com/assafbk/mocha_code) | - |
 | ![Star](https://img.shields.io/github/stars/Anonymousanoy/FOHE.svg?style=social&label=Star) <br> [**Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites**](https://arxiv.org/pdf/2312.01701.pdf) <br> | arXiv | 2023-12-04 | [Github](https://github.com/Anonymousanoy/FOHE) | - |
