@@ -322,6 +322,7 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| ![Stars](https://img.shields.io/github/stars/sail-sg/MMCBench?style=social&label=Star) <br> [**Benchmarking Large Multimodal Models against Common Corruptions**](https://arxiv.org/pdf/2401.11943.pdf) <br> | arXiv | 2024-01-22 | [Github](https://github.com/sail-sg/MMCBench) |
 | ![Stars](https://img.shields.io/github/stars/tsb0601/MMVP?style=social&label=Star) <br> [**Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs**](https://arxiv.org/pdf/2401.06209.pdf) <br> | arXiv | 2024-01-11 | [Github](https://github.com/tsb0601/MMVP) | 
 | ![Stars](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models?style=social&label=Star) <br> [**A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**](https://arxiv.org/pdf/2312.12436.pdf) <br> | arXiv | 2023-12-19 | [Github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) | 
 | ![Stars](https://img.shields.io/github/stars/AIFEG/BenchLMM?style=social&label=Star) <br> [**BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models**](https://arxiv.org/pdf/2312.02896.pdf) <br> | arXiv | 2023-12-05 | [Github](https://github.com/AIFEG/BenchLMM) |
@@ -485,6 +486,7 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **MMCBench** | [Benchmarking Large Multimodal Models against Common Corruptions](https://arxiv.org/pdf/2401.11943.pdf) | [Link](https://github.com/sail-sg/MMCBench) | A benchmark for examining self-consistency under common corruptions |
 | **MMVP** | [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://arxiv.org/pdf/2401.06209.pdf) | [Link](https://github.com/tsb0601/MMVP) | A benchmark for assessing visual capabilities |
 | **M3DBench** | [M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts](https://arxiv.org/pdf/2312.10763.pdf) | [Link](https://github.com/OpenM3D/M3DBench) | A 3D-centric benchmark |
 | **MLLM-Bench** | [MLLM-Bench, Evaluating Multi-modal LLMs using GPT-4V](https://arxiv.org/pdf/2311.13951.pdf) | [Link](https://github.com/FreedomIntelligence/MLLM-Bench) | GPT-4V evaluation with per-sample criteria |
