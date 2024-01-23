@@ -118,6 +118,7 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities**](https://arxiv.org/pdf/2401.12168.pdf) | arXiv | 2024-01-22 | - | - |
 | ![Star](https://img.shields.io/github/stars/Meituan-AutoML/MobileVLM.svg?style=social&label=Star) <br> [**MobileVLM : A Fast, Reproducible and Strong Vision Language Assistant for Mobile Devices**](https://arxiv.org/pdf/2312.16886.pdf) <br> | arXiv | 2023-12-28 | [Github](https://github.com/Meituan-AutoML/MobileVLM) | - | 
 | ![Star](https://img.shields.io/github/stars/CircleRadon/Osprey.svg?style=social&label=Star) <br> [**Osprey: Pixel Understanding with Visual Instruction Tuning**](https://arxiv.org/pdf/2312.10032.pdf) <br> | arXiv | 2023-12-15 | [Github](https://github.com/CircleRadon/Osprey) | [Demo](http://111.0.123.204:8000/) |
 | ![Star](https://img.shields.io/github/stars/THUDM/CogVLM.svg?style=social&label=Star) <br> [**CogAgent: A Visual Language Model for GUI Agents**](https://arxiv.org/pdf/2312.08914.pdf) <br> | arXiv | 2023-12-14 | [Github](https://github.com/THUDM/CogVLM) | [Coming soon]() |
