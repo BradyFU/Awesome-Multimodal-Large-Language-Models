@@ -118,6 +118,7 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) <br> [**InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model**](https://arxiv.org/pdf/2401.16420.pdf) <br> | arXiv | 2024-01-29 | [Github](https://github.com/InternLM/InternLM-XComposer) | [Demo](https://openxlab.org.cn/apps/detail/WillowBreeze/InternLM-XComposer) |
 | ![Star](https://img.shields.io/github/stars/01-ai/Yi.svg?style=social&label=Star) <br> [**Yi-VL**](https://github.com/01-ai/Yi/tree/main/VL) <br> | - | 2024-01-23 | [Github](https://github.com/01-ai/Yi/tree/main/VL) | Local Demo |
 | [**SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities**](https://arxiv.org/pdf/2401.12168.pdf) | arXiv | 2024-01-22 | - | - |
 | ![Star](https://img.shields.io/github/stars/Meituan-AutoML/MobileVLM.svg?style=social&label=Star) <br> [**MobileVLM : A Fast, Reproducible and Strong Vision Language Assistant for Mobile Devices**](https://arxiv.org/pdf/2312.16886.pdf) <br> | arXiv | 2023-12-28 | [Github](https://github.com/Meituan-AutoML/MobileVLM) | - | 
