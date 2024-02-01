@@ -250,7 +250,7 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 ## Multimodal Chain-of-Thought
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models**](https://arxiv.org/pdf/2310.16436.pdf) | NeurIPS | 2023-10-25 | [Github](https://toneyaya.github.io/ddcot/) | - |
+| ![Star](https://img.shields.io/github/stars/SooLab/DDCOT.svg?style=social&label=Star) <br> [**DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models**](https://arxiv.org/pdf/2310.16436.pdf) <br> | NeurIPS | 2023-10-25 | [Github](https://github.com/SooLab/DDCOT) | - |
 | ![Star](https://img.shields.io/github/stars/shikras/shikra.svg?style=social&label=Star) <br> [**Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**](https://arxiv.org/pdf/2306.15195.pdf) <br> | arXiv | 2023-06-27 | [Github](https://github.com/shikras/shikra) | [Demo](http://demo.zhaozhang.net:7860/) |
 | ![Star](https://img.shields.io/github/stars/zeroQiaoba/Explainable-Multimodal-Emotion-Reasoning.svg?style=social&label=Star) <br> [**Explainable Multimodal Emotion Reasoning**](https://arxiv.org/pdf/2306.15401.pdf) <br> | arXiv | 2023-06-27 | [Github](https://github.com/zeroQiaoba/Explainable-Multimodal-Emotion-Reasoning) | - | 
 | ![Star](https://img.shields.io/github/stars/EmbodiedGPT/EmbodiedGPT_Pytorch.svg?style=social&label=Star) <br> [**EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought**](https://arxiv.org/pdf/2305.15021.pdf) <br> | arXiv | 2023-05-24 | [Github](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch) | - | 
