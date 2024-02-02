@@ -364,6 +364,7 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 ## Multimodal Hallucination
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**A Survey on Hallucination in Large Vision-Language Models**](https://arxiv.org/pdf/2402.00253.pdf) | arXiv | 2024-02-01 | - | - |
 | [**Temporal Insight Enhancement: Mitigating Temporal Hallucination in Multimodal Large Language Models**](https://arxiv.org/pdf/2401.09861.pdf) | arXiv | 2024-01-18 | - | - |
 | ![Star](https://img.shields.io/github/stars/X-PLUG/mPLUG-HalOwl.svg?style=social&label=Star) <br> [**Hallucination Augmented Contrastive Learning for Multimodal Large Language Model**](https://arxiv.org/pdf/2312.06968.pdf) <br> | arXiv | 2023-12-12 | [Github](https://github.com/X-PLUG/mPLUG-HalOwl/tree/main/hacl) | - |
 | ![Star](https://img.shields.io/github/stars/assafbk/mocha_code.svg?style=social&label=Star) <br> [**MOCHa: Multi-Objective Reinforcement Mitigating Caption Hallucinations**](https://arxiv.org/pdf/2312.03631.pdf) <br> | arXiv | 2023-12-06 | [Github](https://github.com/assafbk/mocha_code) | - |
