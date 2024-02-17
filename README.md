@@ -308,7 +308,7 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 ## Foundation Models
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Gemini1.5: Unlocking multimodal understanding across millions of tokens of context**](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) | Google | 2024-02-15 | - | - |
+| [**Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context**](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) | Google | 2024-02-15 | - | - |
 | [**Gemini: A Family of Highly Capable Multimodal Models**](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf) | Google | 2023-12-06 | - | - |
 | [**Fuyu-8B: A Multimodal Architecture for AI Agents**](https://www.adept.ai/blog/fuyu-8b) | blog | 2023-10-17 | [Huggingface](https://huggingface.co/adept/fuyu-8b) | [Demo](https://huggingface.co/adept/fuyu-8b) 
 | ![Star](https://img.shields.io/github/stars/mshukor/UnIVAL.svg?style=social&label=Star) <br> [**Unified Model for Image, Video, Audio and Language Tasks**](https://arxiv.org/pdf/2307.16184.pdf) <br> | arXiv | 2023-07-30 | [Github](https://github.com/mshukor/UnIVAL) | [Demo](https://huggingface.co/spaces/mshukor/UnIVAL) |
