@@ -369,6 +369,7 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 ## Multimodal Hallucination
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/Hyperwjf/LogicCheckGPT.svg?style=social&label=Star) <br> [**Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models**](https://arxiv.org/pdf/2402.11622.pdf) <br> | arXiv | 2024-02-18 | [Github](https://github.com/Hyperwjf/LogicCheckGPT) | - | 
 | ![Star](https://img.shields.io/github/stars/MasaiahHan/CorrelationQA.svg?style=social&label=Star) <br> [**The Instinctive Bias: Spurious Images lead to Hallucination in MLLMs**](https://arxiv.org/pdf/2402.03757.pdf) <br> | arXiv | 2024-02-06 | [Github](https://github.com/MasaiahHan/CorrelationQA) | - |
 | [**A Survey on Hallucination in Large Vision-Language Models**](https://arxiv.org/pdf/2402.00253.pdf) | arXiv | 2024-02-01 | - | - |
 | [**Temporal Insight Enhancement: Mitigating Temporal Hallucination in Multimodal Large Language Models**](https://arxiv.org/pdf/2401.09861.pdf) | arXiv | 2024-01-18 | - | - |
