@@ -118,6 +118,7 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**CoLLaVO: Crayon Large Language and Vision mOdel**](https://arxiv.org/pdf/2402.11248.pdf) | arXiv | 2024-02-17 | - | - |
 | ![Star](https://img.shields.io/github/stars/Meituan-AutoML/MobileVLM.svg?style=social&label=Star) <br> [**MobileVLM V2: Faster and Stronger Baseline for Vision Language Model**](https://arxiv.org/pdf/2402.03766.pdf) <br> | arXiv | 2024-02-06 | [Github](https://github.com/Meituan-AutoML/MobileVLM) | - |
 | [**Enhancing Multimodal Large Language Models with Vision Detection Models: An Empirical Study**](https://arxiv.org/pdf/2401.17981.pdf) | arXiv | 2024-01-31 | [Coming soon]() | - |
 | ![Star](https://img.shields.io/github/stars/PKU-YuanGroup/MoE-LLaVA.svg?style=social&label=Star) <br> [**MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**](https://arxiv.org/pdf/2401.15947.pdf) <br> | arXiv | 2024-01-29 | [Github](https://github.com/PKU-YuanGroup/MoE-LLaVA) | [Demo](https://huggingface.co/spaces/LanguageBind/MoE-LLaVA) |
