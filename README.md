@@ -118,6 +118,7 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/OpenMOSS/AnyGPT.svg?style=social&label=Star) <br> [**AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling**](https://arxiv.org/pdf/2402.12226.pdf) <br> | arXiv | 2024-02-19 | [Github](https://github.com/OpenMOSS/AnyGPT) | - |
 | [**CoLLaVO: Crayon Large Language and Vision mOdel**](https://arxiv.org/pdf/2402.11248.pdf) | arXiv | 2024-02-17 | - | - |
 | ![Star](https://img.shields.io/github/stars/Meituan-AutoML/MobileVLM.svg?style=social&label=Star) <br> [**MobileVLM V2: Faster and Stronger Baseline for Vision Language Model**](https://arxiv.org/pdf/2402.03766.pdf) <br> | arXiv | 2024-02-06 | [Github](https://github.com/Meituan-AutoML/MobileVLM) | - |
 | [**Enhancing Multimodal Large Language Models with Vision Detection Models: An Empirical Study**](https://arxiv.org/pdf/2401.17981.pdf) | arXiv | 2024-01-31 | [Coming soon]() | - |
