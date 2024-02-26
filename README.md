@@ -372,6 +372,7 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 ## Multimodal Hallucination
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/yuezih/less-is-more.svg?style=social&label=Star) <br> [**Less is More: Mitigating Multimodal Hallucination from an EOS Decision Perspective**](https://arxiv.org/pdf/2402.14545.pdf) <br> | arXiv | 2024-02-22 | [Github](https://github.com/yuezih/less-is-more) | - |
 | ![Star](https://img.shields.io/github/stars/Hyperwjf/LogicCheckGPT.svg?style=social&label=Star) <br> [**Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models**](https://arxiv.org/pdf/2402.11622.pdf) <br> | arXiv | 2024-02-18 | [Github](https://github.com/Hyperwjf/LogicCheckGPT) | - | 
 | ![Star](https://img.shields.io/github/stars/MasaiahHan/CorrelationQA.svg?style=social&label=Star) <br> [**The Instinctive Bias: Spurious Images lead to Hallucination in MLLMs**](https://arxiv.org/pdf/2402.03757.pdf) <br> | arXiv | 2024-02-06 | [Github](https://github.com/MasaiahHan/CorrelationQA) | - |
 | ![Star](https://img.shields.io/github/stars/OpenKG-ORG/EasyDetect.svg?style=social&label=Star) <br> [**Unified Hallucination Detection for Multimodal Large Language Models**](https://arxiv.org/pdf/2402.03190.pdf) <br> | arXiv | 2024-02-05 | [Github](https://github.com/OpenKG-ORG/EasyDetect) | - |
@@ -508,6 +509,7 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **Math-Vision** | [Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset](https://arxiv.org/pdf/2402.14804.pdf) | [Link](https://github.com/mathvision-cuhk/MathVision) | A diverse mathematical reasoning benchmark |
 | **CMMMU** | [CMMMU: A Chinese Massive Multi-discipline Multimodal Understanding Benchmark](https://arxiv.org/pdf/2401.11944.pdf) | [Link](https://github.com/CMMMU-Benchmark/CMMMU) | A Chinese benchmark involving reasoning and knowledge across multiple disciplines |
 | **MMCBench** | [Benchmarking Large Multimodal Models against Common Corruptions](https://arxiv.org/pdf/2401.11943.pdf) | [Link](https://github.com/sail-sg/MMCBench) | A benchmark for examining self-consistency under common corruptions |
 | **MMVP** | [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://arxiv.org/pdf/2401.06209.pdf) | [Link](https://github.com/tsb0601/MMVP) | A benchmark for assessing visual capabilities |
