@@ -268,7 +268,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  🥈   | **[DataOptim-LLaVA](https://github.com/BAAI-DCAI/DataOptim)** |   **[Vicuna-13B](https://github.com/BAAI-DCAI/DataOptim)**   | **190.00** |
 |  🥈   |   **[BELLE-VL](https://huggingface.co/BELLE-2/BELLE-VL)**    |   **[Qwen-14B](https://huggingface.co/BELLE-2/BELLE-VL)**    | **190.00** |
 |  🥈   | **[TransCore-M](https://github.com/PCIResearch/TransCore-M)** | **[PCITransGPT-13B](https://github.com/PCIResearch/TransCore-M)** | **190.00** |
-|  🥈   | **LLaVA-1.6](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/)** |    **[Vicuna-34B](https://github.com/haotian-liu/LLaVA)**    | **190.00** |
+|  🥈   | **[LLaVA-1.6](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/)** |    **[Vicuna-34B](https://github.com/haotian-liu/LLaVA)**    | **190.00** |
 |  🥈   | **[MiniCPM](https://github.com/OpenBMB/MiniCPM/#minicpm-v)** | **[MiniCPM-2B](https://github.com/OpenBMB/MiniCPM/#minicpm-v)** | **190.00** |
 |  🥈   | **[OmniLMM](https://github.com/OpenBMB/MiniCPM/#minicpm-v)** | **[Zephyr-7B-beta](https://github.com/OpenBMB/MiniCPM/#minicpm-v)** | **190.00** |
 |  🥉   |         **[PureMM](https://github.com/Q-MM/PureMM)**         |       **[Vicuna-13B](https://github.com/Q-MM/PureMM)**       | **188.33** |
