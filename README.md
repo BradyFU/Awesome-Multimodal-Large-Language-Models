@@ -118,6 +118,7 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**GROUNDHOG: Grounding Large Language Models to Holistic Segmentation**](https://arxiv.org/pdf/2402.16846.pdf) | CVPR | 2024-02-26 | Coming soon | Coming soon |
 | ![Star](https://img.shields.io/github/stars/OpenMOSS/AnyGPT.svg?style=social&label=Star) <br> [**AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling**](https://arxiv.org/pdf/2402.12226.pdf) <br> | arXiv | 2024-02-19 | [Github](https://github.com/OpenMOSS/AnyGPT) | - |
 | ![Star](https://img.shields.io/github/stars/ByungKwanLee/CoLLaVO-Crayon-Large-Language-and-Vision-mOdel.svg?style=social&label=Star) <br> [**CoLLaVO: Crayon Large Language and Vision mOdel**](https://arxiv.org/pdf/2402.11248.pdf) <br> | arXiv | 2024-02-17 | [Github](https://github.com/ByungKwanLee/CoLLaVO-Crayon-Large-Language-and-Vision-mOdel) | - |
 | ![Star](https://img.shields.io/github/stars/THUDM/CogCoM.svg?style=social&label=Star) <br> [**CogCoM: Train Large Vision-Language Models Diving into Details through Chain of Manipulations**](https://arxiv.org/pdf/2402.04236.pdf) <br> | arXiv | 2024-02-06 | [Github](https://github.com/THUDM/CogCoM) | - |
