@@ -5,7 +5,7 @@
 ## Our MLLM works
 
 🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
-**[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2306.13549.pdf)**
+**[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper [a new version will be updated soon]](https://arxiv.org/pdf/2306.13549.pdf)**
 
 The first survey for Multimodal Large Language Models (MLLMs). :sparkles: 
 
@@ -39,21 +39,16 @@ How to use: (only for non-commercial use)
 ---
 
 🔥🔥🔥 **Woodpecker: Hallucination Correction for Multimodal Large Language Models**  
-**[Paper](https://arxiv.org/pdf/2310.16045.pdf)** | **[Online Demo](https://deb6a97bae6fab67ae.gradio.live/)** | **[Source Code![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)**
+**[Paper](https://arxiv.org/pdf/2310.16045.pdf)** | **[Source Code![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)**
 
 The first work to correct hallucinations in MLLMs. :sparkles:
 
 ---
 
 🔥🔥🔥 **A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**  
-<p align="center">
-    <img src="./images/gemini_vs_gpt.png" width="50%" height="50%">
-</p>  
+**[Paper](https://arxiv.org/pdf/2312.12436.pdf)**
 
-<font size=7><div align='center' > :apple: \[[Read our arXiv Paper](https://arxiv.org/pdf/2312.12436.pdf)\] </div></font>
-
-<div align='center'> The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages</b>. :sparkles: </div>  
-<div align='center'> Completed within one week of the Gemini API opening. :star2: </div>
+The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages</b>. Completed within one week of the Gemini API opening. :star2:
 
 ---
 
