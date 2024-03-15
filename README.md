@@ -735,7 +735,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  🏅️   | **[GPT-4V](https://cdn.openai.com/papers/GPTV_System_Card.pdf)** | **[-](https://cdn.openai.com/papers/GPTV_System_Card.pdf)**  | **185.00** |
 |  🏅️   | **[Gemini Pro](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)** | **[-](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)** | **185.00** |
 |  🏅️   | **[Qwen-VL-Max](https://help.aliyun.com/zh/dashscope/developer-reference/vl-plus-quick-start)** | **[-](https://help.aliyun.com/zh/dashscope/developer-reference/vl-plus-quick-start)** | **185.00** |
-|  🥈   |   [**BELLE-VL](https://huggingface.co/BELLE-2/BELLE-VL)**    |   **[Qwen-14B](https://huggingface.co/BELLE-2/BELLE-VL)**    | **177.50** |
+|  🥈   |   **[BELLE-VL](https://huggingface.co/BELLE-2/BELLE-VL)**    |   **[Qwen-14B](https://huggingface.co/BELLE-2/BELLE-VL)**    | **177.50** |
 |  🥈   | **[InternVL-Chat-V1.1](https://arxiv.org/pdf/2312.14238.pdf)** |   **[LLaMA2-13B](https://github.com/OpenGVLab/InternVL/)**   | **177.50** |
 |  🥉   |     **[Bunny-3B](https://arxiv.org/pdf/2402.11530.pdf)**     |       **[Phi-2](https://github.com/BAAI-DCAI/Bunny)**        | **170.00** |
 |  4   |  [DataOptim-LLaVA](https://github.com/BAAI-DCAI/DataOptim)   |     [Vicuna-13B](https://github.com/BAAI-DCAI/DataOptim)     |   162.50   |
