@@ -113,6 +113,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training**](https://arxiv.org/pdf/2403.09611.pdf) | arXiv | 2024-03-14 | - | - |
 | ![Star](https://img.shields.io/github/stars/ByungKwanLee/MoAI.svg?style=social&label=Star) <br> [**MoAI: Mixture of All Intelligence for Large Language and Vision Models**](https://arxiv.org/pdf/2403.07508.pdf) <br> | arXiv | 2024-03-12 | [Github](https://github.com/ByungKwanLee/MoAI) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/Yuliang-Liu/Monkey.svg?style=social&label=Star) <br> [**TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document**](https://arxiv.org/pdf/2403.04473.pdf) <br> | arXiv | 2024-03-07 | [Github](https://github.com/Yuliang-Liu/Monkey) | [Demo](http://vlrlab-monkey.xyz:7684) |
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/all-seeing.svg?style=social&label=Star) <br> [**The All-Seeing Project V2: Towards General Relation Comprehension of the Open World**](https://arxiv.org/pdf/2402.19474.pdf) | arXiv | 2024-02-29 | [Github](https://github.com/OpenGVLab/all-seeing) | - |
