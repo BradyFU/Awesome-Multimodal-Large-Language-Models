@@ -375,6 +375,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Strengthening Multimodal Large Language Model with Bootstrapped Preference Optimization**](https://arxiv.org/pdf/2403.08730.pdf) | arXiv | 2024-03-13 | - | - |
+| ![Star](https://img.shields.io/github/stars/BillChan226/HALC.svg?style=social&label=Star) <br> [**HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding**](https://arxiv.org/pdf/2403.00425.pdf) <br> | arXiv | 2024-03-01 | [Github](https://github.com/BillChan226/HALC) | - |
 | [**IBD: Alleviating Hallucinations in Large Vision-Language Models via Image-Biased Decoding**](https://arxiv.org/pdf/2402.18476.pdf) | arXiv | 2024-02-28 | - | - |
 | ![Star](https://img.shields.io/github/stars/yuezih/less-is-more.svg?style=social&label=Star) <br> [**Less is More: Mitigating Multimodal Hallucination from an EOS Decision Perspective**](https://arxiv.org/pdf/2402.14545.pdf) <br> | arXiv | 2024-02-22 | [Github](https://github.com/yuezih/less-is-more) | - |
 | ![Star](https://img.shields.io/github/stars/Hyperwjf/LogicCheckGPT.svg?style=social&label=Star) <br> [**Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models**](https://arxiv.org/pdf/2402.11622.pdf) <br> | arXiv | 2024-02-18 | [Github](https://github.com/Hyperwjf/LogicCheckGPT) | - | 
