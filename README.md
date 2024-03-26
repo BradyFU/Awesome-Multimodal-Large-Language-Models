@@ -260,6 +260,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Multimodal Chain-of-Thought
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/deepcs233/Visual-CoT.svg?style=social&label=Star) <br> [**Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models**](https://arxiv.org/pdf/2403.16999.pdf) <br> | arXiv | 2024-03-25 | [Github](https://github.com/deepcs233/Visual-CoT) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/SooLab/DDCOT.svg?style=social&label=Star) <br> [**DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models**](https://arxiv.org/pdf/2310.16436.pdf) <br> | NeurIPS | 2023-10-25 | [Github](https://github.com/SooLab/DDCOT) | - |
 | ![Star](https://img.shields.io/github/stars/shikras/shikra.svg?style=social&label=Star) <br> [**Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**](https://arxiv.org/pdf/2306.15195.pdf) <br> | arXiv | 2023-06-27 | [Github](https://github.com/shikras/shikra) | [Demo](http://demo.zhaozhang.net:7860/) |
 | ![Star](https://img.shields.io/github/stars/zeroQiaoba/Explainable-Multimodal-Emotion-Reasoning.svg?style=social&label=Star) <br> [**Explainable Multimodal Emotion Reasoning**](https://arxiv.org/pdf/2306.15401.pdf) <br> | arXiv | 2023-06-27 | [Github](https://github.com/zeroQiaoba/Explainable-Multimodal-Emotion-Reasoning) | - | 
