@@ -376,6 +376,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Multimodal Hallucination
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding**](https://arxiv.org/pdf/2403.18715.pdf) | arXiv | 2024-03-27 | - | - |
 | [**Strengthening Multimodal Large Language Model with Bootstrapped Preference Optimization**](https://arxiv.org/pdf/2403.08730.pdf) | arXiv | 2024-03-13 | - | - |
 | ![Star](https://img.shields.io/github/stars/BillChan226/HALC.svg?style=social&label=Star) <br> [**HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding**](https://arxiv.org/pdf/2403.00425.pdf) <br> | arXiv | 2024-03-01 | [Github](https://github.com/BillChan226/HALC) | - |
 | [**IBD: Alleviating Hallucinations in Large Vision-Language Models via Image-Biased Decoding**](https://arxiv.org/pdf/2402.18476.pdf) | arXiv | 2024-02-28 | - | - |
