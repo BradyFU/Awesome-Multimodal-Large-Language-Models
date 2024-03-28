@@ -113,6 +113,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/dvlab-research/MiniGemini.svg?style=social&label=Star) <br> [**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**](https://arxiv.org/pdf/2403.18814.pdf) <br> | arXiv | 2024-03-27 | [Github](https://github.com/dvlab-research/MiniGemini) | [Demo](http://103.170.5.190:7860) |
 | [**MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training**](https://arxiv.org/pdf/2403.09611.pdf) | arXiv | 2024-03-14 | - | - |
 | ![Star](https://img.shields.io/github/stars/ByungKwanLee/MoAI.svg?style=social&label=Star) <br> [**MoAI: Mixture of All Intelligence for Large Language and Vision Models**](https://arxiv.org/pdf/2403.07508.pdf) <br> | arXiv | 2024-03-12 | [Github](https://github.com/ByungKwanLee/MoAI) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/Yuliang-Liu/Monkey.svg?style=social&label=Star) <br> [**TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document**](https://arxiv.org/pdf/2403.04473.pdf) <br> | arXiv | 2024-03-07 | [Github](https://github.com/Yuliang-Liu/Monkey) | [Demo](http://vlrlab-monkey.xyz:7684) |
