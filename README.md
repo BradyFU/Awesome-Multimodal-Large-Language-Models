@@ -504,6 +504,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 |:-----|:-----:|:----:|:-----:|
 | **MIC** | [MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning](https://arxiv.org/pdf/2309.07915.pdf) | [Link](https://huggingface.co/datasets/BleachNick/MIC_full) | A manually constructed instruction tuning dataset including interleaved text-image inputs, inter-related multiple image inputs, and multimodal in-context learning inputs. |
 | **MIMIC-IT** | [MIMIC-IT: Multi-Modal In-Context Instruction Tuning](https://arxiv.org/pdf/2306.05425.pdf) | [Link](https://github.com/Luodian/Otter/blob/main/mimic-it/README.md) | Multimodal in-context instruction dataset|
+| **VL-ICL Bench** | [VL-ICL Bench: The Devil in the Details of Benchmarking Multimodal In-Context Learning](https://arxiv.org/abs/2403.13164) | [Link](https://github.com/ys-zong/VL-ICL) | Multimodal in-context learning benchmark|
 
 ## Datasets of Multimodal Chain-of-Thought
 | Name | Paper | Link | Notes |
