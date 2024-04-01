@@ -524,6 +524,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
 | **TempCompass** | [TempCompass: Do Video LLMs Really Understand Videos?](https://arxiv.org/pdf/2403.00476.pdf) | [Link](https://github.com/llyx97/TempCompass) | A benchmark to evaluate the temporal perception ability of Video LLMs |
+| **CoBSAT** | [Can MLLMs Perform Text-to-Image In-Context Learning?](https://arxiv.org/pdf/2402.01293.pdf) | [Link](https://huggingface.co/datasets/yzeng58/CoBSAT) | A benchmark for text-to-image ICL |
 | **VQAv2-IDK** | [Visually Dehallucinative Instruction Generation: Know What You Don't Know](https://arxiv.org/pdf/2402.09717.pdf) | [Link](https://github.com/ncsoft/idk) | A benchmark for assessing "I Know" visual hallucination |
 | **Math-Vision** | [Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset](https://arxiv.org/pdf/2402.14804.pdf) | [Link](https://github.com/mathvision-cuhk/MathVision) | A diverse mathematical reasoning benchmark |
 | **CMMMU** | [CMMMU: A Chinese Massive Multi-discipline Multimodal Understanding Benchmark](https://arxiv.org/pdf/2401.11944.pdf) | [Link](https://github.com/CMMMU-Benchmark/CMMMU) | A Chinese benchmark involving reasoning and knowledge across multiple disciplines |
