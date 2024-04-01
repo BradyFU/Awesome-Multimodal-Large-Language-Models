@@ -237,6 +237,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Visual In-Context Learning for Large Vision-Language Models**](https://arxiv.org/pdf/2402.11574.pdf) | arXiv | 2024-02-18 | - | - |
+| ![Star](https://img.shields.io/github/stars/UW-Madison-Lee-Lab/CoBSAT.svg?style=social&label=Star) <br> [**Can MLLMs Perform Text-to-Image In-Context Learning?**](https://arxiv.org/pdf/2402.01293.pdf) <br> | arXiv | 2024-02-02 | [Github](https://github.com/UW-Madison-Lee-Lab/CoBSAT) | - |
 | [**Hijacking Context in Large Multi-modal Models**](https://arxiv.org/pdf/2312.07553.pdf) | arXiv | 2023-12-07 | - | - |
 | [**Towards More Unified In-context Visual Understanding**](https://arxiv.org/pdf/2312.02520.pdf) | arXiv | 2023-12-05 | - | - | 
 | ![Star](https://img.shields.io/github/stars/HaozheZhao/MIC.svg?style=social&label=Star) <br> [**MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning**](https://arxiv.org/pdf/2309.07915.pdf) <br> | arXiv | 2023-09-14 | [Github](https://github.com/HaozheZhao/MIC) | [Demo](https://8904cdd23621858859.gradio.live/) |
