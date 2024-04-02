@@ -6,7 +6,7 @@
 🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
 **[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2306.13549v2.pdf)**
 <p align="center">
-    <img src="./images/timeline.jpg" width="95%" height="95%">
+    <img src="./images/timeline.jpg" width="100%" height="100%">
 </p>
 
 <font size=7><div align='center' > :apple: \[[Read our new version](https://arxiv.org/pdf/2306.13549v2.pdf)\] (update on April 2, 2024) </div></font>
