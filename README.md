@@ -6,14 +6,14 @@
 🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
 **[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2306.13549v2.pdf)**
 <p align="center">
-    <img src="./images/timeline.jpg" width="50%" height="50%">
+    <img src="./images/timeline.jpg" width="90%" height="90%">
 </p>
 
 <font size=7><div align='center' > :apple: \[[Read our arXiv Paper](https://arxiv.org/pdf/2306.13549v2.pdf)\] </div></font>
 
 <div align='center'> The first survey for Multimodal Large Language Models (MLLMs). :sparkles: </div>  
 <div align='center'> The second version, updated on April 2, 2024. :star2: </div>
-<div align='center'> Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2:. :star2: </div>
+<div align='center'> Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2: </div>
 
 
 ---
