@@ -117,6 +117,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) <br> [**InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD**](https://arxiv.org/pdf/2404.06512.pdf) <br> | arXiv | 2024-04-09 | [Github](https://github.com/InternLM/InternLM-XComposer) | [Demo](https://huggingface.co/spaces/Willow123/InternLM-XComposer) |
 | [**Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs**](https://arxiv.org/pdf/2404.05719.pdf) | arXiv | 2024-04-08 | - | - |
 | ![Star](https://img.shields.io/github/stars/boheumd/MA-LMM.svg?style=social&label=Star) <br> [**MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding**](https://arxiv.org/pdf/2404.05726.pdf) <br> | CVPR | 2024-04-08 | [Github](https://github.com/boheumd/MA-LMM) | - |
 | ![Star](https://img.shields.io/github/stars/dvlab-research/MiniGemini.svg?style=social&label=Star) <br> [**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**](https://arxiv.org/pdf/2403.18814.pdf) <br> | arXiv | 2024-03-27 | [Github](https://github.com/dvlab-research/MiniGemini) | [Demo](http://103.170.5.190:7860) |
