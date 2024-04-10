@@ -538,6 +538,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **VL-ICL Bench** | [VL-ICL Bench: The Devil in the Details of Benchmarking Multimodal In-Context Learning](https://arxiv.org/pdf/2403.13164.pdf) | [Link](https://github.com/ys-zong/VL-ICL) | A benchmark for M-ICL evaluation, covering a wide spectrum of tasks |
 | **TempCompass** | [TempCompass: Do Video LLMs Really Understand Videos?](https://arxiv.org/pdf/2403.00476.pdf) | [Link](https://github.com/llyx97/TempCompass) | A benchmark to evaluate the temporal perception ability of Video LLMs |
 | **CoBSAT** | [Can MLLMs Perform Text-to-Image In-Context Learning?](https://arxiv.org/pdf/2402.01293.pdf) | [Link](https://huggingface.co/datasets/yzeng58/CoBSAT) | A benchmark for text-to-image ICL |
 | **VQAv2-IDK** | [Visually Dehallucinative Instruction Generation: Know What You Don't Know](https://arxiv.org/pdf/2402.09717.pdf) | [Link](https://github.com/ncsoft/idk) | A benchmark for assessing "I Know" visual hallucination |
