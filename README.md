@@ -9,7 +9,8 @@
     <img src="./images/timeline.jpg" width="100%" height="100%">
 </p>
 
-<font size=7><div align='center' > :apple: \[[Read our new version](https://arxiv.org/pdf/2306.13549.pdf)\] (update on April 2, 2024) </div></font>
+<font size=7><div align='center' > :apple: \[[Read our new version](https://arxiv.org/pdf/2306.13549.pdf)\] (update on April 2, 2024) </div></font>  
+<font size=7><div align='center' > <b>Chinese version</b> will be updated soon! </div></font>
 
 <div align='center'> The first survey for Multimodal Large Language Models (MLLMs). :sparkles: </div>  
 <div align='center'> Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2: </div>
