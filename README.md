@@ -118,6 +118,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/SHI-Labs/CuMo.svg?style=social&label=Star) <br> [**CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts**](https://arxiv.org/pdf/2405.05949) <br> | arXiv | 2024-05-09 | [Github](https://github.com/SHI-Labs/CuMo) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star) <br> [**How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites**](https://arxiv.org/pdf/2404.16821) <br> | arXiv | 2024-04-25 | [Github](https://github.com/OpenGVLab/InternVL) | [Demo](https://internvl.opengvlab.com) |
 | ![Star](https://img.shields.io/github/stars/graphic-design-ai/graphist.svg?style=social&label=Star) <br> [**Graphic Design with Large Multimodal Model**](https://arxiv.org/pdf/2404.14368) <br> | arXiv | 2024-04-22 | [Github](https://github.com/graphic-design-ai/graphist) | - |
 | ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) <br> [**InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD**](https://arxiv.org/pdf/2404.06512.pdf) <br> | arXiv | 2024-04-09 | [Github](https://github.com/InternLM/InternLM-XComposer) | [Demo](https://huggingface.co/spaces/Willow123/InternLM-XComposer) |
