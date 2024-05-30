@@ -118,6 +118,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/gordonhu608/MQT-LLaVA.svg?style=social&label=Star) <br> [**MQT-LLaVA:Matryoshka Query Transformer for Large Vision-Language Models**](https://arxiv.org/abs/2405.19315) <br> | arXiv | 2024-05-29 | [Github](https://github.com/gordonhu608/MQT-LLaVA) | - |
 | ![Star](https://img.shields.io/github/stars/alibaba/conv-llava.svg?style=social&label=Star) <br> [**ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models**](https://arxiv.org/pdf/2405.15738) <br> | arXiv | 2024-05-24 | [Github](https://github.com/alibaba/conv-llava) | - |
 | ![Star](https://img.shields.io/github/stars/ByungKwanLee/Meteor.svg?style=social&label=Star) <br> [**Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models**](https://arxiv.org/pdf/2405.15574) <br> | arXiv | 2024-05-24 | [Github](https://github.com/ByungKwanLee/Meteor) | Local Demo | 
 | ![Star](https://img.shields.io/github/stars/SHI-Labs/CuMo.svg?style=social&label=Star) <br> [**CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts**](https://arxiv.org/pdf/2405.05949) <br> | arXiv | 2024-05-09 | [Github](https://github.com/SHI-Labs/CuMo) | Local Demo |
