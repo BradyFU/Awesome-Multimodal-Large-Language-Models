@@ -276,7 +276,6 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 | ![Star](https://img.shields.io/github/stars/mlfoundations/open_flamingo.svg?style=social&label=Star) <br> [**Flamingo: a Visual Language Model for Few-Shot Learning**](https://arxiv.org/pdf/2204.14198.pdf) <br> | NeurIPS | 2022-04-29 | [Github](https://github.com/mlfoundations/open_flamingo) | [Demo](https://huggingface.co/spaces/dhansmair/flamingo-mini-cap) | 
 | [**Multimodal Few-Shot Learning with Frozen Language Models**](https://arxiv.org/pdf/2106.13884.pdf) | NeurIPS | 2021-06-25 | - |
 | [**RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model**](https://arxiv.org/abs/2402.10828) <br> | RSS | 2024-05-30 | [Github](https://github.com/YuanJianhao508/RAG-Driver) | [Demo](https://yuanjianhao508.github.io/RAG-Driver/static/videos/demo.mp4) |
-- |
 
 
 ## Multimodal Chain-of-Thought
