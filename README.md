@@ -18,6 +18,19 @@
 
 ---
 
+🔥🔥🔥 **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**  
+<p align="center">
+    <img src="./images/video-mme.jpg" width="100%" height="100%">
+</p>
+
+<font size=7><div align='center' > [[🍎 Project Page](https://video-mme.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/2405.21075)] [[📊 Dataset](https://github.com/BradyFU/Video-MME?tab=readme-ov-file#-dataset-content)][[🏆 Leaderboard](https://video-mme.github.io/home_page.html#leaderboard)]  </div></font>
+
+<div align='center'> Video-MME applies to both <b>image MLLMs</b>, i.e., generalizing to multiple images, and <b>video MLLMs</b>. 🌟 </div>  
+<div align='center'> It include both <b>short- (< 2min)</b>, <b>medium- (4min\~15min)</b>, and <b>long-term (30min\~60min)</b> videos, ranging from <b>11 seconds to 1 hour</b>. ✨ </div>
+<div align='center'> <b>All data are newly collected and annotated by humans, not from any existing video dataset**</b>. ✨ </div>
+
+---
+
 🔥🔥🔥 **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
 **[Project Page [Leaderboards]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)** | **[Paper](https://arxiv.org/pdf/2306.13394.pdf)**
 
