@@ -25,10 +25,10 @@
 
 <font size=7><div align='center' > [[🍎 Project Page](https://video-mme.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/2405.21075)] [[📊 Dataset](https://github.com/BradyFU/Video-MME?tab=readme-ov-file#-dataset-content)][[🏆 Leaderboard](https://video-mme.github.io/home_page.html#leaderboard)]  </div></font>
 
-<div align='center'> [2024-06-03] We are very proud to launch Video-MME, the first-ever comprehensive evaluation benchmark of MLLMs in Video Analysis!. 🌟 </div> 
-<div align='center'> It applies to both <b>image MLLMs</b>, i.e., generalizing to multiple images, and <b>video MLLMs</b>. 🌟 </div>  
-<div align='center'> It includes both <b>short- (< 2min)</b>, <b>medium- (4min\~15min)</b>, and <b>long-term (30min\~60min)</b> videos, ranging from <b>11 seconds to 1 hour</b>. ✨ </div>
-<div align='center'> <b>All data are newly collected and annotated by humans, not from any existing video dataset</b>. ✨ </div>
+2024.06.03. We are very proud to launch Video-MME, the first-ever comprehensive evaluation benchmark of MLLMs in Video Analysis!. 🌟  
+It applies to both <b>image MLLMs</b>, i.e., generalizing to multiple images, and <b>video MLLMs</b>. 🌟 
+It includes both <b>short- (< 2min)</b>, <b>medium- (4min\~15min)</b>, and <b>long-term (30min\~60min)</b> videos, ranging from <b>11 seconds to 1 hour</b>. ✨ 
+<b>All data are newly collected and annotated by humans, not from any existing video dataset</b>. ✨ 
 
 ---
 
