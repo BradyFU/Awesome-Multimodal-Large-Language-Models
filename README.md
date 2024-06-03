@@ -25,9 +25,12 @@
 
 <font size=7><div align='center' > [[🍎 Project Page](https://video-mme.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/2405.21075)] [[📊 Dataset](https://github.com/BradyFU/Video-MME?tab=readme-ov-file#-dataset-content)][[🏆 Leaderboard](https://video-mme.github.io/home_page.html#leaderboard)]  </div></font>
 
-2024.06.03. We are very proud to launch Video-MME, the first-ever comprehensive evaluation benchmark of MLLMs in Video Analysis!. 🌟  
-It applies to both <b>image MLLMs</b>, i.e., generalizing to multiple images, and <b>video MLLMs</b>. 🌟 
+[2024.06.03] We are very proud to launch Video-MME, the first-ever comprehensive evaluation benchmark of MLLMs in Video Analysis!. 🌟  
+
+It applies to both <b>image MLLMs</b>, i.e., generalizing to multiple images, and <b>video MLLMs</b>. Our leaderboard involes SOTA models, such as Gemini 1.5 Pro, GPT-4o, GPT-4V, LLaVA-NeXT-Video, InternVL-Chat-V1.5, and Qwen-VL-Max. 🌟  
+
 It includes both <b>short- (< 2min)</b>, <b>medium- (4min\~15min)</b>, and <b>long-term (30min\~60min)</b> videos, ranging from <b>11 seconds to 1 hour</b>. ✨ 
+
 <b>All data are newly collected and annotated by humans, not from any existing video dataset</b>. ✨ 
 
 ---
