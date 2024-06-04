@@ -384,6 +384,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| ![Stars](https://img.shields.io/github/stars/BradyFU/Video-MME?style=social&label=Star) <br> [**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**](https://arxiv.org/pdf/2405.21075) <br> | arXiv | 2024-05-31 | [Github](https://github.com/BradyFU/Video-MME) | 
 | ![Stars](https://img.shields.io/github/stars/sail-sg/MMCBench?style=social&label=Star) <br> [**Benchmarking Large Multimodal Models against Common Corruptions**](https://arxiv.org/pdf/2401.11943.pdf) <br> | NAACL | 2024-01-22 | [Github](https://github.com/sail-sg/MMCBench) |
 | ![Stars](https://img.shields.io/github/stars/tsb0601/MMVP?style=social&label=Star) <br> [**Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs**](https://arxiv.org/pdf/2401.06209.pdf) <br> | arXiv | 2024-01-11 | [Github](https://github.com/tsb0601/MMVP) | 
 | ![Stars](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models?style=social&label=Star) <br> [**A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**](https://arxiv.org/pdf/2312.12436.pdf) <br> | arXiv | 2023-12-19 | [Github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) | 
@@ -568,6 +569,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **Video-MME** | [Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis](https://arxiv.org/pdf/2405.21075) | [Link](https://github.com/BradyFU/Video-MME) | A comprehensive evaluation benchmark of Multi-modal LLMs in video analysis |
 | **VL-ICL Bench** | [VL-ICL Bench: The Devil in the Details of Benchmarking Multimodal In-Context Learning](https://arxiv.org/pdf/2403.13164.pdf) | [Link](https://github.com/ys-zong/VL-ICL) | A benchmark for M-ICL evaluation, covering a wide spectrum of tasks |
 | **TempCompass** | [TempCompass: Do Video LLMs Really Understand Videos?](https://arxiv.org/pdf/2403.00476.pdf) | [Link](https://github.com/llyx97/TempCompass) | A benchmark to evaluate the temporal perception ability of Video LLMs |
 | **CoBSAT** | [Can MLLMs Perform Text-to-Image In-Context Learning?](https://arxiv.org/pdf/2402.01293.pdf) | [Link](https://huggingface.co/datasets/yzeng58/CoBSAT) | A benchmark for text-to-image ICL |
