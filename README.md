@@ -136,6 +136,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Parrot: Multilingual Visual Instruction Tuning**](https://arxiv.org/pdf/2406.02539) | arXiv | 2024-06-04 | [Coming soon]() | - |
+| [**Ovis: Structural Embedding Alignment for Multimodal Large Language Model**](https://arxiv.org/pdf/2405.20797) | arXiv | 2024-05-31 | [Coming soon]() | - |
 | ![Star](https://img.shields.io/github/stars/gordonhu608/MQT-LLaVA.svg?style=social&label=Star) <br> [**Matryoshka Query Transformer for Large Vision-Language Models**](https://arxiv.org/pdf/2405.19315) <br> | arXiv | 2024-05-29 | [Github](https://github.com/gordonhu608/MQT-LLaVA) | [Demo](https://huggingface.co/spaces/gordonhu/MQT-LLaVA) |
 | ![Star](https://img.shields.io/github/stars/alibaba/conv-llava.svg?style=social&label=Star) <br> [**ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models**](https://arxiv.org/pdf/2405.15738) <br> | arXiv | 2024-05-24 | [Github](https://github.com/alibaba/conv-llava) | - |
 | ![Star](https://img.shields.io/github/stars/ByungKwanLee/Meteor.svg?style=social&label=Star) <br> [**Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models**](https://arxiv.org/pdf/2405.15574) <br> | arXiv | 2024-05-24 | [Github](https://github.com/ByungKwanLee/Meteor) | [Demo](https://huggingface.co/spaces/BK-Lee/Meteor) | 
