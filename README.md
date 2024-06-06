@@ -97,19 +97,20 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 
 # News 🚀
 
-1. [05-27] Thanks to [**Junbo Cui**](https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&user=rKPAFfYAAAAJ), [**MiniCPM-Llama3-V 2.5**](https://github.com/OpenBMB/MiniCPM-V) joins MME. 🔥🔥
-2. [05-18] Thanks to [**Chunyu Xie**](https://scholar.google.com/citations?user=SxpPPuQAAAAJ&hl=zh-CN), [**360VL**](https://github.com/360CVGroup/360VL?tab=readme-ov-file) is incorporated into MME. 🔥🔥
-3. [04-27] Thanks to [**Zhe Chen**](https://scholar.google.com.hk/citations?user=j1rq_lYAAAAJ&hl=zh-CN&oi=sra), we welcome a new member [**InternVL-Chat-V1.5**](https://arxiv.org/pdf/2404.16821). 
-4. [04-15] Thanks to [**Junbo Cui**](https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&user=rKPAFfYAAAAJ), [**MiniCPM-V-2**](https://github.com/OpenBMB/MiniCPM/#minicpm-v) is added in MME. 
-5. [04-10] Thanks to [**Wenqiao Zhang**](https://scholar.google.com.hk/citations?user=XBbuP9YAAAAJ&hl=zh-CN&oi=sra), [**HyperLLaVA**](https://arxiv.org/pdf/2403.13447.pdf) joins our leaderboards. 
-6. [03-14] Thanks to [**Muyang He**](https://scholar.google.com.hk/citations?user=Q0Xn7i4AAAAJ&hl=zh-CN&oi=sra), [**Bunny-3B**](https://github.com/BAAI-DCAI/Bunny) takes part in MME. 
-7. [02-23] Thanks to [**Jingyu Liu**](https://scholar.google.com/citations?hl=en&tzom=-480&user=RCxy7UQAAAAJ), [**ChatTruth-7B**](https://huggingface.co/mingdali/ChatTruth-7B) is added to MME. 
-8. [02-07] Thanks to [**TsinghuaNLP**](https://github.com/OpenBMB), [**MiniCPM**](https://github.com/OpenBMB/MiniCPM/#minicpm-v) and [**OmniLMM**](https://github.com/OpenBMB/MiniCPM/#minicpm-v) are incorporated into our leaderboards. 
-9. [02-05] Thanks to [**Haotian Liu**](https://hliu.cc/), [**LLaVA-1.6**](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/) is added to MME. 
-10. [02-05] Thanks to [**Bin Lin**](https://scholar.google.com.hk/citations?user=GCOVDKoAAAAJ&hl=zh-CN&oi=sra), [**MoE-LLaVA**](https://github.com/PKU-YuanGroup/MoE-LLaVA) joins MME. 
-11. [02-05] Thanks to [**Weihan Wang**](https://scholar.google.com.hk/citations?user=UaxGkIwAAAAJ&hl=zh-CN&oi=ao) and [**Wenyi Hong**](https://scholar.google.com.hk/citations?user=JSEzrlwAAAAJ&hl=zh-CN&oi=ao), [**CogVLM**](https://arxiv.org/pdf/2311.03079.pdf) and [**CogAgent**](https://arxiv.org/pdf/2312.08914.pdf) take part in MME. 
-12. [01-25] Thanks to [**Shijie Wang**](https://scholar.google.com.hk/citations?hl=zh-CN&user=DuAqyTwAAAAJ), we welcome a new member [**Qwen-VL-Max**](https://help.aliyun.com/zh/dashscope/developer-reference/vl-plus-quick-start). 
-13. [01-22] Thanks to [**Xiaoyi Dong**](https://scholar.google.com/citations?user=FscToE0AAAAJ&hl=en), [**InternLM-XComposer2-VL**](https://github.com/InternLM/InternLM-XComposer) joins our leaderboards. 
+1. [06-06] Thanks to [**CMRI**](https://cmri.chinamobile.com/), [**JT-VL-Chat**](https://github.com/jiutiancv/JT-VL-Chat) is added in MME. 🔥🔥
+2. [05-27] Thanks to [**Junbo Cui**](https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&user=rKPAFfYAAAAJ), [**MiniCPM-Llama3-V 2.5**](https://github.com/OpenBMB/MiniCPM-V) joins MME. 
+3. [05-18] Thanks to [**Chunyu Xie**](https://scholar.google.com/citations?user=SxpPPuQAAAAJ&hl=zh-CN), [**360VL**](https://github.com/360CVGroup/360VL?tab=readme-ov-file) is incorporated into MME. 
+4. [04-27] Thanks to [**Zhe Chen**](https://scholar.google.com.hk/citations?user=j1rq_lYAAAAJ&hl=zh-CN&oi=sra), we welcome a new member [**InternVL-Chat-V1.5**](https://arxiv.org/pdf/2404.16821). 
+5. [04-15] Thanks to [**Junbo Cui**](https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&user=rKPAFfYAAAAJ), [**MiniCPM-V-2**](https://github.com/OpenBMB/MiniCPM/#minicpm-v) is added in MME. 
+6. [04-10] Thanks to [**Wenqiao Zhang**](https://scholar.google.com.hk/citations?user=XBbuP9YAAAAJ&hl=zh-CN&oi=sra), [**HyperLLaVA**](https://arxiv.org/pdf/2403.13447.pdf) joins our leaderboards. 
+7. [03-14] Thanks to [**Muyang He**](https://scholar.google.com.hk/citations?user=Q0Xn7i4AAAAJ&hl=zh-CN&oi=sra), [**Bunny-3B**](https://github.com/BAAI-DCAI/Bunny) takes part in MME. 
+8. [02-23] Thanks to [**Jingyu Liu**](https://scholar.google.com/citations?hl=en&tzom=-480&user=RCxy7UQAAAAJ), [**ChatTruth-7B**](https://huggingface.co/mingdali/ChatTruth-7B) is added to MME. 
+9. [02-07] Thanks to [**TsinghuaNLP**](https://github.com/OpenBMB), [**MiniCPM**](https://github.com/OpenBMB/MiniCPM/#minicpm-v) and [**OmniLMM**](https://github.com/OpenBMB/MiniCPM/#minicpm-v) are incorporated into our leaderboards. 
+10. [02-05] Thanks to [**Haotian Liu**](https://hliu.cc/), [**LLaVA-1.6**](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/) is added to MME. 
+11. [02-05] Thanks to [**Bin Lin**](https://scholar.google.com.hk/citations?user=GCOVDKoAAAAJ&hl=zh-CN&oi=sra), [**MoE-LLaVA**](https://github.com/PKU-YuanGroup/MoE-LLaVA) joins MME. 
+12. [02-05] Thanks to [**Weihan Wang**](https://scholar.google.com.hk/citations?user=UaxGkIwAAAAJ&hl=zh-CN&oi=ao) and [**Wenyi Hong**](https://scholar.google.com.hk/citations?user=JSEzrlwAAAAJ&hl=zh-CN&oi=ao), [**CogVLM**](https://arxiv.org/pdf/2311.03079.pdf) and [**CogAgent**](https://arxiv.org/pdf/2312.08914.pdf) take part in MME. 
+13. [01-25] Thanks to [**Shijie Wang**](https://scholar.google.com.hk/citations?hl=zh-CN&user=DuAqyTwAAAAJ), we welcome a new member [**Qwen-VL-Max**](https://help.aliyun.com/zh/dashscope/developer-reference/vl-plus-quick-start). 
+14. [01-22] Thanks to [**Xiaoyi Dong**](https://scholar.google.com/citations?user=FscToE0AAAAJ&hl=en), [**InternLM-XComposer2-VL**](https://github.com/InternLM/InternLM-XComposer) joins our leaderboards. 
 
 <details><summary> <b>2023</b> </summary>
 
