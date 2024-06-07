@@ -97,7 +97,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 
 # News 🚀
 
-1. [06-06] Thanks to [**CMRI**](https://cmri.chinamobile.com/), [**JT-VL-Chat**](https://github.com/jiutiancv/JT-VL-Chat) is added in MME. 🔥🔥
+1. [06-06] Thanks to [**CMRI**](https://cmri.chinamobile.com/), [**JT-VL-Chat-V1.0**](https://github.com/jiutiancv/JT-VL-Chat-V1.0) is added in MME. 🔥🔥
 2. [05-27] Thanks to [**Junbo Cui**](https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&user=rKPAFfYAAAAJ), [**MiniCPM-Llama3-V 2.5**](https://github.com/OpenBMB/MiniCPM-V) joins MME. 
 3. [05-18] Thanks to [**Chunyu Xie**](https://scholar.google.com/citations?user=SxpPPuQAAAAJ&hl=zh-CN), [**360VL**](https://github.com/360CVGroup/360VL?tab=readme-ov-file) is incorporated into MME. 
 4. [04-27] Thanks to [**Zhe Chen**](https://scholar.google.com.hk/citations?user=j1rq_lYAAAAJ&hl=zh-CN&oi=sra), we welcome a new member [**InternVL-Chat-V1.5**](https://arxiv.org/pdf/2404.16821). 
@@ -212,7 +212,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  6   |       [InfMLLM](https://github.com/infly-ai/INF-MLLM)        |      [Vicuna-13B](https://github.com/infly-ai/INF-MLLM)      |   1673.75   |
 |  7   |  [InternVL-Chat-V1.1](https://arxiv.org/pdf/2312.14238.pdf)  |     [LLaMA2-13B](https://github.com/OpenGVLab/InternVL/)     |   1672.35   |
 |  8   |       [Honeybee](https://arxiv.org/pdf/2312.06742.pdf)       |     [Vicuna-13B](https://github.com/kakaobrain/honeybee)     |   1661.13   |
-|  9   |    [JT-VL-Chat](https://github.com/jiutiancv/JT-VL-Chat)     |         [-](https://github.com/jiutiancv/JT-VL-Chat)         |   1642.51   |
+|  9   | [JT-VL-Chat-V1.0-V1.0](https://github.com/jiutiancv/JT-VL-Chat-V1.0) |      [-](https://github.com/jiutiancv/JT-VL-Chat-V1.0)       |   1642.51   |
 |  10  | [360VL](https://github.com/360CVGroup/360VL?tab=readme-ov-file) | [LLaMA3-70B](https://github.com/360CVGroup/360VL?tab=readme-ov-file) |   1640.86   |
 |  11  |    [InternVL-Chat-V1.5](https://arxiv.org/pdf/2404.16821)    |    [InternLM2-20B](https://github.com/OpenGVLab/InternVL)    |   1637.84   |
 |  12  |   [OmniLMM](https://github.com/OpenBMB/MiniCPM/#minicpm-v)   | [Zephyr-7B-beta](https://github.com/OpenBMB/MiniCPM/#minicpm-v) |   1636.90   |
@@ -302,7 +302,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  5   |       [Honeybee](https://arxiv.org/pdf/2312.06742.pdf)       |     [Vicuna-13B](https://github.com/kakaobrain/honeybee)     |   185.00   |
 |  5   |  [InternVL-Chat-V1.1](https://arxiv.org/pdf/2312.14238.pdf)  |     [LLaMA2-13B](https://github.com/OpenGVLab/InternVL/)     |   185.00   |
 |  5   |       [CogAgent](https://arxiv.org/pdf/2312.08914.pdf)       |         [Vicuna-7B](https://github.com/THUDM/CogVLM)         |   185.00   |
-|  5   |    [JT-VL-Chat](https://github.com/jiutiancv/JT-VL-Chat)     |         [-](https://github.com/jiutiancv/JT-VL-Chat)         |   185.00   |
+|  5   | [JT-VL-Chat-V1.0](https://github.com/jiutiancv/JT-VL-Chat-V1.0) |      [-](https://github.com/jiutiancv/JT-VL-Chat-V1.0)       |   185.00   |
 |  6   | [Qwen-VL-Max](https://help.aliyun.com/zh/dashscope/developer-reference/vl-plus-quick-start) | [-](https://help.aliyun.com/zh/dashscope/developer-reference/vl-plus-quick-start) |   183.33   |
 |  7   |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [Vicuna-7B](https://github.com/DCDmllm/Cheetah)        |   180.00   |
 |  7   |        [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)         |       [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)        |   180.00   |
@@ -330,7 +330,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  🥈   |  **[InternVL-Chat-V1.5](https://arxiv.org/pdf/2404.16821)**  |  **[InternLM2-20B](https://github.com/OpenGVLab/InternVL)**  | **175.00** |
 |  🥉   |     **[RBDash](https://github.com/RBDash-Team/RBDash)**      |   **[Vicuna-13B](https://github.com/RBDash-Team/RBDash)**    | **173.33** |
 |  🥉   | **[InternVL-Chat-V1.1](https://arxiv.org/pdf/2312.14238.pdf)** |   **[LLaMA2-13B](https://github.com/OpenGVLab/InternVL/)**   | **173.33** |
-|  🥉   |  **[JT-VL-Chat](https://github.com/jiutiancv/JT-VL-Chat)**   |       **[-](https://github.com/jiutiancv/JT-VL-Chat)**       | **173.33** |
+|  🥉   | **[JT-VL-Chat-V1.0](https://github.com/jiutiancv/JT-VL-Chat-V1.0)** |    **[-](https://github.com/jiutiancv/JT-VL-Chat-V1.0)**     | **173.33** |
 |  4   |       [Honeybee](https://arxiv.org/pdf/2312.06742.pdf)       |     [Vicuna-13B](https://github.com/kakaobrain/honeybee)     |   170.00   |
 |  4   | [LLaVA-1.6](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/) |      [Vicuna-34B](https://github.com/haotian-liu/LLaVA)      |   170.00   |
 |  4   | [MindSource-VL-Chat](https://github.com/luogen1996/LLaVA-HR) |   [MindSource-7B](https://github.com/luogen1996/LLaVA-HR)    |   170.00   |
@@ -399,7 +399,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  8   |      [ShareGPT4V](https://arxiv.org/pdf/2311.12793.pdf)      | [Vicuna-13B](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) |   153.33   |
 |  8   | [SPHINX](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX) | [LLaMA2-13B](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX) |   153.33   |
 |  9   | [MindSource-VL-Chat](https://github.com/luogen1996/LLaVA-HR) |   [MindSource-7B](https://github.com/luogen1996/LLaVA-HR)    |   146.67   |
-|  10  |    [JT-VL-Chat](https://github.com/jiutiancv/JT-VL-Chat)     |         [-](https://github.com/jiutiancv/JT-VL-Chat)         |   145.00   |
+|  10  | [JT-VL-Chat-V1.0](https://github.com/jiutiancv/JT-VL-Chat-V1.0) |      [-](https://github.com/jiutiancv/JT-VL-Chat-V1.0)       |   145.00   |
 |  11  |       [RBDash](https://github.com/RBDash-Team/RBDash)        |     [Vicuna-13B](https://github.com/RBDash-Team/RBDash)      |   138.33   |
 |  11  | [LLaVA-1.6](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/) |      [Vicuna-34B](https://github.com/haotian-liu/LLaVA)      |   138.33   |
 |  12  |  [TransCore-M](https://github.com/PCIResearch/TransCore-M)   | [PCITransGPT-13B](https://github.com/PCIResearch/TransCore-M) |   136.67   |
@@ -470,7 +470,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  4   |      [HyperLLaVA](https://arxiv.org/pdf/2403.13447.pdf)      |     [Vicuna-13B](https://github.com/dcdmllm/hyperllava)      |   180.00   |
 |  5   |    [InternVL-Chat-V1.5](https://arxiv.org/pdf/2404.16821)    |    [InternLM2-20B](https://github.com/OpenGVLab/InternVL)    |   178.33   |
 |  6   |     [BELLE-VL](https://huggingface.co/BELLE-2/BELLE-VL)      |     [Qwen-14B](https://huggingface.co/BELLE-2/BELLE-VL)      |   175.00   |
-|  6   |    [JT-VL-Chat](https://github.com/jiutiancv/JT-VL-Chat)     |         [-](https://github.com/jiutiancv/JT-VL-Chat)         |   175.00   |
+|  6   | [JT-VL-Chat-V1.0](https://github.com/jiutiancv/JT-VL-Chat-V1.0) |      [-](https://github.com/jiutiancv/JT-VL-Chat-V1.0)       |   175.00   |
 |  7   |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |      [Vicuna-13B](https://github.com/haotian-liu/LLaVA)      |   170.00   |
 |  7   |         [Lynx](https://arxiv.org/pdf/2307.02469.pdf)         |      [Vicuna-7B](https://github.com/bytedance/lynx-llm)      |   170.00   |
 |  7   |      [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)      |         [Qwen-7B](https://github.com/QwenLM/Qwen-VL)         |   170.00   |
@@ -526,7 +526,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  15  |  [DataOptim-LLaVA](https://github.com/BAAI-DCAI/DataOptim)   |     [Vicuna-13B](https://github.com/BAAI-DCAI/DataOptim)     |   169.73   |
 |  16  | [LLaVA-1.6](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/) |      [Vicuna-34B](https://github.com/haotian-liu/LLaVA)      |   169.39   |
 |  17  |      [ShareGPT4V](https://arxiv.org/pdf/2311.12793.pdf)      | [Vicuna-13B](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) |   169.05   |
-|  18  |    [JT-VL-Chat](https://github.com/jiutiancv/JT-VL-Chat)     |         [-](https://github.com/jiutiancv/JT-VL-Chat)         |   168.71   |
+|  18  | [JT-VL-Chat-V1.0](https://github.com/jiutiancv/JT-VL-Chat-V1.0) |      [-](https://github.com/jiutiancv/JT-VL-Chat-V1.0)       |   168.71   |
 |  19  |       [CogAgent](https://arxiv.org/pdf/2312.08914.pdf)       |         [Vicuna-7B](https://github.com/THUDM/CogVLM)         |   167.35   |
 |  20  |     [BELLE-VL](https://huggingface.co/BELLE-2/BELLE-VL)      |     [Qwen-14B](https://huggingface.co/BELLE-2/BELLE-VL)      |   166.33   |
 |  21  |       [RBDash](https://github.com/RBDash-Team/RBDash)        |     [Vicuna-13B](https://github.com/RBDash-Team/RBDash)      |   165.99   |
@@ -586,7 +586,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  12  |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [Vicuna-7B](https://github.com/DCDmllm/Cheetah)        |   164.12   |
 |  13  |      [HyperLLaVA](https://arxiv.org/pdf/2403.13447.pdf)      |     [Vicuna-13B](https://github.com/dcdmllm/hyperllava)      |   162.06   |
 |  14  |   [LVIS-INSTRUCT4V](https://arxiv.org/pdf/2311.07574.pdf)    |    [Vicuna-13B](https://github.com/X2FD/LVIS-INSTRUCT4V)     |   161.47   |
-|  14  |    [JT-VL-Chat](https://github.com/jiutiancv/JT-VL-Chat)     |         [-](https://github.com/jiutiancv/JT-VL-Chat)         |   161.47   |
+|  14  | [JT-VL-Chat-V1.0](https://github.com/jiutiancv/JT-VL-Chat-V1.0) |      [-](https://github.com/jiutiancv/JT-VL-Chat-V1.0)       |   161.47   |
 |  15  | [LLaVA-1.6](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/) |      [Vicuna-34B](https://github.com/haotian-liu/LLaVA)      |   160.00   |
 |  16  |  [DataOptim-LLaVA](https://github.com/BAAI-DCAI/DataOptim)   |     [Vicuna-13B](https://github.com/BAAI-DCAI/DataOptim)     |   159.41   |
 |  17  | [MiniCPM-Llama3-V 2.5](https://github.com/OpenBMB/MiniCPM-V) |      [LLaMA3-8B](https://github.com/OpenBMB/MiniCPM-V)       |   157.94   |
@@ -657,7 +657,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  20  |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) |   158.50   |
 |  20  |       [Bunny-3B](https://arxiv.org/pdf/2402.11530.pdf)       |         [Phi-2](https://github.com/BAAI-DCAI/Bunny)          |   158.50   |
 |  21  |   [MiniCPM](https://github.com/OpenBMB/MiniCPM/#minicpm-v)   | [MiniCPM-2B](https://github.com/OpenBMB/MiniCPM/#minicpm-v)  |   157.75   |
-|  21  |    [JT-VL-Chat](https://github.com/jiutiancv/JT-VL-Chat)     |         [-](https://github.com/jiutiancv/JT-VL-Chat)         |   157.75   |
+|  21  | [JT-VL-Chat-V1.0](https://github.com/jiutiancv/JT-VL-Chat-V1.0) |      [-](https://github.com/jiutiancv/JT-VL-Chat-V1.0)       |   157.75   |
 |  22  |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMA-Adapter-v2.1-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal7b) |   156.25   |
 |  22  |     [BELLE-VL](https://huggingface.co/BELLE-2/BELLE-VL)      |     [Qwen-14B](https://huggingface.co/BELLE-2/BELLE-VL)      |   156.25   |
 |  23  |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [Vicuna-7B](https://github.com/DCDmllm/Cheetah)        |   156.00   |
@@ -705,7 +705,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  10  |       [RBDash](https://github.com/RBDash-Team/RBDash)        |     [Vicuna-13B](https://github.com/RBDash-Team/RBDash)      |   174.25   |
 |  11  |      [ShareGPT4V](https://arxiv.org/pdf/2311.12793.pdf)      | [Vicuna-13B](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) |   174.00   |
 |  11  |     [BELLE-VL](https://huggingface.co/BELLE-2/BELLE-VL)      |     [Qwen-14B](https://huggingface.co/BELLE-2/BELLE-VL)      |   174.00   |
-|  12  |    [JT-VL-Chat](https://github.com/jiutiancv/JT-VL-Chat)     |         [-](https://github.com/jiutiancv/JT-VL-Chat)         |   173.50   |
+|  12  | [JT-VL-Chat-V1.0](https://github.com/jiutiancv/JT-VL-Chat-V1.0) |      [-](https://github.com/jiutiancv/JT-VL-Chat-V1.0)       |   173.50   |
 |  13  |          [WeMM](https://github.com/scenarios/WeMM)           |       [InternLM-7B](https://github.com/scenarios/WeMM)       |   172.25   |
 |  13  |       [Honeybee](https://arxiv.org/pdf/2312.06742.pdf)       |     [Vicuna-13B](https://github.com/kakaobrain/honeybee)     |   172.25   |
 |  13  |           [PureMM](https://github.com/Q-MM/PureMM)           |         [Vicuna-13B](https://github.com/Q-MM/PureMM)         |   172.25   |
@@ -779,7 +779,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  22  |      [mPLUG-Owl2](https://arxiv.org/pdf/2311.04257.pdf)      | [LLaMA2-7B](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2) |   134.25   |
 |  23  | [SPHINX](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX) | [LLaMA2-13B](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX) |   134.00   |
 |  24  |        [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)         |       [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)        |   133.25   |
-|  25  |    [JT-VL-Chat](https://github.com/jiutiancv/JT-VL-Chat)     |         [-](https://github.com/jiutiancv/JT-VL-Chat)         |   132.75   |
+|  25  | [JT-VL-Chat-V1.0](https://github.com/jiutiancv/JT-VL-Chat-V1.0) |      [-](https://github.com/jiutiancv/JT-VL-Chat-V1.0)       |   132.75   |
 |  26  | [360VL](https://github.com/360CVGroup/360VL?tab=readme-ov-file) | [LLaMA3-70B](https://github.com/360CVGroup/360VL?tab=readme-ov-file) |   131.25   |
 |  27  |  [TransCore-M](https://github.com/PCIResearch/TransCore-M)   | [PCITransGPT-13B](https://github.com/PCIResearch/TransCore-M) |   130.75   |
 |  27  |   [MiniCPM](https://github.com/OpenBMB/MiniCPM/#minicpm-v)   | [MiniCPM-2B](https://github.com/OpenBMB/MiniCPM/#minicpm-v)  |   130.75   |
@@ -820,7 +820,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  🥈   |   **[BELLE-VL](https://huggingface.co/BELLE-2/BELLE-VL)**    |   **[Qwen-14B](https://huggingface.co/BELLE-2/BELLE-VL)**    | **177.50** |
 |  🥈   | **[InternVL-Chat-V1.1](https://arxiv.org/pdf/2312.14238.pdf)** |   **[LLaMA2-13B](https://github.com/OpenGVLab/InternVL/)**   | **177.50** |
 |  🥉   |     **[Bunny-3B](https://arxiv.org/pdf/2402.11530.pdf)**     |       **[Phi-2](https://github.com/BAAI-DCAI/Bunny)**        | **170.00** |
-|  🥉   |  **[JT-VL-Chat](https://github.com/jiutiancv/JT-VL-Chat)**   |       **[-](https://github.com/jiutiancv/JT-VL-Chat)**       | **170.00** |
+|  🥉   | **[JT-VL-Chat-V1.0](https://github.com/jiutiancv/JT-VL-Chat-V1.0)** |    **[-](https://github.com/jiutiancv/JT-VL-Chat-V1.0)**     | **170.00** |
 |  4   |  [DataOptim-LLaVA](https://github.com/BAAI-DCAI/DataOptim)   |     [Vicuna-13B](https://github.com/BAAI-DCAI/DataOptim)     |   162.50   |
 |  4   |           [PureMM](https://github.com/Q-MM/PureMM)           |         [Vicuna-13B](https://github.com/Q-MM/PureMM)         |   162.50   |
 |  4   | [ChatTruth-7B](https://huggingface.co/mingdali/ChatTruth-7B) |   [Qwen-7B](https://huggingface.co/mingdali/ChatTruth-7B)    |   162.50   |
@@ -902,7 +902,7 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  19  |           [PureMM](https://github.com/Q-MM/PureMM)           |         [Vicuna-13B](https://github.com/Q-MM/PureMM)         |   360.36   |
 |  20  |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMA-Adapter-v2.1-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal7b) |   356.43   |
 |  21  |  [InternVL-Chat-V1.1](https://arxiv.org/pdf/2312.14238.pdf)  |     [LLaMA2-13B](https://github.com/OpenGVLab/InternVL/)     |   341.07   |
-|  22  |    [JT-VL-Chat](https://github.com/jiutiancv/JT-VL-Chat)     |         [-](https://github.com/jiutiancv/JT-VL-Chat)         |   339.64   |
+|  22  | [JT-VL-Chat-V1.0](https://github.com/jiutiancv/JT-VL-Chat-V1.0) |      [-](https://github.com/jiutiancv/JT-VL-Chat-V1.0)       |   339.64   |
 |  23  |     [BELLE-VL](https://huggingface.co/BELLE-2/BELLE-VL)      |     [Qwen-14B](https://huggingface.co/BELLE-2/BELLE-VL)      |   332.14   |
 |  24  |        [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)         |       [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)        |   331.43   |
 |  25  |       [RBDash](https://github.com/RBDash-Team/RBDash)        |     [Vicuna-13B](https://github.com/RBDash-Team/RBDash)      |   330.00   |
@@ -976,7 +976,7 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  24  |  [DataOptim-LLaVA](https://github.com/BAAI-DCAI/DataOptim)   |     [Vicuna-13B](https://github.com/BAAI-DCAI/DataOptim)     |   123.57   |
 |  24  |  [InternVL-Chat-V1.1](https://arxiv.org/pdf/2312.14238.pdf)  |     [LLaMA2-13B](https://github.com/OpenGVLab/InternVL/)     |   123.57   |
 |  25  |       [Honeybee](https://arxiv.org/pdf/2312.06742.pdf)       |     [Vicuna-13B](https://github.com/kakaobrain/honeybee)     |   122.86   |
-|  26  |    [JT-VL-Chat](https://github.com/jiutiancv/JT-VL-Chat)     |         [-](https://github.com/jiutiancv/JT-VL-Chat)         |   122.14   |
+|  26  | [JT-VL-Chat-V1.0](https://github.com/jiutiancv/JT-VL-Chat-V1.0) |      [-](https://github.com/jiutiancv/JT-VL-Chat-V1.0)       |   122.14   |
 |  27  |   [MiniCPM](https://github.com/OpenBMB/MiniCPM/#minicpm-v)   | [MiniCPM-2B](https://github.com/OpenBMB/MiniCPM/#minicpm-v)  |   119.29   |
 |  28  |      [MoE-LLaVA](https://arxiv.org/pdf/2401.15947.pdf)       |   [Phi-2.7B×4](https://github.com/PKU-YuanGroup/MoE-LLaVA)   |   117.14   |
 |  28  |       [CogAgent](https://arxiv.org/pdf/2312.08914.pdf)       |         [Vicuna-7B](https://github.com/THUDM/CogVLM)         |   117.14   |
@@ -1017,7 +1017,7 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  9   |  [InternVL-Chat-V1.1](https://arxiv.org/pdf/2312.14238.pdf)  |     [LLaMA2-13B](https://github.com/OpenGVLab/InternVL/)     |   70.00    |
 |  9   | [360VL](https://github.com/360CVGroup/360VL?tab=readme-ov-file) | [LLaMA3-70B](https://github.com/360CVGroup/360VL?tab=readme-ov-file) |   70.00    |
 |  10  |       [RBDash](https://github.com/RBDash-Team/RBDash)        |     [Vicuna-13B](https://github.com/RBDash-Team/RBDash)      |   67.50    |
-|  10  |    [JT-VL-Chat](https://github.com/jiutiancv/JT-VL-Chat)     |         [-](https://github.com/jiutiancv/JT-VL-Chat)         |   67.50    |
+|  10  | [JT-VL-Chat-V1.0](https://github.com/jiutiancv/JT-VL-Chat-V1.0) |      [-](https://github.com/jiutiancv/JT-VL-Chat-V1.0)       |   67.50    |
 |  11  |        [LaVIN](https://arxiv.org/pdf/2305.15023.pdf)         |       [LAVIN-13B](https://github.com/luogen1996/LaVIN)       |   65.00    |
 |  12  |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) |   62.50    |
 |  13  |      [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)       | [LLaMA-7B](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) |   60.00    |
@@ -1079,7 +1079,7 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  10  |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMA-Adapter-v2.1-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal7b) |   112.50   |
 |  10  | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) |   112.50   |
 |  11  |  [DataOptim-LLaVA](https://github.com/BAAI-DCAI/DataOptim)   |     [Vicuna-13B](https://github.com/BAAI-DCAI/DataOptim)     |   110.00   |
-|  12  |    [JT-VL-Chat](https://github.com/jiutiancv/JT-VL-Chat)     |         [-](https://github.com/jiutiancv/JT-VL-Chat)         |   105.00   |
+|  12  | [JT-VL-Chat-V1.0](https://github.com/jiutiancv/JT-VL-Chat-V1.0) |      [-](https://github.com/jiutiancv/JT-VL-Chat-V1.0)       |   105.00   |
 |  13  |      [mPLUG-Owl2](https://arxiv.org/pdf/2311.04257.pdf)      | [LLaMA2-7B](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2) |   102.50   |
 |  13  |     [BELLE-VL](https://huggingface.co/BELLE-2/BELLE-VL)      |     [Qwen-14B](https://huggingface.co/BELLE-2/BELLE-VL)      |   102.50   |
 |  13  |  [InternVL-Chat-V1.1](https://arxiv.org/pdf/2312.14238.pdf)  |     [LLaMA2-13B](https://github.com/OpenGVLab/InternVL/)     |   102.50   |
@@ -1174,7 +1174,7 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  21  |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) |   45.00    |
 |  21  |  [InternVL-Chat-V1.1](https://arxiv.org/pdf/2312.14238.pdf)  |     [LLaMA2-13B](https://github.com/OpenGVLab/InternVL/)     |   45.00    |
 |  21  |      [HyperLLaVA](https://arxiv.org/pdf/2403.13447.pdf)      |     [Vicuna-13B](https://github.com/dcdmllm/hyperllava)      |   45.00    |
-|  21  |    [JT-VL-Chat](https://github.com/jiutiancv/JT-VL-Chat)     |         [-](https://github.com/jiutiancv/JT-VL-Chat)         |   45.00    |
+|  21  | [JT-VL-Chat-V1.0](https://github.com/jiutiancv/JT-VL-Chat-V1.0) |      [-](https://github.com/jiutiancv/JT-VL-Chat-V1.0)       |   45.00    |
 |  22  |      [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)      |         [Qwen-7B](https://github.com/QwenLM/Qwen-VL)         |   42.50    |
 |  22  |   [LVIS-INSTRUCT4V](https://arxiv.org/pdf/2311.07574.pdf)    |    [Vicuna-13B](https://github.com/X2FD/LVIS-INSTRUCT4V)     |   42.50    |
 |  23  |      [MiniGPT-4](https://arxiv.org/pdf/2304.10592.pdf)       |    [Vicuna-13B](https://github.com/Vision-CAIR/MiniGPT-4)    |   40.00    |
