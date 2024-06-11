@@ -273,6 +273,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Multimodal Hallucination
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models**](https://arxiv.org/pdf/2406.01920) | arXiv | 2024-06-04 | [Coming soon]() | - |
 | [**VDGD: Mitigating LVLM Hallucinations in Cognitive Prompts by Bridging the Visual Perception Gap**](https://arxiv.org/pdf/2405.15683) | arXiv | 2024-05-24 | [Coming soon]() | - |
 | [**Detecting and Mitigating Hallucination in Large Vision Language Models via Fine-Grained AI Feedback**](https://arxiv.org/pdf/2404.14233.pdf) | arXiv | 2024-04-22 | - | - |
 | [**Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding**](https://arxiv.org/pdf/2403.18715.pdf) | arXiv | 2024-03-27 | - | - |
