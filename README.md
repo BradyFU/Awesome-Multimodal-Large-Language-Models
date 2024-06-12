@@ -135,6 +135,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA2.svg?style=social&label=Star) <br> [**VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs**](https://arxiv.org/pdf/2406.07476) <br> | arXiv | 2024-06-11 | [Github](https://github.com/DAMO-NLP-SG/VideoLLaMA2) | Local Demo |
 | [**Parrot: Multilingual Visual Instruction Tuning**](https://arxiv.org/pdf/2406.02539) | arXiv | 2024-06-04 | [Coming soon]() | - |
 | [**Ovis: Structural Embedding Alignment for Multimodal Large Language Model**](https://arxiv.org/pdf/2405.20797) | arXiv | 2024-05-31 | [Coming soon]() | - |
 | ![Star](https://img.shields.io/github/stars/gordonhu608/MQT-LLaVA.svg?style=social&label=Star) <br> [**Matryoshka Query Transformer for Large Vision-Language Models**](https://arxiv.org/pdf/2405.19315) <br> | arXiv | 2024-05-29 | [Github](https://github.com/gordonhu608/MQT-LLaVA) | [Demo](https://huggingface.co/spaces/gordonhu/MQT-LLaVA) |
