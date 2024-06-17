@@ -134,6 +134,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/yfzhang114/SliME.svg?style=social&label=Star) <br> [**Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models**](https://arxiv.org/pdf/2406.08487) <br> | arXiv | 2024-06-12 | [Github](https://github.com/yfzhang114/SliME) | - |
 | ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA2.svg?style=social&label=Star) <br> [**VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs**](https://arxiv.org/pdf/2406.07476) <br> | arXiv | 2024-06-11 | [Github](https://github.com/DAMO-NLP-SG/VideoLLaMA2) | Local Demo |
 | [**Parrot: Multilingual Visual Instruction Tuning**](https://arxiv.org/pdf/2406.02539) | arXiv | 2024-06-04 | [Coming soon]() | - |
 | [**Ovis: Structural Embedding Alignment for Multimodal Large Language Model**](https://arxiv.org/pdf/2405.20797) | arXiv | 2024-05-31 | [Coming soon]() | - |
@@ -279,6 +280,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 | [**Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding**](https://arxiv.org/pdf/2403.18715.pdf) | arXiv | 2024-03-27 | - | - |
 | ![Star](https://img.shields.io/github/stars/IVY-LVLM/Counterfactual-Inception.svg?style=social&label=Star) <br> [**What if...?: Counterfactual Inception to Mitigate Hallucination Effects in Large Multimodal Models**](https://arxiv.org/pdf/2403.13513.pdf) <br> | arXiv | 2024-03-20 | [Github](https://github.com/IVY-LVLM/Counterfactual-Inception) | - |
 | [**Strengthening Multimodal Large Language Model with Bootstrapped Preference Optimization**](https://arxiv.org/pdf/2403.08730.pdf) | arXiv | 2024-03-13 | - | - |
+| ![Star](https://img.shields.io/github/stars/yfzhang114/LLaVA-Align.svg?style=social&label=Star) <br> [**Debiasing Multimodal Large Language Models**](https://arxiv.org/pdf/2403.05262) <br> | arXiv | 2024-03-08 | [Github](https://github.com/yfzhang114/LLaVA-Align) | - |
 | ![Star](https://img.shields.io/github/stars/BillChan226/HALC.svg?style=social&label=Star) <br> [**HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding**](https://arxiv.org/pdf/2403.00425.pdf) <br> | arXiv | 2024-03-01 | [Github](https://github.com/BillChan226/HALC) | - |
 | [**IBD: Alleviating Hallucinations in Large Vision-Language Models via Image-Biased Decoding**](https://arxiv.org/pdf/2402.18476.pdf) | arXiv | 2024-02-28 | - | - |
 | ![Star](https://img.shields.io/github/stars/yuezih/less-is-more.svg?style=social&label=Star) <br> [**Less is More: Mitigating Multimodal Hallucination from an EOS Decision Perspective**](https://arxiv.org/pdf/2402.14545.pdf) <br> | arXiv | 2024-02-22 | [Github](https://github.com/yuezih/less-is-more) | - |
