@@ -75,30 +75,37 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 
 <br> **📑 If you find our projects helpful to your research, please consider citing:** <br>
 ```
+@article{fu2023mme,
+  title={MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models},
+  author={Fu, Chaoyou and Chen, Peixian and Shen, Yunhang and Qin, Yulei and Zhang, Mengdan and Lin, Xu and Yang, Jinrui and Zheng, Xiawu and Li, Ke and Sun, Xing and others},
+  journal={arXiv preprint arXiv:2306.13394},
+  year={2023}
+}
+
+@article{fu2024video,
+  title={Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis},
+  author={Fu, Chaoyou and Dai, Yuhan and Luo, Yondong and Li, Lei and Ren, Shuhuai and Zhang, Renrui and Wang, Zihan and Zhou, Chenyu and Shen, Yunhang and Zhang, Mengdan and others},
+  journal={arXiv preprint arXiv:2405.21075},
+  year={2024}
+}
+
 @article{yin2023survey,
-  title={A Survey on Multimodal Large Language Models},
+  title={A survey on multimodal large language models},
   author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Li, Ke and Sun, Xing and Xu, Tong and Chen, Enhong},
   journal={arXiv preprint arXiv:2306.13549},
   year={2023}
 }
 
-@article{fu2023mme,
-  title={MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models},
-  author={Fu, Chaoyou and Chen, Peixian and Shen, Yunhang and Qin, Yulei and Zhang, Mengdan and Lin, Xu and Yang, Jinrui and Zheng, Xiawu and Li, Ke and Sun, Xing and Wu, Yunsheng and Ji, Rongrong},
-  journal={arXiv preprint arXiv:2306.13394},
-  year={2023}
-}
-
 @article{yin2023woodpecker,
-  title={Woodpecker: Hallucination Correction for Multimodal Large Language Models},
+  title={Woodpecker: Hallucination correction for multimodal large language models},
   author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Xu, Tong and Wang, Hao and Sui, Dianbo and Shen, Yunhang and Li, Ke and Sun, Xing and Chen, Enhong},
   journal={arXiv preprint arXiv:2310.16045},
   year={2023}
 }
 
-@article{fu2023gemini,
-  title={A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise},
-  author={Fu, Chaoyou and Zhang, Renrui and Wang, Zihan and Huang, Yubo and Zhang, Zhengye and Qiu, Longtian and Ye, Gaoxiang and Shen, Yunhang and Zhang, Mengdan and Chen, Peixian and Zhao, Sirui and Lin, Shaohui and Jiang, Deqiang and Yin, Di and Gao, Peng and Li, Ke and Li, Hongsheng and Sun, Xing},
+@article{fu2023challenger,
+  title={A challenger to gpt-4v? early explorations of gemini in visual expertise},
+  author={Fu, Chaoyou and Zhang, Renrui and Lin, Haojia and Wang, Zihan and Gao, Timin and Luo, Yongdong and Huang, Yubo and Zhang, Zhengye and Qiu, Longtian and Ye, Gaoxiang and others},
   journal={arXiv preprint arXiv:2312.12436},
   year={2023}
 }
