@@ -219,7 +219,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  6   |       [InfMLLM](https://github.com/infly-ai/INF-MLLM)        |      [Vicuna-13B](https://github.com/infly-ai/INF-MLLM)      | 1673.75 |
 |  7   |  [InternVL-Chat-V1.1](https://arxiv.org/pdf/2312.14238.pdf)  |     [LLaMA2-13B](https://github.com/OpenGVLab/InternVL/)     | 1672.35 |
 |  8   |       [Honeybee](https://arxiv.org/pdf/2312.06742.pdf)       |     [Vicuna-13B](https://github.com/kakaobrain/honeybee)     | 1661.13 |
-|  9   |        [Bunny-8B](https://github.com/BAAI-DCAI/Bunny)        |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 1644.14 |
+|  9   | [Bunny-8B](https://huggingface.co/BAAI/Bunny-v1_1-Llama-3-8B-V) |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 1644.14 |
 |  10  |    [JT-VL-Chat](https://github.com/jiutiancv/JT-VL-Chat)     |         [-](https://github.com/jiutiancv/JT-VL-Chat)         | 1642.51 |
 |  11  | [360VL](https://github.com/360CVGroup/360VL?tab=readme-ov-file) | [LLaMA3-70B](https://github.com/360CVGroup/360VL?tab=readme-ov-file) | 1640.86 |
 |  12  |    [InternVL-Chat-V1.5](https://arxiv.org/pdf/2404.16821)    |    [InternLM2-20B](https://github.com/OpenGVLab/InternVL)    | 1637.84 |
@@ -231,7 +231,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  18  |       [RBDash](https://github.com/RBDash-Team/RBDash)        |     [Vicuna-13B](https://github.com/RBDash-Team/RBDash)      | 1610.15 |
 |  19  |     [BELLE-VL](https://huggingface.co/BELLE-2/BELLE-VL)      |     [Qwen-14B](https://huggingface.co/BELLE-2/BELLE-VL)      | 1595.34 |
 |  20  |  [TransCore-M](https://github.com/PCIResearch/TransCore-M)   | [PCITransGPT-13B](https://github.com/PCIResearch/TransCore-M) | 1588.16 |
-|  21  |       [Bunny-4B](https://arxiv.org/pdf/2402.11530.pdf)       | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 1581.52 |
+|  21  |    [Bunny-4B](https://huggingface.co/BAAI/Bunny-v1_1-4B)     | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 1581.52 |
 |  22  |      [HyperLLaVA](https://arxiv.org/pdf/2403.13447.pdf)      |     [Vicuna-13B](https://github.com/dcdmllm/hyperllava)      | 1575.61 |
 |  23  |   [LVIS-INSTRUCT4V](https://arxiv.org/pdf/2311.07574.pdf)    |    [Vicuna-13B](https://github.com/X2FD/LVIS-INSTRUCT4V)     | 1574.89 |
 |  24  | [MindSource-VL-Chat](https://github.com/luogen1996/LLaVA-HR) |   [MindSource-7B](https://github.com/luogen1996/LLaVA-HR)    | 1567.99 |
@@ -287,7 +287,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  🥈   | [ChatTruth-7B](https://huggingface.co/mingdali/ChatTruth-7B) |   [Qwen-7B](https://huggingface.co/mingdali/ChatTruth-7B)    | 195.00 |
 |  🥈   | [MindSource-VL-Chat](https://github.com/luogen1996/LLaVA-HR) |   [MindSource-7B](https://github.com/luogen1996/LLaVA-HR)    | 195.00 |
 |  🥈   | [MiniCPM-V-2](https://github.com/OpenBMB/MiniCPM/#minicpm-v) | [MiniCPM-2B](https://github.com/OpenBMB/MiniCPM/#minicpm-v)  | 195.00 |
-|  🥈   |        [Bunny-8B](https://github.com/BAAI-DCAI/Bunny)        |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 195.00 |
+|  🥈   | [Bunny-8B](https://huggingface.co/BAAI/Bunny-v1_1-Llama-3-8B-V) |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 195.00 |
 |  🥉   |         [GIT2](https://arxiv.org/pdf/2205.14100.pdf)         | [VQAv2-finetuned](https://github.com/microsoft/GenerativeImage2Text) | 190.00 |
 |  🥉   | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) | 190.00 |
 |  🥉   | [GPT-4V](https://cdn.openai.com/papers/GPTV_System_Card.pdf) |   [-](https://cdn.openai.com/papers/GPTV_System_Card.pdf)    | 190.00 |
@@ -298,7 +298,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  🥉   | [LLaVA-1.6](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/) |      [Vicuna-34B](https://github.com/haotian-liu/LLaVA)      | 190.00 |
 |  🥉   |   [MiniCPM](https://github.com/OpenBMB/MiniCPM/#minicpm-v)   | [MiniCPM-2B](https://github.com/OpenBMB/MiniCPM/#minicpm-v)  | 190.00 |
 |  🥉   |   [OmniLMM](https://github.com/OpenBMB/MiniCPM/#minicpm-v)   | [Zephyr-7B-beta](https://github.com/OpenBMB/MiniCPM/#minicpm-v) | 190.00 |
-|  🥉   |       [Bunny-4B](https://arxiv.org/pdf/2402.11530.pdf)       | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 190.00 |
+|  🥉   |    [Bunny-4B](https://huggingface.co/BAAI/Bunny-v1_1-4B)     | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 190.00 |
 |  🥉   |      [HyperLLaVA](https://arxiv.org/pdf/2403.13447.pdf)      |     [Vicuna-13B](https://github.com/dcdmllm/hyperllava)      | 190.00 |
 |  🥉   |    [InternVL-Chat-V1.5](https://arxiv.org/pdf/2404.16821)    |    [InternLM2-20B](https://github.com/OpenGVLab/InternVL)    | 190.00 |
 |  🥉   | [360VL](https://github.com/360CVGroup/360VL?tab=readme-ov-file) | [LLaMA3-70B](https://github.com/360CVGroup/360VL?tab=readme-ov-file) | 190.00 |
@@ -345,13 +345,13 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  4   | [MindSource-VL-Chat](https://github.com/luogen1996/LLaVA-HR) |   [MindSource-7B](https://github.com/luogen1996/LLaVA-HR)    | 170.00 |
 |  5   | [MiniCPM-Llama3-V 2.5](https://github.com/OpenBMB/MiniCPM-V) |      [LLaMA3-8B](https://github.com/OpenBMB/MiniCPM-V)       | 168.33 |
 |  6   | [Qwen-VL-Max](https://help.aliyun.com/zh/dashscope/developer-reference/vl-plus-quick-start) | [-](https://help.aliyun.com/zh/dashscope/developer-reference/vl-plus-quick-start) | 166.67 |
-|  7   |       [Bunny-4B](https://arxiv.org/pdf/2402.11530.pdf)       | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 165.80 |
+|  7   |    [Bunny-4B](https://huggingface.co/BAAI/Bunny-v1_1-4B)     | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 165.80 |
 |  7   |      [ShareGPT4V](https://arxiv.org/pdf/2311.12793.pdf)      | [Vicuna-13B](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) | 165.00 |
 |  7   |  [DataOptim-LLaVA](https://github.com/BAAI-DCAI/DataOptim)   |     [Vicuna-13B](https://github.com/BAAI-DCAI/DataOptim)     | 165.00 |
 |  7   |  [TransCore-M](https://github.com/PCIResearch/TransCore-M)   | [PCITransGPT-13B](https://github.com/PCIResearch/TransCore-M) | 165.00 |
 |  7   |        [CogVLM](https://arxiv.org/pdf/2311.03079.pdf)        |         [Vicuna-7B](https://github.com/THUDM/CogVLM)         | 165.00 |
 |  7   |   [OmniLMM](https://github.com/OpenBMB/MiniCPM/#minicpm-v)   | [Zephyr-7B-beta](https://github.com/OpenBMB/MiniCPM/#minicpm-v) | 165.00 |
-|  7   |        [Bunny-8B](https://github.com/BAAI-DCAI/Bunny)        |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 165.00 |
+|  7   | [Bunny-8B](https://huggingface.co/BAAI/Bunny-v1_1-Llama-3-8B-V) |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 165.00 |
 |  8   |          [Muffin](https://github.com/thunlp/Muffin)          |        [Vicuna-13B](https://github.com/thunlp/Muffin)        | 163.33 |
 |  9   | [360VL](https://github.com/360CVGroup/360VL?tab=readme-ov-file) | [LLaMA3-70B](https://github.com/360CVGroup/360VL?tab=readme-ov-file) | 160.80 |
 |  10  |        [MMICL](https://arxiv.org/pdf/2309.07915.pdf)         |        [FlanT5xxl](https://github.com/HaozheZhao/MIC)        | 160.00 |
@@ -415,10 +415,10 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  12  |  [TransCore-M](https://github.com/PCIResearch/TransCore-M)   | [PCITransGPT-13B](https://github.com/PCIResearch/TransCore-M) | 136.67 |
 |  12  | [MiniCPM-Llama3-V 2.5](https://github.com/OpenBMB/MiniCPM-V) |      [LLaMA3-8B](https://github.com/OpenBMB/MiniCPM-V)       | 136.67 |
 |  13  |       [CogAgent](https://arxiv.org/pdf/2312.08914.pdf)       |         [Vicuna-7B](https://github.com/THUDM/CogVLM)         | 135.00 |
-|  13  |        [Bunny-8B](https://github.com/BAAI-DCAI/Bunny)        |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 135.00 |
+|  13  | [Bunny-8B](https://huggingface.co/BAAI/Bunny-v1_1-Llama-3-8B-V) |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 135.00 |
 |  14  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |      [Vicuna-13B](https://github.com/haotian-liu/LLaVA)      | 133.33 |
 |  15  |   [OmniLMM](https://github.com/OpenBMB/MiniCPM/#minicpm-v)   | [Zephyr-7B-beta](https://github.com/OpenBMB/MiniCPM/#minicpm-v) | 131.67 |
-|  15  |       [Bunny-4B](https://arxiv.org/pdf/2402.11530.pdf)       | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 131.67 |
+|  15  |    [Bunny-4B](https://huggingface.co/BAAI/Bunny-v1_1-4B)     | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 131.67 |
 |  16  |     [BELLE-VL](https://huggingface.co/BELLE-2/BELLE-VL)      |     [Qwen-14B](https://huggingface.co/BELLE-2/BELLE-VL)      | 130.00 |
 |  17  |   [LVIS-INSTRUCT4V](https://arxiv.org/pdf/2311.07574.pdf)    |    [Vicuna-13B](https://github.com/X2FD/LVIS-INSTRUCT4V)     | 128.33 |
 |  17  |      [HyperLLaVA](https://arxiv.org/pdf/2403.13447.pdf)      |     [Vicuna-13B](https://github.com/dcdmllm/hyperllava)      | 128.33 |
@@ -463,7 +463,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  🏅️   | [InternLM-XComposer2-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM2-7B](https://github.com/InternLM/InternLM-XComposer) | 195.00 |
 |  🏅️   | [LLaVA-1.6](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/) |      [Vicuna-34B](https://github.com/haotian-liu/LLaVA)      | 195.00 |
 |  🏅️   | [ChatTruth-7B](https://huggingface.co/mingdali/ChatTruth-7B) |   [Qwen-7B](https://huggingface.co/mingdali/ChatTruth-7B)    | 195.00 |
-|  🏅️   |        [Bunny-8B](https://github.com/BAAI-DCAI/Bunny)        |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 195.00 |
+|  🏅️   | [Bunny-8B](https://huggingface.co/BAAI/Bunny-v1_1-Llama-3-8B-V) |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 195.00 |
 |  🥈   |       [RBDash](https://github.com/RBDash-Team/RBDash)        |     [Vicuna-13B](https://github.com/RBDash-Team/RBDash)      | 190.00 |
 |  🥈   |  [InternVL-Chat-V1.1](https://arxiv.org/pdf/2312.14238.pdf)  |     [LLaMA2-13B](https://github.com/OpenGVLab/InternVL/)     | 190.00 |
 |  🥈   |      [MoE-LLaVA](https://arxiv.org/pdf/2401.15947.pdf)       |   [Phi-2.7B×4](https://github.com/PKU-YuanGroup/MoE-LLaVA)   | 190.00 |
@@ -486,7 +486,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  7   |         [Lynx](https://arxiv.org/pdf/2307.02469.pdf)         |      [Vicuna-7B](https://github.com/bytedance/lynx-llm)      | 170.00 |
 |  7   |      [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)      |         [Qwen-7B](https://github.com/QwenLM/Qwen-VL)         | 170.00 |
 |  7   |           [PureMM](https://github.com/Q-MM/PureMM)           |         [Vicuna-13B](https://github.com/Q-MM/PureMM)         | 170.00 |
-|  7   |       [Bunny-4B](https://arxiv.org/pdf/2402.11530.pdf)       | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 170.00 |
+|  7   |    [Bunny-4B](https://huggingface.co/BAAI/Bunny-v1_1-4B)     | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 170.00 |
 |  8   |          [WeMM](https://github.com/scenarios/WeMM)           |       [InternLM-7B](https://github.com/scenarios/WeMM)       | 168.33 |
 |  9   |   [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)    |    [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)    | 165.00 |
 |  9   | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) | 165.00 |
@@ -540,7 +540,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  17  |      [ShareGPT4V](https://arxiv.org/pdf/2311.12793.pdf)      | [Vicuna-13B](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) | 169.05 |
 |  18  |    [JT-VL-Chat](https://github.com/jiutiancv/JT-VL-Chat)     |         [-](https://github.com/jiutiancv/JT-VL-Chat)         | 168.71 |
 |  19  |       [CogAgent](https://arxiv.org/pdf/2312.08914.pdf)       |         [Vicuna-7B](https://github.com/THUDM/CogVLM)         | 167.35 |
-|  20  |        [Bunny-8B](https://github.com/BAAI-DCAI/Bunny)        |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 167.35 |
+|  20  | [Bunny-8B](https://huggingface.co/BAAI/Bunny-v1_1-Llama-3-8B-V) |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 167.35 |
 |  21  |     [BELLE-VL](https://huggingface.co/BELLE-2/BELLE-VL)      |     [Qwen-14B](https://huggingface.co/BELLE-2/BELLE-VL)      | 166.33 |
 |  22  |       [RBDash](https://github.com/RBDash-Team/RBDash)        |     [Vicuna-13B](https://github.com/RBDash-Team/RBDash)      | 165.99 |
 |  23  | [MiniCPM-V-2](https://github.com/OpenBMB/MiniCPM/#minicpm-v) | [MiniCPM-2B](https://github.com/OpenBMB/MiniCPM/#minicpm-v)  | 165.31 |
@@ -557,7 +557,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  34  |   [MiniCPM](https://github.com/OpenBMB/MiniCPM/#minicpm-v)   | [MiniCPM-2B](https://github.com/OpenBMB/MiniCPM/#minicpm-v)  | 158.50 |
 |  35  | [MindSource-VL-Chat](https://github.com/luogen1996/LLaVA-HR) |   [MindSource-7B](https://github.com/luogen1996/LLaVA-HR)    | 155.10 |
 |  36  |        [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)         |       [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)        | 155.10 |
-|  37  |       [Bunny-4B](https://arxiv.org/pdf/2402.11530.pdf)       | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 150.34 |
+|  37  |    [Bunny-4B](https://huggingface.co/BAAI/Bunny-v1_1-4B)     | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 150.34 |
 |  38  |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMA-Adapter-v2.1-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal7b) | 147.96 |
 |  39  |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [Vicuna-7B](https://github.com/DCDmllm/Cheetah)        | 147.28 |
 |  40  |        [CogVLM](https://arxiv.org/pdf/2311.03079.pdf)        |         [Vicuna-7B](https://github.com/THUDM/CogVLM)         | 146.94 |
@@ -590,7 +590,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  4   | [SPHINX](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX) | [LLaMA2-13B](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX) | 177.94 |
 |  5   | [ChatTruth-7B](https://huggingface.co/mingdali/ChatTruth-7B) |   [Qwen-7B](https://huggingface.co/mingdali/ChatTruth-7B)    | 177.65 |
 |  6   |       [Honeybee](https://arxiv.org/pdf/2312.06742.pdf)       |     [Vicuna-13B](https://github.com/kakaobrain/honeybee)     | 177.06 |
-|  7   |        [Bunny-8B](https://github.com/BAAI-DCAI/Bunny)        |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 175.29 |
+|  7   | [Bunny-8B](https://huggingface.co/BAAI/Bunny-v1_1-Llama-3-8B-V) |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 175.29 |
 |  8   |        [Otter](https://arxiv.org/pdf/2305.03726.pdf)         |    [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)     | 172.65 |
 |  9   |   [OmniLMM](https://github.com/OpenBMB/MiniCPM/#minicpm-v)   | [Zephyr-7B-beta](https://github.com/OpenBMB/MiniCPM/#minicpm-v) | 172.06 |
 |  10  |       [RBDash](https://github.com/RBDash-Team/RBDash)        |     [Vicuna-13B](https://github.com/RBDash-Team/RBDash)      | 170.00 |
@@ -609,7 +609,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  21  |      [ShareGPT4V](https://arxiv.org/pdf/2311.12793.pdf)      | [Vicuna-13B](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) | 153.82 |
 |  21  | [InternLM-XComposer2-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM2-7B](https://github.com/InternLM/InternLM-XComposer) | 153.82 |
 |  22  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |      [Vicuna-13B](https://github.com/haotian-liu/LLaVA)      | 152.94 |
-|  23  |       [Bunny-4B](https://arxiv.org/pdf/2402.11530.pdf)       | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 151.76 |
+|  23  |    [Bunny-4B](https://huggingface.co/BAAI/Bunny-v1_1-4B)     | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 151.76 |
 |  24  | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) | 150.29 |
 |  25  |       [CogAgent](https://arxiv.org/pdf/2312.08914.pdf)       |         [Vicuna-7B](https://github.com/THUDM/CogVLM)         | 147.94 |
 |  25  |      [MoE-LLaVA](https://arxiv.org/pdf/2401.15947.pdf)       |   [Phi-2.7B×4](https://github.com/PKU-YuanGroup/MoE-LLaVA)   | 147.94 |
@@ -656,7 +656,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  7   | [360VL](https://github.com/360CVGroup/360VL?tab=readme-ov-file) | [LLaMA3-70B](https://github.com/360CVGroup/360VL?tab=readme-ov-file) | 164.75 |
 |  8   |         [Lynx](https://arxiv.org/pdf/2307.02469.pdf)         |      [Vicuna-7B](https://github.com/bytedance/lynx-llm)      | 164.50 |
 |  8   | [LLaVA-1.6](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/) |      [Vicuna-34B](https://github.com/haotian-liu/LLaVA)      | 164.50 |
-|  9   |       [Bunny-4B](https://arxiv.org/pdf/2402.11530.pdf)       | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 163.50 |
+|  9   |    [Bunny-4B](https://huggingface.co/BAAI/Bunny-v1_1-4B)     | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 163.50 |
 |  10  |   [LVIS-INSTRUCT4V](https://arxiv.org/pdf/2311.07574.pdf)    |    [Vicuna-13B](https://github.com/X2FD/LVIS-INSTRUCT4V)     | 163.25 |
 |  11  |           [PureMM](https://github.com/Q-MM/PureMM)           |         [Vicuna-13B](https://github.com/Q-MM/PureMM)         | 162.75 |
 |  12  |       [Honeybee](https://arxiv.org/pdf/2312.06742.pdf)       |     [Vicuna-13B](https://github.com/kakaobrain/honeybee)     | 162.00 |
@@ -682,7 +682,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  28  | [MiniCPM-V-2](https://github.com/OpenBMB/MiniCPM/#minicpm-v) | [MiniCPM-2B](https://github.com/OpenBMB/MiniCPM/#minicpm-v)  | 154.25 |
 |  29  |        [MMICL](https://arxiv.org/pdf/2309.07915.pdf)         |        [FlanT5xxl](https://github.com/HaozheZhao/MIC)        | 153.75 |
 |  29  | [MiniCPM-Llama3-V 2.5](https://github.com/OpenBMB/MiniCPM-V) |      [LLaMA3-8B](https://github.com/OpenBMB/MiniCPM-V)       | 153.75 |
-|  29  |        [Bunny-8B](https://github.com/BAAI-DCAI/Bunny)        |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 153.75 |
+|  29  | [Bunny-8B](https://huggingface.co/BAAI/Bunny-v1_1-Llama-3-8B-V) |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 153.75 |
 |  30  |      [mPLUG-Owl2](https://arxiv.org/pdf/2311.04257.pdf)      | [LLaMA2-7B](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2) | 153.25 |
 |  31  |     [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)     | [FlanT5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) | 153.00 |
 |  32  |      [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)      |         [Qwen-7B](https://github.com/QwenLM/Qwen-VL)         | 152.25 |
@@ -727,12 +727,12 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  14  |       [CogAgent](https://arxiv.org/pdf/2312.08914.pdf)       |         [Vicuna-7B](https://github.com/THUDM/CogVLM)         | 172.00 |
 |  14  |      [HyperLLaVA](https://arxiv.org/pdf/2403.13447.pdf)      |     [Vicuna-13B](https://github.com/dcdmllm/hyperllava)      | 172.00 |
 |  15  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |      [Vicuna-13B](https://github.com/haotian-liu/LLaVA)      | 170.50 |
-|  16  |        [Bunny-8B](https://github.com/BAAI-DCAI/Bunny)        |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 170.25 |
+|  16  | [Bunny-8B](https://huggingface.co/BAAI/Bunny-v1_1-Llama-3-8B-V) |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 170.25 |
 |  17  | [SPHINX](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX) | [LLaMA2-13B](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX) | 168.09 |
 |  18  |  [InternVL-Chat-V1.1](https://arxiv.org/pdf/2312.14238.pdf)  |     [LLaMA2-13B](https://github.com/OpenGVLab/InternVL/)     | 168.00 |
 |  19  |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMA-Adapter-v2.1-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal7b) | 167.84 |
 |  20  |   [MiniCPM](https://github.com/OpenBMB/MiniCPM/#minicpm-v)   | [MiniCPM-2B](https://github.com/OpenBMB/MiniCPM/#minicpm-v)  | 167.75 |
-|  21  |       [Bunny-4B](https://arxiv.org/pdf/2402.11530.pdf)       | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 167.50 |
+|  21  |    [Bunny-4B](https://huggingface.co/BAAI/Bunny-v1_1-4B)     | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 167.50 |
 |  22  |       [InfMLLM](https://github.com/infly-ai/INF-MLLM)        |      [Vicuna-13B](https://github.com/infly-ai/INF-MLLM)      | 166.75 |
 |  23  | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) | 165.25 |
 |  23  | [LLaVA-1.6](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/) |      [Vicuna-34B](https://github.com/haotian-liu/LLaVA)      | 165.25 |
@@ -787,7 +787,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  15  |       [RBDash](https://github.com/RBDash-Team/RBDash)        |     [Vicuna-13B](https://github.com/RBDash-Team/RBDash)      | 140.50 |
 |  16  |     [BELLE-VL](https://huggingface.co/BELLE-2/BELLE-VL)      |     [Qwen-14B](https://huggingface.co/BELLE-2/BELLE-VL)      | 139.50 |
 |  17  | [LLaVA-1.6](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/) |      [Vicuna-34B](https://github.com/haotian-liu/LLaVA)      | 139.00 |
-|  18  |       [Bunny-4B](https://arxiv.org/pdf/2402.11530.pdf)       | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 136.75 |
+|  18  |    [Bunny-4B](https://huggingface.co/BAAI/Bunny-v1_1-4B)     | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 136.75 |
 |  19  |        [BLIP-2](https://arxiv.org/pdf/2301.12597.pdf)        | [Flant5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) | 136.50 |
 |  20  | [Gemini Pro](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf) | [-](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf) | 135.75 |
 |  21  |        [MMICL](https://arxiv.org/pdf/2309.07915.pdf)         |        [FlanT5xxl](https://github.com/HaozheZhao/MIC)        | 135.50 |
@@ -797,7 +797,7 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  24  | [SPHINX](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX) | [LLaMA2-13B](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX) | 134.00 |
 |  25  |        [BLIVA](https://arxiv.org/pdf/2308.09936.pdf)         |       [FlanT5xxl](https://github.com/mlpc-ucsd/BLIVA)        | 133.25 |
 |  26  |    [JT-VL-Chat](https://github.com/jiutiancv/JT-VL-Chat)     |         [-](https://github.com/jiutiancv/JT-VL-Chat)         | 132.75 |
-|  27  |        [Bunny-8B](https://github.com/BAAI-DCAI/Bunny)        |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 132.50 |
+|  27  | [Bunny-8B](https://huggingface.co/BAAI/Bunny-v1_1-Llama-3-8B-V) |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 132.50 |
 |  28  | [360VL](https://github.com/360CVGroup/360VL?tab=readme-ov-file) | [LLaMA3-70B](https://github.com/360CVGroup/360VL?tab=readme-ov-file) | 131.25 |
 |  29  |  [TransCore-M](https://github.com/PCIResearch/TransCore-M)   | [PCITransGPT-13B](https://github.com/PCIResearch/TransCore-M) | 130.75 |
 |  29  |   [MiniCPM](https://github.com/OpenBMB/MiniCPM/#minicpm-v)   | [MiniCPM-2B](https://github.com/OpenBMB/MiniCPM/#minicpm-v)  | 130.75 |
@@ -844,8 +844,8 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  5   |  [TransCore-M](https://github.com/PCIResearch/TransCore-M)   | [PCITransGPT-13B](https://github.com/PCIResearch/TransCore-M) | 155.00 |
 |  5   |       [Honeybee](https://arxiv.org/pdf/2312.06742.pdf)       |     [Vicuna-13B](https://github.com/kakaobrain/honeybee)     | 155.00 |
 |  5   |   [OmniLMM](https://github.com/OpenBMB/MiniCPM/#minicpm-v)   | [Zephyr-7B-beta](https://github.com/OpenBMB/MiniCPM/#minicpm-v) | 155.00 |
-|  5   |       [Bunny-4B](https://arxiv.org/pdf/2402.11530.pdf)       | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 155.00 |
-|  5   |        [Bunny-8B](https://github.com/BAAI-DCAI/Bunny)        |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 155.00 |
+|  5   |    [Bunny-4B](https://huggingface.co/BAAI/Bunny-v1_1-4B)     | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 155.00 |
+|  5   | [Bunny-8B](https://huggingface.co/BAAI/Bunny-v1_1-Llama-3-8B-V) |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 155.00 |
 |  6   |          [WeMM](https://github.com/scenarios/WeMM)           |       [InternLM-7B](https://github.com/scenarios/WeMM)       | 147.50 |
 |  6   | [Qwen-VL-Plus](https://help.aliyun.com/zh/dashscope/developer-reference/vl-plus-quick-start) | [-](https://help.aliyun.com/zh/dashscope/developer-reference/vl-plus-quick-start) | 147.50 |
 |  6   | [InternLM-XComposer2-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM2-7B](https://github.com/InternLM/InternLM-XComposer) | 147.50 |
@@ -913,9 +913,9 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  14  | [ChatTruth-7B](https://huggingface.co/mingdali/ChatTruth-7B) |   [Qwen-7B](https://huggingface.co/mingdali/ChatTruth-7B)    | 387.86 |
 |  15  | [360VL](https://github.com/360CVGroup/360VL?tab=readme-ov-file) | [LLaMA3-70B](https://github.com/360CVGroup/360VL?tab=readme-ov-file) | 371.43 |
 |  16  |       [InfMLLM](https://github.com/mightyzau/InfMLLM)        |      [Vicuna-13B](https://github.com/mightyzau/InfMLLM)      | 368.93 |
-|  17  |        [Bunny-8B](https://github.com/BAAI-DCAI/Bunny)        |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 367.50 |
+|  17  | [Bunny-8B](https://huggingface.co/BAAI/Bunny-v1_1-Llama-3-8B-V) |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 367.50 |
 |  18  |  [DataOptim-LLaVA](https://github.com/BAAI-DCAI/DataOptim)   |     [Vicuna-13B](https://github.com/BAAI-DCAI/DataOptim)     | 361.07 |
-|  19  |       [Bunny-4B](https://arxiv.org/pdf/2402.11530.pdf)       | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 361.07 |
+|  19  |    [Bunny-4B](https://huggingface.co/BAAI/Bunny-v1_1-4B)     | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 361.07 |
 |  20  |      [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL/)      |         [Qwen-7B](https://github.com/QwenLM/Qwen-VL)         | 360.71 |
 |  21  |           [PureMM](https://github.com/Q-MM/PureMM)           |         [Vicuna-13B](https://github.com/Q-MM/PureMM)         | 360.36 |
 |  22  |   [LLaMA-Adapter V2](https://arxiv.org/pdf/2304.15010.pdf)   | [LLaMA-Adapter-v2.1-7B](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal7b) | 356.43 |
@@ -969,7 +969,7 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  7   | [GPT-4V](https://cdn.openai.com/papers/GPTV_System_Card.pdf) |   [-](https://cdn.openai.com/papers/GPTV_System_Card.pdf)    | 142.14 |
 |  8   |          [WeMM](https://github.com/scenarios/WeMM)           |       [InternLM-7B](https://github.com/scenarios/WeMM)       | 140.00 |
 |  8   |       [RBDash](https://github.com/RBDash-Team/RBDash)        |     [Vicuna-13B](https://github.com/RBDash-Team/RBDash)      | 140.00 |
-|  8   |        [Bunny-8B](https://github.com/BAAI-DCAI/Bunny)        |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 140.00 |
+|  8   | [Bunny-8B](https://huggingface.co/BAAI/Bunny-v1_1-Llama-3-8B-V) |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 140.00 |
 |  9   | [InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer) | [InternLM-7B](https://github.com/InternLM/InternLM-XComposer) | 138.57 |
 |  10  |           [PureMM](https://github.com/Q-MM/PureMM)           |         [Vicuna-13B](https://github.com/Q-MM/PureMM)         | 137.86 |
 |  11  |        [MMICL](https://arxiv.org/pdf/2309.07915.pdf)         |        [FlanT5xxl](https://github.com/HaozheZhao/MIC)        | 136.43 |
@@ -993,7 +993,7 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  23  |        [CogVLM](https://arxiv.org/pdf/2311.03079.pdf)        |         [Vicuna-7B](https://github.com/THUDM/CogVLM)         | 125.71 |
 |  24  |  [DataOptim-LLaVA](https://github.com/BAAI-DCAI/DataOptim)   |     [Vicuna-13B](https://github.com/BAAI-DCAI/DataOptim)     | 123.57 |
 |  25  |  [InternVL-Chat-V1.1](https://arxiv.org/pdf/2312.14238.pdf)  |     [LLaMA2-13B](https://github.com/OpenGVLab/InternVL/)     | 123.57 |
-|  25  |       [Bunny-4B](https://arxiv.org/pdf/2402.11530.pdf)       | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 123.57 |
+|  25  |    [Bunny-4B](https://huggingface.co/BAAI/Bunny-v1_1-4B)     | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 123.57 |
 |  26  |       [Honeybee](https://arxiv.org/pdf/2312.06742.pdf)       |     [Vicuna-13B](https://github.com/kakaobrain/honeybee)     | 122.86 |
 |  27  |    [JT-VL-Chat](https://github.com/jiutiancv/JT-VL-Chat)     |         [-](https://github.com/jiutiancv/JT-VL-Chat)         | 122.14 |
 |  28  |   [MiniCPM](https://github.com/OpenBMB/MiniCPM/#minicpm-v)   | [MiniCPM-2B](https://github.com/OpenBMB/MiniCPM/#minicpm-v)  | 119.29 |
@@ -1026,11 +1026,11 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  🥉   | [GPT-4V](https://cdn.openai.com/papers/GPTV_System_Card.pdf) |   [-](https://cdn.openai.com/papers/GPTV_System_Card.pdf)    | 130.00 |
 |  4   |    [InternVL-Chat-V1.5](https://arxiv.org/pdf/2404.16821)    |    [InternLM2-20B](https://github.com/OpenGVLab/InternVL)    | 125.00 |
 |  5   | [Qwen-VL-Plus](https://help.aliyun.com/zh/dashscope/developer-reference/vl-plus-quick-start) | [-](https://help.aliyun.com/zh/dashscope/developer-reference/vl-plus-quick-start) | 85.00  |
-|  5   |       [Bunny-4B](https://arxiv.org/pdf/2402.11530.pdf)       | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 85.00  |
+|  5   |    [Bunny-4B](https://huggingface.co/BAAI/Bunny-v1_1-4B)     | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 85.00  |
 |  6   |        [MMICL](https://arxiv.org/pdf/2309.07915.pdf)         |        [FlanT5xxl](https://github.com/HaozheZhao/MIC)        | 82.50  |
 |  7   |       [Cheetor](https://arxiv.org/pdf/2308.04152.pdf)        |       [Vicuna-7B](https://github.com/DCDmllm/Cheetah)        | 77.50  |
 |  7   | [Gemini Pro](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf) | [-](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf) | 77.50  |
-|  8   |        [Bunny-8B](https://github.com/BAAI-DCAI/Bunny)        |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 75.00  |
+|  8   | [Bunny-8B](https://huggingface.co/BAAI/Bunny-v1_1-Llama-3-8B-V) |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 75.00  |
 |  9   |        [Otter](https://arxiv.org/pdf/2305.03726.pdf)         |    [OTTER-Image-MPT7B](https://github.com/Luodian/Otter)     | 72.50  |
 |  9   | [LLaVA-1.6](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/) |      [Vicuna-34B](https://github.com/haotian-liu/LLaVA)      | 72.50  |
 |  10  |   [LRV-Instruction](https://arxiv.org/pdf/2306.14565.pdf)    |    [LRV-7B](https://github.com/FuxiaoLiu/LRV-Instruction)    | 70.00  |
@@ -1102,8 +1102,8 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  13  |      [mPLUG-Owl2](https://arxiv.org/pdf/2311.04257.pdf)      | [LLaMA2-7B](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2) | 102.50 |
 |  13  |     [BELLE-VL](https://huggingface.co/BELLE-2/BELLE-VL)      |     [Qwen-14B](https://huggingface.co/BELLE-2/BELLE-VL)      | 102.50 |
 |  13  |  [InternVL-Chat-V1.1](https://arxiv.org/pdf/2312.14238.pdf)  |     [LLaMA2-13B](https://github.com/OpenGVLab/InternVL/)     | 102.50 |
-|  13  |       [Bunny-4B](https://arxiv.org/pdf/2402.11530.pdf)       | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 102.50 |
-|  14  |        [Bunny-8B](https://github.com/BAAI-DCAI/Bunny)        |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 95.00  |
+|  13  |    [Bunny-4B](https://huggingface.co/BAAI/Bunny-v1_1-4B)     | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 102.50 |
+|  14  | [Bunny-8B](https://huggingface.co/BAAI/Bunny-v1_1-Llama-3-8B-V) |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 95.00  |
 |  15  |           [PureMM](https://github.com/Q-MM/PureMM)           |         [Vicuna-13B](https://github.com/Q-MM/PureMM)         | 92.50  |
 |  16  |       [Honeybee](https://arxiv.org/pdf/2312.06742.pdf)       |     [Vicuna-13B](https://github.com/kakaobrain/honeybee)     | 87.50  |
 |  16  |      [HyperLLaVA](https://arxiv.org/pdf/2403.13447.pdf)      |     [Vicuna-13B](https://github.com/dcdmllm/hyperllava)      | 87.50  |
@@ -1177,7 +1177,7 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  16  |      [mPLUG-Owl](https://arxiv.org/pdf/2304.14178.pdf)       | [LLaMA-7B](https://huggingface.co/MAGAer13/mplug-owl-llama-7b) | 57.50  |
 |  16  |     [InstructBLIP](https://arxiv.org/pdf/2305.06500.pdf)     | [FlanT5xxl](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) | 57.50  |
 |  16  |       [VPGTrans](https://arxiv.org/pdf/2305.01278.pdf)       |      [Vicuna-7B](https://github.com/VPGTrans/VPGTrans)       | 57.50  |
-|  16  |        [Bunny-8B](https://github.com/BAAI-DCAI/Bunny)        |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 57.50  |
+|  16  | [Bunny-8B](https://huggingface.co/BAAI/Bunny-v1_1-Llama-3-8B-V) |       [LLaMA3-8B](https://github.com/BAAI-DCAI/Bunny)        | 57.50  |
 |  17  |    [Multimodal-GPT](https://arxiv.org/pdf/2305.04790.pdf)    | [Multimodal-GPT-9B](https://github.com/open-mmlab/Multimodal-GPT) | 55.00  |
 |  17  |     [BELLE-VL](https://huggingface.co/BELLE-2/BELLE-VL)      |     [Qwen-14B](https://huggingface.co/BELLE-2/BELLE-VL)      | 55.00  |
 |  18  |      [ShareGPT4V](https://arxiv.org/pdf/2311.12793.pdf)      | [Vicuna-13B](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) | 52.50  |
@@ -1187,7 +1187,7 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  19  | [SPHINX](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX) | [LLaMA2-13B](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX) | 50.00  |
 |  19  |       [RBDash](https://github.com/RBDash-Team/RBDash)        |     [Vicuna-13B](https://github.com/RBDash-Team/RBDash)      | 50.00  |
 |  19  |       [CogAgent](https://arxiv.org/pdf/2312.08914.pdf)       |         [Vicuna-7B](https://github.com/THUDM/CogVLM)         | 50.00  |
-|  19  |       [Bunny-4B](https://arxiv.org/pdf/2402.11530.pdf)       | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 50.00  |
+|  19  |    [Bunny-4B](https://huggingface.co/BAAI/Bunny-v1_1-4B)     | [Phi-3-Mini-4K-Instruct](https://github.com/BAAI-DCAI/Bunny) | 50.00  |
 |  20  |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     |    [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)     | 47.50  |
 |  20  |       [PandaGPT](https://arxiv.org/pdf/2305.16355.pdf)       |       [Vicuna-7B](https://github.com/yxuansu/PandaGPT)       | 47.50  |
 |  20  |        [LLaVA](https://arxiv.org/pdf/2304.08485.pdf)         |      [Vicuna-13B](https://github.com/haotian-liu/LLaVA)      | 47.50  |
