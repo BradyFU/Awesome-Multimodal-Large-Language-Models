@@ -15,7 +15,7 @@ Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2
 
 🔥🔥🔥 **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**  
 <p align="center">
-    <img src="./images/video-mme.jpg" width="100%" height="100%">
+    <img src="./images/videomme.jpg" width="100%" height="100%">
 </p>
 
 <font size=7><div align='center' > [[🍎 Project Page](https://video-mme.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/2405.21075)] [[📊 Dataset](https://github.com/BradyFU/Video-MME?tab=readme-ov-file#-dataset)][[🏆 Leaderboard](https://video-mme.github.io/home_page.html#leaderboard)]  </div></font>
