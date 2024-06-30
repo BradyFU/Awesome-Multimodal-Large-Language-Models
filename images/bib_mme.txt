@@ -1,0 +1,6 @@
+@article{fu2023mme,
+  title={MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models},
+  author={Fu, Chaoyou and Chen, Peixian and Shen, Yunhang and Qin, Yulei and Zhang, Mengdan and Lin, Xu and Yang, Jinrui and Zheng, Xiawu and Li, Ke and Sun, Xing and others},
+  journal={arXiv preprint arXiv:2306.13394},
+  year={2023}
+}
