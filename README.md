@@ -436,6 +436,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| ![Stars](https://img.shields.io/github/stars/MBZUAI-LLM/web2code?style=social&label=Star) <br> [**Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs**](https://arxiv.org/pdf/2406.20098) <br> | arXiv | 2024-06-28 | [Github](https://github.com/MBZUAI-LLM/web2code) |
 | ![Stars](https://img.shields.io/github/stars/ChartMimic/ChartMimic?style=social&label=Star) <br> [**ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via Chart-to-Code Generation**](https://arxiv.org/pdf/2406.09961) <br> | arXiv | 2024-04-15 | [Github](https://github.com/ChartMimic/ChartMimic) | 
 | ![Stars](https://img.shields.io/github/stars/BradyFU/Video-MME?style=social&label=Star) <br> [**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**](https://arxiv.org/pdf/2405.21075) <br> | arXiv | 2024-05-31 | [Github](https://github.com/BradyFU/Video-MME) | 
 | ![Stars](https://img.shields.io/github/stars/sail-sg/MMCBench?style=social&label=Star) <br> [**Benchmarking Large Multimodal Models against Common Corruptions**](https://arxiv.org/pdf/2401.11943.pdf) <br> | NAACL | 2024-01-22 | [Github](https://github.com/sail-sg/MMCBench) |
