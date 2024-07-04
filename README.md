@@ -137,6 +137,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) <br> [**InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output**](https://arxiv.org/pdf/2407.03320) <br> | arXiv | 2024-07-03 | [Github](https://github.com/InternLM/InternLM-XComposer) | [Demo](https://openxlab.org.cn/apps/detail/WillowBreeze/InternLM-XComposer) |
 | ![Star](https://img.shields.io/github/stars/lxtGH/OMG-Seg.svg?style=social&label=Star) <br> [**OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding**](https://arxiv.org/pdf/2406.19389) <br> | arXiv | 2024-06-27 | [Github](https://github.com/lxtGH/OMG-Seg) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/cambrian-mllm/cambrian.svg?style=social&label=Star) <br> [**Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**](https://arxiv.org/pdf/2406.16860) <br> | arXiv | 2024-06-24 | [Github](https://github.com/cambrian-mllm/cambrian) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LongVA.svg?style=social&label=Star) <br> [**Long Context Transfer from Language to Vision**](https://arxiv.org/pdf/2406.16852) <br> | arXiv | 2024-06-24 | [Github](https://github.com/EvolvingLMMs-Lab/LongVA) | Local Demo |
