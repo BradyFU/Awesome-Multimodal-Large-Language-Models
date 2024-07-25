@@ -137,6 +137,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**VILA^2: VILA Augmented VILA**](https://arxiv.org/pdf/2407.17453) | arXiv | 2024-07-24 | - |
 | [**SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models**](https://arxiv.org/pdf/2407.15841) | arXiv | 2024-07-22 | - | - |
 | [**EVLM: An Efficient Vision-Language Model for Visual Understanding**](https://arxiv.org/pdf/2407.14177) | arXiv | 2024-07-19 | - | - |
 | ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) <br> [**InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output**](https://arxiv.org/pdf/2407.03320) <br> | arXiv | 2024-07-03 | [Github](https://github.com/InternLM/InternLM-XComposer) | [Demo](https://openxlab.org.cn/apps/detail/WillowBreeze/InternLM-XComposer) |
