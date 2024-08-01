@@ -285,6 +285,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Multimodal Hallucination
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs**](https://arxiv.org/pdf/2407.21771) | ECCV | 2024-07-31 | [Coming soon]() | - |
 | ![Star](https://img.shields.io/github/stars/mrwu-mac/R-Bench.svg?style=social&label=Star) <br> [**Evaluating and Analyzing Relationship Hallucinations in LVLMs**](https://arxiv.org/pdf/2406.16449) <br> | ICML | 2024-06-24 | [Github](https://github.com/mrwu-mac/R-Bench) | - |
 | ![Star](https://img.shields.io/github/stars/Lackel/AGLA.svg?style=social&label=Star) <br> [**AGLA: Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention**](https://arxiv.org/pdf/2406.12718) <br> | arXiv | 2024-06-18 | [Github](https://github.com/Lackel/AGLA) | - |
 | [**CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models**](https://arxiv.org/pdf/2406.01920) | arXiv | 2024-06-04 | [Coming soon]() | - |
