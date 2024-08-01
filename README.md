@@ -414,6 +414,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Foundation Models
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**The Llama 3 Herd of Models**](https://arxiv.org/pdf/2407.21783) | arXiv | 2024-07-31 | - | - |
 | [**Chameleon: Mixed-Modal Early-Fusion Foundation Models**](https://arxiv.org/pdf/2405.09818) | arXiv | 2024-05-16 | - | - |
 | [**Hello GPT-4o**](https://openai.com/index/hello-gpt-4o/) | OpenAI | 2024-05-13 | - | - | 
 | [**The Claude 3 Model Family: Opus, Sonnet, Haiku**](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf) | Anthropic | 2024-03-04 | - | - |
