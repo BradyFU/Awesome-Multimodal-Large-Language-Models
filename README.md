@@ -16,7 +16,7 @@ Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2
 
 🔥🔥🔥 **VITA: Towards Open-Source Interactive Omni Multimodal LLM**  
 <p align="center">
-    <img src="./images/vita.png" width="100%" height="100%">
+    <img src="./images/vita.png" width="80%" height="80%">
 </p>
 
 <font size=7><div align='center' > [[🍎 Project Page](https://vita-home.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/2408.05211)] [[🌼 GitHub](https://github.com/VITA-MLLM/VITA)]  </div></font>
