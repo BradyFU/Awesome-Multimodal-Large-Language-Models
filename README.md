@@ -27,7 +27,7 @@ Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2
 
 <b>Non-awakening Interaction</b>. VITA can be activated and respond to user audio questions in the environment without the need for a wake-up word or button. ✨ 
 
-<b>Audio interrupt Interaction</b>. VITA is able to simultaneously track and filter external queries in real-time. This allows users to interrupt the model's generation at any time with new questions, and VITA will respond to the new query accordingly. ✨ 
+<b>Audio Interrupt Interaction</b>. VITA is able to simultaneously track and filter external queries in real-time. This allows users to interrupt the model's generation at any time with new questions, and VITA will respond to the new query accordingly. ✨ 
 
 ---
 
