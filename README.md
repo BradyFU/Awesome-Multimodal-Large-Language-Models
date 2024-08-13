@@ -597,6 +597,7 @@ How to use: (only for non-commercial use)
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **CharXiv** | [CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs](https://arxiv.org/pdf/2406.18521) | [Link](https://huggingface.co/datasets/princeton-nlp/CharXiv) | Chart understanding benchmark curated by human experts |
 | **Video-MME** | [Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis](https://arxiv.org/pdf/2405.21075) | [Link](https://github.com/BradyFU/Video-MME) | A comprehensive evaluation benchmark of Multi-modal LLMs in video analysis |
 | **VL-ICL Bench** | [VL-ICL Bench: The Devil in the Details of Benchmarking Multimodal In-Context Learning](https://arxiv.org/pdf/2403.13164.pdf) | [Link](https://github.com/ys-zong/VL-ICL) | A benchmark for M-ICL evaluation, covering a wide spectrum of tasks |
 | **TempCompass** | [TempCompass: Do Video LLMs Really Understand Videos?](https://arxiv.org/pdf/2403.00476.pdf) | [Link](https://github.com/llyx97/TempCompass) | A benchmark to evaluate the temporal perception ability of Video LLMs |
