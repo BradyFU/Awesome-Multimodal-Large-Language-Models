@@ -21,7 +21,7 @@ Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2
 
 <font size=7><div align='center' > [[🍎 Project Page](https://vita-home.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/2408.05211)] [[🌼 GitHub](https://github.com/VITA-MLLM/VITA)] [[🤗 Hugging Face](https://huggingface.co/VITA-MLLM)] [[💬 WeChat (微信)](https://github.com/VITA-MLLM/VITA/blob/main/asset/wechat.jpg)]  </div></font>
 
-[2024.09.06] The training code, deployment code, and model weights **have been released**. Long wait! 🌟 
+[2024.09.06] The training code, deployment code, and model weights <font color="red"> <strong> have been released </strong> </font>. Long wait! 🌟 
 
 We are announcing VITA, the first-ever open-source Multimodal LLM that can process Video, Image, Text, and Audio, and meanwhile has an advanced multimodal interactive experience. 🌟  
 
