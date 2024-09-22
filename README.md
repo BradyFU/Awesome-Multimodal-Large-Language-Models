@@ -19,7 +19,7 @@ Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2
     <img src="./images/vita.png" width="80%" height="80%">
 </p>
 
-<font size=7><div align='center' > [[🍎 Project Page](https://vita-home.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/2408.05211)] [[🌟 GitHub](https://github.com/VITA-MLLM/VITA)] [[🤗 Hugging Face](https://huggingface.co/VITA-MLLM)] [[💬 WeChat (微信)](https://github.com/VITA-MLLM/VITA/blob/main/asset/wechat_2.jpg)]  </div></font>
+<font size=7><div align='center' > [[🍎 Project Page](https://vita-home.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/2408.05211)] [[🌟 GitHub](https://github.com/VITA-MLLM/VITA)] [[🤗 Hugging Face](https://huggingface.co/VITA-MLLM)] [[💬 WeChat (微信)](https://github.com/VITA-MLLM/VITA/blob/main/asset/wechat_3.jpg)]  </div></font>
 
 🔥🔥🔥 [2024.09.06] The training code, deployment code, and model weights **have been released**. Long wait! 
 
