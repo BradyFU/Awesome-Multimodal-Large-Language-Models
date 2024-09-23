@@ -293,6 +293,7 @@ How to use: (only for non-commercial use)
 ## Multimodal Hallucination
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**FIHA: Autonomous Hallucination Evaluation in Vision-Language Models with Davidson Scene Graphs**](https://arxiv.org/pdf/2409.13612) | arXiv | 2024-09-20 | [Link](https://anonymous.4open.science/r/FIHA-45BB) | - | 
 | [**Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation**](https://arxiv.org/pdf/2408.00555) | arXiv | 2024-08-01 | - | - |
 | ![Star](https://img.shields.io/github/stars/LALBJ/PAI.svg?style=social&label=Star) <br> [**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs**](https://arxiv.org/pdf/2407.21771) <br> | ECCV | 2024-07-31 | [Github](https://github.com/LALBJ/PAI) | - |
 | ![Star](https://img.shields.io/github/stars/mrwu-mac/R-Bench.svg?style=social&label=Star) <br> [**Evaluating and Analyzing Relationship Hallucinations in LVLMs**](https://arxiv.org/pdf/2406.16449) <br> | ICML | 2024-06-24 | [Github](https://github.com/mrwu-mac/R-Bench) | - |
