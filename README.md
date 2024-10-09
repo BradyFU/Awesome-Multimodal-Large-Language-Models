@@ -458,6 +458,7 @@ How to use: (only for non-commercial use)
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| ![Stars](https://img.shields.io/github/stars/multimodal-art-projection/OmniBench?style=social&label=Star) <br> [**OmniBench: Towards The Future of Universal Omni-Language Models**](https://arxiv.org/pdf/2409.15272) <br> | arXiv | 2024-09-23 | [Github](https://github.com/multimodal-art-projection/OmniBench) | 
 | ![Stars](https://img.shields.io/github/stars/yfzhang114/MME-RealWorld?style=social&label=Star) <br> [**MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?**](https://arxiv.org/pdf/2408.13257) <br> | arXiv | 2024-08-23 | [Github](https://github.com/yfzhang114/MME-RealWorld) | 
 | ![Stars](https://img.shields.io/github/stars/guoyang9/UNK-VQA?style=social&label=Star) <br> [**UNK-VQA: A Dataset and a Probe into the Abstention Ability of Multi-modal Large Models**](https://arxiv.org/pdf/2310.10942) <br> | TPAMI | 2023-10-17 | [Github](https://github.com/guoyang9/UNK-VQA) |
 | ![Stars](https://img.shields.io/github/stars/chenllliang/MMEvalPro?style=social&label=Star) <br> [**MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation**](https://arxiv.org/pdf/2407.00468) <br> | arXiv | 2024-06-29 | [Github](https://github.com/chenllliang/MMEvalPro) |
@@ -612,6 +613,7 @@ How to use: (only for non-commercial use)
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **OmniBench** | [OmniBench: Towards The Future of Universal Omni-Language Models](https://arxiv.org/pdf/2409.15272) | [Link](https://huggingface.co/datasets/m-a-p/OmniBench) | A benchmark that evaluates models' capabilities of processing visual, acoustic, and textual inputs simultaneously |
 | **MME-RealWorld** | [MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?](https://arxiv.org/pdf/2408.13257) | [Link](https://huggingface.co/datasets/yifanzhang114/MME-RealWorld) | A challenging benchmark that involves real-life scenarios |
 | **CharXiv** | [CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs](https://arxiv.org/pdf/2406.18521) | [Link](https://huggingface.co/datasets/princeton-nlp/CharXiv) | Chart understanding benchmark curated by human experts |
 | **Video-MME** | [Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis](https://arxiv.org/pdf/2405.21075) | [Link](https://github.com/BradyFU/Video-MME) | A comprehensive evaluation benchmark of Multi-modal LLMs in video analysis |
