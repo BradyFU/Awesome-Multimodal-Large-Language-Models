@@ -615,6 +615,8 @@ How to use: (only for non-commercial use)
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **LiveXiv** | [LiveXiv -- A Multi-Modal Live Benchmark Based on Arxiv Papers Content](https://arxiv.org/pdf/2410.10783) | A live benchmark based on arXiv papers |
+| **TemporalBench** | [TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models](https://arxiv.org/pdf/2410.10818) | A benchmark for evaluation of fine-grained temporal understanding |
 | **OmniBench** | [OmniBench: Towards The Future of Universal Omni-Language Models](https://arxiv.org/pdf/2409.15272) | [Link](https://huggingface.co/datasets/m-a-p/OmniBench) | A benchmark that evaluates models' capabilities of processing visual, acoustic, and textual inputs simultaneously |
 | **MME-RealWorld** | [MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?](https://arxiv.org/pdf/2408.13257) | [Link](https://huggingface.co/datasets/yifanzhang114/MME-RealWorld) | A challenging benchmark that involves real-life scenarios |
 | **CharXiv** | [CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs](https://arxiv.org/pdf/2406.18521) | [Link](https://huggingface.co/datasets/princeton-nlp/CharXiv) | Chart understanding benchmark curated by human experts |
