@@ -76,7 +76,7 @@ How to use: (only for non-commercial use)
 ---
 
 🔥🔥🔥 **Woodpecker: Hallucination Correction for Multimodal Large Language Models**  
-**[Paper](https://arxiv.org/pdf/2310.16045)** | **[Code](https://github.com/BradyFU/Woodpecker)**
+**[Paper](https://arxiv.org/pdf/2310.16045)** | **[Source Code](https://github.com/BradyFU/Woodpecker)**
 
 This is the first work to correct hallucination in multimodal large language models. :sparkles: </div>  
 
@@ -109,6 +109,13 @@ This is the first work to correct hallucination in multimodal large language mod
   title={A survey on multimodal large language models},
   author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Li, Ke and Sun, Xing and Xu, Tong and Chen, Enhong},
   journal={arXiv preprint arXiv:2306.13549},
+  year={2023}
+}
+
+@article{yin2023woodpecker,
+  title={Woodpecker: Hallucination correction for multimodal large language models},
+  author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Xu, Tong and Wang, Hao and Sui, Dianbo and Shen, Yunhang and Li, Ke and Sun, Xing and Chen, Enhong},
+  journal={arXiv preprint arXiv:2310.16045},
   year={2023}
 }
 
