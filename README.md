@@ -73,6 +73,12 @@ How to use: (only for non-commercial use)
 
 </details>
 
+---
+
+🔥🔥🔥 **Woodpecker: Hallucination Correction for Multimodal Large Language Models**  
+**[Paper](https://arxiv.org/pdf/2310.16045)** | **[Code](https://github.com/BradyFU/Woodpecker)**
+
+This is the first work to correct hallucination in multimodal large language models. :sparkles: </div>  
 
 ---
 
