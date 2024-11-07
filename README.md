@@ -37,7 +37,7 @@ Freeze-Omni exhibits the characteristic of being **smart** as it is constructed 
 ---
 
 🔥🔥🔥 **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**  
-**[Project Page](https://video-mme.github.io/)** | **[Paper](https://arxiv.org/pdf/2405.21075)** | **[Dataset](https://github.com/BradyFU/Video-MME?tab=readme-ov-file#-dataset)** | **[Leaderboard](https://video-mme.github.io/home_page.html#leaderboard)**
+**[Project Page](https://video-mme.github.io/)** | **[Paper](https://arxiv.org/pdf/2405.21075)** | **[GitHub](https://github.com/BradyFU/Video-MME)** | **[Dataset](https://github.com/BradyFU/Video-MME?tab=readme-ov-file#-dataset)** | **[Leaderboard](https://video-mme.github.io/home_page.html#leaderboard)**
 
 We are very proud to launch Video-MME, the first-ever comprehensive evaluation benchmark of MLLMs in Video Analysis! 🌟  
 
@@ -69,52 +69,12 @@ How to use: (only for non-commercial use)
 ---
 
 🔥🔥🔥 **Woodpecker: Hallucination Correction for Multimodal Large Language Models**  
-**[Paper](https://arxiv.org/pdf/2310.16045)** | **[Source Code](https://github.com/BradyFU/Woodpecker)**
+**[Paper](https://arxiv.org/pdf/2310.16045)** | **[GitHub](https://github.com/BradyFU/Woodpecker)**
 
 This is the first work to correct hallucination in multimodal large language models. :sparkles: </div>  
 
----
 
-<br> **📑 If you find our projects helpful to your research, please consider citing:** <br>
-```
-@article{fu2023mme,
-  title={MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models},
-  author={Fu, Chaoyou and Chen, Peixian and Shen, Yunhang and Qin, Yulei and Zhang, Mengdan and Lin, Xu and Yang, Jinrui and Zheng, Xiawu and Li, Ke and Sun, Xing and others},
-  journal={arXiv preprint arXiv:2306.13394},
-  year={2023}
-}
 
-@article{fu2024vita,
-  title={VITA: Towards Open-Source Interactive Omni Multimodal LLM},
-  author={Fu, Chaoyou and Lin, Haojia and Long, Zuwei and Shen, Yunhang and Zhao, Meng and Zhang, Yifan and Wang, Xiong and Yin, Di and Ma, Long and Zheng, Xiawu and He, Ran and Ji, Rongrong and Wu, Yunsheng and Shan, Caifeng and Sun, Xing},
-  journal={arXiv preprint arXiv:2408.05211},
-  year={2024}
-}
-
-@article{fu2024video,
-  title={Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis},
-  author={Fu, Chaoyou and Dai, Yuhan and Luo, Yondong and Li, Lei and Ren, Shuhuai and Zhang, Renrui and Wang, Zihan and Zhou, Chenyu and Shen, Yunhang and Zhang, Mengdan and others},
-  journal={arXiv preprint arXiv:2405.21075},
-  year={2024}
-}
-
-@article{yin2023survey,
-  title={A survey on multimodal large language models},
-  author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Li, Ke and Sun, Xing and Xu, Tong and Chen, Enhong},
-  journal={arXiv preprint arXiv:2306.13549},
-  year={2023}
-}
-
-@article{yin2023woodpecker,
-  title={Woodpecker: Hallucination correction for multimodal large language models},
-  author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Xu, Tong and Wang, Hao and Sui, Dianbo and Shen, Yunhang and Li, Ke and Sun, Xing and Chen, Enhong},
-  journal={arXiv preprint arXiv:2310.16045},
-  year={2023}
-}
-
-```
-
- 
 
 ---
 
