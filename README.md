@@ -51,9 +51,7 @@ We are announcing VITA, the first-ever open-source Multimodal LLM that can proce
 
 We are very proud to launch Video-MME, the first-ever comprehensive evaluation benchmark of MLLMs in Video Analysis! 🌟  
 
-It includes both <b>short- (< 2min)</b>, <b>medium- (4min\~15min)</b>, and <b>long-term (30min\~60min)</b> videos, ranging from <b>11 seconds to 1 hour</b>. ✨ 
-
-<b>All data are newly collected and annotated by humans, not from any existing video dataset</b>. ✨ 
+It includes both <b>short- (< 2min)</b>, <b>medium- (4min\~15min)</b>, and <b>long-term (30min\~60min)</b> videos, ranging from <b>11 seconds to 1 hour</b>. All data are newly collected and annotated by humans, not from any existing video dataset. ✨ 
 
 ---
 
