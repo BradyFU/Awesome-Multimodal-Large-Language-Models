@@ -13,6 +13,18 @@ Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2
 
 ---
 
+🔥🔥🔥 **Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM**  
+<p align="center">
+    <img src="./images/freeze-omni.png" width="80%" height="80%">
+</p>
+
+<font size=7><div align='center' > [[🍎 Project Page](https://freeze-omni.github.io/)] [[📖 arXiv Paper](https://arxiv.org/abs/2411.00774)] [[🌟 GitHub](https://github.com/VITA-MLLM/Freeze-Omni)] </div></font>
+
+The VITA team proposes Freeze-Omni, a speech-to-speech dialogue model with both low-latency and high intelligence while the training process is based on a frozen LLM. 
+Freeze-Omni exhibits the characteristic of being "**smart**" as it is constructed upon a "**frozen**" text-modality LLM. This enables it to keep the original intelligence of the LLM backbone, without being affected by the forgetting problem induced by the fine-tuning process for integration of the speech modality. ✨ 
+
+
+---
 
 🔥🔥🔥 **VITA: Towards Open-Source Interactive Omni Multimodal LLM**  
 <p align="center">
