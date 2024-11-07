@@ -29,20 +29,10 @@ Freeze-Omni exhibits the characteristic of being **smart** as it is constructed 
 
 🔥🔥🔥 **VITA: Towards Open-Source Interactive Omni Multimodal LLM**  
 <p align="center">
-    <img src="./images/vita.png" width="80%" height="80%">
+    <img src="./images/vita.png" width="70%" height="70%">
 </p>
 
 <font size=7><div align='center' > [[🍎 Project Page](https://vita-home.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/2408.05211)] [[🌟 GitHub](https://github.com/VITA-MLLM/VITA)] [[🤗 Hugging Face](https://huggingface.co/VITA-MLLM)] [[💬 WeChat (微信)](https://github.com/VITA-MLLM/VITA/blob/main/asset/wechat_5.jpg)]  </div></font>
-
-🔥🔥🔥 [2024.09.06] The training code, deployment code, and model weights **have been released**. Long wait! 
-
-We are announcing VITA, the first-ever open-source Multimodal LLM that can process Video, Image, Text, and Audio, and meanwhile has an advanced multimodal interactive experience.
-
-<b>Omni Multimodal Understanding</b>. VITA demonstrates robust foundational capabilities of multilingual, vision, and audio understanding, as evidenced by its strong performance across a range of both unimodal and multimodal benchmarks. ✨ 
-
-<b>Non-awakening Interaction</b>. VITA can be activated and respond to user audio questions in the environment without the need for a wake-up word or button. ✨ 
-
-<b>Audio Interrupt Interaction</b>. VITA is able to simultaneously track and filter external queries in real-time. This allows users to interrupt the model's generation at any time with new questions, and VITA will respond to the new query accordingly. ✨ 
 
 ---
 
@@ -51,7 +41,7 @@ We are announcing VITA, the first-ever open-source Multimodal LLM that can proce
 
 We are very proud to launch Video-MME, the first-ever comprehensive evaluation benchmark of MLLMs in Video Analysis! 🌟  
 
-It includes both <b>short- (< 2min)</b>, <b>medium- (4min\~15min)</b>, and <b>long-term (30min\~60min)</b> videos, ranging from <b>11 seconds to 1 hour</b>. All data are newly collected and annotated by humans, not from any existing video dataset. ✨ 
+It includes short- (< 2min), medium- (4min\~15min), and long-term (30min\~60min) videos, ranging from <b>11 seconds to 1 hour</b>. All data are newly collected and annotated by humans, not from any existing video dataset. ✨ 
 
 ---
 
