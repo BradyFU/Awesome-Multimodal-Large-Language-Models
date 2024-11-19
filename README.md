@@ -46,7 +46,7 @@ It includes short- (< 2min), medium- (4min\~15min), and long-term (30min\~60min)
 ---
 
 🔥🔥🔥 **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
-**[Paper](https://arxiv.org/pdf/2306.13394.pdf)** | **[Download](https://huggingface.co/datasets/darkyarding/MME/tree/main)** | :black_nib: **[Citation](./images/bib_mme.txt)**
+**[Paper](https://arxiv.org/pdf/2306.13394.pdf)** | **[Download](https://huggingface.co/datasets/darkyarding/MME/blob/main/MME_Benchmark_release_version.zip)** | :black_nib: **[Citation](./images/bib_mme.txt)**
 
 A representative evaluation benchmark for MLLMs. :sparkles:
 
