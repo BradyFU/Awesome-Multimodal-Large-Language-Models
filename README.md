@@ -328,6 +328,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Chain-of-Thought
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/dongyh20/Insight-V.svg?style=social&label=Star) <br> [**Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models**](https://arxiv.org/pdf/2411.14432) <br> | arXiv | 2024-11-21 | [Github](https://github.com/dongyh20/Insight-V) | - |
 | ![Star](https://img.shields.io/github/stars/ggg0919/cantor.svg?style=social&label=Star) <br> [**Cantor: Inspiring Multimodal Chain-of-Thought of MLLM**](https://arxiv.org/pdf/2404.16033.pdf) <br> | arXiv | 2024-04-24 | [Github](https://github.com/ggg0919/cantor) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/deepcs233/Visual-CoT.svg?style=social&label=Star) <br> [**Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models**](https://arxiv.org/pdf/2403.16999.pdf) <br> | arXiv | 2024-03-25 | [Github](https://github.com/deepcs233/Visual-CoT) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/SooLab/DDCOT.svg?style=social&label=Star) <br> [**DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models**](https://arxiv.org/pdf/2310.16436.pdf) <br> | NeurIPS | 2023-10-25 | [Github](https://github.com/SooLab/DDCOT) | - |
