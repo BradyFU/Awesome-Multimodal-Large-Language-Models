@@ -8,7 +8,6 @@
 
 
 ## Our MME Series Works
----
 
 🔥🔥🔥 **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
 **[Paper](https://arxiv.org/pdf/2306.13394.pdf)** | **[Download](https://huggingface.co/datasets/darkyarding/MME/blob/main/MME_Benchmark_release_version.zip)** | **[Eval Tool](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/blob/Evaluation/tools/eval_tool.zip)** | :black_nib: **[Citation](./images/bib_mme.txt)**
@@ -57,8 +56,6 @@ It includes both <b>short- (< 2min)</b>, <b>medium- (4min\~15min)</b>, and <b>lo
 **[Paper](https://arxiv.org/pdf/2312.12436.pdf)**
 
 The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages</b>. Completed within one week of the Gemini API opening. :star2:
-
----
 
 
 ---
