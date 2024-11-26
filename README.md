@@ -20,7 +20,7 @@ Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2
 
 <font size=7><div align='center' > [[🍎 Project Page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Benchmarks)] [[📖 arXiv Paper](https://arxiv.org/pdf/2411.15296)] </div></font>
 
-Jointly introduced by **MME team**, **MMBench team**, and **LLaVA team**. 🌟 
+Jointly introduced by **MME**, **MMBench**, and **LLaVA** teams. 🌟 
 
 ---
 
