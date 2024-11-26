@@ -7,15 +7,23 @@
 
 
 
-## Our MLLM works
+## Our MME Series Works
+---
 
-🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
-**[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2306.13549.pdf)**
+🔥🔥🔥 **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
+**[Paper](https://arxiv.org/pdf/2306.13394.pdf)** | **[Download](https://huggingface.co/datasets/darkyarding/MME/blob/main/MME_Benchmark_release_version.zip)** | **[Eval Tool](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/blob/Evaluation/tools/eval_tool.zip)** | :black_nib: **[Citation](./images/bib_mme.txt)**
 
-The first survey for Multimodal Large Language Models (MLLMs). :sparkles: </div>  
+A representative evaluation benchmark for MLLMs. :sparkles:
 
-Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2: </div>
+---
+🔥🔥🔥 **MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**  
+<p align="center">
+    <img src="https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/blob/main/images/mme-survey.jpg" width="90%" height="90%">
+</p>
 
+<font size=7><div align='center' > [[🍎 Project Page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Benchmarks)] [[📖 arXiv Paper](https://arxiv.org/pdf/2411.15296)] </div></font>
+
+<font size=7><div align='center' > Jointly introduced by **MME**, **MMBench**, and **LLaVA** teams. ✨ </div></font>
 
 ---
 
@@ -36,17 +44,12 @@ It includes both <b>short- (< 2min)</b>, <b>medium- (4min\~15min)</b>, and <b>lo
 
 ---
 
-🔥🔥🔥 **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
-**[Paper](https://arxiv.org/pdf/2306.13394.pdf)** | **[Download](https://huggingface.co/datasets/darkyarding/MME/blob/main/MME_Benchmark_release_version.zip)** | **[Eval Tool](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/blob/Evaluation/tools/eval_tool.zip)** | :black_nib: **[Citation](./images/bib_mme.txt)**
+🔥🔥🔥 **MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?**  
+<p align="center">
+    <img src="./images/name_logo.jpg" width="100%" height="100%">
+</p>
 
-A representative evaluation benchmark for MLLMs. :sparkles:
-
----
-
-🔥🔥🔥 **Woodpecker: Hallucination Correction for Multimodal Large Language Models**  
-**[Paper](https://arxiv.org/pdf/2310.16045.pdf)** | **[Source Code![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)**
-
-The first work to correct hallucinations in MLLMs. :sparkles:
+<font size=7><div align='center' > [[🍎 Project Page](https://mme-realworld.github.io/)] [[📖 arXiv Paper](https://arxiv.org/abs/2408.13257)] [[🤗 Dataset](https://huggingface.co/datasets/yifanzhang114/MME-RealWorld)] [[🤗 Dataset-mini](https://huggingface.co/datasets/yifanzhang114/MME-RealWorld-Lite)][[🏆 Leaderboard](https://MME-RealWorld.github.io/home_page.html#leaderboard)]  </div></font>
 
 ---
 
@@ -56,44 +59,6 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages</b>. Completed within one week of the Gemini API opening. :star2:
 
 ---
-
-<br> **📑 If you find our projects helpful to your research, please consider citing:** <br>
-```
-@article{fu2023mme,
-  title={MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models},
-  author={Fu, Chaoyou and Chen, Peixian and Shen, Yunhang and Qin, Yulei and Zhang, Mengdan and Lin, Xu and Yang, Jinrui and Zheng, Xiawu and Li, Ke and Sun, Xing and others},
-  journal={arXiv preprint arXiv:2306.13394},
-  year={2023}
-}
-
-@article{fu2024video,
-  title={Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis},
-  author={Fu, Chaoyou and Dai, Yuhan and Luo, Yondong and Li, Lei and Ren, Shuhuai and Zhang, Renrui and Wang, Zihan and Zhou, Chenyu and Shen, Yunhang and Zhang, Mengdan and others},
-  journal={arXiv preprint arXiv:2405.21075},
-  year={2024}
-}
-
-@article{yin2023survey,
-  title={A survey on multimodal large language models},
-  author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Li, Ke and Sun, Xing and Xu, Tong and Chen, Enhong},
-  journal={arXiv preprint arXiv:2306.13549},
-  year={2023}
-}
-
-@article{yin2023woodpecker,
-  title={Woodpecker: Hallucination correction for multimodal large language models},
-  author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Xu, Tong and Wang, Hao and Sui, Dianbo and Shen, Yunhang and Li, Ke and Sun, Xing and Chen, Enhong},
-  journal={arXiv preprint arXiv:2310.16045},
-  year={2023}
-}
-
-@article{fu2023challenger,
-  title={A challenger to gpt-4v? early explorations of gemini in visual expertise},
-  author={Fu, Chaoyou and Zhang, Renrui and Lin, Haojia and Wang, Zihan and Gao, Timin and Luo, Yongdong and Huang, Yubo and Zhang, Zhengye and Qiu, Longtian and Ye, Gaoxiang and others},
-  journal={arXiv preprint arXiv:2312.12436},
-  year={2023}
-}
-```
 
 
 ---
