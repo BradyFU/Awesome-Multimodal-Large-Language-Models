@@ -17,7 +17,7 @@ A representative evaluation benchmark for MLLMs. :sparkles:
 ---
 🔥🔥🔥 **MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**  
 <p align="center">
-    <img src="https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/blob/main/images/mme-survey.jpg" width="90%" height="90%">
+    <img src="https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/blob/main/images/mme-survey.jpg" width="100%" height="100%">
 </p>
 
 <font size=7><div align='center' > [[🍎 Project Page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Benchmarks)] [[📖 arXiv Paper](https://arxiv.org/pdf/2411.15296)] </div></font>
@@ -28,7 +28,7 @@ A representative evaluation benchmark for MLLMs. :sparkles:
 
 🔥🔥🔥 **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**  
 <p align="center">
-    <img src="./images/videomme.jpg" width="100%" height="100%">
+    <img src="./images/videomme.jpg" width="90%" height="90%">
 </p>
 
 <font size=7><div align='center' > [[🍎 Project Page](https://video-mme.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/2405.21075)] [[📊 Dataset](https://github.com/BradyFU/Video-MME?tab=readme-ov-file#-dataset)][[🏆 Leaderboard](https://video-mme.github.io/home_page.html#leaderboard)]  </div></font>
