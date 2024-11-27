@@ -108,6 +108,7 @@
 ### Multilingual
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/ALM-Bench) <br> [**All Languages Matter: Evaluating LMMs on Culturally Diverse 100 Languages**](https://arxiv.org/abs/2411.16508) <br> | arXiv | 2024-11-25 | [Github](https://github.com/mbzuai-oryx/ALM-Bench) | [Page](https://mbzuai-oryx.github.io/ALM-Bench/) |  
 | ![GitHub Repo stars](https://img.shields.io/github/stars/flageval-baai/CMMU) <br> [**CMMU: A Benchmark for Chinese Multi-Modal Multi-Type Question Understanding and Reasoning**](https://arxiv.org/abs/2401.14011) <br> | arXiv | 2024-01-25 | [Github](https://github.com/flageval-baai/CMMU) | [Page](https://huggingface.co/datasets/BAAI/CMMU) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/CMMMU-Benchmark/CMMMU) <br> [**CMMMU: A Chinese Massive Multi-Discipline Multimodal Understanding Benchmark**](https://arxiv.org/abs/2401.11944) <br> | arXiv | 2024-01-22 | [Github](https://github.com/CMMMU-Benchmark/CMMMU) | [Page](https://cmmmu-benchmark.github.io/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/WangYuxuan93/CVLUE) <br> [**CVLUE: A New Benchmark Dataset for Chinese Vision-Language Understanding Evaluation**](https://arxiv.org/abs/2407.01081) <br> | arXiv | 2024-07-01 | [Github](https://github.com/WangYuxuan93/CVLUE) |- |
