@@ -589,6 +589,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **GVLQA** | [GITA: Graph to Visual and Textual Integration for Vision-Language Graph Reasoning](https://arxiv.org/pdf/2402.02130) | [Link](https://huggingface.co/collections/Yanbin99/gvlqa-datasets-65c705c9488606617e246bd3) | A benchmark for evaluation of graph reasoning capabilities |
 | **LiveXiv** | [LiveXiv -- A Multi-Modal Live Benchmark Based on Arxiv Papers Content](https://arxiv.org/pdf/2410.10783) | [Link](https://huggingface.co/datasets/LiveXiv/LiveXiv) | A live benchmark based on arXiv papers |
 | **TemporalBench** | [TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models](https://arxiv.org/pdf/2410.10818) | [Link](https://huggingface.co/datasets/microsoft/TemporalBench) | A benchmark for evaluation of fine-grained temporal understanding |
 | **OmniBench** | [OmniBench: Towards The Future of Universal Omni-Language Models](https://arxiv.org/pdf/2409.15272) | [Link](https://huggingface.co/datasets/m-a-p/OmniBench) | A benchmark that evaluates models' capabilities of processing visual, acoustic, and textual inputs simultaneously |
