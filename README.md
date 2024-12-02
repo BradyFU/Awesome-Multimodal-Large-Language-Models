@@ -99,6 +99,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/xjtupanda/T2Vid.svg?style=social&label=Star) <br> [**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**](https://arxiv.org/pdf/2411.19951) <br> | arXiv | 2024-11-29 | [Github](https://github.com/xjtupanda/T2Vid) | - |
 | ![Star](https://img.shields.io/github/stars/TimeMarker-LLM/TimeMarker.svg?style=social&label=Star) <br> [**TimeMarker: A Versatile Video-LLM for Long and Short Video Understanding with Superior Temporal Localization Ability**](https://arxiv.org/pdf/2411.18211) <br> | arXiv | 2024-11-27 | [Github](https://github.com/TimeMarker-LLM/TimeMarker/) | - |
 | ![Star](https://img.shields.io/github/stars/IDEA-Research/ChatRex.svg?style=social&label=Star) <br> [**ChatRex: Taming Multimodal LLM for Joint Perception and Understanding**](https://arxiv.org/pdf/2411.18363) <br> | arXiv | 2024-11-27 | [Github](https://github.com/IDEA-Research/ChatRex) | Local Demo | 
 | ![Star](https://img.shields.io/github/stars/Vision-CAIR/LongVU.svg?style=social&label=Star) <br> [**LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding**](https://arxiv.org/pdf/2410.17434) <br> | arXiv | 2024-10-22 | [Github](https://github.com/Vision-CAIR/LongVU) | [Demo](https://huggingface.co/spaces/Vision-CAIR/LongVU) |
