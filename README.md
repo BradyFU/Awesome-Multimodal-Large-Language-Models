@@ -433,6 +433,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| ![Stars](https://img.shields.io/github/stars/lerogo/MMGenBench?style=social&label=Star) <br> [**MMGenBench: Evaluating the Limits of LMMs from the Text-to-Image Generation Perspective**](https://arxiv.org/pdf/2411.14062) <br> | arXiv | 2024-11-21 | [Github](https://github.com/lerogo/MMGenBench) | 
 | ![Stars](https://img.shields.io/github/stars/multimodal-art-projection/OmniBench?style=social&label=Star) <br> [**OmniBench: Towards The Future of Universal Omni-Language Models**](https://arxiv.org/pdf/2409.15272) <br> | arXiv | 2024-09-23 | [Github](https://github.com/multimodal-art-projection/OmniBench) | 
 | ![Stars](https://img.shields.io/github/stars/yfzhang114/MME-RealWorld?style=social&label=Star) <br> [**MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?**](https://arxiv.org/pdf/2408.13257) <br> | arXiv | 2024-08-23 | [Github](https://github.com/yfzhang114/MME-RealWorld) | 
 | ![Stars](https://img.shields.io/github/stars/guoyang9/UNK-VQA?style=social&label=Star) <br> [**UNK-VQA: A Dataset and a Probe into the Abstention Ability of Multi-modal Large Models**](https://arxiv.org/pdf/2310.10942) <br> | TPAMI | 2023-10-17 | [Github](https://github.com/guoyang9/UNK-VQA) |
@@ -590,6 +591,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **MMGenBench** | [MMGenBench: Evaluating the Limits of LMMs from the Text-to-Image Generation Perspective](https://arxiv.org/pdf/2411.14062) | [Link](https://github.com/lerogo/MMGenBench) | A benchmark that gauges the performance of constructing image-generation prompt given an image |
 | **MiCEval** | [MiCEval: Unveiling Multimodal Chain of Thought's Quality via Image Description and Reasoning Steps](https://arxiv.org/pdf/2410.14668) | [Link](https://github.com/alenai97/MiCEval) | A multimodal CoT benchmark to evaluate MLLMs' reasoning capabilities |
 | **LiveXiv** | [LiveXiv -- A Multi-Modal Live Benchmark Based on Arxiv Papers Content](https://arxiv.org/pdf/2410.10783) | [Link](https://huggingface.co/datasets/LiveXiv/LiveXiv) | A live benchmark based on arXiv papers |
 | **TemporalBench** | [TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models](https://arxiv.org/pdf/2410.10818) | [Link](https://huggingface.co/datasets/microsoft/TemporalBench) | A benchmark for evaluation of fine-grained temporal understanding |
