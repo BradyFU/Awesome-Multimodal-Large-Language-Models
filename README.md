@@ -591,6 +591,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **M<sup>3</sup>CoT** | [M<sup>3</sup>CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought](https://arxiv.org/pdf/2405.16473) | [Link](https://github.com/LightChen233/M3CoT) | A multi-domain, multi-step benchmark for multimodal CoT |
 | **MMGenBench** | [MMGenBench: Evaluating the Limits of LMMs from the Text-to-Image Generation Perspective](https://arxiv.org/pdf/2411.14062) | [Link](https://github.com/lerogo/MMGenBench) | A benchmark that gauges the performance of constructing image-generation prompt given an image |
 | **MiCEval** | [MiCEval: Unveiling Multimodal Chain of Thought's Quality via Image Description and Reasoning Steps](https://arxiv.org/pdf/2410.14668) | [Link](https://github.com/alenai97/MiCEval) | A multimodal CoT benchmark to evaluate MLLMs' reasoning capabilities |
 | **LiveXiv** | [LiveXiv -- A Multi-Modal Live Benchmark Based on Arxiv Papers Content](https://arxiv.org/pdf/2410.10783) | [Link](https://huggingface.co/datasets/LiveXiv/LiveXiv) | A live benchmark based on arXiv papers |
