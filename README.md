@@ -166,6 +166,7 @@
 ### Fine-Grained Perception
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![GitHub Repo stars](https://img.shields.io/github/stars/Baiqi-Li/NaturalBench) <br> [**NaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples**](https://arxiv.org/pdf/2410.14669) <br> | NeurIPS | 2024-10-18 | [Github](https://github.com/Baiqi-Li/NaturalBench) | [Page](https://linzhiqiu.github.io/papers/naturalbench/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/gregor-ge/FOCI-Benchmark) <br> [**African or European Swallow? Benchmarking Large Vision-Language Models for Fine-Grained Object Classification**](https://arxiv.org/abs/2406.14496) <br> | arXiv | 2024-06-20 | [Github](https://github.com/gregor-ge/FOCI-Benchmark) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/tsb0601/MMVP) <br> [**Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs**](https://arxiv.org/abs/2401.06209) <br> | CVPR | 2024-06-11 | [Github](https://github.com/tsb0601/MMVP) | [Page](https://tsb0601.github.io/mmvp_blog/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/Q-Future/Q-Bench) <br> [**Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision**](https://arxiv.org/abs/2309.14181) <br> | ICLR | 2023-09-25 | [Github](https://github.com/Q-Future/Q-Bench) | [Page](https://q-future.github.io/Q-Bench/) |
