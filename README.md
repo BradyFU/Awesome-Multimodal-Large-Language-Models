@@ -174,6 +174,7 @@
 ### Video Understanding
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![GitHub Repo stars](https://img.shields.io/github/stars/PolyU-ChenLab/ETBench) <br> [**E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding**](https://arxiv.org/abs/2409.18111) <br> | NeurIPS | 2024-09-26 | [Github](https://github.com/PolyU-ChenLab/ETBench) | [Page](https://polyu-chenlab.github.io/etbench/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/BradyFU/Video-MME)<br> [**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-Modal LLMs in Video Analysis**](https://arxiv.org/abs/2405.21075) <br> | arXiv | 2024-05-31 | [Github](https://github.com/BradyFU/Video-MME) | [Page](https://video-mme.github.io/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything) <br> [**MVBench: A Comprehensive Multi-Modal Video Understanding Benchmark**](https://openaccess.thecvf.com/content/CVPR2024/papers/example) <br> | CVPR | 2023-11-28 | [Github](https://github.com/OpenGVLab/Ask-Anything) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/JUNJIE99/MLVU) <br> [**MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding**](https://arxiv.org/abs/2406.04264) <br> | arXiv | 2024-06-06 | [Github](https://github.com/JUNJIE99/MLVU) | [Page](https://huggingface.co/datasets/MLVU/MLVU_Test) |
