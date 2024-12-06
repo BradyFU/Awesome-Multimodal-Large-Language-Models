@@ -326,6 +326,7 @@ This is the first work to correct hallucination in multimodal large language mod
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Visual In-Context Learning for Large Vision-Language Models**](https://arxiv.org/pdf/2402.11574.pdf) | arXiv | 2024-02-18 | - | - |
+| ![Star](https://img.shields.io/github/stars/YuanJianhao508/RAG-Driver.svg?style=social&label=Star) <br> [**RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model**](https://arxiv.org/abs/2402.10828) <br> | RSS | 2024-02-16 | [Github](https://github.com/YuanJianhao508/RAG-Driver) | - |
 | ![Star](https://img.shields.io/github/stars/UW-Madison-Lee-Lab/CoBSAT.svg?style=social&label=Star) <br> [**Can MLLMs Perform Text-to-Image In-Context Learning?**](https://arxiv.org/pdf/2402.01293.pdf) <br> | arXiv | 2024-02-02 | [Github](https://github.com/UW-Madison-Lee-Lab/CoBSAT) | - |
 | ![Star](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star) <br> [**Generative Multimodal Models are In-Context Learners**](https://arxiv.org/pdf/2312.13286) <br> | CVPR | 2023-12-20 | [Github](https://github.com/baaivision/Emu/tree/main/Emu2) | [Demo](https://huggingface.co/spaces/BAAI/Emu2) |
 | [**Hijacking Context in Large Multi-modal Models**](https://arxiv.org/pdf/2312.07553.pdf) | arXiv | 2023-12-07 | - | - |
