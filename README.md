@@ -73,6 +73,7 @@
 ### Chart and Documentation
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![GitHub Repo stars](https://img.shields.io/github/stars/NimrodShabtay/LiveXiv) <br>[**LiveXiv -- A Multi-Modal Live Benchmark Based on Arxiv Papers Content**](https://arxiv.org/abs/2410.10783)<br> | arXiv | 2024-10-14 | [Github](https://github.com/NimrodShabtay/LiveXiv) | [Page](https://huggingface.co/datasets/LiveXiv/LiveXiv) |
 | [**DocVQA: A Dataset for VQA on Document Images**](https://arxiv.org/abs/2007.00398) | WACV | 2020-07-01 | - | [Page](https://docvqa.org/) |
 | [**InfographicVQA**](https://arxiv.org/abs/2104.12756) | WACV | 2021-04-26 | - | [Page](https://docvqa.org/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/mayubo2333/MMLongBench-Doc) <br>[**MMLongbench-Doc: Benchmarking Long-Context Document Understanding with Visualizations**](https://arxiv.org/abs/2407.01523)<br> | NeurIPS | 2024-07-01 | [Github](https://github.com/mayubo2333/MMLongBench-Doc) | [Page](https://mayubo2333.github.io/MMLongBench-Doc/) |
