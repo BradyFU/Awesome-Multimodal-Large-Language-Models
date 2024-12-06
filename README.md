@@ -541,6 +541,7 @@ This is the first work to correct hallucination in multimodal large language mod
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
 | **E.T. Instruct 164K** | [E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding](https://arxiv.org/pdf/2409.18111) | [Link](https://github.com/PolyU-ChenLab/ETBench) | An instruction-tuning dataset for time-sensitive video understanding |
+| **MSQA** | [Multi-modal Situated Reasoning in 3D Scenes](https://arxiv.org/pdf/2409.02389) | [Link](https://msr3d.github.io/) | A large scale dataset for multi-modal situated reasoning in 3D scenes |
 | **MM-Evol** | [MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct](https://arxiv.org/pdf/2409.05840) | [Link](https://mmevol.github.io/home_page.html) | An instruction dataset with rich diversity | 
 | **UNK-VQA** | [UNK-VQA: A Dataset and a Probe into the Abstention Ability of Multi-modal Large Models](https://arxiv.org/pdf/2310.10942) | [Link](https://github.com/guoyang9/UNK-VQA) | A dataset designed to teach models to refrain from answering unanswerable questions |
 | **VEGA** | [VEGA: Learning Interleaved Image-Text Comprehension in Vision-Language Large Models](https://arxiv.org/pdf/2406.10228) | [Link](https://github.com/zhourax/VEGA) | A dataset for enhancing model capabilities in comprehension of interleaved information | 
