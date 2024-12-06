@@ -492,6 +492,7 @@ This is the first work to correct hallucination in multimodal large language mod
 | ![Star](https://img.shields.io/github/stars/vlf-silkie/VLFeedback.svg?style=social&label=Star) <br> [**Silkie: Preference Distillation for Large Visual Language Models**](https://arxiv.org/pdf/2312.10665.pdf) <br> | arXiv | 2023-12-17 | [Github](https://github.com/vlf-silkie/VLFeedback) | - |
 | ![Star](https://img.shields.io/github/stars/RLHF-V/RLHF-V.svg?style=social&label=Star) <br> [**RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback**](https://arxiv.org/pdf/2312.00849.pdf) <br> | arXiv | 2023-12-01 | [Github](https://github.com/RLHF-V/RLHF-V) | [Demo](http://120.92.209.146:8081/) |
 | ![Star](https://img.shields.io/github/stars/llava-rlhf/LLaVA-RLHF.svg?style=social&label=Star) <br> [**Aligning Large Multimodal Models with Factually Augmented RLHF**](https://arxiv.org/pdf/2309.14525.pdf) <br> | arXiv | 2023-09-25 | [Github](https://github.com/llava-rlhf/LLaVA-RLHF) | [Demo](http://pitt.lti.cs.cmu.edu:7890/) |
+| ![Star](https://img.shields.io/github/stars/wangclnlp/Vision-LLM-Alignment.svg?style=social&label=Star) <br> [**RoVRM: A Robust Visual Reward Model Optimized via Auxiliary Textual Preference Data**](https://arxiv.org/pdf/2408.12109) <br> | arXiv | 2024-08-22 | [Github](https://github.com/wangclnlp/Vision-LLM-Alignment) | - |
 
 ## Others
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
