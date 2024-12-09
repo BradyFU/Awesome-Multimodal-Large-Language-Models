@@ -99,6 +99,8 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**CompCap: Improving Multimodal Large Language Models with Composite Captions**](https://arxiv.org/pdf/2412.05243) | arXiv | 2024-12-06 | - | - |
+| ![Star](https://img.shields.io/github/stars/gls0425/LinVT.svg?style=social&label=Star) <br> [**LinVT: Empower Your Image-level Large Language Model to Understand Videos**](https://arxiv.org/pdf/2412.05185) <br> | arXiv | 2024-12-06 | [Github](https://github.com/gls0425/LinVT) | - |
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star) <br> [**Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling**](https://github.com/OpenGVLab/InternVL/blob/main/InternVL2_5_report.pdf) <br> | Tech Report | 2024-12-05 | [Github](https://github.com/OpenGVLab/InternVL) | [Demo](https://internvl.opengvlab.com) |
 | ![Star](https://img.shields.io/github/stars/NVlabs/VILA.svg?style=social&label=Star) <br> [**NVILA: Efficient Frontier Visual Language Models**](https://arxiv.org/pdf/2412.04468) <br> | arXiv | 2024-12-05 | [Github](https://github.com/NVlabs/VILA) | [Demo](https://vila.mit.edu) |
 | ![Star](https://img.shields.io/github/stars/xjtupanda/T2Vid.svg?style=social&label=Star) <br> [**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**](https://arxiv.org/pdf/2411.19951) <br> | arXiv | 2024-11-29 | [Github](https://github.com/xjtupanda/T2Vid) | - |
