@@ -99,6 +99,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**StreamChat: Chatting with Streaming Video**](https://arxiv.org/pdf/2412.08646) | arXiv | 2024-12-11 | Coming soon | - |
 | [**CompCap: Improving Multimodal Large Language Models with Composite Captions**](https://arxiv.org/pdf/2412.05243) | arXiv | 2024-12-06 | - | - |
 | ![Star](https://img.shields.io/github/stars/gls0425/LinVT.svg?style=social&label=Star) <br> [**LinVT: Empower Your Image-level Large Language Model to Understand Videos**](https://arxiv.org/pdf/2412.05185) <br> | arXiv | 2024-12-06 | [Github](https://github.com/gls0425/LinVT) | - |
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star) <br> [**Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling**](https://github.com/OpenGVLab/InternVL/blob/main/InternVL2_5_report.pdf) <br> | Tech Report | 2024-12-05 | [Github](https://github.com/OpenGVLab/InternVL) | [Demo](https://internvl.opengvlab.com) |
