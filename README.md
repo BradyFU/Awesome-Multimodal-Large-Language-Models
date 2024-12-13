@@ -99,6 +99,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) <br> [**InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions**](https://arxiv.org/pdf/2412.09596) <br> | arXiv | 2024-12-12 | [Github](https://github.com/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive) | Local Demo |
 | [**StreamChat: Chatting with Streaming Video**](https://arxiv.org/pdf/2412.08646) | arXiv | 2024-12-11 | Coming soon | - |
 | [**CompCap: Improving Multimodal Large Language Models with Composite Captions**](https://arxiv.org/pdf/2412.05243) | arXiv | 2024-12-06 | - | - |
 | ![Star](https://img.shields.io/github/stars/gls0425/LinVT.svg?style=social&label=Star) <br> [**LinVT: Empower Your Image-level Large Language Model to Understand Videos**](https://arxiv.org/pdf/2412.05185) <br> | arXiv | 2024-12-06 | [Github](https://github.com/gls0425/LinVT) | - |
