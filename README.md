@@ -99,6 +99,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Euclid: Supercharging Multimodal LLMs with Synthetic High-Fidelity Visual Descriptions**](https://arxiv.org/pdf/2412.08737) | arXiv | 2024-12-12 | [Github](https://github.com/euclid-multimodal/Euclid) | [Project](https://euclid-multimodal.github.io/) |
 | ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) <br> [**InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions**](https://arxiv.org/pdf/2412.09596) <br> | arXiv | 2024-12-12 | [Github](https://github.com/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive) | Local Demo |
 | [**StreamChat: Chatting with Streaming Video**](https://arxiv.org/pdf/2412.08646) | arXiv | 2024-12-11 | Coming soon | - |
 | [**CompCap: Improving Multimodal Large Language Models with Composite Captions**](https://arxiv.org/pdf/2412.05243) | arXiv | 2024-12-06 | - | - |
