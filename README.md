@@ -100,7 +100,7 @@ This is the first work to correct hallucination in multimodal large language mod
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-VL2.svg?style=social&label=Star) <br> [**DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding**](https://arxiv.org/pdf/2412.10302) <br> | arXiv | 2024-12-13 | [Github](https://github.com/deepseek-ai/DeepSeek-VL2) | - |
-| ![Star](https://img.shields.io/github/stars/Apollo-LMMs/Apollo.svg?style=social&label=Star) <br> [**Apollo: An Exploration of Video Understanding in Large Multimodal Models**](https://arxiv.org/pdf/2412.10360) <br> | arXiv | 2024-12-13 | [Github](https://github.com/Apollo-LMMs/Apollo) | [Demo](https://huggingface.co/spaces/Apollo-LMMs/Apollo-3B) |
+| [**Apollo: An Exploration of Video Understanding in Large Multimodal Models**](https://arxiv.org/pdf/2412.10360) | arXiv | 2024-12-13 | - | - |
 | ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) <br> [**InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions**](https://arxiv.org/pdf/2412.09596) <br> | arXiv | 2024-12-12 | [Github](https://github.com/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive) | Local Demo |
 | [**StreamChat: Chatting with Streaming Video**](https://arxiv.org/pdf/2412.08646) | arXiv | 2024-12-11 | Coming soon | - |
 | [**CompCap: Improving Multimodal Large Language Models with Composite Captions**](https://arxiv.org/pdf/2412.05243) | arXiv | 2024-12-06 | - | - |
