@@ -456,6 +456,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| ![Stars](https://img.shields.io/github/stars/lerogo/MMGenBench?style=social&label=Star) <br> [**Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces**](https://arxiv.org/pdf/2412.14171) <br> | arXiv | 2024-12-18 | [Github](https://github.com/vision-x-nyu/thinking-in-space) |
 | ![Stars](https://img.shields.io/github/stars/lerogo/MMGenBench?style=social&label=Star) <br> [**MMGenBench: Evaluating the Limits of LMMs from the Text-to-Image Generation Perspective**](https://arxiv.org/pdf/2411.14062) <br> | arXiv | 2024-11-21 | [Github](https://github.com/lerogo/MMGenBench) | 
 | ![Stars](https://img.shields.io/github/stars/multimodal-art-projection/OmniBench?style=social&label=Star) <br> [**OmniBench: Towards The Future of Universal Omni-Language Models**](https://arxiv.org/pdf/2409.15272) <br> | arXiv | 2024-09-23 | [Github](https://github.com/multimodal-art-projection/OmniBench) | 
 | ![Stars](https://img.shields.io/github/stars/yfzhang114/MME-RealWorld?style=social&label=Star) <br> [**MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?**](https://arxiv.org/pdf/2408.13257) <br> | arXiv | 2024-08-23 | [Github](https://github.com/yfzhang114/MME-RealWorld) | 
