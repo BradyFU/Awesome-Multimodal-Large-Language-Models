@@ -6,9 +6,9 @@
 🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
 **[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2306.13549.pdf)**
 
-The first comprehensive survey for Multimodal Large Language Models (MLLMs). :sparkles: </div>  
+The first comprehensive survey for Multimodal Large Language Models (MLLMs). :sparkles:  
 
-Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2: </div>
+Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2:  
 
 ---
 
@@ -46,19 +46,21 @@ It includes short- (< 2min), medium- (4min\~15min), and long-term (30min\~60min)
 🔥🔥🔥 **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
 **[Paper](https://arxiv.org/pdf/2306.13394.pdf)** | **[Download](https://huggingface.co/datasets/darkyarding/MME/blob/main/MME_Benchmark_release_version.zip)** | **[Eval Tool](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/blob/Evaluation/tools/eval_tool.zip)** | :black_nib: **[Citation](./images/bib_mme.txt)**
 
-A representative evaluation benchmark for MLLMs. :sparkles:
+A representative evaluation benchmark for MLLMs. :sparkles:  
 
 ---
 
 🔥🔥🔥 **Woodpecker: Hallucination Correction for Multimodal Large Language Models**  
 **[Paper](https://arxiv.org/pdf/2310.16045)** | **[GitHub](https://github.com/BradyFU/Woodpecker)**
 
-This is the first work to correct hallucination in multimodal large language models. :sparkles: </div>  
+This is the first work to correct hallucination in multimodal large language models. :sparkles:  
 
 ---
 
 🔥🔥🔥 **Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM**  
 **[Project Page](https://freeze-omni.github.io/)** | **[Paper](https://arxiv.org/abs/2411.00774)** | **[GitHub](https://github.com/VITA-MLLM/Freeze-Omni)**  
+
+A speech-to-speech dialogue model with both low-latency and high intelligence while the training process is based on a frozen LLM. :sparkles:  
 
 ---
 
