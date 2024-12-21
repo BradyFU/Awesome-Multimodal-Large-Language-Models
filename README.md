@@ -19,7 +19,9 @@ Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2
 
 <font size=7><div align='center' > [[📖 VITA-1.5 Paper (Comming Soon)](https://github.com/VITA-MLLM/VITA)] [[🌟 GitHub](https://github.com/VITA-MLLM/VITA)] [[🤗 Hugging Face](https://huggingface.co/VITA-MLLM)] [[🍎 VITA-1.0](https://vita-home.github.io/)] [[💬 WeChat (微信)](https://github.com/VITA-MLLM/VITA/blob/main/asset/wechat.jpg)]</div></font>
 
-<font size=7><div align='center' > We are excited to introduce the **VITA-1.5**, a more powerful and more real-time version. **All codes have been released**! ✨ </div></font>
+<font size=7><div align='center' > We are excited to introduce the **VITA-1.5**, a more powerful and more real-time version. ✨ </div></font>
+
+<font size=7><div align='center' >**All codes of VITA-1.5 have been released**! :star2: </div></font>
 
 ---
 
