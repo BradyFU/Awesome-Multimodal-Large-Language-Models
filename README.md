@@ -58,7 +58,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ---
 
 🔥🔥🔥 **Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM**  
-**[Project Page](https://freeze-omni.github.io/)** | **[Paper](https://arxiv.org/abs/2411.00774)** | **[GitHub]((https://github.com/VITA-MLLM/Freeze-Omni)**  
+**[Project Page](https://freeze-omni.github.io/)** | **[Paper](https://arxiv.org/abs/2411.00774)** | **[GitHub](https://github.com/VITA-MLLM/Freeze-Omni)**  
 
 ---
 
