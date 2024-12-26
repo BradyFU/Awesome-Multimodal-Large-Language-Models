@@ -94,6 +94,7 @@ A speech-to-speech dialogue model with both low-latency and high intelligence wh
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2-VL.svg?style=social&label=Star) <br> [**QVQ: To See the World with Wisdom**](https://qwenlm.github.io/blog/qvq-72b-preview/) <br> | Qwen | 2024-12-25 | [Github](https://github.com/QwenLM/Qwen2-VL) | [Demo](https://qwenlm.github.io/blog/qvq-72b-preview/) |
 | ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-VL2.svg?style=social&label=Star) <br> [**DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding**](https://arxiv.org/pdf/2412.10302) <br> | arXiv | 2024-12-13 | [Github](https://github.com/deepseek-ai/DeepSeek-VL2) | - |
 | [**Apollo: An Exploration of Video Understanding in Large Multimodal Models**](https://arxiv.org/pdf/2412.10360) | arXiv | 2024-12-13 | - | - |
 | ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) <br> [**InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions**](https://arxiv.org/pdf/2412.09596) <br> | arXiv | 2024-12-12 | [Github](https://github.com/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive) | Local Demo |
