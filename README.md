@@ -94,6 +94,7 @@ A speech-to-speech dialogue model with both low-latency and high intelligence wh
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/VITA-MLLM/VITA.svg?style=social&label=Star) <br> [**VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**](https://arxiv.org/pdf/2501.01957) <br> | arXiv | 2025-01-03 | [Github](https://github.com/VITA-MLLM/VITA) | - |
 | ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2-VL.svg?style=social&label=Star) <br> [**QVQ: To See the World with Wisdom**](https://qwenlm.github.io/blog/qvq-72b-preview/) <br> | Qwen | 2024-12-25 | [Github](https://github.com/QwenLM/Qwen2-VL) | [Demo](https://qwenlm.github.io/blog/qvq-72b-preview/) |
 | ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-VL2.svg?style=social&label=Star) <br> [**DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding**](https://arxiv.org/pdf/2412.10302) <br> | arXiv | 2024-12-13 | [Github](https://github.com/deepseek-ai/DeepSeek-VL2) | - |
 | [**Apollo: An Exploration of Video Understanding in Large Multimodal Models**](https://arxiv.org/pdf/2412.10360) | arXiv | 2024-12-13 | - | - |
