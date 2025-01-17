@@ -23,7 +23,10 @@ Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2
 
 <font size=7><div align='center' > We are excited to introduce the **VITA-1.5**, a more powerful and more real-time version. ✨ </div></font>
 
-<font size=7><div align='center' >**All codes of VITA-1.5 have been released**! :star2: </div></font>
+<font size=7><div align='center' >**All codes of VITA-1.5 have been released**! :star2: </div></font>  
+
+You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VITA1.5_demo) on ModelScope directly. The Real-Time Interactive Demo needs to be configured according to the [instructions](https://github.com/VITA-MLLM/VITA?tab=readme-ov-file#-real-time-interactive-demo).
+
 
 ---
 
