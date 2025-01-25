@@ -135,6 +135,7 @@
 ### Multi-Image
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/MMIU) <br> [**MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models**](https://arxiv.org/abs/2408.02718) <br> | arXiv | 2024-08-05 | [Github](https://github.com/OpenGVLab/MMIU) | [Page](https://mmiu-bench.github.io) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/Liuziyu77/MMDU) <br> [**MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs**](https://arxiv.org/abs/2406.11833) <br> | NeurIPS | 2024-06-17 | [Github](https://github.com/Liuziyu77/MMDU) | [Page](https://liuziyu77.github.io/MMDU/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/lil-lab/nlvr) <br> [**A Corpus for Reasoning about Natural Language Grounded in Photographs**](https://arxiv.org/abs/1811.00491) <br> | ACL | 2018-11-01 | [Github](https://github.com/lil-lab/nlvr) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/HYPJUDY/Sparkles) <br> [**Sparkles: Unlocking Chats Across Multiple Images for Multi-Modal Instruction-Following Models**](https://arxiv.org/abs/2308.16463) <br> | arXiv | 2023-08-23 | [Github](https://github.com/HYPJUDY/Sparkles) | [Page](https://www.youtube.com/watch?v=GyBUqfHbp2w) |
