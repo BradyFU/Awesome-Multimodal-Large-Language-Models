@@ -97,6 +97,7 @@ A speech-to-speech dialogue model with both low-latency and high intelligence wh
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2.5-VL.svg?style=social&label=Star) <br> [**Qwen2.5-VL**](https://qwenlm.github.io/blog/qwen2.5-vl/) <br> | Qwen | 2025-01-26 | [Github](https://github.com/QwenLM/Qwen2.5-VL) | [Demo](https://huggingface.co/spaces/Qwen/Qwen2.5-VL) |
 | ![Star](https://img.shields.io/github/stars/baichuan-inc/Baichuan-Omni-1.5.svg?style=social&label=Star) <br> [**Baichuan-Omni-1.5 Technical Report**](https://github.com/baichuan-inc/Baichuan-Omni-1.5/blob/main/baichuan_omni_1_5.pdf) <br> | Tech Report | 2025-01-26 | [Github](https://github.com/baichuan-inc/Baichuan-Omni-1.5) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/mbzuai-oryx/LlamaV-o1.svg?style=social&label=Star) <br> [**LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs**](https://arxiv.org/pdf/2501.06186) <br> | arXiv | 2025-01-10 | [Github](https://github.com/mbzuai-oryx/LlamaV-o1) | - |
 | ![Star](https://img.shields.io/github/stars/VITA-MLLM/VITA.svg?style=social&label=Star) <br> [**VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**](https://arxiv.org/pdf/2501.01957) <br> | arXiv | 2025-01-03 | [Github](https://github.com/VITA-MLLM/VITA) | - |
