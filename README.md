@@ -89,6 +89,7 @@
 ### Mathematical
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![GitHub Repo stars](https://img.shields.io/github/stars/AceCHQ/MMIQ) <br> [**MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models**](https://arxiv.org/abs/2502.00698) <br> | arXiv | 2025-02-02 | [Github](https://github.com/AceCHQ/MMIQ) | [Page](https://acechq.github.io/MMIQ-benchmark) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/We-Math/We-Math) <br> [**We-Math: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?**](https://arxiv.org/abs/2407.01284) <br> | arXiv | 2024-07-01 | [Github](https://github.com/We-Math/We-Math) | [Page](https://we-math.github.io/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/ZrrSkywalker/MathVerse) <br> [**MathVerse: Does Your Multimodal LLM Truly See the Diagrams in Visual Math Problems?**](https://arxiv.org/abs/2403.14624) <br> | ECCV | 2024-05-21 | [Github](https://github.com/ZrrSkywalker/MathVerse) | [Page](https://mathverse-cuhk.github.io/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/mathvision-cuhk/MathVision) <br> [**Measuring Multimodal Mathematical Reasoning with Math-Vision Dataset**](https://arxiv.org/abs/2402.14804) <br> | arXiv | 2024-02-22 | [Github](https://github.com/mathvision-cuhk/MathVision) | [Page](https://mathvision-cuhk.github.io/) |
