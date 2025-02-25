@@ -1,0 +1,10 @@
+@article{yin2024survey,
+  title={A survey on multimodal large language models},
+  author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Li, Ke and Sun, Xing and Xu, Tong and Chen, Enhong},
+  journal={National Science Review},
+  volume={11},
+  number={12},
+  pages={nwae403},
+  year={2024},
+  publisher={Oxford University Press}
+}
