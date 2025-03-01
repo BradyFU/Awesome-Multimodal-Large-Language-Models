@@ -30,6 +30,20 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 ---
 
+🔥🔥🔥 **Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuracy**  
+<p align="center">
+    <img src="./images/long-vita.jpg" width="80%" height="80%">
+</p>
+
+<font size=7><div align='center' > [[📖 arXiv Paper](https://arxiv.org/pdf/2502.05177)] [[🌟 GitHub](https://github.com/VITA-MLLM/Long-VITA)]</div></font>  
+
+<font size=7><div align='center' > Process more than **4K frames** or over **1M visual tokens**. ✨ </div></font>
+
+<font size=7><div align='center' >**State-of-the-art on Video-MME under 20B models**!:star2: </div></font>  
+
+
+---
+
 🔥🔥🔥 **MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**  
 <p align="center">
     <img src="./images/mme-survey.jpg" width="90%" height="90%">
