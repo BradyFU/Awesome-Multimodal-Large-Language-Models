@@ -1,5 +1,5 @@
 @article{yin2024survey,
-  title={A survey on multimodal large language models.},
+  title={A survey on multimodal large language models},
   author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Li, Ke and Sun, Xing and Xu, Tong and Chen, Enhong},
   journal={National Science Review},
   volume={11},
