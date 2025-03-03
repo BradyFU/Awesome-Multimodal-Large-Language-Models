@@ -8,7 +8,7 @@
 
 The first comprehensive survey for Multimodal Large Language Models (MLLMs). :sparkles:  
 
-Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2:  
+Welcome to add WeChat ID (zyzhang-ustc) to join our MLLM communication group! :star2:  
 
 ---
 
