@@ -109,6 +109,7 @@ A speech-to-speech dialogue model with both low-latency and high intelligence wh
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs**](https://arxiv.org/pdf/2503.01743) | arXiv | 2025-03-03 | [Hugging Face](https://huggingface.co/microsoft/Phi-4-multimodal-instruct) | [Demo](https://huggingface.co/spaces/microsoft/phi-4-multimodal) | 
 | ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2.5-VL.svg?style=social&label=Star) <br> [**Qwen2.5-VL Technical Report**](https://arxiv.org/pdf/2502.13923) <br> | arXiv | 2025-02-19 | [Github](https://github.com/QwenLM/Qwen2.5-VL) | [Demo](https://huggingface.co/spaces/Qwen/Qwen2.5-VL) |
 | ![Star](https://img.shields.io/github/stars/VITA-MLLM/Long-VITA.svg?style=social&label=Star) <br> [**Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray**](https://arxiv.org/pdf/2502.05177) <br> | arXiv | 2025-02-07 | [Github](https://github.com/VITA-MLLM/Long-VITA) | - |
 | ![Star](https://img.shields.io/github/stars/baichuan-inc/Baichuan-Omni-1.5.svg?style=social&label=Star) <br> [**Baichuan-Omni-1.5 Technical Report**](https://github.com/baichuan-inc/Baichuan-Omni-1.5/blob/main/baichuan_omni_1_5.pdf) <br> | Tech Report | 2025-01-26 | [Github](https://github.com/baichuan-inc/Baichuan-Omni-1.5) | Local Demo |
