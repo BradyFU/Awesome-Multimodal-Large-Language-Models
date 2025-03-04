@@ -4,11 +4,9 @@
 ## Our MLLM works
 
 🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
-**[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2306.13549.pdf)** | :black_nib: **[Citation](./images/bib_survey.txt)** | **[💬 WeChat Group (微信群)](./images/wechat-group.png)**
+**[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2306.13549.pdf)** | :black_nib: **[Citation](./images/bib_survey.txt)** | **[💬 WeChat Group (MLLM微信交流群，欢迎加入)](./images/wechat-group.png)**
 
 The first comprehensive survey for Multimodal Large Language Models (MLLMs). :sparkles:  
-
-Welcome to add WeChat ID (zyzhang-ustc) to join our MLLM communication group! :star2:  
 
 ---
 
