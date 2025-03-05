@@ -42,7 +42,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 🔥🔥🔥 **MM-RLHF: The Next Step Forward in Multimodal LLM Alignment**  
 <p align="center">
-    <img src="./images/mm-rlhf.jpg" width="80%" height="80%">
+    <img src="./images/mm-rlhf.jpg" width="60%" height="60%">
 </p>
 
 <font size=7><div align='center' > [[📖 arXiv Paper](https://arxiv.org/pdf/2502.10391)] [[🌟 GitHub](https://github.com/Kwai-YuanQi/MM-RLHF)] [[📊 MM-RLHF Data](https://huggingface.co/datasets/yifanzhang114/MM-RLHF)] </div></font>  
