@@ -12,7 +12,7 @@ The first comprehensive survey for Multimodal Large Language Models (MLLMs). :sp
 
 🔥🔥🔥 **VITA: Towards Open-Source Interactive Omni Multimodal LLM**  
 <p align="center">
-    <img src="./images/vita-1.5.jpg" width="80%" height="80%">
+    <img src="./images/vita-1.5.jpg" width="70%" height="70%">
 </p>
 
 <font size=7><div align='center' > [[📽 VITA-1.5 Demo Show! Here We Go! 🔥](https://youtu.be/tyi6SVFT5mM?si=fkMQCrwa5fVnmEe7)] </div></font>  
@@ -40,9 +40,21 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 ---
 
+🔥🔥🔥 **MM-RLHF: The Next Step Forward in Multimodal LLM Alignment**  
+<p align="center">
+    <img src="./images/mm-rlhf.jpg" width="100%" height="100%">
+</p>
+
+<font size=7><div align='center' > [[📖 arXiv Paper](https://arxiv.org/pdf/2502.10391)] [[🌟 GitHub](https://github.com/Kwai-YuanQi/MM-RLHF)] [[📊 MM-RLHF Data](https://huggingface.co/datasets/yifanzhang114/MM-RLHF)] </div></font>  
+
+<font size=7><div align='center' > Aligning MLLMs with human preference, including a high-quality dataset, a strong reward model, a new alignmen algorithm, and two new benchmarks.✨ </div></font>
+
+
+---
+
 🔥🔥🔥 **MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**  
 <p align="center">
-    <img src="./images/mme-survey.jpg" width="90%" height="90%">
+    <img src="./images/mme-survey.jpg" width="70%" height="70%">
 </p>
 
 <font size=7><div align='center' > [[🍎 Project Page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Benchmarks)] [[📖 arXiv Paper](https://arxiv.org/pdf/2411.15296)] </div></font>
@@ -72,12 +84,6 @@ A representative evaluation benchmark for MLLMs. :sparkles:
 
 This is the first work to correct hallucination in multimodal large language models. :sparkles:  
 
----
-
-🔥🔥🔥 **Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM**  
-**[Project Page](https://freeze-omni.github.io/)** | **[Paper](https://arxiv.org/abs/2411.00774)** | **[GitHub](https://github.com/VITA-MLLM/Freeze-Omni)**  
-
-A speech-to-speech dialogue model with both low-latency and high intelligence while the training process is based on a frozen LLM. :sparkles:  
 
 ---
 
