@@ -12,7 +12,7 @@ The first comprehensive survey for Multimodal Large Language Models (MLLMs). :sp
 
 🔥🔥🔥 **VITA: Towards Open-Source Interactive Omni Multimodal LLM**  
 <p align="center">
-    <img src="./images/vita-1.5.jpg" width="70%" height="70%">
+    <img src="./images/vita-1.5.jpg" width="60%" height="60%">
 </p>
 
 <font size=7><div align='center' > [[📽 VITA-1.5 Demo Show! Here We Go! 🔥](https://youtu.be/tyi6SVFT5mM?si=fkMQCrwa5fVnmEe7)] </div></font>  
@@ -30,7 +30,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 🔥🔥🔥 **Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuracy**  
 <p align="center">
-    <img src="./images/longvita.jpg" width="100%" height="100%">
+    <img src="./images/longvita.jpg" width="80%" height="80%">
 </p>
 
 <font size=7><div align='center' > [[📖 arXiv Paper](https://arxiv.org/pdf/2502.05177)] [[🌟 GitHub](https://github.com/VITA-MLLM/Long-VITA)]</div></font>  
@@ -42,19 +42,19 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 🔥🔥🔥 **MM-RLHF: The Next Step Forward in Multimodal LLM Alignment**  
 <p align="center">
-    <img src="./images/mm-rlhf.jpg" width="100%" height="100%">
+    <img src="./images/mm-rlhf.jpg" width="80%" height="80%">
 </p>
 
 <font size=7><div align='center' > [[📖 arXiv Paper](https://arxiv.org/pdf/2502.10391)] [[🌟 GitHub](https://github.com/Kwai-YuanQi/MM-RLHF)] [[📊 MM-RLHF Data](https://huggingface.co/datasets/yifanzhang114/MM-RLHF)] </div></font>  
 
-<font size=7><div align='center' > Aligning MLLMs with human preference, including a high-quality dataset, a strong reward model, a new alignmen algorithm, and two new benchmarks.✨ </div></font>
+Align MLLMs with human preference, including a high-quality dataset, a strong reward model, a new alignmen algorithm, and two new benchmarks.✨
 
 
 ---
 
 🔥🔥🔥 **MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**  
 <p align="center">
-    <img src="./images/mme-survey.jpg" width="70%" height="70%">
+    <img src="./images/mme-survey.jpg" width="60%" height="60%">
 </p>
 
 <font size=7><div align='center' > [[🍎 Project Page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Benchmarks)] [[📖 arXiv Paper](https://arxiv.org/pdf/2411.15296)] </div></font>
