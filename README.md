@@ -7,7 +7,7 @@
 
 <font size=7><div align='center' > [[📖 arXiv Paper](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)] [[💬 WeChat (MLLM微信交流群，欢迎加入)](./images/wechat-group.png)]</div></font>  
 
-<font size=7><div align='center' > The first systematic survey dedicated to MLLM alignment.!  ✨ </div></font>
+<font size=7><div align='center' > The first systematic survey dedicated to MLLM alignment!  ✨ </div></font>
 
 
 ---
