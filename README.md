@@ -88,6 +88,8 @@ This is the first work to correct hallucination in multimodal large language mod
 ---
 
 <font size=5><center><b> Table of Contents </b> </center></font>
+- [Awesome-Multimodal-Large-Language-Models](#awesome-multimodal-large-language-models)
+  - [Our MLLM works](#our-mllm-works)
 - [Awesome Papers](#awesome-papers)
   - [Multimodal Instruction Tuning](#multimodal-instruction-tuning)
   - [Multimodal Hallucination](#multimodal-hallucination)
@@ -482,6 +484,8 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| ![Stars](https://img.shields.io/github/stars/lerogo/MMGenBench?style=social&label=Star) <br> [**NaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples**](https://arxiv.org/pdf/2410.14669) <br> | NeurIPS | 2024-10-22 | [Github](https://github.com/Baiqi-Li/NaturalBench) |
+| ![Stars](https://img.shields.io/github/stars/lerogo/MMGenBench?style=social&label=Star) <br> [**Evaluating Text-to-Visual Generation with Image-to-Text Generation**](https://arxiv.org/pdf/2404.01291?) <br> | ECCV | 2024-6-18 | [Github](https://github.com/linzhiqiu/t2v_metrics) |
 | ![Stars](https://img.shields.io/github/stars/lerogo/MMGenBench?style=social&label=Star) <br> [**Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces**](https://arxiv.org/pdf/2412.14171) <br> | arXiv | 2024-12-18 | [Github](https://github.com/vision-x-nyu/thinking-in-space) |
 | ![Stars](https://img.shields.io/github/stars/lerogo/MMGenBench?style=social&label=Star) <br> [**MMGenBench: Evaluating the Limits of LMMs from the Text-to-Image Generation Perspective**](https://arxiv.org/pdf/2411.14062) <br> | arXiv | 2024-11-21 | [Github](https://github.com/lerogo/MMGenBench) | 
 | ![Stars](https://img.shields.io/github/stars/multimodal-art-projection/OmniBench?style=social&label=Star) <br> [**OmniBench: Towards The Future of Universal Omni-Language Models**](https://arxiv.org/pdf/2409.15272) <br> | arXiv | 2024-09-23 | [Github](https://github.com/multimodal-art-projection/OmniBench) | 
@@ -647,6 +651,8 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **GenAI-Bench** | [GenAI-Bench: Evaluating and Improving Compositional Text-to-Visual Generation](https://arxiv.org/pdf/2406.13743) | [Link](https://huggingface.co/datasets/BaiqiL/GenAI-Bench) | A benchmark for evaluating and improving Compositional Text-to-Visual Generation |
+| **NaturalBench** | [NaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples](https://arxiv.org/pdf/2410.14669) | [Link](https://github.com/Baiqi-Li/NaturalBench) | A vision-centric VQA benchmark (NeurIPS'24) that challenges vision-language models with simple questions about natural imagery |
 | **Inst-IT Bench** | [Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning](https://arxiv.org/pdf/2412.03565) | [Link](https://github.com/inst-it/inst-it) | A benchmark to evaluate fine-grained instance-level understanding in images and videos |
 | **M<sup>3</sup>CoT** | [M<sup>3</sup>CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought](https://arxiv.org/pdf/2405.16473) | [Link](https://github.com/LightChen233/M3CoT) | A multi-domain, multi-step benchmark for multimodal CoT |
 | **MMGenBench** | [MMGenBench: Evaluating the Limits of LMMs from the Text-to-Image Generation Perspective](https://arxiv.org/pdf/2411.14062) | [Link](https://github.com/lerogo/MMGenBench) | A benchmark that gauges the performance of constructing image-generation prompt given an image |
