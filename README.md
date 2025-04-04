@@ -1,5 +1,8 @@
 # Awesome-Multimodal-Large-Language-Models
 
+<p align="center">
+    <img src="./images/MIG.jpg" width="100%" height="100%">
+</p>
 
 ## Our MLLM works
 
