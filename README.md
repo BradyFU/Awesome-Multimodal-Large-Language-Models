@@ -116,6 +116,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/bardisafa/PreSel.svg?style=social&label=Star) <br> [**Filter Images First, Generate Instructions Later: Pre-Instruction Data Selection for Visual Instruction Tuning**](https://arxiv.org/pdf/2503.07591) <br> | CVPR | 2025-03-10 | [Github](https://github.com/bardisafa/PreSel) | [Demo](https://bardisafa.github.io/PreSel/) |
 | ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2.5-Omni.svg?style=social&label=Star) <br> [**Qwen2.5-Omni Technical Report**](https://github.com/QwenLM/Qwen2.5-Omni/blob/main/assets/Qwen2.5_Omni.pdf) <br> | Qwen | 2025-03-26 | [Github](https://github.com/QwenLM/Qwen2.5-Omni) | [Demo](https://huggingface.co/spaces/Qwen/Qwen2.5-Omni-7B-Demo) |
 | [**Addendum to GPT-4o System Card: Native image generation**](https://cdn.openai.com/11998be9-5319-4302-bfbf-1167e093f1fb/Native_Image_Generation_System_Card.pdf) | OpenAI | 2025-03-25 | - | - |
 | ![Star](https://img.shields.io/github/stars/VITA-MLLM/Sparrow.svg?style=social&label=Star) <br> [**Sparrow: Data-Efficient Video-LLM with Text-to-Image Augmentation**](https://arxiv.org/pdf/2411.19951) <br> | arXiv | 2025-03-17 | [Github](https://github.com/VITA-MLLM/Sparrow) | - |
