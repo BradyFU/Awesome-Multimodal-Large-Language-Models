@@ -41,6 +41,7 @@
 ### Comprehensive Evaluation
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![GitHub Repo stars](https://img.shields.io/github/stars/MME-Benchmarks/MME-Unify) <br> [**MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models**](https://arxiv.org/abs/2502.10391) <br> | arXiv | 2025-02-14 | [Github](https://github.com/MME-Benchmarks/MME-Unify) | [Page](https://mme-unify.github.io/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/yfzhang114/MME-RealWorld) <br> [**MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?**](https://arxiv.org/abs/2408.13257) <br> | arXiv | 2024-8-23 | [Github](https://github.com/yfzhang114/MME-RealWorld) | [Page](https://mme-realworld.github.io/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/WildVision-AI/WildVision-Bench) <br> [**WildVision: Evaluating Vision-Language Models in the Wild with Human Preferences**](https://arxiv.org/abs/2406.11069) <br> | arXiv | 2024-6-16 | [Github](https://github.com/WildVision-AI/WildVision-Bench) | [Page](https://huggingface.co/spaces/WildVision/vision-arena) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/MMStar-Benchmark/MMStar) <br> [**Are We on the Right Way for Evaluating Large Vision-Language Models?**](https://arxiv.org/abs/2403.20330) <br> | NeurIPS | 2024-03-29 | [Github](https://github.com/MMStar-Benchmark/MMStar) | [Page](https://mmstar-benchmark.github.io/) |
