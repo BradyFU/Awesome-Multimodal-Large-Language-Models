@@ -116,6 +116,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star) <br> [**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**](https://arxiv.org/abs/2504.10479) <br> | arXiv | 2025-04-14 | [Github](https://github.com/OpenGVLab/InternVL) | [Demo](https://internvl.opengvlab.com/) |
 | [**Introducing GPT-4.1 in the API**](https://openai.com/index/gpt-4-1/) | OpenAI | 2025-04-14 | - | - |
 | ![Star](https://img.shields.io/github/stars/MoonshotAI/Kimi-VL.svg?style=social&label=Star) <br> [**Kimi-VL Technical Report**](https://arxiv.org/pdf/2504.07491) <br> | arXiv | 2025-04-10 | [Github](https://github.com/MoonshotAI/Kimi-VL) | [Demo](https://huggingface.co/spaces/moonshotai/Kimi-VL-A3B-Thinking) |
 | [**The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation**](https://ai.meta.com/blog/llama-4-multimodal-intelligence/) | Meta | 2025-04-05 | [Hugging Face](https://huggingface.co/collections/meta-llama/llama-4-67f0c30d9fe03840bc9d0164) | - |
