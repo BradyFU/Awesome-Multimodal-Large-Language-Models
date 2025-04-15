@@ -118,6 +118,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Introducing GPT-4.1 in the API**](https://openai.com/index/gpt-4-1/) | OpenAI | 2025-04-14 | - | - |
 | ![Star](https://img.shields.io/github/stars/SkyworkAI/Skywork-R1V.svg?style=social&label=Star) <br> [**Skywork-R1V: Pioneering Multimodal Reasoning with CoT**](https://arxiv.org/abs/2504.05599) <br> [[🤗 Hugging Face](https://huggingface.co/Skywork/Skywork-R1V-38B)] [[🤖 ModelScope](https://modelscope.cn/models/Skywork/Skywork-R1V-38B)] | arXiv | 2025-04-11 | [Github](https://github.com/SkyworkAI/Skywork-R1V) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/MoonshotAI/Kimi-VL.svg?style=social&label=Star) <br> [**Kimi-VL Technical Report**](https://arxiv.org/pdf/2504.07491) <br> | arXiv | 2025-04-10 | [Github](https://github.com/MoonshotAI/Kimi-VL) | [Demo](https://huggingface.co/spaces/moonshotai/Kimi-VL-A3B-Thinking) |
 | [**The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation**](https://ai.meta.com/blog/llama-4-multimodal-intelligence/) | Meta | 2025-04-05 | [Hugging Face](https://huggingface.co/collections/meta-llama/llama-4-67f0c30d9fe03840bc9d0164) | - |
