@@ -68,6 +68,7 @@
 ### Enhancing Comprehensive Capabilities
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![GitHub Repo stars](https://img.shields.io/github/stars/pritamqu/RRPO?style=social) <br> [**Self-Alignment of Large Video Language Models with Refined Regularized Preference Optimization**](https://arxiv.org/abs/:2504.12083) <br> | arXiv | 2025-04 | [Github](https://github.com/pritamqu/RRPO) | [Page](https://pritamqu.github.io/RRPO/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/Kwai-YuanQi/MM-RLHF?style=social) <br> [**MM-RLHF: The Next Step Forward in Multimodal LLM Alignment**](https://arxiv.org/abs/2502.10391) <br> | arXiv | 2025-02 | [Github](https://github.com/Kwai-YuanQi/MM-RLHF) | [Page](https://mm-rlhf.github.io/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen2.5-VL?style=social) <br> [**Qwen2.5-VL Technical Report**](https://arxiv.org/abs/2502.13923) <br> | arXiv | 2025-02 | [Github](https://github.com/QwenLM/Qwen2.5-VL) | [Page](https://qwenlm.github.io/zh/blog/qwen2.5-vl/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/PhoenixZ810/OmniAlign-V?style=social) <br> [**OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference**](https://arxiv.org/abs/2502.18411) <br> | arXiv | 2025-02 | [Github](https://github.com/PhoenixZ810/OmniAlign-V) | - |
@@ -98,6 +99,7 @@
 ### Video
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![GitHub Repo stars](https://img.shields.io/github/stars/pritamqu/RRPO?style=social) <br> [**Self-Alignment of Large Video Language Models with Refined Regularized Preference Optimization**](https://arxiv.org/abs/:2504.12083) <br> | arXiv | 2025-04 | [Github](https://github.com/pritamqu/RRPO) | [Page](https://pritamqu.github.io/RRPO/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/Kwai-YuanQi/MM-RLHF?style=social) <br> [**MM-RLHF: The Next Step Forward in Multimodal LLM Alignment**](https://arxiv.org/abs/2502.10391) <br> | arXiv | 2025-02 | [Github](https://github.com/Kwai-YuanQi/MM-RLHF) | [Page](https://mm-rlhf.github.io/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/farewellthree/PPLLaVA?style=social) <br> [**PPLLaVA: Varied Video Sequence Understanding With Prompt Guidance**](https://arxiv.org/abs/2411.02327) <br> | arXiv | 2024-11 | [Github](https://github.com/farewellthree/PPLLaVA) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social) <br> [**LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models**](https://arxiv.org/abs/2407.07895) <br> | arXiv | 2024-07 | [Github](https://github.com/LLaVA-VL/LLaVA-NeXT) | [Page](https://llava-vl.github.io/blog/2024-06-16-llava-next-interleave/) |
