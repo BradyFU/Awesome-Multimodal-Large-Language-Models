@@ -116,6 +116,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/SkyworkAI/Skywork-R1V.svg?style=social&label=Star) <br> [**Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning**](https://arxiv.org/pdf/2504.16656) <br> | arXiv | 2025-04-23 | [Github](https://github.com/SkyworkAI/Skywork-R1V) | - |
 | ![Star](https://img.shields.io/github/stars/NVlabs/EAGLE.svg?style=social&label=Star) <br> [**Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models**](https://arxiv.org/pdf/2504.15271) <br> | arXiv | 2025-04-21 | [Github](https://github.com/NVlabs/EAGLE) | - |
 | ![Star](https://img.shields.io/github/stars/quicksviewer/quicksviewer.svg?style=social&label=Star) <br> [**An LMM for Efficient Video Understanding via Reinforced Compression of Video Cubes**](https://arxiv.org/pdf/2504.15270) <br> | arXiv | 2025-04-21 | [Github](https://github.com/quicksviewer/quicksviewer) | - |
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star) <br> [**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**](https://arxiv.org/abs/2504.10479) <br> | arXiv | 2025-04-14 | [Github](https://github.com/OpenGVLab/InternVL) | [Demo](https://internvl.opengvlab.com/) |
