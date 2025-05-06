@@ -596,7 +596,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Datasets of Multimodal Instruction Tuning
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
-| **ColonINST** | [Frontiers in Intelligent Colonoscopy](https://arxiv.org/abs/2410.17241) | [Link](https://github.com/ai4colonoscopy/IntelliScope) | A medical multimodal instruction tuning dataset (60+ categories, 300K+ colonoscopy images, 450K+ tuning pairs) |
+| **ColonINST** | [Frontiers in Intelligent Colonoscopy](https://arxiv.org/abs/2410.17241) | [Link](https://github.com/ai4colonoscopy/IntelliScope) | A medical multimodal instruction tuning dataset (62 categories, 300K+ colonoscopy images, 450K+ tuning pairs) |
 | **Inst-IT Dataset** | [Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning](https://arxiv.org/pdf/2412.03565) | [Link](https://github.com/inst-it/inst-it) | An instruction-tuning dataset which contains fine-grained multi-level annotations for 21k videos and 51k images |
 | **E.T. Instruct 164K** | [E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding](https://arxiv.org/pdf/2409.18111) | [Link](https://github.com/PolyU-ChenLab/ETBench) | An instruction-tuning dataset for time-sensitive video understanding |
 | **MSQA** | [Multi-modal Situated Reasoning in 3D Scenes](https://arxiv.org/pdf/2409.02389) | [Link](https://msr3d.github.io/) | A large scale dataset for multi-modal situated reasoning in 3D scenes |
