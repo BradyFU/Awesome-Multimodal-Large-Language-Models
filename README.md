@@ -551,6 +551,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Others
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/mghiasvand1/Awesome-VLM-Synthetic-Data.svg?style=social&label=Star) <br> [**A Survey on Bridging VLMs and Synthetic Data**](https://openreview.net/pdf?id=ThjDCZOljE) <br> | OpenReview | 2025-05-09 | [Github](https://github.com/mghiasvand1/Awesome-VLM-Synthetic-Data) | - |
 | ![Star](https://img.shields.io/github/stars/tingyu215/TS-LLaVA.svg?style=social&label=Star) <br> [**TS-LLaVA: Constructing Visual Tokens through Thumbnail-and-Sampling for Training-Free Video Large Language Models**](https://arxiv.org/pdf/2411.11066) <br> | arXiv | 2024-11-17 | [Github](https://github.com/tingyu215/TS-LLaVA) | - |
 | ![Star](https://img.shields.io/github/stars/ys-zong/VLGuard.svg?style=social&label=Star) <br> [**Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large Language Models**](https://arxiv.org/pdf/2402.02207.pdf) <br> | arXiv | 2024-02-03 | [Github](https://github.com/ys-zong/VLGuard) | - |
 | ![Star](https://img.shields.io/github/stars/SHI-Labs/VCoder.svg?style=social&label=Star) <br> [**VCoder: Versatile Vision Encoders for Multimodal Large Language Models**](https://arxiv.org/pdf/2312.14233.pdf) <br> | arXiv | 2023-12-21 | [Github](https://github.com/SHI-Labs/VCoder) | Local Demo | 
