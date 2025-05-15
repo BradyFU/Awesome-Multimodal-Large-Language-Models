@@ -116,6 +116,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/JiuhaiChen/BLIP3o.svg?style=social&label=Star) <br> [**BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**](https://arxiv.org/pdf/2505.09568) <br> | arXiv | 2025-05-14 | [Github](https://github.com/JiuhaiChen/BLIP3o) | Local Demo |
 | [**Seed1.5-VL Technical Report**](https://arxiv.org/pdf/2505.07062) | arXiv | 2025-05-11 | - | - |
 | ![Star](https://img.shields.io/github/stars/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models.svg?style=social&label=Star) <br> [**Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models**](https://arxiv.org/pdf/2505.04921) <br> | arXiv | 2025-05-08 | [Github](https://github.com/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models) | - |
 | ![Star](https://img.shields.io/github/stars/VITA-MLLM/VITA-Audio.svg?style=social&label=Star) <br> [**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**](https://arxiv.org/pdf/2505.03739) <br> | arXiv | 2025-05-06 | [Github](https://github.com/VITA-MLLM/VITA-Audio) | Local Demo |
