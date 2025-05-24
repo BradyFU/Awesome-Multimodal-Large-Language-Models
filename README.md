@@ -117,7 +117,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Synthetic Data
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/mghiasvand1/Awesome-VLM-Synthetic-Data.svg?style=social&label=Star) <br> [**A Survey on Bridging VLMs and Synthetic Data**](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174741263.32891073/v1) <br> | TechRxiv | 2025-05-16 | [Github](https://github.com/mghiasvand1/Awesome-VLM-Synthetic-Data) | - |
+| ![Star](https://img.shields.io/github/stars/mghiasvand1/Awesome-VLM-Synthetic-Data.svg?style=social&label=Star) <br> [**A Survey on Bridging VLMs and Synthetic Data**](https://openreview.net/pdf?id=ThjDCZOljE) <br> | OpenReview | 2025-05-16 | [Github](https://github.com/mghiasvand1/Awesome-VLM-Synthetic-Data) | - |
 
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
