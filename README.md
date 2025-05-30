@@ -116,6 +116,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**](https://arxiv.org/pdf/2505.23661) | arXiv | 2025-05-29 | [Github](https://github.com/wusize/OpenUni) | - |
 | ![Star](https://img.shields.io/github/stars/bytedance-seed/BAGEL.svg?style=social&label=Star) <br> [**Emerging Properties in Unified Multimodal Pretraining**](https://arxiv.org/pdf/2505.14683) <br> | arXiv | 2025-05-23 | [Github](https://github.com/bytedance-seed/BAGEL) | [Demo](https://demo.bagel-ai.org/) |
 | [**UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation**](https://arxiv.org/pdf/2505.14682) | arXiv | 2025-05-20 | - | - |
 | ![Star](https://img.shields.io/github/stars/JiuhaiChen/BLIP3o.svg?style=social&label=Star) <br> [**BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**](https://arxiv.org/pdf/2505.09568) <br> | arXiv | 2025-05-14 | [Github](https://github.com/JiuhaiChen/BLIP3o) | Local Demo |
