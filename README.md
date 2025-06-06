@@ -92,6 +92,7 @@ This is the first work to correct hallucination in multimodal large language mod
 
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Papers](#awesome-papers)
+  - [Synthetic Data](#synthetic-data)
   - [Multimodal Instruction Tuning](#multimodal-instruction-tuning)
   - [Multimodal Hallucination](#multimodal-hallucination)
   - [Multimodal In-Context Learning](#multimodal-in-context-learning)
@@ -112,6 +113,11 @@ This is the first work to correct hallucination in multimodal large language mod
 ---
 
 # Awesome Papers
+
+## Synthetic Data
+|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/mghiasvand1/Awesome-VLM-Synthetic-Data.svg?style=social&label=Star) <br> [**A Survey on Bridging VLMs and Synthetic Data**](https://openreview.net/pdf?id=ThjDCZOljE) <br> | OpenReview | 2025-05-16 | [Github](https://github.com/mghiasvand1/Awesome-VLM-Synthetic-Data) | - |
 
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
