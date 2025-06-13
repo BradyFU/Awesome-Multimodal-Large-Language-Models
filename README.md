@@ -433,6 +433,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## LLM-Aided Visual Reasoning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/yhy-2000/VideoDeepResearch.svg?style=social&label=Star) <br> [**VideoDeepResearch: Long Video Understanding With Agentic Tool Using**](https://arxiv.org/pdf/2506.10821) <br> | arXiv | 2025-06-12 | [Github](https://github.com/yhy-2000/VideoDeepResearch) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/LaVi-Lab/Visual-Table.svg?style=social&label=Star) <br> [**Beyond Embeddings: The Promise of Visual Table in Multi-Modal Models**](https://arxiv.org/pdf/2403.18252.pdf) <br> | arXiv | 2024-03-27 | [Github](https://github.com/LaVi-Lab/Visual-Table) | - |
 | ![Star](https://img.shields.io/github/stars/penghao-wu/vstar.svg?style=social&label=Star) <br> [**V∗: Guided Visual Search as a Core Mechanism in Multimodal LLMs**](https://arxiv.org/pdf/2312.14135.pdf) <br> | arXiv | 2023-12-21 | [Github](https://github.com/penghao-wu/vstar) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-Interactive-Demo.svg?style=social&label=Star) <br> [**LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing**](https://arxiv.org/pdf/2311.00571.pdf) <br> | arXiv | 2023-11-01 | [Github](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo) | [Demo](https://6dd3-20-163-117-69.ngrok-free.app/) |
