@@ -670,6 +670,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **PhyX** | [PhyX: Does Your Model Have the "Wits" for Physical Reasoning?](https://arxiv.org/abs/2505.15929) | [Link](https://github.com/NastyMarcus/PhyX) | A large-scale benchmark designed to assess physics-grounded reasoning capacity in visual scenarios |
 | **Inst-IT Bench** | [Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning](https://arxiv.org/pdf/2412.03565) | [Link](https://github.com/inst-it/inst-it) | A benchmark to evaluate fine-grained instance-level understanding in images and videos |
 | **M<sup>3</sup>CoT** | [M<sup>3</sup>CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought](https://arxiv.org/pdf/2405.16473) | [Link](https://github.com/LightChen233/M3CoT) | A multi-domain, multi-step benchmark for multimodal CoT |
 | **MMGenBench** | [MMGenBench: Evaluating the Limits of LMMs from the Text-to-Image Generation Perspective](https://arxiv.org/pdf/2411.14062) | [Link](https://github.com/lerogo/MMGenBench) | A benchmark that gauges the performance of constructing image-generation prompt given an image |
