@@ -116,7 +116,9 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**](https://arxiv.org/pdf/2505.23661) | arXiv | 2025-05-29 | [Github](https://github.com/wusize/OpenUni) | - |
+| ![Star](https://img.shields.io/github/stars/egolife-ai/Ego-R1.svg?style=social&label=Star) <br> [**Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning**](https://arxiv.org/pdf/2506.13654) <br> | arXiv | 2025-06-16 | [Github](https://github.com/egolife-ai/Ego-R1) | - |
+| ![Star](https://img.shields.io/github/stars/XiaomiMiMo/MiMo-VL.svg?style=social&label=Star) <br> [**MiMo-VL Technical Report**](https://arxiv.org/pdf/2506.03569) <br> | arXiv | 2025-06-04 | [Github](https://github.com/XiaomiMiMo/MiMo-VL) | - |
+| ![Star](https://img.shields.io/github/stars/wusize/OpenUni.svg?style=social&label=Star) <br> [**OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**](https://arxiv.org/pdf/2505.23661) <br> | arXiv | 2025-05-29 | [Github](https://github.com/wusize/OpenUni) | - |
 | ![Star](https://img.shields.io/github/stars/bytedance-seed/BAGEL.svg?style=social&label=Star) <br> [**Emerging Properties in Unified Multimodal Pretraining**](https://arxiv.org/pdf/2505.14683) <br> | arXiv | 2025-05-23 | [Github](https://github.com/bytedance-seed/BAGEL) | [Demo](https://demo.bagel-ai.org/) |
 | ![Star](https://img.shields.io/github/stars/Gen-Verse/MMaDA.svg?style=social&label=Star) <br> [**MMaDA: Multimodal Large Diffusion Language Models**](https://arxiv.org/pdf/2505.15809) <br> | arXiv | 2025-05-21 | [Github](https://github.com/Gen-Verse/MMaDA) | [Demo](https://huggingface.co/spaces/Gen-Verse/MMaDA) |
 | [**UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation**](https://arxiv.org/pdf/2505.14682) | arXiv | 2025-05-20 | - | - |
