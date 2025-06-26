@@ -116,6 +116,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-search-r1.svg?style=social&label=Star) <br> [**MMSearch-R1: Incentivizing LMMs to Search**](https://arxiv.org/pdf/2506.20670) <br> | arXiv | 2025-06-25 | [Github](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1) | - |
 | ![Star](https://img.shields.io/github/stars/showlab/Show-o.svg?style=social&label=Star) <br> [**Show-o2: Improved Native Unified Multimodal Models**](https://arxiv.org/pdf/2506.15564) <br> | arXiv | 2025-06-18 | [Github](https://github.com/showlab/Show-o) | - |
 | [**Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities**](https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf) | Google | 2025-06-17 | - | - |
 | ![Star](https://img.shields.io/github/stars/egolife-ai/Ego-R1.svg?style=social&label=Star) <br> [**Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning**](https://arxiv.org/pdf/2506.13654) <br> | arXiv | 2025-06-16 | [Github](https://github.com/egolife-ai/Ego-R1) | - |
