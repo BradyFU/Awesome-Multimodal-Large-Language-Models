@@ -116,6 +116,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Qwen VLo: From "Understanding" the World to "Depicting" It**](https://qwenlm.github.io/blog/qwen-vlo/) | Qwen | 2025-06-26 | - | [Demo](https://chat.qwen.ai/) |
 | ![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-search-r1.svg?style=social&label=Star) <br> [**MMSearch-R1: Incentivizing LMMs to Search**](https://arxiv.org/pdf/2506.20670) <br> | arXiv | 2025-06-25 | [Github](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1) | - |
 | ![Star](https://img.shields.io/github/stars/showlab/Show-o.svg?style=social&label=Star) <br> [**Show-o2: Improved Native Unified Multimodal Models**](https://arxiv.org/pdf/2506.15564) <br> | arXiv | 2025-06-18 | [Github](https://github.com/showlab/Show-o) | - |
 | [**Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities**](https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf) | Google | 2025-06-17 | - | - |
