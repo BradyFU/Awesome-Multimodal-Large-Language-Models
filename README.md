@@ -116,6 +116,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/lxtGH/DenseWorld-1M.svg?style=social&label=Star) <br> [**DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World**](https://arxiv.org/pdf/2506.24102) <br> | arXiv | 2025-06-30 | [Github](https://github.com/lxtGH/DenseWorld-1M) | - |
 | [**Qwen VLo: From "Understanding" the World to "Depicting" It**](https://qwenlm.github.io/blog/qwen-vlo/) | Qwen | 2025-06-26 | - | [Demo](https://chat.qwen.ai/) |
 | ![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-search-r1.svg?style=social&label=Star) <br> [**MMSearch-R1: Incentivizing LMMs to Search**](https://arxiv.org/pdf/2506.20670) <br> | arXiv | 2025-06-25 | [Github](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1) | - |
 | ![Star](https://img.shields.io/github/stars/showlab/Show-o.svg?style=social&label=Star) <br> [**Show-o2: Improved Native Unified Multimodal Models**](https://arxiv.org/pdf/2506.15564) <br> | arXiv | 2025-06-18 | [Github](https://github.com/showlab/Show-o) | - |
