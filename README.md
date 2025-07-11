@@ -116,6 +116,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/THUDM/GLM-4.1V-Thinking.svg?style=social&label=Star) <br> [**GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning**](https://arxiv.org/pdf/2507.01006) <br> | arXiv | 2025-07-02 | [Github](https://github.com/THUDM/GLM-4.1V-Thinking) | [Demo](https://huggingface.co/spaces/THUDM/GLM-4.1V-9B-Thinking-API-Demo) |
 | ![Star](https://img.shields.io/github/stars/lxtGH/DenseWorld-1M.svg?style=social&label=Star) <br> [**DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World**](https://arxiv.org/pdf/2506.24102) <br> | arXiv | 2025-06-30 | [Github](https://github.com/lxtGH/DenseWorld-1M) | - |
 | [**Qwen VLo: From "Understanding" the World to "Depicting" It**](https://qwenlm.github.io/blog/qwen-vlo/) | Qwen | 2025-06-26 | - | [Demo](https://chat.qwen.ai/) |
 | ![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-search-r1.svg?style=social&label=Star) <br> [**MMSearch-R1: Incentivizing LMMs to Search**](https://arxiv.org/pdf/2506.20670) <br> | arXiv | 2025-06-25 | [Github](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1) | - |
