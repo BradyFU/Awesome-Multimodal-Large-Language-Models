@@ -116,6 +116,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/Zhoues/RoboRefer.svg?style=social&label=Star) <br> [**RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics**](https://arxiv.org/abs/2506.04308) <br> | arXiv | 2025-06-04 | [Github](https://github.com/Zhoues/RoboRefer) | [Demo](https://huggingface.co/Zhoues/RoboRefer-2B-SFT) |
 | ![Star](https://img.shields.io/github/stars/THUDM/GLM-4.1V-Thinking.svg?style=social&label=Star) <br> [**GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning**](https://arxiv.org/pdf/2507.01006) <br> | arXiv | 2025-07-02 | [Github](https://github.com/THUDM/GLM-4.1V-Thinking) | [Demo](https://huggingface.co/spaces/THUDM/GLM-4.1V-9B-Thinking-API-Demo) |
 | ![Star](https://img.shields.io/github/stars/lxtGH/DenseWorld-1M.svg?style=social&label=Star) <br> [**DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World**](https://arxiv.org/pdf/2506.24102) <br> | arXiv | 2025-06-30 | [Github](https://github.com/lxtGH/DenseWorld-1M) | - |
 | [**Qwen VLo: From "Understanding" the World to "Depicting" It**](https://qwenlm.github.io/blog/qwen-vlo/) | Qwen | 2025-06-26 | - | [Demo](https://chat.qwen.ai/) |
@@ -441,6 +442,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## LLM-Aided Visual Reasoning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/Zhoues/RoboRefer.svg?style=social&label=Star) <br> [**RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics**](https://arxiv.org/abs/2506.04308) <br> | arXiv | 2025-06-04 | [Github](https://github.com/Zhoues/RoboRefer) | [Demo](https://huggingface.co/Zhoues/RoboRefer-2B-SFT) |
 | ![Star](https://img.shields.io/github/stars/yhy-2000/VideoDeepResearch.svg?style=social&label=Star) <br> [**VideoDeepResearch: Long Video Understanding With Agentic Tool Using**](https://arxiv.org/pdf/2506.10821) <br> | arXiv | 2025-06-12 | [Github](https://github.com/yhy-2000/VideoDeepResearch) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/LaVi-Lab/Visual-Table.svg?style=social&label=Star) <br> [**Beyond Embeddings: The Promise of Visual Table in Multi-Modal Models**](https://arxiv.org/pdf/2403.18252.pdf) <br> | arXiv | 2024-03-27 | [Github](https://github.com/LaVi-Lab/Visual-Table) | - |
 | ![Star](https://img.shields.io/github/stars/penghao-wu/vstar.svg?style=social&label=Star) <br> [**V∗: Guided Visual Search as a Core Mechanism in Multimodal LLMs**](https://arxiv.org/pdf/2312.14135.pdf) <br> | arXiv | 2023-12-21 | [Github](https://github.com/penghao-wu/vstar) | Local Demo |
@@ -477,6 +479,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Foundation Models
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/Zhoues/RoboRefer.svg?style=social&label=Star) <br> [**RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics**](https://arxiv.org/abs/2506.04308) <br> | arXiv | 2025-06-04 | [Github](https://github.com/Zhoues/RoboRefer) | [Demo](https://huggingface.co/Zhoues/RoboRefer-2B-SFT) |
 | ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA3.svg?style=social&label=Star) <br> [**VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding**](https://arxiv.org/pdf/2501.13106) <br> | arXiv | 2025-01-22 | [Github](https://github.com/DAMO-NLP-SG/VideoLLaMA3) | [Demo](https://huggingface.co/spaces/lixin4ever/VideoLLaMA3) |
 | ![Star](https://img.shields.io/github/stars/baaivision/Emu3.svg?style=social&label=Star) <br> [**Emu3: Next-Token Prediction is All You Need**](https://arxiv.org/pdf/2409.18869) <br> | arXiv | 2024-09-27 | [Github](https://github.com/baaivision/Emu3) | Local Demo |
 | [**Llama 3.2: Revolutionizing edge AI and vision with open, customizable models**](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/) | Meta | 2024-09-25 | - | [Demo](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) | 
@@ -511,6 +514,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/Zhoues/RoboRefer.svg?style=social&label=Star) <br> [**RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics**](https://arxiv.org/abs/2506.04308) <br> | arXiv | 2025-06-04 | [Github](https://zhoues.github.io/RoboRefer/) |
 | ![Stars](https://img.shields.io/github/stars/lerogo/MMGenBench?style=social&label=Star) <br> [**Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces**](https://arxiv.org/pdf/2412.14171) <br> | arXiv | 2024-12-18 | [Github](https://github.com/vision-x-nyu/thinking-in-space) |
 | ![Stars](https://img.shields.io/github/stars/lerogo/MMGenBench?style=social&label=Star) <br> [**MMGenBench: Evaluating the Limits of LMMs from the Text-to-Image Generation Perspective**](https://arxiv.org/pdf/2411.14062) <br> | arXiv | 2024-11-21 | [Github](https://github.com/lerogo/MMGenBench) | 
 | ![Stars](https://img.shields.io/github/stars/multimodal-art-projection/OmniBench?style=social&label=Star) <br> [**OmniBench: Towards The Future of Universal Omni-Language Models**](https://arxiv.org/pdf/2409.15272) <br> | arXiv | 2024-09-23 | [Github](https://github.com/multimodal-art-projection/OmniBench) | 
@@ -614,6 +618,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Datasets of Multimodal Instruction Tuning
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **RefSpatial** | [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308)| [Link](https://huggingface.co/datasets/JingkunAn/RefSpatial) | A 3D spatial relationships and object referring dataset, containing 31 distinct spatial relations and 2.5 million samples |
 | **Inst-IT Dataset** | [Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning](https://arxiv.org/pdf/2412.03565) | [Link](https://github.com/inst-it/inst-it) | An instruction-tuning dataset which contains fine-grained multi-level annotations for 21k videos and 51k images |
 | **E.T. Instruct 164K** | [E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding](https://arxiv.org/pdf/2409.18111) | [Link](https://github.com/PolyU-ChenLab/ETBench) | An instruction-tuning dataset for time-sensitive video understanding |
 | **MSQA** | [Multi-modal Situated Reasoning in 3D Scenes](https://arxiv.org/pdf/2409.02389) | [Link](https://msr3d.github.io/) | A large scale dataset for multi-modal situated reasoning in 3D scenes |
@@ -678,6 +683,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **RefSpatial-Bench** | [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308)| [Link](https://huggingface.co/datasets/BAAI/RefSpatial-Bench) | A new benchmark that fills the gap in evaluating spatial referring with multi-step reasoning. Over 70% of the tasks require multi-step reasoning (up to 5 steps) |
 | **Inst-IT Bench** | [Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning](https://arxiv.org/pdf/2412.03565) | [Link](https://github.com/inst-it/inst-it) | A benchmark to evaluate fine-grained instance-level understanding in images and videos |
 | **M<sup>3</sup>CoT** | [M<sup>3</sup>CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought](https://arxiv.org/pdf/2405.16473) | [Link](https://github.com/LightChen233/M3CoT) | A multi-domain, multi-step benchmark for multimodal CoT |
 | **MMGenBench** | [MMGenBench: Evaluating the Limits of LMMs from the Text-to-Image Generation Perspective](https://arxiv.org/pdf/2411.14062) | [Link](https://github.com/lerogo/MMGenBench) | A benchmark that gauges the performance of constructing image-generation prompt given an image |
