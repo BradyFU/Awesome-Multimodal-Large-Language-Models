@@ -339,6 +339,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Hallucination
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/pspdada/SENTINEL.svg?style=social&label=Star) <br> [**Mitigating Object Hallucinations via Sentence-Level Early Intervention**](https://arxiv.org/pdf/2507.12455) <br> | ICCV | 2025-07-21 | [Github](https://github.com/pspdada/SENTINEL) | - |
 | ![Star](https://img.shields.io/github/stars/1zhou-Wang/MemVR.svg?style=social&label=Star) <br> [**Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models**](https://arxiv.org/pdf/2410.03577) <br> | arXiv | 2024-10-04 | [Github](https://github.com/1zhou-Wang/MemVR) | - |
 | ![Star](https://img.shields.io/github/stars/nickjiang2378/vl-interp.svg?style=social&label=Star) <br> [**Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations**](https://arxiv.org/pdf/2410.02762) <br> | arXiv | 2024-10-03 | [Github](https://github.com/nickjiang2378/vl-interp/) | - |
 | [**FIHA: Autonomous Hallucination Evaluation in Vision-Language Models with Davidson Scene Graphs**](https://arxiv.org/pdf/2409.13612) | arXiv | 2024-09-20 | [Link](https://anonymous.4open.science/r/FIHA-45BB) | - | 
