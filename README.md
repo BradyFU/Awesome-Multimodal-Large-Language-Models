@@ -116,6 +116,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/yfzhang114/Thyme.svg?style=social&label=Star) <br> [**Thyme: Think Beyond Images**](https://arxiv.org/pdf/2508.11630) <br> | arXiv | 2025-08-18 | [Github](https://github.com/yfzhang114/Thyme) | [Demo](https://thyme-vl.github.io/) |
 | [**Introducing GPT-5**](https://openai.com/index/introducing-gpt-5/) | OpenAI | 2025-08-07 | - | - |
 | ![Star](https://img.shields.io/github/stars/rednote-hilab/dots.vlm1.svg?style=social&label=Star) <br> [**dots.vlm1**](https://github.com/rednote-hilab/dots.vlm1) <br> | rednote-hilab | 2025-08-06 | [Github](https://github.com/rednote-hilab/dots.vlm1) | [Demo](https://huggingface.co/spaces/rednote-hilab/dots-vlm1-demo) | 
 | ![Star](https://img.shields.io/github/stars/THUDM/GLM-4.1V-Thinking.svg?style=social&label=Star) <br> [**Step3: Cost-Effective Multimodal Intelligence**](https://stepfun.ai/research/step3) <br> | StepFun | 2025-07-31 | [Github](https://github.com/stepfun-ai/Step3) | [Demo](https://stepfun.com/) |
