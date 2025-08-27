@@ -116,6 +116,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| **MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and Video Understanding on Your Phone** | - | 2025-08-26 | [Github](https://github.com/OpenBMB/MiniCPM-o) | [Demo](http://101.126.42.235:30910/) |
 | ![Star](https://img.shields.io/github/stars/yfzhang114/Thyme.svg?style=social&label=Star) <br> [**Thyme: Think Beyond Images**](https://arxiv.org/pdf/2508.11630) <br> | arXiv | 2025-08-18 | [Github](https://github.com/yfzhang114/Thyme) | [Demo](https://thyme-vl.github.io/) |
 | [**Introducing GPT-5**](https://openai.com/index/introducing-gpt-5/) | OpenAI | 2025-08-07 | - | - |
 | ![Star](https://img.shields.io/github/stars/rednote-hilab/dots.vlm1.svg?style=social&label=Star) <br> [**dots.vlm1**](https://github.com/rednote-hilab/dots.vlm1) <br> | rednote-hilab | 2025-08-06 | [Github](https://github.com/rednote-hilab/dots.vlm1) | [Demo](https://huggingface.co/spaces/rednote-hilab/dots-vlm1-demo) | 
