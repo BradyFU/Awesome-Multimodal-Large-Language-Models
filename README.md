@@ -595,6 +595,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Datasets of Pre-Training for Alignment
 | Name | Paper | Type | Modalities |
 |:-----|:-----:|:----:|:----------:|
+| **LiveXiv** | [LiveXiv - A Multi-Modal Live Benchmark Based on Arxiv Papers Content](https://arxiv.org/abs/2410.10783) | [Link](https://huggingface.co/datasets/LiveXiv/LiveXiv) | A large-scale scientific live multi-modal dataset for LMMs evaluation|
 | **ShareGPT4Video** | [ShareGPT4Video: Improving Video Understanding and Generation with Better Captions](https://arxiv.org/pdf/2406.04325v1) | Caption | Video-Text |
 | **COYO-700M** | [COYO-700M: Image-Text Pair Dataset](https://github.com/kakaobrain/coyo-dataset/) | Caption | Image-Text |
 | **ShareGPT4V** | [ShareGPT4V: Improving Large Multi-Modal Models with Better Captions](https://arxiv.org/pdf/2311.12793.pdf) | Caption | Image-Text |
