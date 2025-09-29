@@ -193,7 +193,7 @@
 | **OmniACT**        | [OmniACT](https://arxiv.org/abs/2402.17553)            | 2024 | 9.8K   | en       | Image    | [omniact](https://huggingface.co/datasets/Writer/omniact)    |
 | **GUI-World**      | [GUI-World](https://arxiv.org/abs/2406.10819)          | 2024 | 12.4K  | en       | Video    | [GUI-World](https://huggingface.co/datasets/ONE-Lab/GUI-World) |
 
-# Reasoning
+# Awesome Reasoning Datasets
 
 |                             Name                             |                            Paper                             | Year | Volume |                             Link                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: | :----: | :----------------------------------------------------------: |
@@ -217,7 +217,7 @@
 |                        VisualPRM400K                         | [Visualprm: An effective process reward model for multimodal reasoning](https://arxiv.org/abs/2503.10291) | 2025 |  400K  | [VisualPRM400K](https://huggingface.co/datasets/OpenGVLab/VisualPRM400K) |
 |                          MMPR-Tiny                           | [Internvl3. 5: Advancing open-source multimodal models in versatility, reasoning, and efficiency](https://arxiv.org/abs/2508.18265) | 2025 |  70K   | [MMPR-Tiny](https://huggingface.co/datasets/OpenGVLab/MMPR-Tiny) |
 
-# Thinking With Images
+# Awesome Thinking With Images Datasets
 
 
 ### SFT Date
