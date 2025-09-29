@@ -14,10 +14,10 @@
   - [Conversation](#conversation)
   - [Medical](#medical)
   - [GUI](#gui)
-- [Awesome Reasoning Datasets](#)
-- [Awesome Thinking With Images Datasets](#sft-datasets)
-   - [SFT Date](#gui)
-   - [RL Date](#gui)
+- [Awesome Reasoning Datasets](#awesome-reasoning-datasets)
+- [Awesome Thinking With Images Datasets](#awesome-thinking-with-images-datasets)
+   - [SFT Date](#sft-date)
+   - [RL Date](#rl-data)
 ---
 
 # Awesome SFT Datasets
