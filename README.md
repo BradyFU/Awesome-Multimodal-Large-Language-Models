@@ -1,7 +1,6 @@
-# SFT Datasets
+# Datasets
 
 <font size=5><center><b> Table of Contents </b> </center></font>
-- [SFT Datasets](#sft-datasets)
 - [Awesome SFT Datasets](#awesome-sft-datasets)
   - [Caption](#caption)
   - [General VQA](#general-vqa)
