@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <img src="./images/survey-alignment.jpg" width="80%" height="80%">
+    <img src="./images/tree.svg" width="99%" height="80%">
 </p>
 
 <font size=7><div align='center' > [[📖 arXiv Paper](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)] [[💬 WeChat (MLLM微信交流群，欢迎加入)](./images/wechat-group.png)]</div></font>  
