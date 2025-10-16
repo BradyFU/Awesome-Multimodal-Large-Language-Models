@@ -22,13 +22,13 @@
         - [Autoregressive](#Autoregressive)
         - [Diffusion](#Diffusion)
         - [Hybrid](#Hybrid)
-- [ENCODING](#ENCODING)
+- [Encoding](#ENCODING)
     - [Continuous Representation](#Continuous-Representation)
     - [Discrete Representation](#Discrete-Representation)
     - [Hybrid Representation](#Hybrid-Representation)
         - [Cascade Encoding Strategy](#Cascade-Encoding-Strategy)
         - [Dual-Branch Hybrid Encoding](#Dual-Branch-Hybrid-Encoding)
-- [DECODING](#DECODING)
+- [Decoding](#DECODING)
     - [Continuous Representation](#Continuous-Representation)
         - [External Generation](#External-Generation)
         - [Internal Generation](#Internal-Generation)
@@ -37,9 +37,10 @@
 - [Training Dataset](#Training-Dataset)
 - [Benchmark](#Benchmark)
 
-# Application Scenarios
-## General Image Understanding
-### Mitigating Hallucinations
+# Modeling
+## External Expert Integration Modeling
+## Modular Joint Modeling
+### Prompt-Mediated
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![GitHub Repo stars](https://img.shields.io/github/stars/taco-group/Re-Align?style=social) <br> [**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**](https://www.arxiv.org/abs/2502.13146) <br> | arXiv | 2025-02 | [Github](https://github.com/taco-group/Re-Align) | [Page](https://taco-group.github.io/Re-Align/) |
