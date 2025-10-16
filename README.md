@@ -72,27 +72,6 @@
 | ![Star](https://img.shields.io/github/stars/llava-rlhf/LLaVA-RLHF?style=social) <br> [**Aligning Large Multimodal Models with Factually Augmented RLHF**](https://arxiv.org/abs/2309.14525) <br> | arXiv | 2023-09 | [Github](https://github.com/llava-rlhf/LLaVA-RLHF) |  [Page](https://llava-rlhf.github.io/) | 
 | ![Star](https://img.shields.io/github/stars/RLHF-V/RLHF-V?style=social) <br> [**RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback**](https://arxiv.org/abs/2309.14525) <br> | arXiv | 2023-09 | [Github](https://github.com/RLHF-V/RLHF-V) |  [Page](https://rlhf-v.github.io/) |
 | ![Star](https://img.shields.io/github/stars/hendryx-scale/mhal-detect?style=social) <br> [**Detecting and Preventing Hallucinations in Large Vision Language Models**](https://arxiv.org/abs/2308.06394) <br> | arXiv | 2023-08 | [Github](https://github.com/hendryx-scale/mhal-detect) | - |
-### Enhancing Comprehensive Capabilities
-|  Title  |   Venue  |   Date   |   Code   |   Page   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| ![GitHub Repo stars](https://img.shields.io/github/stars/Kwai-YuanQi/MM-RLHF?style=social) <br> [**MM-RLHF: The Next Step Forward in Multimodal LLM Alignment**](https://arxiv.org/abs/2502.10391) <br> | arXiv | 2025-02 | [Github](https://github.com/Kwai-YuanQi/MM-RLHF) | [Page](https://mm-rlhf.github.io/) |
-| ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen2.5-VL?style=social) <br> [**Qwen2.5-VL Technical Report**](https://arxiv.org/abs/2502.13923) <br> | arXiv | 2025-02 | [Github](https://github.com/QwenLM/Qwen2.5-VL) | [Page](https://qwenlm.github.io/zh/blog/qwen2.5-vl/) |
-| ![GitHub Repo stars](https://img.shields.io/github/stars/PhoenixZ810/OmniAlign-V?style=social) <br> [**OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference**](https://arxiv.org/abs/2502.18411) <br> | arXiv | 2025-02 | [Github](https://github.com/PhoenixZ810/OmniAlign-V) | - |
-| ![GitHub Repo stars](https://img.shields.io/github/stars/pds-dpo/pds-dpo?style=social) <br> [**Multimodal Preference Data Synthetic Alignment with Reward Model**](https://arxiv.org/abs/2412.17417) <br> | arXiv | 2024-12 | [Github](https://github.com/pds-dpo/pds-dpo) | [Page](https://pds-dpo.github.io/) |
-| ![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social) <br> [**Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization**](https://arxiv.org/abs/2411.10442) <br> | arXiv | 2024-11 | [Github](https://github.com/OpenGVLab/InternVL/tree/main) | [Page](https://internvl.github.io/blog/2024-12-20-InternVL-2.5-MPO/) |
-|[**vVLM: Exploring Visual Reasoning in VLMs against Language Priors**](https://openreview.net/forum?id=lCqNxBGPp5) <br> | openreview | 2024-10 | - | - |
-| ![GitHub Repo stars](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social) <br> [**LLaVA-Critic: Learning to Evaluate Multimodal Models**](https://arxiv.org/abs/2410.02712) <br> | arXiv | 2024-10 | [Github](https://github.com/LLaVA-VL/LLaVA-NeXT) | [Page](https://llava-vl.github.io/blog/2024-10-03-llava-critic/) |
-|[**CLIP-DPO: Vision-Language Models as a Source of Preference for Fixing Hallucinations in LVLMs**](https://arxiv.org/abs/2408.10433) <br> | arXiv | 2024-08 | - | - |
-|[**Enhancing Visual-Language Modality Alignment in Large Vision Language Models via Self-Improvement**](https://arxiv.org/abs/2405.15973) <br> | arXiv | 2024-05 | - | - |
-| ![GitHub Repo stars](https://img.shields.io/github/stars/vlf-silkie/VLFeedback?style=social) <br> [**Silkie: Preference Distillation for Large Visual Language Models**](https://arxiv.org/abs/2312.10665) <br> | arXiv | 2023-12 | [Github](https://github.com/vlf-silkie/VLFeedback) | [Page](https://vlf-silkie.github.io/) |
-### Multi-modal O1 Development
-|  Title  |   Venue  |   Date   |   Code   |   Page   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| ![GitHub Repo stars](https://img.shields.io/github/stars/TideDra/lmm-r1?style=social) <br> [**LMM-R1**](https://github.com/TideDra/lmm-r1) <br> | github | 2025-02 | [Github](https://github.com/TideDra/lmm-r1) | - |
-| ![GitHub Repo stars](https://img.shields.io/github/stars/Wang-Xiaodong1899/Open-R1-Video?style=social) <br> [**Open-R1-Video**](https://github.com/Wang-Xiaodong1899/Open-R1-Video) <br> | github | 2025-02 | [Github](https://github.com/Wang-Xiaodong1899/Open-R1-Video) | - |
-| ![GitHub Repo stars](https://img.shields.io/github/stars/om-ai-lab/VLM-R1?style=social) <br> [**VLM-R1: A stable and generalizable R1-style Large Vision-Language Model**](https://github.com/om-ai-lab/VLM-R1) <br> | github | 2025-02 | [Github](https://github.com/om-ai-lab/VLM-R1) | - |
-| ![GitHub Repo stars](https://img.shields.io/github/stars/Deep-Agent/R1-V?style=social) <br> [**R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3**](https://github.com/Deep-Agent/R1-V) <br> | github | 2025-02 | [Github](https://github.com/Deep-Agent/R1-V) | - |
-| ![GitHub Repo stars](https://img.shields.io/github/stars/hiyouga/EasyR1?style=social) <br> [**EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework**](https://github.com/hiyouga/EasyR1) <br> | github | 2025-02 | [Github](https://github.com/hiyouga/EasyR1) | - |
 ## End-to-End Unified Modeling
 ### Autoregressive
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
