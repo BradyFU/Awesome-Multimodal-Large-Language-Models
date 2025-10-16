@@ -1,4 +1,4 @@
-# Aligning Multimodal LLM with Human Preference: A Survey
+# A Survey of Unified Multimodal Understanding and Generation: Advances and Challenges
 
 
 <p align="center">
