@@ -116,6 +116,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-OCR.svg?style=social&label=Star) <br> [**DeepSeek-OCR: Contexts Optical Compression**](https://arxiv.org/pdf/2510.18234) <br> | arXiv | 2025-10-21 | [Github](https://github.com/deepseek-ai/DeepSeek-OCR) | - |
 | ![Star](https://img.shields.io/github/stars/NVlabs/OmniVinci.svg?style=social&label=Star) <br> [**OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding LLM**](https://arxiv.org/pdf/2510.15870) <br> | arXiv | 2025-10-17 | [Github](https://github.com/NVlabs/OmniVinci) | - |
 | ![Star](https://img.shields.io/github/stars/SenseTime-FVG/InteractiveOmni.svg?style=social&label=Star) <br> [**InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue**](https://arxiv.org/pdf/2510.13747) | arXiv | 2025-10-15 | [Github](https://github.com/SenseTime-FVG/InteractiveOmni) | - |
 | ![Star](https://img.shields.io/github/stars/Tencent/VITA.svg?style=social&label=Star) <br> [**VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation**](https://arxiv.org/pdf/2510.09607) <br> | arXiv | 2025-10-10 | [Github](https://github.com/Tencent/VITA/tree/VITA-VLA) | - |
