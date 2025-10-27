@@ -174,10 +174,11 @@
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![GitHub Repo stars](https://img.shields.io/github/stars/jy0205/LaVIT?style=social) <br> [**Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization**](https://arxiv.org/pdf/2309.04669) <br> | ICLR | 2023-09 | [Github](https://github.com/jy0205/LaVIT) | - |
 
-# Training Dataset
+<!-- # Training Dataset
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 
+
 # Benchmark
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|:--------|:--------:|:--------:|:--------:|:--------:| -->
