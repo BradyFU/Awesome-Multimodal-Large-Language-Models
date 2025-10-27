@@ -30,8 +30,8 @@
     - [Continuous Representation](#Continuous-Representation-1)
     - [Discrete Representation](#Discrete-Representation-1)
     - [Hybrid Representation](#Hybrid-Representation-1)
-- [Training Dataset](#Training-Dataset)
-- [Benchmark](#Benchmark)
+<!-- - [Training Dataset](#Training-Dataset)
+- [Benchmark](#Benchmark) -->
 
 # Modeling
 
