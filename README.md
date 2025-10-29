@@ -7,7 +7,7 @@
 
 <font size=6><div align='center' > [[📖 arXiv Paper](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)] [[💬 WeChat (MLLM微信交流群，欢迎加入)](./images/wechat-group.png)]</div></font>  
 
-<font size=6><div align='center' > A comprehensive overview of the unified multimodal understanding and generation models ✨ </div></font>
+<font size=6><div align='center' > A comprehensive overview of the unified multimodal understanding and generation models! ✨ </div></font>
 
 
 ---
