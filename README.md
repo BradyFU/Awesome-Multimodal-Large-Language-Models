@@ -13,32 +13,32 @@
 ---
 
 ## Table of Contents
-- [Modeling](#modeling)
-    - [External Expert Integration Modeling](#External-Expert-Integration-Modeling)
-    - [Modular Joint Modeling](#Modular-Joint-Modeling)
+- [1.Modeling](#1modeling)
+    - [1.1.External Expert Integration Modeling](#11External-Expert-Integration-Modeling)
+    - [1.2.Modular Joint Modeling](#12Modular-Joint-Modeling)
         - [Prompt-Mediated](#Prompt-Mediated)
         - [Representation-Mediated](#Representation-Mediated)
-    - [End-to-End Unified Modeling](#End-to-End-Unified-Modeling)
+    - [1.3.End-to-End Unified Modeling](#13End-to-End-Unified-Modeling)
         - [Autoregressive](#Autoregressive)
         - [Diffusion](#Diffusion)
         - [Hybrid](#Hybrid)
-- [Encoding](#Encoding)
-    - [Continuous Representation](#Continuous-Representation)
-    - [Discrete Representation](#Discrete-Representation)
-    - [Hybrid Representation](#Hybrid-Representation)
-- [Decoding](#Decoding)
-    - [Continuous Representation](#Continuous-Representation-1)
-    - [Discrete Representation](#Discrete-Representation-1)
-    - [Hybrid Representation](#Hybrid-Representation-1)
+- [2.Encoding](#2Encoding)
+    - [2.1.Continuous Representation](#21Continuous-Representation)
+    - [2.2.Discrete Representation](#22Discrete-Representation)
+    - [2.3.Hybrid Representation](#23Hybrid-Representation)
+- [3.Decoding](#3Decoding)
+    - [3.1.Continuous Representation](#31Continuous-Representation)
+    - [3.2.Discrete Representation](#32Discrete-Representation)
+    - [3.3.Hybrid Representation](#33Hybrid-Representation)
 <!-- - [Training Dataset](#Training-Dataset) -->
-- [Benchmark](#Benchmark)
-    - [Understanding](#Understanding)
-    - [Generation](#Generation)
-    - [Mix-Modaility Generation](#Mix-Modaility-Generation)
+- [4.Benchmark](#4Benchmark)
+    - [4.1.Understanding](#41Understanding)
+    - [4.2.Generation](#42Generation)
+    - [4.3.Mix-Modaility Generation](#43Mix-Modaility-Generation)
 
-# Modeling
+# 1.Modeling
 
-## External Expert Integration Modeling
+## 1.1.External Expert Integration Modeling
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![GitHub Repo stars](https://img.shields.io/github/stars/chenfei-wu/TaskMatrix?style=social) <br> [**Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**](https://arxiv.org/pdf/2303.04671) <br> | arXiv | 2023-03 | [Github](https://github.com/chenfei-wu/TaskMatrix) | - |
@@ -47,7 +47,7 @@
 | ![GitHub Repo stars](https://img.shields.io/github/stars/0nutation/SpeechGPT?style=social) <br> [**SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities**](https://arxiv.org/pdf/2305.11000) <br> | arXiv | 2023-05 | [Github](https://github.com/0nutation/SpeechGPT) | - |
 
 
-## Modular Joint Modeling
+## 1.2.Modular Joint Modeling
 ### Prompt-Mediated
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -75,7 +75,7 @@
 
 
 
-## End-to-End Unified Modeling
+## 1.3.End-to-End Unified Modeling
 ### Autoregressive
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -108,8 +108,8 @@
 | ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance-seed/BAGEL?style=social) <br> [**Emerging Properties in Unified Multimodal Pretraining**](https://arxiv.org/pdf/2505.14683) <br> | arXiv | 2025-05 | [Github](https://github.com/bytedance-seed/BAGEL) | [Page](https://bagel-ai.org/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/arctanxarc/UniCTokens?style=social) <br> [**UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens**](https://arxiv.org/pdf/2505.14671v1) <br> | arXiv | 2025-05 | [Github](https://github.com/arctanxarc/UniCTokens) | - |
 
-# Encoding
-## Continuous Representation
+# 2.Encoding
+## 2.1.Continuous Representation
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![GitHub Repo stars](https://img.shields.io/github/stars/OFA-Sys/OFA?style=social) <br> [**OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework**](https://arxiv.org/pdf/2202.03052) <br> | ICML | 2022-02 | [Github](https://github.com/OFA-Sys/OFA) | - |
@@ -127,14 +127,14 @@
 | ![GitHub Repo stars](https://img.shields.io/github/stars/showlab/Show-o?style=social) <br> [**Show-o2: Improved Native Unified Multimodal Models**](https://arxiv.org/pdf/2506.15564) <br> | arXiv | 2025-06 | [Github](https://github.com/showlab/Show-o) | - |
 
 
-## Discrete Representation
+## 2.2.Discrete Representation
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![GitHub Repo stars](https://img.shields.io/github/stars/MIO-Team/MIO?style=social) <br> [**MIO: A Foundation Model on Multimodal Tokens**](https://arxiv.org/pdf/2409.17692) <br> | arXiv | 2024-09 | [Github](https://github.com/MIO-Team/MIO) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/FoundationVision/Liquid?style=social) <br> [**Liquid: Language Models are Scalable Multi-modal Generators**](https://arxiv.org/pdf/2412.04332) <br> | arXiv | 2024-12 | [Github](https://github.com/FoundationVision/Liquid) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/tliby/UniFork?style=social) <br> [**UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation**](https://arxiv.org/pdf/2506.17202) <br> | arXiv | 2025-06 | [Github](https://github.com/tliby/UniFork) | - |
 
-## Hybrid Representation
+## 2.3.Hybrid Representation
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![GitHub Repo stars](https://img.shields.io/github/stars/AILab-CVC/SEED?style=social) <br> [**Planting a SEED of Vision in Large Language Model**](https://arxiv.org/pdf/2310.01218) <br> | ICLR | 2023-10 | [Github](https://github.com/AILab-CVC/SEED) | - |
@@ -151,8 +151,8 @@
 | ![GitHub Repo stars](https://img.shields.io/github/stars/csuhan/Tar?style=social) <br> [**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**](https://arxiv.org/pdf/2506.18898) <br> | arXiv | 2025-06 | [Github](https://github.com/csuhan/Tar) | [Page](https://tar.csuhan.com/) |
 
 
-# Decoding
-## Continuous Representation
+# 3.Decoding
+## 3.1.Continuous Representation
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![GitHub Repo stars](https://img.shields.io/github/stars/NExT-GPT/NExT-GPT?style=social) <br> [**NExT-GPT: Any-to-Any Multimodal LLM**](https://arxiv.org/pdf/2309.05519) <br> | ICML | 2023-09 | [Github](https://github.com/NExT-GPT/NExT-GPT) | - |
@@ -164,7 +164,7 @@
 | ![GitHub Repo stars](https://img.shields.io/github/stars/wusize/OpenUni?style=social) <br> [**OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**](https://arxiv.org/pdf/2505.23661) <br> | arXiv | 2025-05 | [Github](https://github.com/wusize/OpenUni) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/AIDC-AI/Ovis-U1?style=social) <br> [**Ovis-U1 Technical Report**](https://arxiv.org/pdf/2506.23044v1) <br> | arXiv | 2025-06 | [Github](https://github.com/AIDC-AI/Ovis-U1) | - |
 
-## Discrete Representation
+## 3.2.Discrete Representation
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![GitHub Repo stars](https://img.shields.io/github/stars/allenai/unified-io-2?style=social) <br> [**Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action**](https://arxiv.org/pdf/2312.17172) <br> | CVPR | 2023-12 | [Github](https://github.com/allenai/unified-io-2) | - |
@@ -172,7 +172,7 @@
 | ![GitHub Repo stars](https://img.shields.io/github/stars/FoundationVision/UniTok?style=social) <br> [**UniTok: A Unified Tokenizer for Visual Generation and Understanding**](https://arxiv.org/pdf/2502.20321) <br> | arXiv | 2025-02 | [Github](https://github.com/FoundationVision/UniTok) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/TencentARC/TokLIP?style=social) <br> [**TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation**](https://www.arxiv.org/pdf/2505.05422) <br> | arXiv | 2025-05 | [Github](https://github.com/TencentARC/TokLIP) | - |
 
-## Hybrid Representation
+## 3.3.Hybrid Representation
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![GitHub Repo stars](https://img.shields.io/github/stars/jy0205/LaVIT?style=social) <br> [**Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization**](https://arxiv.org/pdf/2309.04669) <br> | ICLR | 2023-09 | [Github](https://github.com/jy0205/LaVIT) | - |
@@ -186,8 +186,8 @@
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 
-# Benchmark
-## Understanding
+# 4.Benchmark
+## 4.1.Understanding
 ### Image
 |  Capability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |  Benchmarks  |
 |:-------------|:-------------|
@@ -222,7 +222,7 @@
 |:-------------|:-------------|
 | **Multi-Modality <br> Understanding**|  [ACVUBench](https://arxiv.org/abs/2503.19951), [MAVERIX](https://arxiv.org/abs/2503.21699), [MME-Unify](https://arxiv.org/abs/2504.03641), [RealUnify](https://arxiv.org/abs/2509.24897) |
 
-## Generation
+## 4.2.Generation
 ### Image
 |  Capability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |  Benchmarks  |
 |:-------------|:-------------|
@@ -246,7 +246,7 @@
 |:-------------|:-------------|
 |**Multi-Task Generation** |[ICE-Bench](https://arxiv.org/abs/2503.14482), [ImagenHub](https://arxiv.org/abs/2310.01596), [TC-Bench](https://arxiv.org/abs/2406.08656), [VideoGen-Eval](https://arxiv.org/abs/2503.23452), [GenAI-Bench](https://arxiv.org/abs/2406.04485) |
 
-## Mix-Modaility Generation
+## 4.3.Mix-Modaility Generation
 |  Capability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |  Benchmarks  |
 |:-------------|:-------------|
 |**Text-and-Image <br> Interleaved Generation** |[InterleavedEval](https://arxiv.org/abs/2406.14643), [SEED-Bench2](https://arxiv.org/abs/2311.17092), [MMIE](https://arxiv.org/abs/2410.10139), [CoMM](https://arxiv.org/abs/2412.15677), [UniEval](https://arxiv.org/abs/2505.10483), [MME-Unify](https://arxiv.org/abs/2504.03641), [RealUnify](https://arxiv.org/abs/2509.24897) |
