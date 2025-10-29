@@ -5,9 +5,9 @@
     <img src="./images/tree.svg" width="99%" height="80%">
 </p>
 
-<font size=7><div align='center' > [[📖 arXiv Paper](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)] [[💬 WeChat (MLLM微信交流群，欢迎加入)](./images/wechat-group.png)]</div></font>  
+<font size=6><div align='center' > [[📖 arXiv Paper](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)] [[💬 WeChat (MLLM微信交流群，欢迎加入)](./images/wechat-group.png)]</div></font>  
 
-<font size=7><div align='center' > The first systematic survey dedicated to MLLM alignment!  ✨ </div></font>
+<font size=6><div align='center' > A comprehensive overview of the unified multimodal understanding and generation models ✨ </div></font>
 
 
 ---
@@ -30,8 +30,11 @@
     - [Continuous Representation](#Continuous-Representation-1)
     - [Discrete Representation](#Discrete-Representation-1)
     - [Hybrid Representation](#Hybrid-Representation-1)
-<!-- - [Training Dataset](#Training-Dataset)
-- [Benchmark](#Benchmark) -->
+<!-- - [Training Dataset](#Training-Dataset) -->
+- [Benchmark](#Benchmark)
+    - [Understanding](#Understanding)
+    - [Generation](#Generation)
+    - [Mix-Modaility Generation](#Mix-Modaility-Generation)
 
 # Modeling
 
@@ -182,3 +185,68 @@
 # Benchmark
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
+
+# Benchmark
+## Understanding
+### Image
+|  Capability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |  Benchmarks  |
+|:-------------|:-------------|
+| **Foundation Capability**|  [VizWiz](https://arxiv.org/abs/1802.08218), [VQA v2.0](https://arxiv.org/abs/1612.00837), [LVLM-eHub](https://arxiv.org/abs/2306.09265), [LAMM](https://arxiv.org/pdf/2306.06687v1), [OwlEval](https://arxiv.org/abs/2304.14178), [MMBench](https://arxiv.org/abs/2307.06281), [Seed-Bench](https://arxiv.org/abs/2307.16125), [Seed-Benchv2](https://arxiv.org/abs/2311.17092), [MME](https://arxiv.org/abs/2306.13394), [MMT-Bench](https://arxiv.org/abs/2404.16006), [Blink](https://arxiv.org/abs/2404.12390), [MMStar](https://arxiv.org/abs/2403.20330), [TouchStone](https://arxiv.org/abs/2411.03670), [MMR](https://arxiv.org/abs/2406.09121), [CV-Bench](https://arxiv.org/abs/2406.16860v1), [CapArena](https://arxiv.org/abs/2503.12329), [FaceXBench](https://arxiv.org/abs/2501.10360), [MuirBench](https://arxiv.org/abs/2406.09411), [MMVP](https://arxiv.org/abs/2401.06209), [ViP-Bench](https://arxiv.org/abs/2312.00784), [MME-RealWorld](https://arxiv.org/abs/2408.13257), [VisIT-Bench](https://arxiv.org/abs/2308.06595), [RealUnify](https://arxiv.org/abs/2509.24897) |
+|**World Knowledge** |[MM-Vet](https://arxiv.org/abs/2308.02490), [ScienceQA](https://arxiv.org/abs/2209.09513), [MMMU](https://arxiv.org/abs/2401.11944), [CMMU](https://arxiv.org/abs/2401.14011), [CMMMU](https://arxiv.org/abs/2401.11944), [MMMU-Pro](https://arxiv.org/abs/2409.02813), [MDI-Benchmark](https://arxiv.org/abs/2412.12606), [WorldSense](https://arxiv.org/abs/2311.15930), [EmbodiedEval](https://arxiv.org/abs/2501.11858), [MSEarth](https://arxiv.org/abs/2505.20740) |
+|**Reasoning**|  [InfiMM-Eval](https://arxiv.org/abs/2311.11567), [MMRel](https://arxiv.org/abs/2406.09121), [VisualCoT](https://arxiv.org/abs/2403.16999), [M3CoT](https://arxiv.org/abs/2405.16473), [CRPE](https://arxiv.org/abs/2308.01907), [MiCEval](https://arxiv.org/abs/2410.14668), [GVLQA](https://proceedings.neurips.cc/paper_files/paper/2024/hash/00295cede6e1600d344b5cd6d9fd4640-Abstract-Conference.html), [MMCR](https://arxiv.org/abs/2503.18533), [CoMT](https://arxiv.org/abs/2412.12932) |
+|**OCR**|  [TextVQA](https://arxiv.org/abs/2502.07411), [Ocr-VQA](https://anandmishra22.github.io/files/mishra-OCR-VQA.pdf), [Websrc](https://arxiv.org/abs/2101.09465), [OCRBench](https://arxiv.org/abs/2501.00321), [OCRBench-v2](https://arxiv.org/abs/2501.00321), [Seed-bench-2-plus](https://arxiv.org/abs/2404.16790), [VCR-Wiki](https://arxiv.org/abs/2406.06462), [ViOCRVQA](https://arxiv.org/abs/2404.18397) |
+|**Chart and Documentation**|  [ChartQA](https://arxiv.org/abs/2203.10244), [DocVQA](https://arxiv.org/abs/2007.00398), [InfoVQA](https://arxiv.org/abs/2104.12756), [DocGenome](https://arxiv.org/abs/2406.11633), [MMLongBench-Doc](https://arxiv.org/abs/2407.01523), [CharXiv](https://arxiv.org/abs/2406.18521), [AI2D](https://arxiv.org/abs/1603.07396), [VisualMRC](https://arxiv.org/abs/2101.11272), [LEAF-QA](https://arxiv.org/abs/1907.12861), [FigureQA](https://arxiv.org/abs/1710.07300), [Charting-New-Territories](https://arxiv.org/abs/2311.14656), [MMC-Benchmark](https://arxiv.org/abs/2311.10774), [EvoChart](https://arxiv.org/abs/2409.01577), [TableBench](https://arxiv.org/abs/2408.09174) |
+|**Math**|  [MathVista](https://arxiv.org/abs/2310.02255), [MATH-Vision](https://arxiv.org/abs/2402.14804), [OlympiadBench](https://arxiv.org/abs/2402.14008), [MathVerse](https://arxiv.org/abs/2403.14624), [We-Math](https://arxiv.org/abs/2407.01284), [MATH-Perturb](https://arxiv.org/abs/2502.06453) |
+|**Multi-lingual**|  [CMMMU](https://arxiv.org/abs/2401.11944), [CMMU](https://arxiv.org/abs/2401.14011), [AlignMMBench](https://arxiv.org/abs/2406.09295), [MTVQA](https://arxiv.org/abs/2405.11985), [M3Exam](https://arxiv.org/abs/2306.05179), [Urdu-VQA](https://arxiv.org/abs/2405.12533), [Swahili-STR](https://arxiv.org/abs/2405.11437), [CVLUE](https://arxiv.org/abs/2407.01081) |
+|**Hallucination**|  [POPE](https://arxiv.org/abs/2305.10355), [GAVIE](https://arxiv.org/abs/2306.14565), [M-HalDetect](https://arxiv.org/abs/2308.06394), [HaELM](https://arxiv.org/abs/2308.15126), [MMHal-Bench](https://arxiv.org/abs/2309.14525), [Bingo](https://arxiv.org/abs/2311.03287), [PhD](https://aclanthology.org/2023.findings-emnlp.256/), [HallusionBench](https://arxiv.org/abs/2310.14566), [AMBER](https://arxiv.org/abs/2311.07397), [OpenChair](https://arxiv.org/abs/2312.03631), [MHaluBench](https://arxiv.org/abs/2402.03190), [VHTest](https://arxiv.org/abs/2402.14683), [VALOR-Eval](https://arxiv.org/abs/2404.13874), [HQH](https://arxiv.org/abs/2406.17115), [R-Bench](https://arxiv.org/abs/2503.14935), [VLind-Bench](https://arxiv.org/abs/2406.08702), [VQAv2-IDK](https://arxiv.org/abs/2402.08348) |
+|**Safety and Bias**|  [VLLM-safety-bench](https://arxiv.org/abs/2311.16101), [MultiTrust](https://arxiv.org/abs/2406.07057), [MMSafeAware](https://arxiv.org/abs/2502.11184), [MOSSBench](https://arxiv.org/abs/2406.17806), [VLBiasBench](https://arxiv.org/abs/2406.14194), [Bingo](https://arxiv.org/abs/2311.03287) |
+
+### Video
+|  Capability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |  Benchmarks  |
+|:-------------|:-------------|
+|**Foundation Capability**|  [Video-MME](https://arxiv.org/abs/2405.21075), [MVBench](https://arxiv.org/abs/2311.17005), [MLVU](https://arxiv.org/abs/2406.04264), [MMBench-Video](https://arxiv.org/abs/2406.14515), [VN-Bench](https://arxiv.org/abs/2406.09367), [TempCompass](https://arxiv.org/abs/2403.00476), [MSVD-QA](https://dl.acm.org/doi/10.1145/3123266.3123427#), [VEU-Bench](https://arxiv.org/abs/2504.17828), [ActivityNet-QA](https://arxiv.org/abs/1906.02467), [MSRVTT-QA](https://dl.acm.org/doi/10.1145/3123266.3123427#), [EPIC-KITCHENS-100](https://arxiv.org/abs/2006.13256), [V2P-Bench](https://arxiv.org/abs/2503.17736), [MotionBench](https://arxiv.org/abs/2501.02955), [H2VU-Benchmark](https://arxiv.org/abs/2503.24008), [FAVOR-Bench](https://arxiv.org/abs/2503.14935), [VELOCIT](https://arxiv.org/abs/2406.10889), [TGIF-QA](https://link.springer.com/article/10.1007/s11263-019-01189-x) |
+|**Long Context**|  [VideoWebArena](https://arxiv.org/abs/2410.19100), [SVBench](https://arxiv.org/abs/2502.10810), [CG-Bench](https://arxiv.org/abs/2412.12075), [Neptune](https://arxiv.org/abs/2505.00681), [LongViTU](https://arxiv.org/abs/2501.05037), [X-LeBench](https://arxiv.org/abs/2501.06835), [HLV-1K](https://arxiv.org/abs/2501.01645), [LVBench](https://arxiv.org/abs/2406.08035), [Event-Bench](https://arxiv.org/abs/2406.14129), [MLVU](https://arxiv.org/abs/2406.04264), [EgoSchema](https://arxiv.org/abs/2308.09126) |
+|**World Knowledge**|  [Video-MMLU](https://arxiv.org/abs/2504.14693), [Video-MMMU](https://arxiv.org/abs/2501.13826), [STI-Bench](https://arxiv.org/abs/2503.23765), [UrbanVideo-Bench](https://arxiv.org/abs/2503.06157), [Video SimpleQA](https://arxiv.org/abs/2503.18923) |
+|**Reasoning**|  [V-STaR](https://arxiv.org/abs/2503.11495), [MINERVA](https://arxiv.org/abs/2505.00681), [InstructionBench](https://arxiv.org/abs/2504.05040), [OVO-Bench](https://arxiv.org/abs/2501.05510), [VCBench](https://arxiv.org/abs/2411.09105), [VisuLogic](https://arxiv.org/abs/2504.15279) |
+|**Safety and Bias**|  [MVTamperBench](https://arxiv.org/abs/2412.19794), [VidLBEval](https://arxiv.org/abs/2502.16602) |
+|**Hallucination**|  [MHBench](https://github.com/xzhouzeng/MHBench), [VidHal](https://arxiv.org/abs/2411.16771), [VideoHallucer](https://arxiv.org/abs/2406.16338) |
+|**OCR**|  [EgoTextVQA](https://arxiv.org/abs/2502.07411), [MME-VideoOCR](https://arxiv.org/abs/2505.21333), [FG-Bench](https://arxiv.org/abs/2412.20613) |
+
+### Audio
+|  Capability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |  Benchmarks  |
+|:-------------|:-------------|
+|**Foundation Capability**|  [MMAU](https://arxiv.org/abs/2407.18961), [Salmon](https://arxiv.org/pdf/2409.07437), [AIR-Bench](https://arxiv.org/abs/2402.07729), [AudioBench](https://arxiv.org/abs/2406.16020), [MuChoMusic](https://arxiv.org/abs/2408.01337), [VoiceBench](https://arxiv.org/abs/2410.17196), [Audio Entailment](https://arxiv.org/abs/2407.18062), [VoxEval](https://arxiv.org/abs/2501.04962), [Audiopedia](https://arxiv.org/abs/2412.20619) |
+
+### Mix
+|  Capability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |  Benchmarks  |
+|:-------------|:-------------|
+| **Multi-Modality <br> Understanding**|  [ACVUBench](https://arxiv.org/abs/2503.19951), [MAVERIX](https://arxiv.org/abs/2503.21699), [MME-Unify](https://arxiv.org/abs/2504.03641), [RealUnify](https://arxiv.org/abs/2509.24897) |
+
+## Generation
+### Image
+|  Capability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |  Benchmarks  |
+|:-------------|:-------------|
+| **Text-to-Image Generation**|  <br>*Quality*: [EvalMi-50K](https://arxiv.org/abs/2504.08358), [DPGBench](https://github.com/TencentQQGYLab/ELLA/tree/main/dpg_bench), [ConceptMix](https://arxiv.org/abs/2408.14339), [DreamBooth](https://arxiv.org/abs/2208.12242), [Pick-a-Pic](https://arxiv.org/abs/2305.01569), [AIGI-VC](https://arxiv.org/abs/2412.15677), [T2I-CompBench](https://karine-h.github.io/T2I-CompBench/), [DrawBench](https://huggingface.co/datasets/shunk031/DrawBench), [TIFA](https://arxiv.org/abs/2303.11897), [Davidsonian](https://arxiv.org/abs/2310.18235), [GenEval](https://arxiv.org/abs/2310.11513), [PartiPrompts](https://arxiv.org/abs/2206.10789), [T2I-CompBench++](https://arxiv.org/abs/2307.06350), [HRS-Bench](https://arxiv.org/abs/2304.05390), [I-HallA](https://arxiv.org/abs/2409.12784) <br>*Safety and Bias*: [PAINTSKILLS](https://arxiv.org/abs/2202.04053), [TrustGen](https://arxiv.org/abs/2502.14296), [BigBench](https://arxiv.org/abs/2407.15240), [FaintBench](https://arxiv.org/abs/2405.17814), [T2ISafety](https://arxiv.org/abs/2501.12612), [HEIM](https://arxiv.org/abs/2311.04287) <br>*World Knowledge*: [WISE](https://arxiv.org/abs/2503.07265), [Commonsense-T2I](https://arxiv.org/abs/2406.07546), [PhyBench](https://arxiv.org/abs/2406.11802), [RealUnify](https://arxiv.org/abs/2509.24897) |
+| **Image Editing**|  <br>*Quality*: [UltraEdit](https://arxiv.org/abs/2407.05282), [EmuEdit](https://arxiv.org/abs/2311.10089), [DreamEdit](https://arxiv.org/abs/2306.12624), [PIE-Bench](https://openreview.net/forum?id=FoMZ4ljhVw), [GEdit-Bench](https://arxiv.org/abs/2504.17761), [KRIS-Bench](https://arxiv.org/abs/2505.16707), [ImgEdit](https://arxiv.org/abs/2505.20275), [ByteMorph-Bench](https://arxiv.org/abs/2506.03107), [MagicBench](https://arxiv.org/abs/2503.16421) <br> *Reasoning and Bias*: [RISEBench](https://arxiv.org/abs/2504.02826), [AURORA-Bench](https://arxiv.org/abs/2407.03471), [RealUnify](https://arxiv.org/abs/2509.24897) <br>*Bias*: [ICEB](https://arxiv.org/abs/2403.13807) |
+
+### Video
+|  Capability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |  Benchmarks  |
+|:-------------|:-------------|
+| **Text-to-Video Generation**|  <br>*Quality*: [ETVABench](https://arxiv.org/abs/2503.16867), [VideoBench](https://arxiv.org/abs/2504.04907), [EvalCrafter](https://arxiv.org/abs/2310.11440), [MiraBench](https://arxiv.org/abs/2407.06358), [T2VQA](https://arxiv.org/abs/2403.11956), [GAIA](https://arxiv.org/abs/2406.06087), [T2V-CompBench](https://arxiv.org/abs/2407.14505), [T2VBench](https://openaccess.thecvf.com/content/CVPR2024W/EvGenFM/papers/Ji_T2VBench_Benchmarking_Temporal_Dynamics_for_Text-to-Video_Generation_CVPRW_2024_paper.pdf), [DEVIL](https://arxiv.org/abs/2105.05332), [Human-AGVQA](https://arxiv.org/abs/2411.16619), [DIVIDE-3K](https://github.com/VQAssessment/ExplainableVQA), [VideoFeedBack](https://arxiv.org/abs/2406.15252), [LGVQ](https://arxiv.org/abs/2407.21408), [VBench](https://arxiv.org/abs/2502.10810), [VBench2.0](https://vchitect.github.io/VBench-2.0-project/), [T2VTextBench](https://arxiv.org/abs/2505.04946) <br>*World Knowledge*: [ChronoMagic-Bench](https://arxiv.org/abs/2406.18522), [WorldSimBench](https://arxiv.org/abs/2410.18072), [PhyGenBench](https://arxiv.org/abs/2410.05363), [WorldScore](https://arxiv.org/abs/2504.00983), [Morpheus](https://arxiv.org/abs/2504.02918), [StoryEval](https://arxiv.org/abs/2412.16211), [T2VPhysBench](https://arxiv.org/abs/2505.00337), [PhyWorldBench](https://arxiv.org/abs/2507.13428) <br>*Safety*: [T2VSafetyBench](https://arxiv.org/abs/2407.05965) |
+| **Text-Guided Video Editing**| [VE-Bench](https://arxiv.org/abs/2408.11481), [EditBoard](https://arxiv.org/abs/2409.09668), [TGVE](https://arxiv.org/abs/2310.16003) |
+|**Image-to-Video Generation**|  [AIGCBench](https://arxiv.org/abs/2401.01651), [TIP-Eval](https://arxiv.org/html/2411.04709v1), [I2V-Bench](https://arxiv.org/abs/2402.04324) |
+
+### Audio
+|  Capability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |  Benchmarks  |
+|:-------------|:-------------|
+|**Text and Speech to Speech** |  [S2S-Arena](https://arxiv.org/abs/2503.05085), [EmphAssess](https://arxiv.org/abs/2312.14069), [TTSDS](https://arxiv.org/abs/2407.12707) |
+
+### Mix
+|  Capability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |  Benchmarks  |
+|:-------------|:-------------|
+|**Multi-Task Generation** |[ICE-Bench](https://arxiv.org/abs/2503.14482), [ImagenHub](https://arxiv.org/abs/2310.01596), [TC-Bench](https://arxiv.org/abs/2406.08656), [VideoGen-Eval](https://arxiv.org/abs/2503.23452), [GenAI-Bench](https://arxiv.org/abs/2406.04485) |
+
+## Mix-Modaility Generation
+|  Capability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |  Benchmarks  |
+|:-------------|:-------------|
+|**Text-and-Image <br> Interleaved Generation** |[InterleavedEval](https://arxiv.org/abs/2406.14643), [SEED-Bench2](https://arxiv.org/abs/2311.17092), [MMIE](https://arxiv.org/abs/2410.10139), [CoMM](https://arxiv.org/abs/2412.15677), [UniEval](https://arxiv.org/abs/2505.10483), [MME-Unify](https://arxiv.org/abs/2504.03641), [RealUnify](https://arxiv.org/abs/2509.24897) |
