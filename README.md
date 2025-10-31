@@ -41,6 +41,8 @@
 ## 1.1.External Expert Integration Modeling
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Multimodal Dialogue Response Generation**](https://arxiv.org/pdf/2110.08515) <br> | ACL | 2021-01 | - | - |
+| [**Retrieval-Augmented Multimodal Language Modeling**](https://arxiv.org/pdf/2211.12561) <br> | ICML | 2022-11 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/chenfei-wu/TaskMatrix?style=social) <br> [**Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**](https://arxiv.org/pdf/2303.04671) <br> | arXiv | 2023-03 | [Github](https://github.com/chenfei-wu/TaskMatrix) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/JARVIS?style=social) <br> [**HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**](https://arxiv.org/pdf/2303.17580) <br> | NeurIPS | 2023-03 | [Github](https://github.com/microsoft/JARVIS) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social) <br> [**AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head**](https://arxiv.org/pdf/2304.12995) <br> | arXiv | 2023-04 | [Github](https://github.com/AIGC-Audio/AudioGPT) | - |
@@ -51,7 +53,11 @@
 ### Prompt-Mediated
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![GitHub Repo stars](https://img.shields.io/github/stars/kohjingyu/gill?style=social) <br> [**Generating images with multimodal language models**](https://arxiv.org/pdf/2305.17216) <br> | NeurIPS | 2023-05 | [Github](https://github.com/kohjingyu/gill) | [Page](https://jykoh.com/gill) |
+| [**SwitchGPT: Adapting Large Language Models for Non-Text Outputs**](https://arxiv.org/pdf/2309.07623) <br> | arXiv | 2023-09 | -| -|
 | ![GitHub Repo stars](https://img.shields.io/github/stars/xiangyu-mm/EasyGen?style=social) <br> [**EasyGen: Easing Multimodal Generation with BiDiffuser and LLMs**](https://arxiv.org/pdf/2310.08949) <br> | ACL | 2023-10 | [Github](https://github.com/xiangyu-mm/EasyGen) | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/gpt4video/GPT4Video?style=social) <br> [**GPT4Video: A Unified Multimodal Large Language Model for lnstruction-Followed Understanding and Safety-Aware Generation**](https://arxiv.org/pdf/2311.16511) <br> | ACM MM | 2023-11 | [Github](https://github.com/gpt4video/GPT4Video) | [Page](https://gpt4video.github.io/) |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/leo726/MedXChat?style=social) <br> [**MedXChat: A Unified Multimodal Large Language Model Framework towards CXRs Understanding and Generation**](https://arxiv.org/pdf/2312.02233) <br> | ISBI | 2023-12 | [Github](https://github.com/leo726/MedXChat) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/dvlab-research/MGM?style=social) <br> [**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**](https://arxiv.org/pdf/2403.18814) <br> | arXiv | 2024-03 | [Github](https://github.com/dvlab-research/MGM) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/friedrichor/TIGER?style=social) <br> [**TIGER: A Unified Generative Model Framework for Multimodal Dialogue Response Generation**](https://aclanthology.org/2024.lrec-main.1403.pdf) <br> | LREC | 2024-05 | [Github](https://github.com/friedrichor/TIGER) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/Layjins/Spider?style=social) <br> [**Spider: Any-to-Many Multimodal LLM**](https://arxiv.org/pdf/2411.09439) <br> | arXiv | 2024-11 | [Github](https://github.com/Layjins/Spider) | - |
@@ -59,11 +65,13 @@
 ### Representation-Mediated
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![GitHub Repo stars](https://img.shields.io/github/stars/kohjingyu/fromage?style=social) <br> [**Grounding language models to images for multimodal inputs and outputs**](https://arxiv.org/pdf/2301.13823) <br> | ICML | 2023-01 | [Github](https://github.com/kohjingyu/fromage) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/baaivision/Emu?style=social) <br> [**Emu: Generative Pretraining in Multimodality**](https://arxiv.org/pdf/2307.05222) <br> | ICLR | 2023-07 | [Github](https://github.com/baaivision/Emu) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/eric-ai-lab/MiniGPT-5?style=social) <br> [**MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens**](https://arxiv.org/pdf/2310.02239) <br> | arXiv | 2023-10 | [Github](https://github.com/eric-ai-lab/MiniGPT-5) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/baaivision/Emu?style=social) <br> [**Generative Multimodal Models are In-Context Learners**](https://arxiv.org/pdf/2312.13286) <br> | CVPR | 2023-12 | [Github](https://github.com/baaivision/Emu) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/AILab-CVC/VL-GPT?style=social) <br> [**VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation**](https://arxiv.org/pdf/2312.09251) <br> | arXiv | 2023-12 | [Github](https://github.com/AILab-CVC/VL-GPT) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/MM-Interleaved?style=social) <br> [**MM-Interleaved: Interleaved Image-Text Generative Modeling via Multi-modal Feature Synchronizer**](https://arxiv.org/pdf/2401.10208) <br> | arXiv | 2024-01 | [Github](https://github.com/OpenGVLab/MM-Interleaved) | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/PKU-YuanGroup/LLMBind?style=social) <br> [**LLMBind: A Unified Modality-Task Integration Framework**](https://arxiv.org/pdf/2402.14891) <br> | arXiv | 2024-02 | [Github](https://github.com/PKU-YuanGroup/LLMBind) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/TextHarmony?style=social) <br> [**Harmonizing Visual Text Comprehension and Generation**](https://arxiv.org/pdf/2407.16364) <br> | NeurIPS | 2024-07 | [Github](https://github.com/bytedance/TextHarmony) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/metamorph?style=social) <br> [**MetaMorph: Multimodal Understanding and Generation via Instruction Tuning**](https://arxiv.org/pdf/2412.14164) <br> | ICCV | 2024-12 | [Github](https://github.com/facebookresearch/metamorph/) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/hzphzp/WeGen?style=social) <br> [**WeGen: AUnified Model for Interactive Multimodal Generation as We Chat**](https://arxiv.org/pdf/2503.01115) <br> | arXiv | 2025-03 | [Github](https://github.com/hzphzp/WeGen) | - |
@@ -90,9 +98,11 @@
 ### Diffusion
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![GitHub Repo stars](https://img.shields.io/github/stars/mhh0318/UniD3?style=social) <br> [**Unified Discrete Diffusion for Simultaneous Vision-Language Generation**](https://arxiv.org/pdf/2211.08332) <br> | ICLR | 2022-11 | [Github](https://github.com/mhh0318/UniD3) | [Page](https://mhh0318.github.io/unid3/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/SHI-Labs/Versatile-Diffusion?style=social) <br> [**Versatile Diffusion: Text, Images and Variations All in One Diffusion Model**](https://arxiv.org/pdf/2211.08332) <br> | ICCV | 2022-11 | [Github](https://github.com/SHI-Labs/Versatile-Diffusion) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/thu-ml/unidiffuser?style=social) <br> [**One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale**](https://arxiv.org/pdf/2303.06555) <br> | ICML | 2023-03 | [Github](https://github.com/thu-ml/unidiffuser) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/i-Code?style=social) <br> [**Any-to-Any Generation via Composable Diffusion**](https://arxiv.org/pdf/2305.11846) <br> | NeurIPS | 2023-05 | [Github](https://github.com/microsoft/i-Code/tree/main/i-Code-V3) | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/JordanZh/C3Net?style=social) <br> [**C3Net: Compound Conditioned ControlNet for Multimodal Content Generation**](https://arxiv.org/pdf/2311.17951) <br> | CVPR | 2023-11 | [Github](https://github.com/JordanZh/C3Net) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/jacklishufan/OmniFlows?style=social) <br> [**OmniFlow: Any-to-Any Generation with Multi-Modal Rectified Flows**](https://arxiv.org/pdf/2412.01169) <br> | arXiv | 2024-12 | [Github](https://github.com/jacklishufan/OmniFlows) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/zhijie-group/UniCMs?style=social) <br> [**UniCMs: A Unified Consistency Model For Efficient Multimodal Generation and Understanding**](https://arxiv.org/pdf/2502.05415) <br> | arXiv | 2025-02 | [Github](https://github.com/zhijie-group/UniCMs) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/alexanderswerdlow/unidisc?style=social) <br> [**Unified Multimodal Discrete Diffusion**](https://arxiv.org/pdf/2503.20853) <br> | arXiv | 2025-03 | [Github](https://github.com/alexanderswerdlow/unidisc) | [Page](https://unidisc.github.io/) |
@@ -101,6 +111,7 @@
 ### Hybrid
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**CM3: A Causal Masked Multimodal Model of the Internet**](https://arxiv.org/pdf/2201.07520) <br> | arXiv | 2022-01 | -| - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/showlab/Show-o?style=social) <br> [**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**](https://arxiv.org/pdf/2408.12528) <br> | ICLR | 2024-09 | [Github](https://github.com/showlab/Show-o) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/MonoFormer/MonoFormer?style=social) <br> [**MonoFormer: One Transformer for Both Diffusion and Autoregression**](https://arxiv.org/pdf/2409.16280) <br> | arXiv | 2024-09 | [Github](https://github.com/MonoFormer/MonoFormer) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/Janus?style=social) <br> [**JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation**](https://arxiv.org/pdf/2411.07975) <br> | CVPR | 2024-11 | [Github](https://github.com/deepseek-ai/Janus) | - |
@@ -130,6 +141,7 @@
 ## 2.2.Discrete Representation
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Jointly Training Large Autoregressive Multimodal Models**](https://arxiv.org/pdf/2309.15564) <br> | ICLR | 2023-09 | - | [Page](https://zhangtemplar.github.io/large-auto-regressive/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/MIO-Team/MIO?style=social) <br> [**MIO: A Foundation Model on Multimodal Tokens**](https://arxiv.org/pdf/2409.17692) <br> | arXiv | 2024-09 | [Github](https://github.com/MIO-Team/MIO) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/FoundationVision/Liquid?style=social) <br> [**Liquid: Language Models are Scalable Multi-modal Generators**](https://arxiv.org/pdf/2412.04332) <br> | arXiv | 2024-12 | [Github](https://github.com/FoundationVision/Liquid) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/tliby/UniFork?style=social) <br> [**UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation**](https://arxiv.org/pdf/2506.17202) <br> | arXiv | 2025-06 | [Github](https://github.com/tliby/UniFork) | - |
@@ -167,6 +179,8 @@
 ## 3.2.Discrete Representation
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![GitHub Repo stars](https://img.shields.io/github/stars/hyn2028/llm-cxr?style=social) <br> [**LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation**](https://arxiv.org/pdf/2305.11490) <br> | ICLR | 2023-05 | [Github](https://github.com/hyn2028/llm-cxr) | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/kyegomez/CM3Leon?style=social) <br> [**Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning**](https://arxiv.org/pdf/2309.02591) <br> | arXiv | 2023-09 | [Github](https://github.com/kyegomez/CM3Leon) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/allenai/unified-io-2?style=social) <br> [**Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action**](https://arxiv.org/pdf/2312.17172) <br> | CVPR | 2023-12 | [Github](https://github.com/allenai/unified-io-2) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/QLIP?style=social) <br> [**QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation**](https://arxiv.org/pdf/2502.05178) <br> | arXiv | 2025-02 | [Github](https://github.com/NVlabs/QLIP/tree/main) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/FoundationVision/UniTok?style=social) <br> [**UniTok: A Unified Tokenizer for Visual Generation and Understanding**](https://arxiv.org/pdf/2502.20321) <br> | arXiv | 2025-02 | [Github](https://github.com/FoundationVision/UniTok) | - |
