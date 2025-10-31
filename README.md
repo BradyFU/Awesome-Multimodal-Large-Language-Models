@@ -1,5 +1,8 @@
 # A Survey of Unified Multimodal Understanding and Generation: Advances and Challenges
 
+<p align="center">
+    <img src="./images/MiG_logo.jpg" width="100%" height="100%">
+</p>
 
 <p align="center">
     <img src="./images/tree.svg" width="99%" height="80%">
