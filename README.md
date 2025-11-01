@@ -24,7 +24,7 @@ NSR 2024, [Paper](https://arxiv.org/pdf/2306.13549.pdf), [Project](https://githu
 > 🔥🔥 **VITA Series Omni MLLMs** | **[💬 WeChat (VITA微信交流群)](https://github.com/VITA-MLLM/VITA/blob/main/asset/wechat-group.jpg)**
 
 - 🌟 **VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**  
-NeurIPS 2025 Highlight, [Paper](https://arxiv.org/pdf/2501.01957.pdf), [Code](https://github.com/VITA-MLLM/VITA)
+NeurIPS 2025 Highlight, [Paper](https://arxiv.org/pdf/2501.01957.pdf), [Project](https://github.com/VITA-MLLM/VITA)
 
 - 🌟 **VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation**  
 arXiv2025, [Paper](https://arxiv.org/pdf/2510.09607.pdf), [Project](https://ltbai.github.io/VITA-VLA/)
@@ -36,10 +36,10 @@ arXiv2025, [Paper](https://arxiv.org/pdf/2510.21817.pdf), [Project](https://lxys
 arXiv2024, [Paper](https://arxiv.org/pdf/2408.05211.pdf), [Project](https://vita-home.github.io/)
 
 - **Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuracy**  
-arXiv 2025, [Paper](https://arxiv.org/pdf/2502.05177.pdf), [Code](https://github.com/VITA-MLLM/Long-VITA)
+arXiv 2025, [Paper](https://arxiv.org/pdf/2502.05177.pdf), [Project](https://github.com/VITA-MLLM/Long-VITA)
 
 - **VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**  
-NeurIPS 2025, [Paper](https://arxiv.org/pdf/2505.03739.pdf), [Code](https://github.com/VITA-MLLM/VITA-Audio)
+NeurIPS 2025, [Paper](https://arxiv.org/pdf/2505.03739.pdf), [Project](https://github.com/VITA-MLLM/VITA-Audio)
 
 
 ---
