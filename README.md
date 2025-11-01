@@ -8,11 +8,14 @@
 
 > 🔥🔥 **Surveys of MLLMs**  |  **[💬 WeChat (MLLM微信交流群)](./images/wechat-group.png)**
 
-- 🌟 **A Survey of Unified Multimodal Understanding and Generation: Advances and Challenges**, arXiv 2025, Paper, [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Unified)
+- 🌟 **A Survey of Unified Multimodal Understanding and Generation: Advances and Challenges**  
+arXiv 2025, Paper, [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Unified)
 
-- 🌟 **MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**, arXiv 2025, [Paper](https://arxiv.org/pdf/2411.15296.pdf), [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Benchmarks) 
+- 🌟 **MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**  
+arXiv 2025, [Paper](https://arxiv.org/pdf/2411.15296.pdf), [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Benchmarks) 
 
-- **A Survey on Multimodal Large Language Models**, NSR 2024, [Paper](https://arxiv.org/pdf/2306.13549.pdf), [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+- **A Survey on Multimodal Large Language Models**  
+NSR 2024, [Paper](https://arxiv.org/pdf/2306.13549.pdf), [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
 
 ---
@@ -20,17 +23,23 @@
 
 > 🔥🔥 **VITA Series Omni MLLMs** | **[💬 WeChat (VITA微信交流群)](https://github.com/VITA-MLLM/VITA/blob/main/asset/wechat-group.jpg)**
 
-- 🌟 **VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**, NeurIPS 2025 Highlight, [Paper](https://arxiv.org/pdf/2501.01957.pdf), [Code](https://github.com/VITA-MLLM/VITA)
+- 🌟 **VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**  
+NeurIPS 2025 Highlight, [Paper](https://arxiv.org/pdf/2501.01957.pdf), [Code](https://github.com/VITA-MLLM/VITA)
 
-- 🌟 **VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation**, arxiv2025, [Paper](https://arxiv.org/pdf/2510.09607.pdf), [Project](https://ltbai.github.io/VITA-VLA/)
+- 🌟 **VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation**  
+arXiv2025, [Paper](https://arxiv.org/pdf/2510.09607.pdf), [Project](https://ltbai.github.io/VITA-VLA/)
 
-- 🌟 **VITA-E: Natural Embodied Interaction with Concurrent Seeing, Hearing, Speaking, and Acting**, arXiv2025, [Paper](https://arxiv.org/pdf/2510.21817.pdf), [Project](https://lxysl.github.io/VITA-E/)
+- 🌟 **VITA-E: Natural Embodied Interaction with Concurrent Seeing, Hearing, Speaking, and Acting**  
+arXiv2025, [Paper](https://arxiv.org/pdf/2510.21817.pdf), [Project](https://lxysl.github.io/VITA-E/)
 
-- **VITA: Towards Open-Source Interactive Omni Multimodal LLM**, arXiv2024, [Paper](https://arxiv.org/pdf/2408.05211.pdf), [Project](https://vita-home.github.io/)
+- **VITA: Towards Open-Source Interactive Omni Multimodal LLM**  
+arXiv2024, [Paper](https://arxiv.org/pdf/2408.05211.pdf), [Project](https://vita-home.github.io/)
 
-- **Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuracy**, arXiv 2025, [Paper](https://arxiv.org/pdf/2502.05177.pdf), [Code](https://github.com/VITA-MLLM/Long-VITA)
+- **Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuracy**  
+arXiv 2025, [Paper](https://arxiv.org/pdf/2502.05177.pdf), [Code](https://github.com/VITA-MLLM/Long-VITA)
 
-- **VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**, NeurIPS 2025, [Paper](https://arxiv.org/pdf/2505.03739.pdf), [Code](https://github.com/VITA-MLLM/VITA-Audio)
+- **VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**  
+NeurIPS 2025, [Paper](https://arxiv.org/pdf/2505.03739.pdf), [Code](https://github.com/VITA-MLLM/VITA-Audio)
 
 
 ---
@@ -38,13 +47,17 @@
 
 > 🔥🔥 **MME Series MLLM Benchmarks**
 
-- 🌟 **MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**, arXiv 2025, [Paper](https://arxiv.org/pdf/2411.15296.pdf), [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Benchmarks)
+- 🌟 **MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**  
+arXiv 2025, [Paper](https://arxiv.org/pdf/2411.15296.pdf), [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Benchmarks)
 
-- **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**, NeurIPS 2025 DB Highlight, [Paper](https://arxiv.org/pdf/2306.13394.pdf), [Dataset](https://huggingface.co/datasets/lmms-lab/MME), [Eval Tool](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/blob/Evaluation/tools/eval_tool.zip), [✒️ Citation](./images/bib_mme.txt)
+- **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
+NeurIPS 2025 DB Highlight, [Paper](https://arxiv.org/pdf/2306.13394.pdf), [Dataset](https://huggingface.co/datasets/lmms-lab/MME), [Eval Tool](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/blob/Evaluation/tools/eval_tool.zip), [✒️ Citation](./images/bib_mme.txt)
 
-- **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**, CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://video-mme.github.io/), [Dataset](https://github.com/BradyFU/Video-MME?tab=readme-ov-file#-dataset)
+- **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**  
+CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://video-mme.github.io/), [Dataset](https://github.com/BradyFU/Video-MME?tab=readme-ov-file#-dataset)
 
-- **MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?** ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-realworld.github.io/), [Dataset](https://huggingface.co/datasets/yifanzhang114/MME-RealWorld)
+- **MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?**  
+ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-realworld.github.io/), [Dataset](https://huggingface.co/datasets/yifanzhang114/MME-RealWorld)
 
 
 
