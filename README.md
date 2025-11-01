@@ -11,7 +11,7 @@
 - 🌟 **A Survey of Unified Multimodal Understanding and Generation: Advances and Challenges**
 arXiv 2025, Paper, [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Unified)
 
-- 🌟 **MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**
+- 🌟 **MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs
 arXiv 2025, **[Paper](https://arxiv.org/pdf/2411.15296.pdf), [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Benchmarks) 
 
 - **A Survey on Multimodal Large Language Models**
@@ -24,7 +24,7 @@ NSR 2024, [Paper](https://arxiv.org/pdf/2306.13549.pdf), [Project](https://githu
 > 🔥🔥 **VITA Series Omni MLLMs** | **[💬 WeChat (VITA微信交流群)](https://github.com/VITA-MLLM/VITA/blob/main/asset/wechat-group.jpg)**
 
 - 🌟 **VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**
-NeurIPS 2025 Highlight, [Paper](https://arxiv.org/pdf/2501.01957.pdf), [Code](https://github.com/VITA-MLLM/VITA) ![Star](https://img.shields.io/github/stars/VITA-MLLM/VITA.svg?style=social&label=Star)
+NeurIPS 2025 Highlight, [Paper](https://arxiv.org/pdf/2501.01957.pdf), [Code](https://github.com/VITA-MLLM/VITA)
 
 - **VITA: Towards Open-Source Interactive Omni Multimodal LLM**
 arXiv2024, [Paper](https://arxiv.org/pdf/2408.05211.pdf), [Project](https://vita-home.github.io/)
