@@ -22,11 +22,11 @@
 
 - 🌟 **VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**, NeurIPS 2025 Highlight, [Paper](https://arxiv.org/pdf/2501.01957.pdf), [Code](https://github.com/VITA-MLLM/VITA)
 
-- **VITA: Towards Open-Source Interactive Omni Multimodal LLM**, arXiv2024, [Paper](https://arxiv.org/pdf/2408.05211.pdf), [Project](https://vita-home.github.io/)
-
 - 🌟 **VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation**, arxiv2025, [Paper](https://arxiv.org/pdf/2510.09607.pdf), [Project](https://ltbai.github.io/VITA-VLA/)
 
 - 🌟 **VITA-E: Natural Embodied Interaction with Concurrent Seeing, Hearing, Speaking, and Acting**, arXiv2025, [Paper](https://arxiv.org/pdf/2510.21817.pdf), [Project](https://lxysl.github.io/VITA-E/)
+
+- **VITA: Towards Open-Source Interactive Omni Multimodal LLM**, arXiv2024, [Paper](https://arxiv.org/pdf/2408.05211.pdf), [Project](https://vita-home.github.io/)
 
 - **Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuracy**, arXiv 2025, [Paper](https://arxiv.org/pdf/2502.05177.pdf), [Code](https://github.com/VITA-MLLM/Long-VITA)
 
