@@ -10,12 +10,12 @@
 
 - 🌟 **A Survey of Unified Multimodal Understanding and Generation: Advances and Challenges**  
 <p align="center">
-    <img src="./images/survey-unify.png" width="90%" height="90%">
+    <img src="./images/survey-unify.png" width="95%" height="95%">
 </p>
 
 <font size=7><div align='center'> A total of **83 pages**, and **754 references**! </div></font>
 
-<font size=7><div align='center'> [[📖Paper](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Unified/Survey_Paper.pdf)] [[🌟 Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Unified)]</div></font>  
+<font size=7><div align='center'> [[📖 Paper](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Unified/Survey_Paper.pdf)] [[🌟 Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Unified)]</div></font>  
 
 
 
