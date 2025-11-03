@@ -10,7 +10,7 @@
 
 - 🌟 **A Survey of Unified Multimodal Understanding and Generation: Advances and Challenges**  
 <p align="center">
-    <img src="./images/survey-unify.png" width="80%" height="80%">
+    <img src="./images/survey-unify.png" width="90%" height="90%">
 </p>
 
 <font size=7><div align='center'> A total of **83 pages**, and **754 references**! </div></font>
