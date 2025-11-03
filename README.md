@@ -9,7 +9,15 @@
 > 🔥🔥 **Surveys of MLLMs**  |  **[💬 WeChat (MLLM微信交流群)](./images/wechat-group.png)**
 
 - 🌟 **A Survey of Unified Multimodal Understanding and Generation: Advances and Challenges**  
-arXiv 2025, Paper, [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Unified)
+<p align="center">
+    <img src="./images/survey-unify.png" width="70%" height="70%">
+</p>
+
+<font size=7><div align='center'> Survey of Unified Multimodal Understanding and Generation. A total of **83 pages**, and **754 references**! </div></font>
+
+<font size=7><div align='center'> [[📖Paper](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Unified/A Survey of Unified Multimodal Understanding and Generation.pdf)] [[🌟 Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Unified)]</div></font>  
+
+
 
 - 🌟 **MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**  
 arXiv 2025, [Paper](https://arxiv.org/pdf/2411.15296.pdf), [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Benchmarks) 
