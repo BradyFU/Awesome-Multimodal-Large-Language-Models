@@ -158,6 +158,7 @@
 ### High Resolution
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![GitHub Repo stars](https://img.shields.io/github/stars/TianfanPeng/VLMUniPruneBench) <br> [**Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models**](https://arxiv.org/pdf/2511.02650) <br> | arXiv | 2025-11-04 | [Github](https://github.com/TianfanPeng/VLMUniPruneBench) | [Page](https://uniprunebench-lmm.github.io/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/yfzhang114/MME-RealWorld) <br> [**MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?**](https://arxiv.org/abs/2408.13257) <br> | arXiv | 2024-8-23 | [Github](https://github.com/yfzhang114/MME-RealWorld) | [Page](https://mme-realworld.github.io/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/penghao-wu/vstar) <br> [**V?: Guided Visual Search as a Core Mechanism in Multimodal LLMs**](https://arxiv.org/abs/2312.14135) <br> | CVPR | 2023-12-21 | [Github](https://github.com/penghao-wu/vstar) | [Page](https://vstar-seal.github.io/) |
 
