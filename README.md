@@ -8,7 +8,7 @@
     <img src="./images/tree.svg" width="99%" height="80%">
 </p>
 
-<font size=6><div align='center' > [[📖 Paper](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Unified/Survey_Paper.pdf)] [[💬 WeChat (MLLM微信交流群，欢迎加入)](./images/wechat-group.png)]</div></font>  
+<font size=6><div align='center' > [[📖 Paper](https://www.techrxiv.org/users/993777/articles/1355509-a-survey-of-unified-multimodal-understanding-and-generation-advances-and-challenges)] [[💬 WeChat (MLLM微信交流群，欢迎加入)](./images/wechat-group.png)]</div></font>  
 
 <font size=6><div align='center' > A comprehensive overview of the unified multimodal understanding and generation models ! ✨ </div></font>
 
