@@ -72,6 +72,8 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 ---
 
 <font size=5><center><b> Table of Contents </b> </center></font>
+- [Awesome-Multimodal-Large-Language-Models](#awesome-multimodal-large-language-models)
+  - [Our MLLM works](#our-mllm-works)
 - [Awesome Papers](#awesome-papers)
   - [Multimodal Instruction Tuning](#multimodal-instruction-tuning)
   - [Multimodal Hallucination](#multimodal-hallucination)
@@ -134,6 +136,7 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 | ![Star](https://img.shields.io/github/stars/quicksviewer/quicksviewer.svg?style=social&label=Star) <br> [**An LMM for Efficient Video Understanding via Reinforced Compression of Video Cubes**](https://arxiv.org/pdf/2504.15270) <br> | arXiv | 2025-04-21 | [Github](https://github.com/quicksviewer/quicksviewer) | - |
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star) <br> [**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**](https://arxiv.org/abs/2504.10479) <br> | arXiv | 2025-04-14 | [Github](https://github.com/OpenGVLab/InternVL) | [Demo](https://internvl.opengvlab.com/) |
 | [**Introducing GPT-4.1 in the API**](https://openai.com/index/gpt-4-1/) | OpenAI | 2025-04-14 | - | - |
+| ![Star](https://img.shields.io/github/stars/SkyworkAI/Skywork-R1V.svg?style=social&label=Star) <br> [**Skywork-R1V: Pioneering Multimodal Reasoning with CoT**](https://arxiv.org/abs/2504.05599) <br> [[🤗 Hugging Face](https://huggingface.co/Skywork/Skywork-R1V-38B)] [[🤖 ModelScope](https://modelscope.cn/models/Skywork/Skywork-R1V-38B)] | arXiv | 2025-04-11 | [Github](https://github.com/SkyworkAI/Skywork-R1V) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/MoonshotAI/Kimi-VL.svg?style=social&label=Star) <br> [**Kimi-VL Technical Report**](https://arxiv.org/pdf/2504.07491) <br> | arXiv | 2025-04-10 | [Github](https://github.com/MoonshotAI/Kimi-VL) | [Demo](https://huggingface.co/spaces/moonshotai/Kimi-VL-A3B-Thinking) |
 | [**The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation**](https://ai.meta.com/blog/llama-4-multimodal-intelligence/) | Meta | 2025-04-05 | [Hugging Face](https://huggingface.co/collections/meta-llama/llama-4-67f0c30d9fe03840bc9d0164) | - |
 | ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2.5-Omni.svg?style=social&label=Star) <br> [**Qwen2.5-Omni Technical Report**](https://github.com/QwenLM/Qwen2.5-Omni/blob/main/assets/Qwen2.5_Omni.pdf) <br> | Qwen | 2025-03-26 | [Github](https://github.com/QwenLM/Qwen2.5-Omni) | [Demo](https://huggingface.co/spaces/Qwen/Qwen2.5-Omni-7B-Demo) |
@@ -414,6 +417,7 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 ## Multimodal Chain-of-Thought
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/SkyworkAI/Skywork-R1V.svg?style=social&label=Star) <br> [**Skywork-R1V: Pioneering Multimodal Reasoning with CoT**](https://arxiv.org/abs/2504.05599) <br> [[🤗 Hugging Face](https://huggingface.co/Skywork/Skywork-R1V-38B)] [[🤖 ModelScope](https://modelscope.cn/models/Skywork/Skywork-R1V-38B)] | arXiv | 2025-04-09 | [Github](https://github.com/SkyworkAI/Skywork-R1V) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/dongyh20/Insight-V.svg?style=social&label=Star) <br> [**Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models**](https://arxiv.org/pdf/2411.14432) <br> | arXiv | 2024-11-21 | [Github](https://github.com/dongyh20/Insight-V) | - |
 | ![Star](https://img.shields.io/github/stars/ggg0919/cantor.svg?style=social&label=Star) <br> [**Cantor: Inspiring Multimodal Chain-of-Thought of MLLM**](https://arxiv.org/pdf/2404.16033.pdf) <br> | arXiv | 2024-04-24 | [Github](https://github.com/ggg0919/cantor) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/deepcs233/Visual-CoT.svg?style=social&label=Star) <br> [**Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models**](https://arxiv.org/pdf/2403.16999.pdf) <br> | arXiv | 2024-03-25 | [Github](https://github.com/deepcs233/Visual-CoT) | Local Demo |
