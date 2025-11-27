@@ -97,7 +97,8 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/baaivision/Emu3.5.svg?style=social&label=Star) <br> [**Emu3.5: Native Multimodal Models are World Learners**](https://emu.world/Emu35_tech_report.pdf) <br> | BAAI | 2025-10-30 | [Github](https://github.com/baaivision/Emu3.5) | - | 
+| ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3-VL.svg?style=social&label=Star) <br> [**Qwen3-VL Technical Report**](https://arxiv.org/pdf/2511.21631) <br> | arXiv | 2025-11-26 | [Github](https://github.com/QwenLM/Qwen3-VL) | [Demo](https://huggingface.co/spaces/Qwen/Qwen3-VL-Demo) |
+| ![Star](https://img.shields.io/github/stars/baaivision/Emu3.5.svg?style=social&label=Star) <br> [**Emu3.5: Native Multimodal Models are World Learners**](https://arxiv.org/pdf/2510.26583) <br> | arXiv | 2025-10-30 | [Github](https://github.com/baaivision/Emu3.5) | - | 
 | ![Star](https://img.shields.io/github/stars/Tencent/VITA.svg?style=social&label=Star) <br> [**VITA-E: Natural Embodied Interaction with Concurrent Seeing, Hearing, Speaking, and Acting**](https://arxiv.org/pdf/2510.21817.pdf) <br> | arXiv | 2025-10-21 | [Github](https://github.com/Tencent/VITA/tree/VITA-E) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-OCR.svg?style=social&label=Star) <br> [**DeepSeek-OCR: Contexts Optical Compression**](https://arxiv.org/pdf/2510.18234) <br> | arXiv | 2025-10-21 | [Github](https://github.com/deepseek-ai/DeepSeek-OCR) | - |
 | ![Star](https://img.shields.io/github/stars/NVlabs/OmniVinci.svg?style=social&label=Star) <br> [**OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding LLM**](https://arxiv.org/pdf/2510.15870) <br> | arXiv | 2025-10-17 | [Github](https://github.com/NVlabs/OmniVinci) | - |
