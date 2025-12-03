@@ -178,6 +178,7 @@
 | ![GitHub Repo stars](https://img.shields.io/github/stars/mm-vl/ULM-R1?style=social) <br> [**Co-Reinforcement Learning for Unified Multimodal Understanding and Generation**](https://arxiv.org/pdf/2505.17534) <br> | arXiv | 2025-05 | [Github](https://github.com/mm-vl/ULM-R1) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/FreedomIntelligence/ShareGPT-4o-Image?style=social) <br> [**ShareGPT-4o-Image: Aligning Multimodal Models with GPT-4o-Level Image Generation**](https://arxiv.org/pdf/2506.18095) <br> | arXiv | 2025-06 | [Github](https://github.com/FreedomIntelligence/ShareGPT-4o-Image) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/csuhan/Tar?style=social) <br> [**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**](https://arxiv.org/pdf/2506.18898) <br> | arXiv | 2025-06 | [Github](https://github.com/csuhan/Tar) | [Page](https://tar.csuhan.com/) |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/wren93/tuna?style=social) <br> [**TUNA: Taming Unified Visual Representations for Native Unified Multimodal Models**](https://arxiv.org/pdf/2512.02014) <br> | arXiv | 2025-12 | [Github](https://github.com/wren93/tuna) | [Page](https://tuna-ai.org/) |
 
 
 # 3.Decoding
