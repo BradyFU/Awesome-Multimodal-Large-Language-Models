@@ -100,7 +100,7 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [Introducing Mistral 3](https://mistral.ai/news/mistral-3) | Mistral | 2025-12-02 | [Huggingface](https://huggingface.co/collections/mistralai/mistral-large-3) | - |
+| [**Introducing Mistral 3**](https://mistral.ai/news/mistral-3) | Blog | 2025-12-02 | [Huggingface](https://huggingface.co/collections/mistralai/mistral-large-3) | - |
 | ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3-VL.svg?style=social&label=Star) <br> [**Qwen3-VL Technical Report**](https://arxiv.org/pdf/2511.21631) <br> | arXiv | 2025-11-26 | [Github](https://github.com/QwenLM/Qwen3-VL) | [Demo](https://huggingface.co/spaces/Qwen/Qwen3-VL-Demo) |
 | ![Star](https://img.shields.io/github/stars/baaivision/Emu3.5.svg?style=social&label=Star) <br> [**Emu3.5: Native Multimodal Models are World Learners**](https://arxiv.org/pdf/2510.26583) <br> | arXiv | 2025-10-30 | [Github](https://github.com/baaivision/Emu3.5) | - | 
 | ![Star](https://img.shields.io/github/stars/Tencent/VITA.svg?style=social&label=Star) <br> [**VITA-E: Natural Embodied Interaction with Concurrent Seeing, Hearing, Speaking, and Acting**](https://arxiv.org/pdf/2510.21817.pdf) <br> | arXiv | 2025-10-21 | [Github](https://github.com/Tencent/VITA/tree/VITA-E) | Local Demo |
