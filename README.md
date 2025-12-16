@@ -100,6 +100,7 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/Zhoues/RoboTracer.svg?style=social&label=Star) <br> [**RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics**](https://arxiv.org/pdf/2512.13660) <br> | arXiv | 2025-12-15 | [Github](https://github.com/Zhoues/RoboTracer) | - |
 | [**Introducing GPT-5.2**](https://openai.com/index/introducing-gpt-5-2/) | OpenAI | 2025-12-11 | - | - |
 | [**Introducing Mistral 3**](https://mistral.ai/news/mistral-3) | Blog | 2025-12-02 | [Huggingface](https://huggingface.co/collections/mistralai/mistral-large-3) | - |
 | ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3-VL.svg?style=social&label=Star) <br> [**Qwen3-VL Technical Report**](https://arxiv.org/pdf/2511.21631) <br> | arXiv | 2025-11-26 | [Github](https://github.com/QwenLM/Qwen3-VL) | [Demo](https://huggingface.co/spaces/Qwen/Qwen3-VL-Demo) |
@@ -444,6 +445,7 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 ## LLM-Aided Visual Reasoning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/Zhoues/RoboTracer.svg?style=social&label=Star) <br> [**RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics**](https://arxiv.org/pdf/2512.13660) <br> | arXiv | 2025-12-15 | [Github](https://github.com/Zhoues/RoboTracer) | - |
 | ![Star](https://img.shields.io/github/stars/yhy-2000/VideoDeepResearch.svg?style=social&label=Star) <br> [**VideoDeepResearch: Long Video Understanding With Agentic Tool Using**](https://arxiv.org/pdf/2506.10821) <br> | arXiv | 2025-06-12 | [Github](https://github.com/yhy-2000/VideoDeepResearch) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/LaVi-Lab/Visual-Table.svg?style=social&label=Star) <br> [**Beyond Embeddings: The Promise of Visual Table in Multi-Modal Models**](https://arxiv.org/pdf/2403.18252.pdf) <br> | arXiv | 2024-03-27 | [Github](https://github.com/LaVi-Lab/Visual-Table) | - |
 | ![Star](https://img.shields.io/github/stars/penghao-wu/vstar.svg?style=social&label=Star) <br> [**V∗: Guided Visual Search as a Core Mechanism in Multimodal LLMs**](https://arxiv.org/pdf/2312.14135.pdf) <br> | arXiv | 2023-12-21 | [Github](https://github.com/penghao-wu/vstar) | Local Demo |
@@ -682,6 +684,7 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **TraceSpatial-Bench** | [RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/pdf/2512.13660) | [Link](https://zhoues.github.io/RoboTracer/) | A benchmark to evaluate 3D spatial tracing with reasoning. |
 | **Inst-IT Bench** | [Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning](https://arxiv.org/pdf/2412.03565) | [Link](https://github.com/inst-it/inst-it) | A benchmark to evaluate fine-grained instance-level understanding in images and videos |
 | **M<sup>3</sup>CoT** | [M<sup>3</sup>CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought](https://arxiv.org/pdf/2405.16473) | [Link](https://github.com/LightChen233/M3CoT) | A multi-domain, multi-step benchmark for multimodal CoT |
 | **MMGenBench** | [MMGenBench: Evaluating the Limits of LMMs from the Text-to-Image Generation Perspective](https://arxiv.org/pdf/2411.14062) | [Link](https://github.com/lerogo/MMGenBench) | A benchmark that gauges the performance of constructing image-generation prompt given an image |
