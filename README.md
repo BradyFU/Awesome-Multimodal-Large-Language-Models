@@ -100,6 +100,7 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Seed1.8 Model Card: Towards Generalized Real-World Agency**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf) | Bytedance Seed | 2025-12-18 | - | - |
 | [**Introducing GPT-5.2**](https://openai.com/index/introducing-gpt-5-2/) | OpenAI | 2025-12-11 | - | - |
 | [**Introducing Mistral 3**](https://mistral.ai/news/mistral-3) | Blog | 2025-12-02 | [Huggingface](https://huggingface.co/collections/mistralai/mistral-large-3) | - |
 | ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3-VL.svg?style=social&label=Star) <br> [**Qwen3-VL Technical Report**](https://arxiv.org/pdf/2511.21631) <br> | arXiv | 2025-11-26 | [Github](https://github.com/QwenLM/Qwen3-VL) | [Demo](https://huggingface.co/spaces/Qwen/Qwen3-VL-Demo) |
