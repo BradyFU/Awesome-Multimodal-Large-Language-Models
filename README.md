@@ -100,6 +100,7 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL-U.svg?style=social&label=Star) <br> [**InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing**](https://arxiv.org/pdf/2603.09877) <br> | arXiv | 2026-03-10 | [Github](https://github.com/OpenGVLab/InternVL-U) | Local Demo | 
 | ![Star](https://img.shields.io/github/stars/VITA-MLLM/Omni-Diffusion.svg?style=social&label=Star) <br> [**Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion**](https://arxiv.org/pdf/2603.06577) <br> | arXiv | 2026-03-06 | [Github](https://github.com/VITA-MLLM/Omni-Diffusion) | - |
 | [**Beyond Language Modeling: An Exploration of Multimodal Pretraining**](https://arxiv.org/pdf/2603.03276) | arXiv | 2026-03-03 | - | - |
 | [**Gemini 3.1 Pro: A smarter model for your most complex tasks**](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) | Blog | 2026-02-19 | - | - |
