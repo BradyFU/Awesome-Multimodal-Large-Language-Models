@@ -100,6 +100,7 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/VITA-MLLM/VITA-QinYu.svg?style=social&label=Star) <br> [**VITA-QinYu: Expressive Spoken Language Model for Role-Playing and Singing**](https://github.com/VITA-MLLM/VITA-QinYu) <br> | arXiv | 2026-04-03 | [Github](https://github.com/VITA-MLLM/VITA-QinYu) | Local Demo |
 | [**Gemma 4: Byte for byte, the most capable open models**](https://deepmind.google/models/gemma/gemma-4/) | Blog | 2026-04-02 | - | [Demo](https://aistudio.google.com/prompts/new_chat?model=gemma-4-31b-it&utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=) |
 | [**Qwen3.5-Omni: Scaling Up, Toward Native Omni-Modal AGI**](https://qwen.ai/blog?id=qwen3.5-omni) | Blog | 2026-03-30 | - | [Demo](https://chat.qwen.ai/?spm=a2ty_o06.30285417.0.0.6d26c921GDrWrb) |
 | [**Xiaomi MiMo-V2-Omni**](https://mimo.xiaomi.com/mimo-v2-omni) | Blog | 2026-03-18 | - | - |
