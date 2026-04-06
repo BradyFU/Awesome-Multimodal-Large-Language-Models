@@ -4,6 +4,7 @@
     <img src="./images/MiG_logo.jpg" width="100%" height="100%">
 </p>
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multimodal LLM workflow orchestration, automated model management, and multi-agent coordination. MIT licensed.
 ## ✨ Highlights of NJU-MiG
 
 > 🔥🔥 **Surveys of MLLMs**  |  **[💬 WeChat (MLLM微信交流群)](./images/wechat-group.png)**
