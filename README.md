@@ -598,6 +598,7 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 
 ---
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=BradyFU_Awesome-Multimodal-Large-Language-Models) - Social feed for GitHub. Follow developers, discover trending repos, activity feeds.
 # Awesome Datasets
 
 ## Datasets of Pre-Training for Alignment
