@@ -47,10 +47,11 @@ NeurIPS 2025, [Paper](https://arxiv.org/pdf/2505.03739.pdf), [Project](https://g
 - 🔥 **Video-MME-v2: Towards the Next Stage in Video Understanding Evaluation**
 
 <p align="center">
-    <img src="./images/video-mme-v2.png" width="90%" height="90%">
-</p>  
+    <img src="https://github.com/MME-Benchmarks/Video-MME-v2/tree/main/Imgs/logo.png" width="100%" height="100%">
+</p>
 
-<font size=7><div align='center'> [[📖 Paper](https://arxiv.org/pdf/2604.05015)] [[🌟 Project](https://video-mme-v2.netlify.app/)]</div></font>  
+<font size=7><div align='center' > [[🍎 Project Page](https://video-mme-v2.netlify.app/)] [[📖 Paper](https://arxiv.org/pdf/2604.05015)] [[🤗 Dataset](https://huggingface.co/datasets/MME-Benchmarks/Video-MME-v2)] [[🏆 Leaderboard](https://video-mme-v2.netlify.app/#leaderboard)]  </div></font>
+
 
 - **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
 NeurIPS 2025 DB Highlight, [Paper](https://arxiv.org/pdf/2306.13394.pdf), [Dataset](https://huggingface.co/datasets/lmms-lab/MME), [Eval Tool](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/blob/Evaluation/tools/eval_tool.zip), [✒️ Citation](./images/bib_mme.txt)
