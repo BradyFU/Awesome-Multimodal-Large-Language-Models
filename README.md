@@ -8,19 +8,11 @@
 
 > 🔥🔥 **Surveys of MLLMs**  |  **[💬 WeChat (MLLM微信交流群)](./images/wechat-group.png)**
 
-- 🌟 **A Survey of Unified Multimodal Understanding and Generation: Advances and Challenges**  
-<p align="center">
-    <img src="./images/unify-survey.png" width="90%" height="90%">
-</p>  
-
-<font size=7><div align='center'> A total of **83 pages**, and **750+ references**! </div></font>
-
-<font size=7><div align='center'> [[📖 Paper](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176289261.16802577)] [[🌟 Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Unified)]</div></font>  
-
-
-
 - 🌟 **MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**  
 arXiv 2025, [Paper](https://arxiv.org/pdf/2411.15296.pdf), [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Benchmarks) 
+
+- 🌟 **A Survey of Unified Multimodal Understanding and Generation: Advances and Challenges**  
+arXiv 2025, [Paper](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176289261.16802577), [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Unified) 
 
 - **A Survey on Multimodal Large Language Models**  
 NSR 2024, [Paper](https://arxiv.org/pdf/2306.13549.pdf), [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
@@ -31,13 +23,10 @@ NSR 2024, [Paper](https://arxiv.org/pdf/2306.13549.pdf), [Project](https://githu
 
 > 🔥🔥 **VITA Series Omni MLLMs** | **[💬 WeChat (VITA微信交流群)](https://github.com/VITA-MLLM/VITA/blob/main/asset/wechat-group.jpg)**
 
-- 🌟 **VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**  
+- **VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**  
 NeurIPS 2025 Highlight, [Paper](https://arxiv.org/pdf/2501.01957.pdf), [Project](https://github.com/VITA-MLLM/VITA)
 
-- 🌟 **VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation**  
-arXiv 2025, [Paper](https://arxiv.org/pdf/2510.09607.pdf), [Project](https://ltbai.github.io/VITA-VLA/)
-
-- 🌟 **VITA-E: Natural Embodied Interaction with Concurrent Seeing, Hearing, Speaking, and Acting**  
+- **VITA-E: Natural Embodied Interaction with Concurrent Seeing, Hearing, Speaking, and Acting**  
 arXiv 2025, [Paper](https://arxiv.org/pdf/2510.21817.pdf), [Project](https://lxysl.github.io/VITA-E/)
 
 - **VITA: Towards Open-Source Interactive Omni Multimodal LLM**  
@@ -55,8 +44,13 @@ NeurIPS 2025, [Paper](https://arxiv.org/pdf/2505.03739.pdf), [Project](https://g
 
 > 🔥🔥 **MME Series MLLM Benchmarks**
 
-- 🌟 **MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**  
-arXiv 2025, [Paper](https://arxiv.org/pdf/2411.15296.pdf), [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Benchmarks)
+- 🔥 **Video-MME-v2: Towards the Next Stage in Video Understanding Evaluation**
+
+<p align="center">
+    <img src="./images/video-mme-v2.png" width="90%" height="90%">
+</p>  
+
+<font size=7><div align='center'> [[📖 Paper](https://arxiv.org/pdf/2604.05015)] [[🌟 Project](https://video-mme-v2.netlify.app/)]</div></font>  
 
 - **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
 NeurIPS 2025 DB Highlight, [Paper](https://arxiv.org/pdf/2306.13394.pdf), [Dataset](https://huggingface.co/datasets/lmms-lab/MME), [Eval Tool](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/blob/Evaluation/tools/eval_tool.zip), [✒️ Citation](./images/bib_mme.txt)
