@@ -180,6 +180,7 @@
 ### Video Understanding
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![GitHub Repo stars](https://img.shields.io/github/stars/MME-Benchmarks/Video-MME-v2) <br> [**Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding**](https://arxiv.org/pdf/2604.05015) <br> | arXiv | 2026-04-06 | [Github](https://github.com/MME-Benchmarks/Video-MME-v2) | [Page](https://video-mme-v2.netlify.app/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/zhishuifeiqian/VCR-Bench) <br> [**VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning**](https://arxiv.org/abs/2504.07956) <br> | arXiv | 2025-04-10 | [Github](https://github.com/zhishuifeiqian/VCR-Bench) | [Page](https://vlm-reasoning.github.io/VCR-Bench/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/MIRA-SJTU/STI-Bench) <br> [**STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?**](https://arxiv.org/abs/2503.23765) <br> | arXiv | 2025-04-09 | [Github](https://github.com/MIRA-SJTU/STI-Bench) | [Page](https://mira-sjtu.github.io/STI-Bench.io/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/V-STaR-Bench/V-STaR) <br> [**V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning**](https://arxiv.org/abs/2503.11495) <br> | arXiv | 2025-03-14 | [Github](https://github.com/V-STaR-Bench/V-STaR) | [Page](https://v-star-bench.github.io) |
