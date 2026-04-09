@@ -94,7 +94,7 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 
 # Awesome Papers
 
-## Multimodal Instruction Tuning
+## Multimodal Instruction Tuning (& The Latest Works)
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Introducing Muse Spark: Scaling Towards Personal Superintelligence**](https://ai.meta.com/blog/introducing-muse-spark-msl/) | Blog | 2026-04-08 | - | [Demo](https://meta.ai/) |
