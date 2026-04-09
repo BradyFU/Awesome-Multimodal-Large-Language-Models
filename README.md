@@ -73,7 +73,7 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Papers](#awesome-papers)
-  - [Multimodal Instruction Tuning](#multimodal-instruction-tuning)
+  - [Multimodal Instruction Tuning (& Latest Works)](#multimodal-instruction-tuning--latest-works)
   - [Multimodal Hallucination](#multimodal-hallucination)
   - [Multimodal In-Context Learning](#multimodal-in-context-learning)
   - [Multimodal Chain-of-Thought](#multimodal-chain-of-thought)
@@ -97,6 +97,7 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 ## Multimodal Instruction Tuning (& Latest Works)
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/MME-Benchmarks/Video-MME-v2.svg?style=social&label=Star) <br> [**Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding**](https://arxiv.org/pdf/2604.05015) <br> | arXiv | 2026-04-06 | [Github](https://github.com/MME-Benchmarks/Video-MME-v2) | [Demo](https://video-mme-v2.netlify.app/) |
 | [**Introducing Muse Spark: Scaling Towards Personal Superintelligence**](https://ai.meta.com/blog/introducing-muse-spark-msl/) | Blog | 2026-04-08 | - | [Demo](https://meta.ai/) |
 | ![Star](https://img.shields.io/github/stars/VITA-MLLM/VITA-QinYu.svg?style=social&label=Star) <br> [**VITA-QinYu: Expressive Spoken Language Model for Role-Playing and Singing**](https://github.com/VITA-MLLM/VITA-QinYu) <br> | arXiv | 2026-04-03 | [Github](https://github.com/VITA-MLLM/VITA-QinYu) | Local Demo |
 | [**Gemma 4: Byte for byte, the most capable open models**](https://deepmind.google/models/gemma/gemma-4/) | Blog | 2026-04-02 | - | [Demo](https://aistudio.google.com/prompts/new_chat?model=gemma-4-31b-it&utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=) |
