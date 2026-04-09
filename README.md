@@ -47,7 +47,7 @@ NeurIPS 2025, [Paper](https://arxiv.org/pdf/2505.03739.pdf), [Project](https://g
 - 🔥 **Video-MME-v2: Towards the Next Stage in Video Understanding Evaluation**
 
 <p align="center">
-    <img src="https://github.com/MME-Benchmarks/Video-MME-v2/tree/main/Imgs/logo.png" width="100%" height="100%">
+    <img src="./images/video-mme-v2-logo.png" width="100%" height="100%">
 </p>
 
 <font size=7><div align='center' > [[🍎 Project Page](https://video-mme-v2.netlify.app/)] [[📖 Paper](https://arxiv.org/pdf/2604.05015)] [[🤗 Dataset](https://huggingface.co/datasets/MME-Benchmarks/Video-MME-v2)] [[🏆 Leaderboard](https://video-mme-v2.netlify.app/#leaderboard)]  </div></font>
