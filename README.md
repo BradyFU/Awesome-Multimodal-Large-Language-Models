@@ -97,10 +97,13 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 ## Multimodal Instruction Tuning (& Latest Works)
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model**](https://mimo.xiaomi.com/mimo-v2-5) | Blog | 2026-04-22 | [Huggingface](https://huggingface.co/Qwen/Qwen3.6-27B) | [Demo](https://chat.qwen.ai/) |
+| [**Xiaomi MiMo-V2.5**](https://mimo.xiaomi.com/mimo-v2-5) | Blog | 2026-04-22 | - | [Demo](https://aistudio.xiaomimimo.com/) |
 | ![Star](https://img.shields.io/github/stars/MME-Benchmarks/Video-MME-v2.svg?style=social&label=Star) <br> [**Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding**](https://arxiv.org/pdf/2604.05015) <br> | arXiv | 2026-04-06 | [Github](https://github.com/MME-Benchmarks/Video-MME-v2) | [Demo](https://video-mme-v2.netlify.app/) |
 | [**Introducing Muse Spark: Scaling Towards Personal Superintelligence**](https://ai.meta.com/blog/introducing-muse-spark-msl/) | Blog | 2026-04-08 | - | [Demo](https://meta.ai/) |
 | ![Star](https://img.shields.io/github/stars/VITA-MLLM/VITA-QinYu.svg?style=social&label=Star) <br> [**VITA-QinYu: Expressive Spoken Language Model for Role-Playing and Singing**](https://github.com/VITA-MLLM/VITA-QinYu) <br> | arXiv | 2026-04-03 | [Github](https://github.com/VITA-MLLM/VITA-QinYu) | Local Demo |
 | [**Gemma 4: Byte for byte, the most capable open models**](https://deepmind.google/models/gemma/gemma-4/) | Blog | 2026-04-02 | - | [Demo](https://aistudio.google.com/prompts/new_chat?model=gemma-4-31b-it&utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=) |
+| [**Qwen3.6-Plus: Towards Real World Agents**](https://qwen.ai/blog?id=qwen3.6) | Blog | 2026-04-02 | - | - |
 | [**Qwen3.5-Omni: Scaling Up, Toward Native Omni-Modal AGI**](https://qwen.ai/blog?id=qwen3.5-omni) | Blog | 2026-03-30 | - | [Demo](https://chat.qwen.ai/?spm=a2ty_o06.30285417.0.0.6d26c921GDrWrb) |
 | [**Xiaomi MiMo-V2-Omni**](https://mimo.xiaomi.com/mimo-v2-omni) | Blog | 2026-03-18 | - | - |
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL-U.svg?style=social&label=Star) <br> [**InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing**](https://arxiv.org/pdf/2603.09877) <br> | arXiv | 2026-03-10 | [Github](https://github.com/OpenGVLab/InternVL-U) | Local Demo | 
