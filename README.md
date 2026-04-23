@@ -97,7 +97,7 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 ## Multimodal Instruction Tuning (& Latest Works)
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model**](https://mimo.xiaomi.com/mimo-v2-5) | Blog | 2026-04-22 | [Huggingface](https://huggingface.co/Qwen/Qwen3.6-27B) | [Demo](https://chat.qwen.ai/) |
+| [**Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model**](https://qwen.ai/blog?id=qwen3.6-27b) | Blog | 2026-04-22 | [Huggingface](https://huggingface.co/Qwen/Qwen3.6-27B) | [Demo](https://chat.qwen.ai/) |
 | [**Xiaomi MiMo-V2.5**](https://mimo.xiaomi.com/mimo-v2-5) | Blog | 2026-04-22 | - | [Demo](https://aistudio.xiaomimimo.com/) |
 | ![Star](https://img.shields.io/github/stars/MME-Benchmarks/Video-MME-v2.svg?style=social&label=Star) <br> [**Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding**](https://arxiv.org/pdf/2604.05015) <br> | arXiv | 2026-04-06 | [Github](https://github.com/MME-Benchmarks/Video-MME-v2) | [Demo](https://video-mme-v2.netlify.app/) |
 | [**Introducing Muse Spark: Scaling Towards Personal Superintelligence**](https://ai.meta.com/blog/introducing-muse-spark-msl/) | Blog | 2026-04-08 | - | [Demo](https://meta.ai/) |
