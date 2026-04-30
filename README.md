@@ -1,7 +1,7 @@
 # Awesome-Multimodal-Large-Language-Models
 
 <p align="center">
-    <img src="./images/MiG_logo.jpg" width="100%" height="100%">
+    <img src="./images/mig_logo.png" width="90%" height="90%">
 </p>
 
 ## ✨ Highlights of NJU-MiG
@@ -26,14 +26,8 @@ NSR 2024, [Paper](https://arxiv.org/pdf/2306.13549.pdf), [Project](https://githu
 - **VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**  
 NeurIPS 2025 Highlight, [Paper](https://arxiv.org/pdf/2501.01957.pdf), [Project](https://github.com/VITA-MLLM/VITA)
 
-- **VITA-E: Natural Embodied Interaction with Concurrent Seeing, Hearing, Speaking, and Acting**  
-arXiv 2025, [Paper](https://arxiv.org/pdf/2510.21817.pdf), [Project](https://lxysl.github.io/VITA-E/)
-
 - **VITA: Towards Open-Source Interactive Omni Multimodal LLM**  
 arXiv 2024, [Paper](https://arxiv.org/pdf/2408.05211.pdf), [Project](https://vita-home.github.io/)
-
-- **Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuracy**  
-arXiv 2025, [Paper](https://arxiv.org/pdf/2502.05177.pdf), [Project](https://github.com/VITA-MLLM/Long-VITA)
 
 - **VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**  
 NeurIPS 2025, [Paper](https://arxiv.org/pdf/2505.03739.pdf), [Project](https://github.com/VITA-MLLM/VITA-Audio)
@@ -60,13 +54,6 @@ NeurIPS 2025 DB Highlight, [Paper](https://arxiv.org/pdf/2306.13394.pdf), [Datas
 
 - **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**  
 CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://video-mme.github.io/), [Dataset](https://github.com/BradyFU/Video-MME?tab=readme-ov-file#-dataset)
-
-- **MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?**  
-ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-realworld.github.io/), [Dataset](https://huggingface.co/datasets/yifanzhang114/MME-RealWorld)
-
-
-
-
 
 
 ---
