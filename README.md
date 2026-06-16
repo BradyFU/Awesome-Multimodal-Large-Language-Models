@@ -84,6 +84,8 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
 ## Multimodal Instruction Tuning (& Latest Works)
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation**](https://arxiv.org/pdf/2606.17030) | arXiv | 2026-06-15 | - | [Demo](https://qwen.ai/blog?id=qwen-robotworld) |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/MiG-NJU/OmniVideo-100K) <br> [**OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains**](https://arxiv.org/pdf/2606.14702) <br> | arXiv | 2026-06-12 | [Github](https://github.com/MiG-NJU/OmniVideo-100K) | [Demo](https://yzlmhzz.github.io/OmniVideo-100K/) |
 | [**DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence**](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf) | DeepSeek | 2026-04-24 | [Huggingface](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) | - |
 | [**Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model**](https://qwen.ai/blog?id=qwen3.6-27b) | Blog | 2026-04-22 | [Huggingface](https://huggingface.co/Qwen/Qwen3.6-27B) | [Demo](https://chat.qwen.ai/) |
 | [**Xiaomi MiMo-V2.5**](https://mimo.xiaomi.com/mimo-v2-5) | Blog | 2026-04-22 | - | [Demo](https://aistudio.xiaomimimo.com/) |
