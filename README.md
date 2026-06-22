@@ -74,6 +74,7 @@
 ### Chart and Documentation
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![GitHub Repo stars](https://img.shields.io/github/stars/Zhanglei1103/MMESGBench) <br>[**MMESGBench: Pioneering Multimodal Understanding and Complex Reasoning Benchmark for ESG Tasks**](https://arxiv.org/abs/2507.18932)<br> | ACM MM | 2025-07-25 | [Github](https://github.com/Zhanglei1103/MMESGBench) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/NimrodShabtay/LiveXiv) <br>[**LiveXiv -- A Multi-Modal Live Benchmark Based on Arxiv Papers Content**](https://arxiv.org/abs/2410.10783)<br> | arXiv | 2024-10-14 | [Github](https://github.com/NimrodShabtay/LiveXiv) | [Page](https://huggingface.co/datasets/LiveXiv/LiveXiv) |
 | [**DocVQA: A Dataset for VQA on Document Images**](https://arxiv.org/abs/2007.00398) | WACV | 2020-07-01 | - | [Page](https://docvqa.org/) |
 | [**InfographicVQA**](https://arxiv.org/abs/2104.12756) | WACV | 2021-04-26 | - | [Page](https://docvqa.org/) |
