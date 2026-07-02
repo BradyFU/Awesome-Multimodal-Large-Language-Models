@@ -84,9 +84,10 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
 ## Multimodal Instruction Tuning (& Latest Works)
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity**](https://arxiv.org/pdf/2607.00248) | arXiv | 2026-06-30 | - | - |
 | [**Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models**](https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/) | Blog | 2026-06-15 | - | - |
 | [**Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation**](https://arxiv.org/pdf/2606.17030) | arXiv | 2026-06-15 | - | [Demo](https://qwen.ai/blog?id=qwen-robotworld) |
-| ![GitHub Repo stars](https://img.shields.io/github/stars/MiG-NJU/OmniVideo-100K) <br> [**OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains**](https://arxiv.org/pdf/2606.14702) <br> | arXiv | 2026-06-12 | [Github](https://github.com/MiG-NJU/OmniVideo-100K) | [Demo](https://yzlmhzz.github.io/OmniVideo-100K/) |
+| ![Star](https://img.shields.io/github/stars/MiG-NJU/OmniVideo-100K.svg?style=social&label=Star) <br> [**OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains**](https://arxiv.org/pdf/2606.14702) <br> | arXiv | 2026-06-12 | [Github](https://github.com/MiG-NJU/OmniVideo-100K) | [Demo](https://yzlmhzz.github.io/OmniVideo-100K/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/nvidia/cosmos) <br> [**Cosmos 3: Omnimodal World Models for Physical AI**](https://arxiv.org/pdf/2606.02800) <br> | arXiv | 2026-06-05 | [Github](https://github.com/nvidia/cosmos) | [Demo](https://research.nvidia.com/labs/cosmos-lab/cosmos3/) |
 | [**DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence**](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf) | DeepSeek | 2026-04-24 | [Huggingface](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) | - |
 | [**Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model**](https://qwen.ai/blog?id=qwen3.6-27b) | Blog | 2026-04-22 | [Huggingface](https://huggingface.co/Qwen/Qwen3.6-27B) | [Demo](https://chat.qwen.ai/) |
