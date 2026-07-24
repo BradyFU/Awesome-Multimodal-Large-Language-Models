@@ -522,6 +522,7 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| ![Stars](https://img.shields.io/github/stars/ZJU-OmniAI/ProVisE?style=social&label=Star) <br> [**Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text**](https://arxiv.org/pdf/2607.21072) <br> | arXiv | 2026-07-23 | [Github](https://github.com/ZJU-OmniAI/ProVisE) |
 | ![Stars](https://img.shields.io/github/stars/lerogo/MMGenBench?style=social&label=Star) <br> [**Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces**](https://arxiv.org/pdf/2412.14171) <br> | arXiv | 2024-12-18 | [Github](https://github.com/vision-x-nyu/thinking-in-space) |
 | ![Stars](https://img.shields.io/github/stars/lerogo/MMGenBench?style=social&label=Star) <br> [**MMGenBench: Evaluating the Limits of LMMs from the Text-to-Image Generation Perspective**](https://arxiv.org/pdf/2411.14062) <br> | arXiv | 2024-11-21 | [Github](https://github.com/lerogo/MMGenBench) | 
 | ![Stars](https://img.shields.io/github/stars/multimodal-art-projection/OmniBench?style=social&label=Star) <br> [**OmniBench: Towards The Future of Universal Omni-Language Models**](https://arxiv.org/pdf/2409.15272) <br> | arXiv | 2024-09-23 | [Github](https://github.com/multimodal-art-projection/OmniBench) | 
