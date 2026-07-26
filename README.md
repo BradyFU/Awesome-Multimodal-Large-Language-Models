@@ -84,6 +84,7 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
 ## Multimodal Instruction Tuning (& Latest Works)
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/MCG-NJU/VideoChat3.svg?style=social&label=Star) <br> [**VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding**](https://arxiv.org/pdf/2607.14935) <br> | arXiv | 2026-07-16 | [Github](https://github.com/MCG-NJU/VideoChat3) | [Demo](https://mcg-nju.github.io/VideoChat3/) |
 | [**Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity**](https://arxiv.org/pdf/2607.00248) | arXiv | 2026-06-30 | - | - |
 | [**Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models**](https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/) | Blog | 2026-06-15 | - | - |
 | [**Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation**](https://arxiv.org/pdf/2606.17030) | arXiv | 2026-06-15 | - | [Demo](https://qwen.ai/blog?id=qwen-robotworld) |
