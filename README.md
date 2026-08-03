@@ -84,6 +84,7 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
 ## Multimodal Instruction Tuning (& Latest Works)
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Qwen3.8-Max: A New Bar for Coding and Cowork**](https://qwen.ai/blog?id=qwen3.8) | Blog | 2026-08-03 | - | [Demo](https://www.qwencloud.com/try-ai/chat?models=qwen3.8-max) |
 | ![Star](https://img.shields.io/github/stars/MoonshotAI/Kimi-K3.svg?style=social&label=Star) <br> [**Kimi K3: Open Frontier Intelligence**](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf) <br> | Kimi | 2026-07-27 | [Github](https://github.com/MoonshotAI/Kimi-K3) | [Demo](https://www.kimi.com/) |
 | ![Star](https://img.shields.io/github/stars/MCG-NJU/VideoChat3.svg?style=social&label=Star) <br> [**VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding**](https://arxiv.org/pdf/2607.14935) <br> | arXiv | 2026-07-16 | [Github](https://github.com/MCG-NJU/VideoChat3) | [Demo](https://mcg-nju.github.io/VideoChat3/) |
 | [**Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity**](https://arxiv.org/pdf/2607.00248) | arXiv | 2026-06-30 | - | - |
