@@ -84,6 +84,7 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
 ## Multimodal Instruction Tuning (& Latest Works)
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**DeepSeek-V4-Flash-Vision-Exp**](https://api-docs.deepseek.com/news/news260821/) | DeepSeek | 2026-08-21 | - | - |
 | [**Qwen3.8-Max: A New Bar for Coding and Cowork**](https://qwen.ai/blog?id=qwen3.8) | Blog | 2026-08-15 | [Huggingface](https://huggingface.co/collections/Qwen/qwen38) | [Demo](https://www.qwencloud.com/try-ai/chat?models=qwen3.8-max) |
 | ![Star](https://img.shields.io/github/stars/deepseek-ai/deepseek-harness.svg?style=social&label=Star) <br> [**DeepSeek Harness**](https://github.com/cordiverse/paper/blob/main/paper.pdf) <br> | DeepSeek | 2026-08-13 | [Github](https://github.com/deepseek-ai/deepseek-harness) | - |
 | ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-MM-Plugins.svg?style=social&label=Star) <br> [**Qwen-MM-Plugins**](https://github.com/QwenLM/Qwen-MM-Plugins/tree/main/cookbooks) <br> | Qwen | 2026-08-11 | [Github](https://github.com/QwenLM/Qwen-MM-Plugins) | - |
