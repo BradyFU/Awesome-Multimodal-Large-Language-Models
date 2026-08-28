@@ -69,6 +69,7 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
   - [Evaluation](#evaluation)
   - [Multimodal RLHF](#multimodal-rlhf)
   - [Others](#others)
+- [Awesome Libraries and Tools](#awesome-libraries-and-tools)
 - [Awesome Datasets](#awesome-datasets)
   - [Datasets of Pre-Training for Alignment](#datasets-of-pre-training-for-alignment)
   - [Datasets of Multimodal Instruction Tuning](#datasets-of-multimodal-instruction-tuning)
@@ -601,6 +602,10 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
 | ![Star](https://img.shields.io/github/stars/kohjingyu/fromage.svg?style=social&label=Star) <br> [**Grounding Language Models to Images for Multimodal Inputs and Outputs**](https://arxiv.org/pdf/2301.13823.pdf) <br> | ICML | 2023-01-31 | [Github](https://github.com/kohjingyu/fromage) | [Demo](https://huggingface.co/spaces/jykoh/fromage) |
 
 ---
+
+# Awesome Libraries and Tools
+
+- ![Star](https://img.shields.io/github/stars/verl-project/verl-omni.svg?style=social&label=Star) [**VeRL-Omni**](https://github.com/verl-project/verl-omni): Easy, fast, and stable RL training for diffusion and omni-modality models. [[Docs](https://verl-omni.readthedocs.io/en/latest/index.html)]
 
 # Awesome Datasets
 
