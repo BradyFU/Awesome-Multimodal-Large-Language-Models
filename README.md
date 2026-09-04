@@ -84,6 +84,7 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
 ## Multimodal Instruction Tuning (& Latest Works)
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**GPT-6 Astra: A new generation of intelligence**](https://openai.com/index/gpt-6-astra/) | Blog | 2026-09-04 | - | - |
 | [**Introducing Gemini 3.8 Flash and 3.8 Flash Cyber**](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) | Blog | 2026-09-02 | - | - |
 | [**GLM-5.3-Flash: Frontier Intelligence, Flash Cost**](https://z.ai/blog/glm-5.3-flash) | Zhipu | 2026-08-26 | [Huggingface](https://huggingface.co/zai-org/GLM-5.3-Flash) | - |
 | [**DeepSeek-V4-Flash-Vision-Exp**](https://api-docs.deepseek.com/news/news260821/) | DeepSeek | 2026-08-21 | - | - |
