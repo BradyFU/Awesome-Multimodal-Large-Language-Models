@@ -409,6 +409,7 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
 ## Multimodal In-Context Learning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/eugenelet/Learning-to-Select-Visual-In-Context-Demonstrations.svg?style=social&label=Star) <br> [**Learning to Select Visual In-Context Demonstrations**](https://arxiv.org/abs/2603.26775) <br> | CVPR 2026 Findings | 2026-03-24 | [Github](https://github.com/eugenelet/Learning-to-Select-Visual-In-Context-Demonstrations) | - |
 | [**Visual In-Context Learning for Large Vision-Language Models**](https://arxiv.org/pdf/2402.11574.pdf) | arXiv | 2024-02-18 | - | - |
 | ![Star](https://img.shields.io/github/stars/YuanJianhao508/RAG-Driver.svg?style=social&label=Star) <br> [**RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model**](https://arxiv.org/abs/2402.10828) <br> | RSS | 2024-02-16 | [Github](https://github.com/YuanJianhao508/RAG-Driver) | - |
 | ![Star](https://img.shields.io/github/stars/UW-Madison-Lee-Lab/CoBSAT.svg?style=social&label=Star) <br> [**Can MLLMs Perform Text-to-Image In-Context Learning?**](https://arxiv.org/pdf/2402.01293.pdf) <br> | arXiv | 2024-02-02 | [Github](https://github.com/UW-Madison-Lee-Lab/CoBSAT) | - |
