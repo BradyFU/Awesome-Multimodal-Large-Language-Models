@@ -84,6 +84,7 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
 ## Multimodal Instruction Tuning (& Latest Works)
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Gemini 4 Argon: our next era of frontier intelligence**](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) | Blog | 2026-09-30 | - | - | 
 | [**Qwen3.8-Omni-Flash: Omni Senses. Agentic Delivery.**](https://qwen.ai/blog?id=qwen3.8-omni-flash) | Blog | 2026-09-18 | - | - | 
 | [**GPT-6 Astra: A new generation of intelligence**](https://openai.com/index/gpt-6-astra/) | Blog | 2026-09-04 | - | - |
 | [**Introducing Gemini 3.8 Flash and 3.8 Flash Cyber**](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) | Blog | 2026-09-02 | - | - |
