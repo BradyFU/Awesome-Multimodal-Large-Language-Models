@@ -593,6 +593,7 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
 ## Others
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**VLM-MPC: Model predictive controller augmented vision language model for autonomous driving**](https://www.sciencedirect.com/science/article/pii/S0968090X25004917) | Transportation Research Part C (2026) | 2024-08-09 | [Github](https://github.com/Keke-Long/VLM-MPC) | - |
 | ![Star](https://img.shields.io/github/stars/tingyu215/TS-LLaVA.svg?style=social&label=Star) <br> [**TS-LLaVA: Constructing Visual Tokens through Thumbnail-and-Sampling for Training-Free Video Large Language Models**](https://arxiv.org/pdf/2411.11066) <br> | arXiv | 2024-11-17 | [Github](https://github.com/tingyu215/TS-LLaVA) | - |
 | ![Star](https://img.shields.io/github/stars/ys-zong/VLGuard.svg?style=social&label=Star) <br> [**Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large Language Models**](https://arxiv.org/pdf/2402.02207.pdf) <br> | arXiv | 2024-02-03 | [Github](https://github.com/ys-zong/VLGuard) | - |
 | ![Star](https://img.shields.io/github/stars/SHI-Labs/VCoder.svg?style=social&label=Star) <br> [**VCoder: Versatile Vision Encoders for Multimodal Large Language Models**](https://arxiv.org/pdf/2312.14233.pdf) <br> | arXiv | 2023-12-21 | [Github](https://github.com/SHI-Labs/VCoder) | Local Demo | 
