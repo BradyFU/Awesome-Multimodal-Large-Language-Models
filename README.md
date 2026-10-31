@@ -605,6 +605,14 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
 | ![Star](https://img.shields.io/github/stars/kohjingyu/gill.svg?style=social&label=Star) <br> [**Generating Images with Multimodal Language Models**](https://arxiv.org/pdf/2305.17216.pdf) <br> | arXiv | 2023-05-26 | [Github](https://github.com/kohjingyu/gill) | - |
 | ![Star](https://img.shields.io/github/stars/yunqing-me/AttackVLM.svg?style=social&label=Star) <br> [**On Evaluating Adversarial Robustness of Large Vision-Language Models**](https://arxiv.org/pdf/2305.16934.pdf) <br> | arXiv | 2023-05-26 | [Github](https://github.com/yunqing-me/AttackVLM) | - | 
 | ![Star](https://img.shields.io/github/stars/kohjingyu/fromage.svg?style=social&label=Star) <br> [**Grounding Language Models to Images for Multimodal Inputs and Outputs**](https://arxiv.org/pdf/2301.13823.pdf) <br> | ICML | 2023-01-31 | [Github](https://github.com/kohjingyu/fromage) | [Demo](https://huggingface.co/spaces/jykoh/fromage) |
+| [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium | Freemium | [Visit](https://promptimage.cloud) |
+| [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official … | Freemium | [Visit](https://grokvideogenerator.dev) |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://alorsondansevideo.com) |
+| [Bad Times AI](https://badtimesai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://badtimesai.dev) |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://ifoundyouinthecrowdai.com) |
+| [KDA Firestarter AI Dance](https://kdafirestarterai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://kdafirestarterai.dev) |
+| [A2O LITE NEON AI Dance](https://a2oliteai.org) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://a2oliteai.org) |
+| [dime dime baby ai](https://dimedimebabyai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://dimedimebabyai.dev) |
 
 ---
 
