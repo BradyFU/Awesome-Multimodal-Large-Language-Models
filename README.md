@@ -84,6 +84,8 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
 ## Multimodal Instruction Tuning (& Latest Works)
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Gemini 4 Carbon: our next frontier model**](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) | Blog | 2026-10-28 | - | - |
+| [**MJev-Spatial: System One Spatial Intelligence via Native Attention Matching**](https://arxiv.org/abs/2610.22276) | arXiv | 2026-10-15 | [Github](https://github.com/Fr0zenCrane/MJev-Spatial) | - |
 | [**VideoJev: System One Model for Video Understanding and Interaction**](https://arxiv.org/abs/2610.18615) | arXiv | 2026-10-13 | [Github](https://github.com/MCG-NJU/VideoJev) | - |
 | [**OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction**](https://arxiv.org/abs/2610.01762) | arXiv | 2026-10-01 | [Github](https://github.com/MCG-NJU/OneStreamer) | - |
 | [**Gemini 4 Argon: our next era of frontier intelligence**](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) | Blog | 2026-09-30 | - | - | 
@@ -102,6 +104,7 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
 | [**Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models**](https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/) | Blog | 2026-06-15 | - | - |
 | [**Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation**](https://arxiv.org/pdf/2606.17030) | arXiv | 2026-06-15 | - | [Demo](https://qwen.ai/blog?id=qwen-robotworld) |
 | ![Star](https://img.shields.io/github/stars/MiG-NJU/OmniVideo-100K.svg?style=social&label=Star) <br> [**OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains**](https://arxiv.org/pdf/2606.14702) <br> | arXiv | 2026-06-12 | [Github](https://github.com/MiG-NJU/OmniVideo-100K) | [Demo](https://yzlmhzz.github.io/OmniVideo-100K/) |
+| [**JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence**](https://arxiv.org/abs/2606.14777) | arXiv | 2026-06-10 | [Github](https://github.com/jd-opensource/JoyAI-VL-Interaction) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/nvidia/cosmos) <br> [**Cosmos 3: Omnimodal World Models for Physical AI**](https://arxiv.org/pdf/2606.02800) <br> | arXiv | 2026-06-05 | [Github](https://github.com/nvidia/cosmos) | [Demo](https://research.nvidia.com/labs/cosmos-lab/cosmos3/) |
 | [**π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities**](https://arxiv.org/pdf/2604.15483) | arXiv | 2026-04-24 | - | [Demo](https://www.pi.website/blog/pi07) |
 | [**DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence**](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf) | DeepSeek | 2026-04-24 | [Huggingface](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) | - |
@@ -468,7 +471,9 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
 ## LLM-Aided Visual Reasoning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Reasoning with Image Generation**](https://arxiv.org/pdf/2609.16409) | arXiv | 2026-09-14 | - | - |
 | ![Star](https://img.shields.io/github/stars/yhy-2000/VideoDeepResearch.svg?style=social&label=Star) <br> [**VideoDeepResearch: Long Video Understanding With Agentic Tool Using**](https://arxiv.org/pdf/2506.10821) <br> | arXiv | 2025-06-12 | [Github](https://github.com/yhy-2000/VideoDeepResearch) | Local Demo |
+| [**AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d4eaf042567f1c03c086103cc154c1f-Abstract-Conference.html) | NeurIPS | 2024-07-05 | [Github](https://github.com/MCG-NJU/AWT) | - |
 | ![Star](https://img.shields.io/github/stars/LaVi-Lab/Visual-Table.svg?style=social&label=Star) <br> [**Beyond Embeddings: The Promise of Visual Table in Multi-Modal Models**](https://arxiv.org/pdf/2403.18252.pdf) <br> | arXiv | 2024-03-27 | [Github](https://github.com/LaVi-Lab/Visual-Table) | - |
 | ![Star](https://img.shields.io/github/stars/penghao-wu/vstar.svg?style=social&label=Star) <br> [**V∗: Guided Visual Search as a Core Mechanism in Multimodal LLMs**](https://arxiv.org/pdf/2312.14135.pdf) <br> | arXiv | 2023-12-21 | [Github](https://github.com/penghao-wu/vstar) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-Interactive-Demo.svg?style=social&label=Star) <br> [**LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing**](https://arxiv.org/pdf/2311.00571.pdf) <br> | arXiv | 2023-11-01 | [Github](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo) | [Demo](https://6dd3-20-163-117-69.ngrok-free.app/) |
@@ -706,6 +711,7 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **MultiHaystack** | [MultiHaystack: Benchmarking Multimodal Retrieval and Reasoning over 40K Images, Videos, and Documents](https://arxiv.org/pdf/2603.05697) | [Link](https://github.com/Danielxu0208/MultiHaystack) | A multimodal retrieval and question-answering benchmark with 747 evidence-grounded questions over 46K+ images, videos, and documents |
 | **Beyond8Bits** | [Seeing Beyond 8bits: Subjective and Objective Quality Assessment of HDR-UGC Videos](https://arxiv.org/pdf/2603.00938) | [Link](https://github.com/shreshthsaini/Beyond8Bits) | A large-scale HDR user-generated video quality benchmark, 44K videos from 6.5K sources with over 1.5M crowd ratings |
 | **Inst-IT Bench** | [Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning](https://arxiv.org/pdf/2412.03565) | [Link](https://github.com/inst-it/inst-it) | A benchmark to evaluate fine-grained instance-level understanding in images and videos |
 | **M<sup>3</sup>CoT** | [M<sup>3</sup>CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought](https://arxiv.org/pdf/2405.16473) | [Link](https://github.com/LightChen233/M3CoT) | A multi-domain, multi-step benchmark for multimodal CoT |
