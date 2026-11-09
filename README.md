@@ -86,6 +86,7 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Gemini 4 Carbon: our next frontier model**](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) | Blog | 2026-10-28 | - | - |
 | [**Gemini 4 Argon: our next era of frontier intelligence**](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) | Blog | 2026-09-30 | - | - | 
+| [**Grounding with Confidence: Controllable Generative Video Temporal Grounding**](https://arxiv.org/abs/2609.39883) | arXiv | 2026-09-30 | [GitHub](https://github.com/Alibaba-VELLDEPTH/Grounding-with-Confidence) | - |
 | [**Qwen3.8-Omni-Flash: Omni Senses. Agentic Delivery.**](https://qwen.ai/blog?id=qwen3.8-omni-flash) | Blog | 2026-09-18 | - | - | 
 | [**GPT-6 Astra: A new generation of intelligence**](https://openai.com/index/gpt-6-astra/) | Blog | 2026-09-04 | - | - |
 | [**Introducing Gemini 3.8 Flash and 3.8 Flash Cyber**](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) | Blog | 2026-09-02 | - | - |
